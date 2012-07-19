@@ -20,4 +20,4 @@ skype:  ""
 quote:  "Do it, take it."
 ---
 
-Luke is a software developer at SSW. He specializes in developing solutions with ASP.NET (prefer C# over VB.net) and SQL Server.
+Luke is a software developer at SSW. He specializes in developing solutions with ASP.NET (prefer C# over VB.net) and SQL Server. 
