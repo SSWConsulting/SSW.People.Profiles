@@ -20,7 +20,7 @@ skype:  ""
 quote:  "I believe that there are always more than one point of view and I listen and learn everyday."
 ---
 
-**Background**
+ **Background** 
 
 John Liu is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in .NET and SharePoint solutions. 
 
@@ -28,17 +28,17 @@ John is responsible for developing and maintaining SharePoint, ASP.NET and WinFo
 
 **Work**
 
-His major clients over the past years has been:
+His major clients over the past years have been:
 
-*   Microsoft (SharePoint)
+*   Microsoft (SharePoint) 
 *   WorleyParsons (SharePoint) 
-*   Commonwealth Bank (ASP.NET with SQL Server)
-*   Smart Salary (migration of very large VB6 application to VB.NET windows application with SQL Server)
-*   Scolari ClubsInc (C# windows application with Access)
-*   Project manager and lead developer on SSW's internal and public SharePoint development - SSW Rules
+*   Commonwealth Bank (ASP.NET with SQL Server) 
+*   Smart Salary (migration of very large VB6 application to VB.NET windows application with SQL Server) 
+*   Scolari ClubsInc (C# windows application with Access) 
+*   Project manager and lead developer on SSW's internal and public SharePoint development - SSW Rules 
 
 **Future Goals**
 
-*   Show the world the best content-driven SharePoint site - SSW Rules
-*   Continue to improve the SharePoint deployment experience with SSW SharePoint Packager
-*   Share the best tips on SharePoint 2007 with the world - via our [rules to better SharePoint](/Standards/RulesToBetterSharePoint/ "Rules to Better SharePoint")
+*   Show the world the best content-driven SharePoint site - SSW Rules 
+*   Continue to improve the SharePoint deployment experience with SSW SharePoint Packager 
+*   Share the best tips on SharePoint 2007 with the world - via our [rules to better SharePoint](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/Pages/Default.aspx "Rules to Better SharePoint") 
