@@ -41,4 +41,4 @@ Andy's internal projects:
     Related Technology: .NET Framework 3.5, C#, WCF, SQL Server and SQL Server Compact Edition 
 *   **SSW Vista & Windows 7 Image** Managing the preset software development image that will be used through out the whole company. Related Technology: VMWare, and ImageXTool 
 
-Andy can also be found teaching UTS Short Courses in [.NET](http://it.uts.edu.au/course/shortcourse/programming/visstudionet.html), [SQL Server](http://it.uts.edu.au/course/shortcourse/programming/sqldevelopers.html) and [Business Intelligence](http://www.it.uts.edu.au/courses/short/programming/sqlbi.html)
+Andy can also be found teaching UTS Short Courses in [.NET](http://www.it.uts.edu.au/courses/short/programming/dotnet.html), [SQL Server](http://it.uts.edu.au/course/shortcourse/programming/sqldev.html) and [Business Intelligence](http://www.it.uts.edu.au/courses/short/programming/sqlbi.html)
