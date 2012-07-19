@@ -24,15 +24,15 @@ Bao's background is in Accounting and Administration. He has over 18 years of wo
 
 **His responsibilites at SSW are: **  
 
-*   General building & office renovation and maintenance.
-*   Purchasing 
-*   Motor vehicle registration, insurance and renewal.
-*   Government R&D Grants.
+*   Checking of Developers' diaries.
+*   Checking on the Accountant.
 *   Relief MYOB duties for the Accountant.
-*   Recruitment, litigation and HR issues.
 *   Domain names registration and renewal.
 *   Maintenance of Suite 13 for presentation and conferences.
+*   Recruitment, litigation and HR issues.
+*   Government R&D Grants.
+*   General building & office renovation and maintenance.
+*   Motor vehicle registration, insurance and renewal.
 *   Business sponsorship and trade mark issues.
-*   Checking of Developers' diaries and admin duties.
 
-He enjoys watching cricket (ODI), surf the net, playing tennis and good food. He is building his Nails empire with his wife and looking forward to having a few kids soon.  
+He enjoys watching cricket (ODI) and tennis, surf the net and loves a weekend BBQ.    
