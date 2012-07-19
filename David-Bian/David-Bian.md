@@ -1,5 +1,5 @@
 ---
-current_employee: false
+current_employee: true
 ID: "DavidBian"
 name: "David Bian"
 nickname: "David"
@@ -20,12 +20,10 @@ skype:  ""
 quote:  "I'm always trying to be more professional."
 ---
 
-![MCPD](/AboutUs2/Employees/PublishingImages/MCPD_WebDev2.0.jpg) 
-  
+![MCPD](./Images/Bio/MCPD_WebDev2.0.jpg) 
+ 
 
-**Background:**  
-
-David is a software developer at SSW, a Microsoft Certified Professional Developer in building Web applications. He specializes in developing solutions with ASP.NET (prefers C# over VB.NET), SQL Server and SQL Reporting Services. 
+David is a software developer at SSW. He specializes in developing solutions with ASP.NET (prefers C# over VB.NET), SQL Server and SQL Reporting Services.   
 
 **Some of David's clients are: **
 
@@ -34,8 +32,7 @@ Related Technology: C#, VB.NET, SQL Server 2005, SQL Reporting Services, NetTier
     **[Blitzbooks](http://www.blitzbooks.com.au/)** - A site that provides great musicianship books for both teachers and students.   
 Related Technology: C#, ASP.NET, SQL Server 2005, DNN (DotNetNuke). 
     **[eMove](http://www.emove.com.au/)** - It offers a range of "moving" services to make moving easier with a convenient one-stop-shop format.   
-Related Technology: C#, VB.NET, ASP.NET, SQL Server 2005, DNN (DotNetNuke). 
-
+Related Technology: C#, VB.NET, ASP.NET, SQL Server 2005, DNN (DotNetNuke).   
 **David's internal projects: **
 
 *   **[www.ssw.com.au](http://www.ssw.com.au/)** - Webmaster of SSW website.   
