@@ -1,12 +1,12 @@
 ---
-current_employee: true
+current_employee: false
 ID: "CindyWang"
 name: "Cindy Wang"
 nickname: "Cindy Wang"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Cindy.aspx"
 category: "Admin"
-role:  "PA to General Manager"
+role:  "PA / Office Manager"
 qualifications:  "B.Eco - International Economics & Trade"
 location: ""
 
@@ -24,7 +24,7 @@ quote:  "I believe in studying hard and always keeping the approach consistent. 
 Cindy is the PA to the General Manager at SSW's Beijing office. Her background was in Economics before she switched over and learnt how to really get productive using VB, SQL and HTML etc. 
 
 **Work:**
-Cindy is the only girl team member in the office and she works hard to keeps the boys in check. She is responsible for financial matters and many small administrative things to keep things running smoothly. She likes to provide support to the guys to ensure there are no road blocks and the office operates smoothly. 
+Cindy is the only girl team member in the office and she works hard to keeps the boys in check. She is responsible for financial matters and administrative things to keep things running smoothly. She likes to provide support to the guys to ensure there are no road blocks and the office operates smoothly. 
 
 She has received her most thanks from the guys, when she has organized the team activities like pingpong games and basketball games.
 
