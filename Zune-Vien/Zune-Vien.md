@@ -20,8 +20,8 @@ skype:  ""
 quote:  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
 ---
 
- ![](./Images/Bio/DynamicsS(rgb) 
-_1135_1133_1134.jpg)   
+ ![](/AboutUs/Employees/PublishingImages/DynamicsS(rgb) 
+_1133_1134.jpg)   
 
  Zune is a Software Architect at SSW. He specializes in developing solutions with Microsoft Dynamics CRM, C#, ASP.NET, ASP.NET MVC and SQL Server.  
 
@@ -45,7 +45,7 @@ Zune's client projects:
 *   **EveryTree** A web application with advanced mapping functionality includes SQL Server 2008 Spatial data type for storing, retrieving and clustering pins on the map and jQuery for improved UI.  
 
     Related Technology: C#, ASP.NET 3.5, AJAX, jQuery, WCF, Web Service, ADO.NET Entity Framework, LINQ, SQL Server 2008 (Spatial and FileStream data types), Multiple Mapping APIs including: Google maps, Virtual Earth... 
-*   **Nycomed** An intranet portal used to manage medical information request and documents with a custom WinForms offline client allows synchronizations of medical information requests with SharePoint. Related Technology: Microsoft SharePoint 2007, C#, ASP.NET, JavaScript, ADO.NET Entity Framework, LINQ, SQL Server 
+*   **Nycomed** An intranet portal used to manage medical information request and documents with a custom WinForms offline client allows synchornizations of medical information requests with SharePoint. Related Technology: Microsoft SharePoint 2007, C#, ASP.NET, JavaScript, ADO.NET Entity Framework, LINQ, SQL Server 
 *   **Australian Baha'is Community** DotNetNuke website with custom modules and ASP.NET membership allows users from old system to login to DotNetNuke. Related Technology: VB.NET, ASP.NET 3.5, SQL Server. 
 *   **SATSUMA** DotNetNuke website with custom modules that allows user to developer School Environment Management Plans.  
 
