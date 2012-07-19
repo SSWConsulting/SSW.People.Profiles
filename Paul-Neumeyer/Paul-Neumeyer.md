@@ -20,6 +20,10 @@ skype:  ""
 quote:  "It is better to light a candle than to curse the darkness."
 ---
 
+## 
+    ![](./Images/Bio/scrumtrainer.png) 
+ 
+
 Dr. Paul Neumeyer is enthusiastic about innovating and streamlining technology so that real value is transferred to businesses and individuals. He has enjoyed consulting to a wide range of IT Sectors for over 10 years including the banking sector, health sector, finance and online businesses. He is also passionate about encrypting data and protecting it, data patterns for business intelligence and making smart automated systems.
 
 Paul's client projects:
