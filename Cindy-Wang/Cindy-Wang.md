@@ -28,7 +28,7 @@ Cindy is the only girl team member in the office and she works hard to keeps th
 
 She has received her most thanks from the guys, when she has organized the team activities like pingpong games and basketball games.
 
-Much of the day is spent doing content editing changes and loves the SharePoint 2007 site. She gets by with TFS and wishes TFS web access was perfect.
+Much of the day is spent doing content editing changes and loves the SharePoint 2007 site. She gets by with TFS and wishes TFS web access is perfect.
 
 **Future Goals:**
 Now, her goal is to learn more about using workflows in SharePoint and get a handle on .NET.
