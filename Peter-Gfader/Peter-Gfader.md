@@ -20,8 +20,6 @@ skype:  ""
 quote:  "Carpe diem, et noctem."
 ---
 
-  
-
 ## 
     ![](./Images/Bio/MCAD-RGB.gif) 
    ![](./Images/Bio/mcp-rgb.gif) 
@@ -60,7 +58,7 @@ On site teaching of Reporting services at FirstData
 
 *   **PeakSolutions** 
 
-Training in C#, .NET and best practices for a new line of business application  
+Training in C#, .NET and best practices for a new line of business application
 
 *   **UTS** 
 
@@ -68,5 +66,6 @@ Peter can also be found teaching [UTS Short Courses](http://it.uts.edu.au/course
 
 More information about Peter, can be found on his [personal homepage](http://www.gfader.com/ "Peter Gfader Homepage"). Check out [Peters blog for solutions, tips + tricks to common .net troubles](http://peitor.blogspot.com/ ".net problems and solutions") 
 
-"If it ain't broke, take it apart and fix it."   
- "or use Unit tests"
+##### "If it ain't broke, take it apart and fix it."   
+
+"or use Unit tests"
