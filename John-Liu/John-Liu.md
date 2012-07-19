@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "JohnLiu"
 name: "John Liu"
 nickname: "John Liu"
@@ -20,20 +20,27 @@ skype:  ""
 quote:  "I believe that there are always more than one point of view and I listen and learn everyday."
 ---
 
-## 
-    ![](/AboutUs/Employees/PublishingImages/scrumtrainer.png) 
- 
+##  
 
 **Background** 
 
 John Liu is a Solution Architect at SSW, a Microsoft Certified Partner specialising in .NET and SharePoint solutions. 
 
-John is responsible for developing and maintaining SharePoint, ASP.NET and WinForm applications using C# and SQL Server. 
+John is responsible for developing and maintaining SharePoint, ASP.NET and Silverlight applications using C# and SQL Server. 
 
-**Work**
+**![](./Images/Bio/MCTS-MOSS2007-Config.gif) 
+  
+
+ Work**
 
 His major clients over the past years have been:
 
+*   Geos (SharePoint) 
+*   DispatchKing (Silverlight) 
+*   AuctionsPlus (Silverlight) 
+*   PDS (Windows Mobile) 
+*   Enterprise Data (SharePoint) 
+*   WorleyParsons Improve Operating Platform (SharePoint) 
 *   Conquest (Silverlight) 
 *   Microsoft (SharePoint) 
 *   WorleyParsons (SharePoint) 
@@ -45,6 +52,5 @@ His major clients over the past years have been:
 **Future **
 
 *   Show the world the best content-driven SharePoint site - SSW Rules 
-*   Continue to improve the SharePoint deployment experience with SSW SharePoint Packager 
 *   Share the best tips on SharePoint with the world - via our [rules to better SharePoint](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/Pages/Default.aspx "Rules to Better SharePoint") 
 *   Windows Phone 7 development with Silverlight 
