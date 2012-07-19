@@ -20,7 +20,10 @@ skype:  ""
 quote:  "Limits, like fears, are often just an illusion "
 ---
 
-Wenshuo is a Senior Software Developer at SSW. He specializes in developing solutions with ASP.NET (prefers C# over VB.net), SQL Server, SilverLight and SharePoint 2010.  
+
+  
+
+Wen is a Senior Software Developer at SSW. He specializes in developing solutions with ASP.NET (prefers C# over VB.net), SQL Server, SilverLight and SharePoint 2010.  
  **  
  Some of Wenshuo's client projects: **  
  **  
@@ -33,7 +36,7 @@ Wenshuo is a Senior Software Developer at SSW. He specializes in developing solu
  **UTS   
  **Assist and teach [UTS Short Courses](http://www.feit.uts.edu.au/courses/short/index.html) in .NET, SQL Server 2008  
 
- **Wenshuo's internal projects: **
+ **Wen's internal projects: **
 
 *   [**SSW Code Auditor**](http://www.ssw.com.au/ssw/codeauditor/)** -** one of the best tool for developers to audit their code.  
 
