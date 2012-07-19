@@ -1,5 +1,5 @@
 ---
-current_employee: false
+current_employee: true
 ID: "CindyWang"
 name: "Cindy Wang"
 nickname: "Cindy Wang"
