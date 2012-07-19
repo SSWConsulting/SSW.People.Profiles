@@ -1,0 +1,70 @@
+---
+current_employee: true
+ID: "PeterGfader"
+name: "Peter Gfader"
+nickname: "Peter Gfader"
+
+legacy_page_url: "/AboutUs/Employees/Pages/Peter.aspx"
+category: "Developers"
+role:  "Senior Software Architect"
+qualifications:  "MSc, Diplom Ingenieur, Dipl.Ing"
+location: ""
+
+blog:  ""
+website:  ""
+facebook:  ""
+twitter:  ""
+linkedin:  ""
+skype:  ""
+
+quote:  "Carpe diem, et noctem."
+---
+
+## 
+    ![](./Images/Bio/MCAD-RGB.gif) 
+   ![](./Images/Bio/mcp-rgb.gif) 
+    ![](./Images/Bio/MCPD-windev-rgb_505.jpg) 
+    ![](./Images/Bio/MCTS-dotnet-2-windows-apps-rgb_512.jpg) 
+ ![MCTS Web applications](./Images/Bio/MCTS-web(rgb) 
+_513.png)  ![MCPD Web developer](./Images/Bio/MCPD-web(rgb) 
+_504.png)
+
+ Peter Gfader is a Senior Software Architect at SSW and a Microsoft Certified Professional specialising in SQL Server .NET Solutions. 
+
+Peter is an active developer who enjoys different sports like running, climbing, cycling (MTB / Road), hiking, swimming and surfing.
+
+Peter has worked wth different clients with a lot of different technologies:
+
+*   **NRMA **
+
+ASP.NET Dynamic Data application providing funding for Community Grants and Reporting with SQL 2005 back end.
+
+*   **An Australian Utilities Company** 
+
+This utilities company needed an automated and easy to use Rostering and Employee management system to replace their current spreadsheet based system. The system was to manage all the engineers across NSW.  
+ Related Technology: Silverlight 2.0, ASP.NET 3.5, Dynamic Data, LINQ to SQL, WCF REST, SQL Server 2005, Reporting Services 
+
+*   **PDS **
+
+Existing client application was hard to maintain and write plugins for. We changed this by providing them with an easy to use application framework that is fully pluggable in VB.NET.
+
+*   **Elcom Technology **
+
+The existent search solution for an ASP.NET web application was very slow and not very accurate. Peter solved this by implementing a search portal based on LINQ2SQL and SQL Server Fulltext search
+
+*   **MIP** 
+
+On site teaching of Reporting services at FirstData
+
+*   **PeakSolutions** 
+
+Training in C#, .NET and best practices for a new line of business application  
+
+*   **UTS** 
+
+Peter can also be found teaching [UTS Short Courses](http://it.uts.edu.au/course/shortcourse/programming/) in .NET, SQL Server 2008
+
+More information about Peter, can be found on his [personal homepage](http://www.gfader.com/ "Peter Gfader Homepage"). Check out [Peters blog for solutions, tips + tricks to common .net troubles](http://peitor.blogspot.com/ ".net problems and solutions") 
+
+"If it ain't broke, take it apart and fix it."   
+ "or use Unit tests"
