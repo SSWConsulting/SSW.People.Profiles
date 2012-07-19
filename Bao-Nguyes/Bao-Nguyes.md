@@ -30,7 +30,7 @@ Bao's background is in Accounting and Administration. He has over 18 years of wo
 *   Government R&D Grants.
 *   Relief MYOB duties for the Accountant.
 *   Recruitment, litigation and HR issues.
-*   Domain names.
+*   Domain names registration and renewal.
 *   Maintenance of Suite 13 for presentation and conferences.
 *   Business sponsorship and trade mark issues.
 *   Checking of Developers' diaries and admin duties.
