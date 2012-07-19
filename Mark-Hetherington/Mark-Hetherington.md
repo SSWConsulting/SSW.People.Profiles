@@ -22,7 +22,7 @@ quote:  "\"We work efficiently on the right things in a visible way\".  If you r
 
 Mark Hetherington is the Software Process Specialist at SSW. He advises projects and organisations on the best processes and tools to organise work efficiently especially in the process of building quality software. Typical tools employed are integrated tracking systems with workflows and dashbaords ensuring that all work is properly prioritised and committied. When priorities and/or scope change, the impacts are communiated quickly to the affected stakeholders.  
 
- Mark has acquired these skills over the last 20+ years. When such tools did not exist, he wrote his first tracking and work scheduling system in 1986. Since then he has helped start over six software organisations growing three of them to over 100 staff. He knows which tools & processes and organisational structure to choose to suit the culture, budget, size, maturity and resources of an organisation.  
+ Mark has acquired these skills over the last 20+ years. When such tools did not exist, he wrote his first tracking and work scheduling system in 1986. Since then he has helped start over six software organisations growing three of them to over 100 staff. He knows which tools & processes and organisational structure to choose to suit the culture, budget, size and maturity of an organisation.  
 
  Mark has found that his value lies in setting up or improving the processes and tools of an organisaion and, once they are in place, he is hardly needed. This is why he has turned to consultancy in the last year and we are very excited to be able to offer his services to our SSW clients.  
 
