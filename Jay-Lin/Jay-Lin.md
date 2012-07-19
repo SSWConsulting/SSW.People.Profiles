@@ -6,7 +6,7 @@ nickname: "Jay"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Jay.aspx"
 category: "Developers"
-role:  "Senior Software Developer"
+role:  "Software Architect"
 qualifications:  "B.Eng - Computer Science "
 location: ""
 
@@ -20,7 +20,37 @@ skype:  ""
 quote:  "I know to satisfy clients it takes 100% effort. That is my challenge and I work to improve myself everyday."
 ---
 
-Jay is a Senior Software Developer at SSW. He specializes in developing solutions with C#, C++, ASP.NET, WinForms, SQL Server and Reporting Services. He is responsible for the SSW Web Site and [SSW Link Auditor](http://ant/ssw/linkAuditor).
 
-He is fond of all kinds of sport,especially football.   
-His favourite quote is "Many a little makes a mickle." 
+  
+
+ **Background** 
+
+Jay is a Software Architect at SSW. He specializes in developing solutions with C#, C++, ASP.NET, WinForms, SQL Server and Reporting Services. 
+
+**Work**
+
+Some of his projects:
+
+*   WindLoads - WPF project using SQL Server 2005 
+*   Swift - ASP.NET project using LINQ, WCF, WF and SQL Server 2005 
+*   Symtone - WPF project calling user control built by MFC 
+
+
+Other responsibilities:
+
+*   SSW Web Site 
+
+
+**User Group Presentation**
+
+China Beijing .NET User Group - topics about LINQ
+
+**Future Goals  
+ **Right now, Jay's goals are:
+
+*   Learn the latest technologies - WPF, Silverlight, SharePoint. 
+*   Learn how to manage projects 
+*   Improve English
+
+
+His favourite quote is "When in Rome, do as the Romans do"
