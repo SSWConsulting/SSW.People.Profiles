@@ -28,7 +28,6 @@ Mark Hetherington is the Software Process Specialist at SSW. He advises projects
 
  Some of Mark's career highlights have been:
 
-*   Developed a sophisticated resource traking and incident handling system for Merseyside Police (Liverpool) in 1982 that still runs today
 *   Growing the Australian Centre for Unisyys Software to over 200 staff in six locations and three countries 
 *   Deploying the first "scratchie" on the web 
 *   CTO for the initial RSVP service (now the largest dating site in Australia) 
