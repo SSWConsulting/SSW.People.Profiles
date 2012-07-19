@@ -6,7 +6,7 @@ nickname: "Mark"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Mark.aspx"
 category: "Developers"
-role:  "Solution Architect"
+role:  "Senior Software Architect"
 qualifications:  "B.C.S.T - Computer Science and Technology "
 location: "Sydney"
 
@@ -20,11 +20,8 @@ skype:  ""
 quote:  "Excellence is not a skill, it's an attitude."
 ---
 
-
-  
-
 ## 
-![](./Images/Bio/scrumtrainer.png) 
+    ![](./Images/Bio/scrumtrainer.png) 
  
 
 As one of the smartest guys at SSW, Mark Liu is the man to go to for any .NET related issue. He's the one that others come to when they get stuck.  
@@ -79,7 +76,6 @@ Mark's client projects:
 
     Related Technology: Access 2000, C# and SQL Server 2000. 
 
-
 Mark's internal projects:
 
 *   **SSW Time PRO .NET** Time sheeting application that supports both direct database connection and Web Services.  
@@ -89,13 +85,11 @@ Mark's internal projects:
 
     Related Technology: C#, Windows Form, Regular Expression, XML, XSL and Microsoft Access database 
 
-
 Mark's personal projects:
 
 *   **Raid Point** A web application that uses zero-sum point system to keep track of his World of Warcraft's guild progression.  
 
     Related Technology: C#, ASP.NET 2.0, SQL Server 2000 
-
 
 His favourite quote is *"Sometimes I dream that a big, giant squirrel is carrying me away. Does that make me a nut?". *
 
