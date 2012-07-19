@@ -24,6 +24,6 @@ quote:  ""
 
 His skills and experience cover everything from Infrastructure, Databases, Web, Smart-client, and all technologies  in-between.  
 
-Adam enjoys all-things Microsoft in particular WPF, TFS and Xbox :)  
+Adam enjoys all-things Microsoft in particular Wpf, Tfs and Xbox :)  
 
-<ins cite="mailto:Adam%20Ezekiel" datetime="2009-06-02T12:58"></ins> 
+<ins datetime="2009-06-02T12:58" cite="mailto:Adam%20Ezekiel"></ins> 
