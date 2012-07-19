@@ -1,5 +1,5 @@
 ---
-current_employee: false
+current_employee: true
 ID: "MartinHinshelwood"
 name: "Martin Hinshelwood"
 nickname: "Martin Hinshelwood"
@@ -32,8 +32,8 @@ He aims to continue improve the engineering practices of development teams in th
 [![Martin Hinshelwood on LinkedIn](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_linkedin.png) 
  ](http://uk.linkedin.com/in/martinhinshelwood)[![Martin Hinshelwood on Twitter](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_twitter.png) 
  ](http://twitter.com/MrHinsh)[![Martin Hinshelwood on Facebook](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_facebook.jpg) 
- ](http://www.facebook.com/martin.hinshelwood?ref=name)[![Martin Hinshelwood on Messenger](http://messenger.services.live.com/users/57599e234f1ebc1c%40apps.messenger.live.com/presenceimage?mkt=en-GB) 
- ](http://settings.messenger.live.com/Conversation/IMMe.aspx?invitee=57599e234f1ebc1c%40apps.messenger.live.com&mkt=en-GB)[![Martin Hinshelwood on Feedburner](./Images/Bio/feed-icon16x16.png) 
+ ](http://www.facebook.com/martin.hinshelwood?ref=name)[![Martin Hinshelwood on Messenger](http://messenger.services.live.com/users/57599e234f1ebc1c@apps.messenger.live.com/presenceimage?mkt=en-GB) 
+ ](http://settings.messenger.live.com/Conversation/IMMe.aspx?invitee=57599e234f1ebc1c@apps.messenger.live.com&mkt=en-GB)[![Martin Hinshelwood on Feedburner](./Images/Bio/feed-icon16x16.png) 
  ](http://feeds.feedburner.com/MartinHinshelwood)
 
 Some of Martin’s highlights have been:
