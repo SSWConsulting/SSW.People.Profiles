@@ -20,6 +20,8 @@ skype:  ""
 quote:  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
 ---
 
+  
+
  ![](./Images/Bio/DynamicsS(rgb) 
 _1135_1133_1134.jpg)   
 
@@ -56,7 +58,7 @@ Zune's client projects:
 
 Zune's internal projects: 
 
-*   **SSW MYOB Reports** Using SQL Server Integration Services to extract data from MYOB and SQL Server Rerpoting Services to build reports that cannot be done in MYOB.  
+*   **SSW MYOB Reports** Using SQL Server Integration Services to extract data from MYOB and SQL Server Reporting Services to build custom reports that cannot be done in MYOB.  
 
     Related Technology: SSIS, SSRS, SQL Server 2008 R2, Report Builder 3.0, MYOB. 
 *   **SSW TimePro.NET.** Time sheeting application that supports both direct database connection and Web Services.  
