@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "PaulNeumeyer"
 name: "Paul Neumeyer"
 nickname: "Paul Neumeyer"
@@ -20,10 +20,14 @@ skype:  ""
 quote:  "It is better to light a candle than to curse the darkness."
 ---
 
+
+  
+
 ## 
     [
       ![](./Images/Bio/scrumtrainer.png) 
  ](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx)
+  
 
 Key Technologies: **[SharePoint 2010](http://www.ssw.com.au/ssw/Consulting/SharePoint.aspx), [Team Foundation Server 2010](http://www.ssw.com.au/ssw/Consulting/ALM.aspx), [ASP.NET](http://www.ssw.com.au/ssw/Consulting/WebsiteDevelopment.aspx)**  
  Customer Benefits: **Improved project management and optimised developement processes**  
@@ -91,6 +95,7 @@ Paul's client projects have included:
 
     **Related Technology: SharePoint 2010, SQL Server 2008, Search Server 2008, ASP.NET MVC 
 
+
 Paul's internal projects:
 
 *   **SSW Superior SharePoint Kit.** SharePoint 2010 is a powerful product with a vast array of uses. SSW has gained real world experience and created the world’s largest publicly facing SharePoint site. The SSW Superior SharePoint Kit contains the distilled improvements and tools that every SharePoint installation should have, but does not come with out-of-the-box.  
@@ -99,5 +104,6 @@ Paul's internal projects:
 *   **SSW TweetFeedback.** SSW TweetFeadback is a utility that every presenter needs – accurate and timely evaluation of their session allowing them to track improvement, see areas where their audience was less satisfied and estimate session sizes. This software has many applications - from daily and weekly in-house company sessions to your public courses and profession conference engagements. You can even set it to send your prefered sponsors requests for session prizes from one centralized location, saving you time and keeping your audience happy.  
 
     Related Technology: ASP.NET MVC 2, Silverlight 4.0, jQuery, AJAX, C# .Net 4.0. 
+
 
 ##### You will admire his upfront honesty
