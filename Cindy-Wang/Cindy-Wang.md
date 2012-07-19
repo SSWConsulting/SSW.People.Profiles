@@ -20,7 +20,21 @@ skype:  ""
 quote:  "I believe in studying hard and always keeping the approach consistent. This way you and the team get more quality and are more productive."
 ---
 
-Cindy is the only girl team member of SSW Beijing office and reponsible for the administrative activities and financial payments, etc. She Oversees the administrative management of Executive Office and provide efficient secretarial support to the General Manager, to ensure smooth operation in administrative work flow and management reporting.   
-She is responsible for the team activity organization, office supplies purchasing and some recruitment issues. She also does some web changes to our website to make it approach perfect.  
-Her favorite quote is "Where there is a will,there is a way".   
-She enjoys reading, playing tennis and watching film. 
+**Background:**
+Cindy is the PA to the General Manager at SSW's Beijing office. Her background was in Economics before she switched over and learnt how to really get productive using VB, SQL and HTML etc. 
+
+**Work:**
+Cindy is the only girl team member in the office and she works hard to keeps the boys in check. She is responsible for financial matters and many small administrative things to keep things running smoothly. She likes to provide support to the guys to ensure there are no road blocks and the office operates smoothly. 
+
+She has received her most thanks from the guys, when she has organized the team activities like pingpong games and basketball games.
+
+Much of the day is spent doing content editing changes and loves the SharePoint 2007 site. She gets by with TFS and wishes TFS web access is perfect.
+
+**Future Goals:**
+Now, her goal is to learn more about using workflows in SharePoint and get a handle on .NET.
+
+**Hobbies:**
+She likes watching films and playing tennis.
+**** 
+**Favourite Quote:**
+Her favourite quote is "Where there is a will, there is a way." 
