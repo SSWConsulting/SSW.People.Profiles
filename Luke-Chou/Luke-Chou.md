@@ -24,7 +24,7 @@ Luke is a software developer at SSW. He specializes in developing solutions with
 
 Luke's clients projects:
 
-*   **Microsoft China** Worked with Microsoft China DPE on new technologies training and Windows Vista/7 compatibility support. There are hundreds of ISVs who benefit from Wilson’s professional knowledge on Windows Vista/7 compatibilities.   
+*   **Microsoft China** Worked with Microsoft China DPE on new technologies training and Windows 7 compatibility support. There are hundreds of ISVs who benefit from Luke’s professional knowledge on Windows 7 compatibilities.   
 
     Related Technology: VSTS, Windows 7. 
 
