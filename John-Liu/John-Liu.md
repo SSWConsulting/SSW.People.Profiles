@@ -20,7 +20,11 @@ skype:  ""
 quote:  "I believe that there are always more than one point of view and I listen and learn everyday."
 ---
 
- **Background** 
+## 
+    ![](/AboutUs/Employees/PublishingImages/scrumtrainer.png) 
+ 
+
+**Background** 
 
 John Liu is a Solution Architect at SSW, a Microsoft Certified Partner specialising in .NET and SharePoint solutions. 
 
@@ -30,7 +34,7 @@ John is responsible for developing and maintaining SharePoint, ASP.NET and WinFo
 
 His major clients over the past years have been:
 
-*   Conquest (Silverlight)
+*   Conquest (Silverlight) 
 *   Microsoft (SharePoint) 
 *   WorleyParsons (SharePoint) 
 *   Commonwealth Bank (ASP.NET with SQL Server) 
@@ -43,4 +47,4 @@ His major clients over the past years have been:
 *   Show the world the best content-driven SharePoint site - SSW Rules 
 *   Continue to improve the SharePoint deployment experience with SSW SharePoint Packager 
 *   Share the best tips on SharePoint with the world - via our [rules to better SharePoint](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/Pages/Default.aspx "Rules to Better SharePoint") 
-*   Windows Phone 7 development with Silverlight
+*   Windows Phone 7 development with Silverlight 
