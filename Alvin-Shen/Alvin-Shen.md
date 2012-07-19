@@ -38,5 +38,5 @@ Related Technology: XML,ASP.NET 3.5,C#,VB.NET,Web Service,TFS
     **SSW Share Point Site** 
 
     *   Related Technology: XML,ASP.NET 3.5,C#, Share Point (MOSS 2007)
-    **Microsoft New Technologies Presentation** Helping Adam Cogan our Chief Architect prepare the demos and scripts of presentation and assiting him in road show around Sydney's universities. Related Technology: C#, SilverLight, LINQ, ASP.NET 3.5   
-In his spare time, Alvin is also a photographer. Portfolio site: [http://www.lookingfor304.com/](http://www.lookingfor304.com/) 
+    **Microsoft New Technologies Presentation** Helping Adam Cogan our Chief Architect prepare the demos and scripts of presentation and assiting him in road show around Sydney's universities. Related Technology: C#, SilverLight, LINQ, ASP.NET 3.5 
+*   In spare time, Alvin is also a photographer. Portfolio site: [http://www.lookingfor304.com/](http://www.lookingfor304.com/) 
