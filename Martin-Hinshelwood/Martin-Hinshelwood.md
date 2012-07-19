@@ -6,7 +6,7 @@ nickname: "Martin Hinshelwood"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Martin.aspx"
 category: "Developers"
-role:  "Solution Architect, Microsoft Visual Studio ALM MVP"
+role:  "Solution Architect, Microsoft Visual Studio ALM MVP, Microsoft Visual Studio ALM Ranger"
 qualifications:  "BSc Computer Studies, Microsoft Certified Professional, Microsoft Certified Technical Specialist"
 location: ""
 
