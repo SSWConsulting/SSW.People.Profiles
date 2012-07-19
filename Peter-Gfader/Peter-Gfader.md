@@ -31,7 +31,7 @@ quote:  "Carpe diem, et noctem."
 _513.png) ![MCPD Web developer](./Images/Bio/MCPD-web(rgb) 
 _504.png) 
 
- Peter is a Solution Architect at SSW that mixes Scrum experience with development techniques like XP and Agile. 
+ Peter Gfader is a Solution Architect at SSW and a Microsoft Certified Professional specialising in SQL Server .NET Solutions. 
 
 Peter is an active developer who enjoys different sports like running, climbing, cycling (MTB / Road), hiking, swimming and surfing.
 
