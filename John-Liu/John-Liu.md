@@ -28,7 +28,7 @@ John is responsible for developing and maintaining SharePoint, ASP.NET and WinFo
 
 **Work**
 
-His major clients over the past years have been:
+His major clients over the past years has been:
 
 *   Microsoft (SharePoint)
 *   WorleyParsons (SharePoint) 
@@ -41,4 +41,4 @@ His major clients over the past years have been:
 
 *   Show the world the best content-driven SharePoint site - SSW Rules
 *   Continue to improve the SharePoint deployment experience with SSW SharePoint Packager
-*   Share the best tips on SharePoint 2007 with the world - via our [rules to better SharePoint](/Standards/RulesToBetterSharePoint "Rules to Better SharePoint")
+*   Share the best tips on SharePoint 2007 with the world - via our [rules to better SharePoint](/Standards/RulesToBetterSharePoint/ "Rules to Better SharePoint")
