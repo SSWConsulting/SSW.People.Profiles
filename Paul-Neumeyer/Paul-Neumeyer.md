@@ -26,7 +26,7 @@ quote:  "It is better to light a candle than to curse the darkness."
 
 Dr. Paul Neumeyer is brings innovation and a streamlining of technologies to companies around Australia. He focus on real value and has enjoyed consulting to a wide range of IT Sectors for over 10 years including the banking, health, finance and online businesses. His experience managing projects, focusing on using the best of the Scrum and Agile methods is unparalleled.   
 
- On the technical side, most projects he has lead used SharePoint 2010, ASP.NET and MVC. He is passionate about encrypting data and protecting it, data patterns for business intelligence and making smart automated systems.
+ On the technical side, most project he has lead used SharePoint 2010, ASP.NET and MVC. He is passionate about encrypting data and protecting it, data patterns for business intelligence and making smart automated systems.
 
 Paul's client projects have included:
 
@@ -41,7 +41,7 @@ Paul's client projects have included:
 
     Role: Project Manager, Solution Architect  
 
-    Related Technology: SharePoint 2010 (+ upgrade from MOSS and WSS), ASP.NET 2.0, SQL Server 2008 R2 
+    Related Technology: SharePoint 2010 (+ upgrade from MOSS and WSS), ASP.NET 2.0, SQL Server 2008 R2
 *   **Nycomed** is a global pharmacutical company. Built a verified medical information system to record medical enquires, adverse event reports and related documents/communication.   
 
     Role: Project Manager  
@@ -72,7 +72,7 @@ Paul's client projects have included:
 
     Role: Project Management / Solution Architect  
 
-    Related Technology: ASP.NET 4.0, SQL Server 2008 R2, SSIS ETL with a large 500GB Database 
+    Related Technology: ASP.NET 4.0, SQL Server 2008 R2, SSIS ETL with a large 500GB Database
 *   **Johnson & Johnson Medical **is a well known global enterprise. This project was to architect a SharePoint intranet for their centres through out Australia, New Zealand and the Asia Pacific region    
 
     Role: Project Manager / Solution Architect  
@@ -101,12 +101,12 @@ Paul's client projects have included:
 
     **Role: Project Manager  
 
-    Related Technology: ASP.NET 4.0, SQL Server 2008, AJAX, jQuery 
+    Related Technology: ASP.NET 4.0, SQL Server 2008, AJAX, jQuery
 *   **DispatchKing  
 
     **Role: Project Manager / Solution Architect  
 
-    Related Technology: ASP.NET MVC 2, Silverlight 4.0, SQL Server 2008, AJAX, jQuery  
+    Related Technology: ASP.NET MVC 2, Silverlight 4.0, SQL Server 2008, AJAX, jQuery 
 
 Paul's internal projects:
 
