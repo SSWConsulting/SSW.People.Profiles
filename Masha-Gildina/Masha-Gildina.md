@@ -5,7 +5,7 @@ name: "Masha Gildina"
 nickname: ""
 
 category: "Admin"
-role:  "Personal Assistant/Marketing"
+role:  "Personal Assistant/Marketing Manager"
 qualifications:  "B. Commerce"
 location: ""
 
