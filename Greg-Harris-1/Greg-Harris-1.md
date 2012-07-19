@@ -26,19 +26,14 @@ Greg also enjoys sharing his knowledge by teaching the [UTS Short Courses](http:
 
 Some of Greg's key clients have included: 
 
-Queensland Water Infrastructure 
-
-Conquest Solutions 
-
+*   Queensland Water Infrastructure 
+*   Conquest Solutions 
 *   Optus Communications
 *   American Express
 *   I.B.M.
 *   Hewlett-Packard
 *   TabCorp
-*   Hong Kong Jockey Club
-*   DPWorld / P&O Ports
-*   N.S.W. Government
-*   Otago University
+*   Hong Kong Jockey ClubDPWorld / P&O PortsN.S.W. GovernmentOtago University
 
 Greg's current SSW client projects include: 
 
