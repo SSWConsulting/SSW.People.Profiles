@@ -6,7 +6,7 @@ nickname: "Mark"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Mark.aspx"
 category: "Developers"
-role:  "Senior Software Architect"
+role:  "Solution Architect"
 qualifications:  "B.C.S.T - Computer Science and Technology "
 location: "Sydney"
 
@@ -20,11 +20,16 @@ skype:  ""
 quote:  "Excellence is not a skill, it's an attitude."
 ---
 
+
+  
+
 ## 
-    ![](./Images/Bio/scrumtrainer.png) 
+![](./Images/Bio/scrumtrainer.png) 
  
 
-Mark Liu is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in .NET Solutions. He is specialized in developing solutions with C#, VB.NET, ASP.NET (1.1 and 2.0), Web Services, SQL Server, Microsoft Office Integration and SharePoint customization.
+As one of the smartest guys at SSW, Mark Liu is the man to go to for any .NET related issue. He's the one that others come to when they get stuck.  
+
+ Mark is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in .NET Solutions. He is specialized in developing solutions with C#, VB.NET, ASP.NET (1.1 and 2.0), Web Services, SQL Server, Microsoft Office Integration and SharePoint customization.
 
 Mark's client projects:
 
@@ -74,6 +79,7 @@ Mark's client projects:
 
     Related Technology: Access 2000, C# and SQL Server 2000. 
 
+
 Mark's internal projects:
 
 *   **SSW Time PRO .NET** Time sheeting application that supports both direct database connection and Web Services.  
@@ -83,11 +89,13 @@ Mark's internal projects:
 
     Related Technology: C#, Windows Form, Regular Expression, XML, XSL and Microsoft Access database 
 
+
 Mark's personal projects:
 
 *   **Raid Point** A web application that uses zero-sum point system to keep track of his World of Warcraft's guild progression.  
 
     Related Technology: C#, ASP.NET 2.0, SQL Server 2000 
+
 
 His favourite quote is *"Sometimes I dream that a big, giant squirrel is carrying me away. Does that make me a nut?". *
 
