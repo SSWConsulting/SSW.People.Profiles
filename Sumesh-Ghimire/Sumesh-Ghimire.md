@@ -1,5 +1,5 @@
 ---
-current_employee: false
+current_employee: true
 ID: "SumeshGhimire"
 name: "Sumesh Ghimire"
 nickname: "Sumesh Ghimire"
@@ -24,17 +24,16 @@ Sumesh is a Senior Software Developer at SSW. He specializes in developing solut
 
 Sumesh's client projects:  
 
-*   **FastAs **is a directory service developed in ASP.NET, AJAX, jQuery and SQL Server 2005. 
-*   **NRMA **Community help grant program, a dynamic data website to apply for the community grant. 
+*   [**FastAs**](http://www.fastas.com/)** - **A site that provides search services for businesses people.  
 
-Related Technology: MS Dynamic Data, ASP.NET 3.5, jQuery, Linq to SQL 
+    Related Technology: ASP.NET 2.0, Web Services, Windows Forms, SQL Server 2000, ADO.NET.** **
+*   **NRMA - **Community help grant program, a dynamic data website to apply for the community grant.  
 
-*   **MidWinter **a finincial company wanted to upgrade their VB6 code base to VB.NET 
+    Related Technology: MS Dynamic Data, ASP.NET 3.5, jQuery, Linq to SQL
+*   **MidWinter **a finincial company wanted to upgrade their VB6 code base to VB.NET Related Technology: VB.NET, Ajax, ADO.NET, SQL Server 2005
 
- Related Technology: VB.NET, Ajax, ADO.NET, SQL Server 2005  
+Sumesh's internal projects: 
 
- Sumesh's internal projects:
+*   **[SSW Code Auditor](http://www.ssw.com.au/ssw/codeauditor/)**** - **one of the best tool for developers to audit their code.  
 
-*   [SSW Code Auditor](http://www.ssw.com.au/ssw/codeauditor/)-  one of the best tool for developers to audit their code.
-
-Related Technology: C#, Windows Forms, SQL Server 2005, Reporting Services, ADO.NET, MS Sync Framework, Regular Expression, Web Services.
+    Related Technology: C#, Windows Forms, SQL Server 2005, Reporting Services, ADO.NET, MS Sync Framework, Regular Expression, Web Services.
