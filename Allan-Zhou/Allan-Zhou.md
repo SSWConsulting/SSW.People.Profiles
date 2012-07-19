@@ -29,6 +29,17 @@ Allan's client projects:
 
     Related Technologies:Dynamic CRM 4.0, Web Service 
 
+ Note: Bring me to Australia for a Project.
+
+*   **Energy Australia  **A Rostering, Employee, Training and Equipment management application.  
+
+    Related Technology: ASP.NET 3.5, Silverlight, WCF, Microsoft Dynamic Data and SQL Server 2005 
+*   **An eCommerce website   
+
+    **Related Technology: ASP.NET 3.5, LINQ to SQL, Lucene, SQL Server Full Text Indexing, Reporting Services, MediaChase ECF v5.0** **
+
+**** 
+
 Allan's internal projects:
 
 *   
