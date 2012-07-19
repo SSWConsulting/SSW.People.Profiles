@@ -6,7 +6,7 @@ nickname: "Masha Gildina"
 
 legacy_page_url: "/AboutUs/Employees/Pages/MashaG.aspx"
 category: "Admin"
-role:  "Personal Assistant/Marketing Manager"
+role:  "Personal Assistant/Marketing"
 qualifications:  "B. Commerce"
 location: ""
 
