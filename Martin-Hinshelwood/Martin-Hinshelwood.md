@@ -6,7 +6,7 @@ nickname: "Martin Hinshelwood"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Martin.aspx"
 category: "Developers"
-role:  "Solution Architect, Microsoft Visual Studio ALM MVP"
+role:  "Solution Architect, Microsoft Visual Studio ALM MVP & Ranger"
 qualifications:  "BSc Computer Studies, Microsoft Certified Professional, Microsoft Certified Technical Specialist"
 location: ""
 
@@ -26,13 +26,15 @@ Martin speaks at [<font color="#000080">DDD Scotland</font>](http://www.develope
 
 He aims to continue improve the engineering practices of development teams in the UK and Europe. He does this by migrating them to, and coaching them in the use of, Microsoft’s ALM offering in combination with Scrum. These offerings include Team Foundation Server (TFS) and Visual Studio.
 
-![Microsoft Visual Studio ALM MVP](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_MVPLogo.png "Microsoft Visual Studio ALM MVP") 
-  ![Microsoft Certified Technical Specialist: Team Foundation Server](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_MCTS-TFSLogo.png "Microsoft Certified Technical Specialist: Team Foundation Server") 
+[![Microsoft Visual Studio ALM MVP](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_MVPLogo.png "Microsoft Visual Studio ALM MVP") ](https://mvp.support.microsoft.com/profile/Martin.Hinshelwood)[![Microsoft Certified Technical Specialist: Team Foundation Server](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_MCTS-TFSLogo.png "Microsoft Certified Technical Specialist: Team Foundation Server") ](http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-510)[![Professional Scrum Developer](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_ProfessionalScrumDeveloper_200px.png "Professional Scrum Developer")](http://www.scrum.org/scrumdeveloper/) 
    
 
-[![](/AboutUs/Employees/PublishingImages/linkedin.png) 
- ](http://uk.linkedin.com/in/martinhinshelwood)[![](/AboutUs/Employees/PublishingImages/twitter.png) 
- ](http://twitter.com/MrHinsh)
+[![Martin Hinshelwood on LinkedIn](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_linkedin.png) 
+ ](http://uk.linkedin.com/in/martinhinshelwood)[![Martin Hinshelwood on Twitter](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_twitter.png) 
+ ](http://twitter.com/MrHinsh)[![Martin Hinshelwood on Facebook](http://geekswithblogs.net/images/geekswithblogs_net/hinshelm/5366/o_facebook.jpg) 
+ ](http://www.facebook.com/martin.hinshelwood?ref=name)[![Martin Hinshelwood on Messenger](http://messenger.services.live.com/users/57599e234f1ebc1c@apps.messenger.live.com/presenceimage?mkt=en-GB) 
+ ](http://settings.messenger.live.com/Conversation/IMMe.aspx?invitee=57599e234f1ebc1c@apps.messenger.live.com&mkt=en-GB)[![Martin Hinshelwood on Feedburner](http://www.feedburner.com/fb/images/pub/feed-icon16x16.png) 
+ ](http://feeds.feedburner.com/MartinHinshelwood)
 
 Some of Martin’s highlights have been:
 
