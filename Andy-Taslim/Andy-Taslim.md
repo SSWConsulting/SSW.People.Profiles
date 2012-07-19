@@ -32,7 +32,7 @@ Related Technology: MS Access
 Andy's internal projects: 
 
 *   **SSW TimePro.NET** An integrated database application designed for corporations who bill on a time or product basis.  
-Related Technology: .NET Framework 3.5, C#, WCF, SQL Server and SQL Server Compact Edition 
-*   **SSW Vista Image** Managing the preset software development image that will be used through out the whole company. Related Technology: VMWare, and ImageXTool 
+Related Technology: .NET Framework 3.5, C#, WCF, SQL Server and SQL Server Compact Edition
+*   **SSW Vista & Windows 7 Image** Managing the preset software development image that will be used through out the whole company. Related Technology: VMWare, and ImageXTool
 
 Andy can also be found teaching [UTS Short Courses](http://it.uts.edu.au/course/shortcourse/programming/) in .NET 
