@@ -40,4 +40,4 @@ Marten's major clients include:
 
 Outside of work, Marten leads a Christian group , Campbelltown Arabic Baptist Church (Currently, SSA Youth) You are going to a site outside of SSW, and also enjoys kicking the ball around with inmates on weekends as part of the Prison Ministry SLAM. 
 
-His favourite quote is from The Bible: [Phillipians 4:16](http://www.biblegateway.com/passage/?search=Phillipians 4:13&version=50;)
+His favourite quote is from The Bible: [Phillipians 4:16](http://www.biblegateway.com/passage/?search=Phillipians%204:13&version=50%3b)
