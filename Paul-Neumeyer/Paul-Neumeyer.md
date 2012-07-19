@@ -25,9 +25,9 @@ quote:  "It is better to light a candle than to curse the darkness."
       ![](./Images/Bio/scrumtrainer.png) 
  ](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx)
 
-Key Technologies: **[SharePoint 2010](), [Team Foundation Server 2010](), [ASP.NET]()**  
+Key Technologies: **[SharePoint 2010](http://www.ssw.com.au/ssw/Consulting/SharePoint.aspx), [Team Foundation Server 2010](http://www.ssw.com.au/ssw/Consulting/ALM.aspx), [ASP.NET](http://www.ssw.com.au/ssw/Consulting/WebsiteDevelopment.aspx)**  
  Customer Benefits: **Improved project management and optimised developement processes**  
- Favourite Rules: **[Rules to Better Scrum with TFS]()**
+ Favourite Rules: **[Rules to Better Scrum with TFS](http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/default.aspx)**
 
 Dr. Paul Neumeyer is enthusiastic about innovating and streamlining technology so that real value is transferred to companies around Australia. He has enjoyed consulting to a wide range of IT Sectors for over 10 years including the banking sector, health sector, finance and online businesses. His experience managing projects has lead him to focus on using the best of the Scrum and Agile methods and the results are unparalleled.   
 
