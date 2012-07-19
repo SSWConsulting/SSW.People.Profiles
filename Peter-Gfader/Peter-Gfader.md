@@ -20,16 +20,14 @@ skype:  ""
 quote:  "Carpe diem, et noctem."
 ---
 
-##  ![](./Images/Bio/mcp-rgb.gif) 
-     ![](./Images/Bio/MCAD-RGB.gif) 
-    ![](./Images/Bio/scrumtrainer.png) 
-
-
-##  ![](./Images/Bio/MCPD-windev-rgb_505.jpg) 
- ![](./Images/Bio/MCTS-dotnet-2-windows-apps-rgb_512.jpg) 
- ![MCTS Web applications](./Images/Bio/MCTS-web(rgb) 
-_513.png) ![MCPD Web developer](./Images/Bio/MCPD-web(rgb) 
-_504.png) 
+## 
+    ![](./Images/Bio/MCAD-RGB.gif) 
+   ![](./Images/Bio/mcp-rgb.gif) 
+    ![](./Images/Bio/MCPD-windev-rgb_505.jpg) 
+    ![](./Images/Bio/MCTS-dotnet-2-windows-apps-rgb_512.jpg) 
+ ![MCTS Web applications](./Images/Bio/MCTS-web(rgb) 
+_513.png)  ![MCPD Web developer](./Images/Bio/MCPD-web(rgb) 
+_504.png)
 
  Peter Gfader is a Senior Software Architect at SSW and a Microsoft Certified Professional specialising in SQL Server .NET Solutions. 
 
