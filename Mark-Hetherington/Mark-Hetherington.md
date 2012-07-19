@@ -20,9 +20,6 @@ skype:  ""
 quote:  "\"We work efficiently on the right things in a visible way\".  If you really do this properly, your customers, whether internal or external, will have no reason to ever complain."
 ---
 
-
-  
-
 When we need to affect major large transformations to the use of Scrum and Agile, we call on the services of Mark Hetherington.
 
 Mark is the Scrum Coach advising SSW. He advises projects and our customers on the best processes and tools to organise work efficiently to an agile and/or Scrum process. 
@@ -62,4 +59,3 @@ Mark has found that his value lies in setting up or improving the agile/Scrum pr
 *   Developed a sophisticated resource tracking and incident
     handling system for Merseyside Police (Liverpool, UK) in 1982 that still runs
     today 
-
