@@ -20,6 +20,8 @@ skype:  ""
 quote:  "Limits, like fears, are often just an illusion "
 ---
 
+Wenshuo is a software developer at SSW. He specializes in developing solutions with SharePoint 2010, SilverLight, ASP.NET (prefer C# over VB.net) and SQL Server.  
+
  **NRMA   
  **ASP.NET Dynamic Data application providing funding for Community Grants and Reporting with SQL 2005 back end.
 
