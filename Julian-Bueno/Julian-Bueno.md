@@ -20,10 +20,13 @@ skype:  ""
 quote:  "A well-spent day brings happy sleep. Leonardo Da Vinci"
 ---
 
+
+  
+
  ![](./Images/Bio/MCTS(rgb) 
 _512_513.gif) 
 
- Julian is a Senior Software Developer at SSW has been working for more than 5 years in the .NET ecosystem. He is specialized in developing solutions with C#,VB.NET, ASP.NET (2.0 - 4.0), Web Services, SQL Server, Mobile applications and Windows Forms. 
+Julian is a Senior Software Developer at SSW has been working for more than 5 years in the .NET ecosystem. He is specialized in developing solutions with C#,VB.NET, ASP.NET (2.0 - 4.0), Web Services, SQL Server, Mobile applications and Windows Forms. 
 
 Julian's client projects:
 
@@ -39,8 +42,10 @@ Julian's client projects:
 
     Related Technology: .NET Framework 4.0, LINQ, ASP.NET, ClickOnce, Jquery, MVC, Silverlight, WCF, Security and Entity framework 
 
+
 Julian's internal projects: 
 
 *   [**SSW Code Auditor**](http://www.ssw.com.au/ssw/codeauditor/)** - **one of the best tool for developers to audit their code.  
 
     Related Technology: C#, Windows Forms, SQL Server 2008, Reporting Services, ADO.NET, MS Sync Framework, Regular Expression, Web Services. 
+*   [**FacebookSmasher**](/Products/FacebookSmasher/Default.aspx) - an event information utility which use BCS (Business Conectivity Service) WSP package to integrate(Pull/Push) with your SharePoint 2010, allowing your users to syndicate event information in your company.
