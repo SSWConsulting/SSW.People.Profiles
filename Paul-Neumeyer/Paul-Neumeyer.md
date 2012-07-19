@@ -6,7 +6,7 @@ nickname: "Paul Neumeyer"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Paul.aspx"
 category: "Developers"
-role:  "Solution Architect"
+role:  "Project Manager and Solution Architect"
 qualifications:  "Ph.D., B.E. Computer Systems Engineering (Hons),  Cert. Scrum Master"
 location: ""
 
@@ -24,11 +24,13 @@ quote:  "It is better to light a candle than to curse the darkness."
     ![](./Images/Bio/scrumtrainer.png) 
  
 
-Dr. Paul Neumeyer is enthusiastic about innovating and streamlining technology so that real value is transferred to businesses and individuals. He has enjoyed consulting to a wide range of IT Sectors for over 10 years including the banking sector, health sector, finance and online businesses. He is also passionate about encrypting data and protecting it, data patterns for business intelligence and making smart automated systems.
+Dr. Paul Neumeyer is brings innovation and a streamlining of technologies to companies around Australia. He focus on real value and has enjoyed consulting to a wide range of IT Sectors for over 10 years including the banking, health, finance and online businesses. His experience managing projects, focusing on using the best of the Scrum and Agile methods is unparalleled.   
 
-Paul's client projects:
+ On the technical side, most project he has lead used SharePoint 2010, ASP.NET and MVC. He is passionate about encrypting data and protecting it, data patterns for business intelligence and making smart automated systems.
 
-*   **McDonalds Asia Pacific Consortium P/L** A part of the McDonalds Enterprise that provides meat inventory and logistics to the Asia Pacific region.  
+Paul's client projects have included:
+
+*   **McDonalds Asia Pacific  **A part of the McDonalds enterprise that provides meat inventory and logistics to the Asia Pacific region.  
 
     Related Technology: Web Services, XML, Windows Forms, SQL Server 2005. 
 *   **Westlink Consulting P/L** Are a young and forward-thinking property and valuation consultancy whose aim is to provide unbiased, up-to-date and effective property advice and valuations.  
