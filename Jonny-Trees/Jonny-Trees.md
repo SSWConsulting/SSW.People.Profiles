@@ -20,10 +20,11 @@ skype:  ""
 quote:  "Perpetual optimism is a force multiplier."
 ---
 
-Jonny Trees is a Senior Software Architect at SSW, a Microsoft Certified Gold Partner specializing in database driven .NET Solutions. Jonny specializes in building ASP.NET web applications with SQL Server backends, Microsoft Dynamics CRM solutions and SharePoint 2007.
+Jonny Trees is a Senior Software Architect at SSW, a Microsoft Certified Gold Partner specializing in database driven .NET Solutions. Jonny specializes in building ASP.NET web applications with SQL Server backends, SharePoint 2007, and Microsoft Dynamics CRM. 
 
 Jonny's clients include: 
 
+*   **Aurecon **Architect and developer for a SharePoint 2007 intranet portal migrated from Lotus Notes. Project involved the setup of the development environment and development processes at Aurecon and training their developers.
 *   **Microsoft Australia** Project Manager for the implementation of the Microsoft SharePoint Forum 2008. The site built in SharePoint 2007 takes advantage of many of SharePoint's web publishing features and includes the use of JQuery for improved UI experience and Live maps integration.
 *   **Caltex Australia** Training employees in C# .Net, Ajax and Reporting Services.
 *   **WorleyParsons** The creation of WorleyParsons new public facing website using SharePoint 2007.
@@ -37,6 +38,4 @@ Jonny's clients include:
 *   **Peace Direct UK** Creation of a system to allow monitoring of street fundraising, and to automate Direct Debit donation claims using BACS - C# .Net 1.1, SQL Server, SQL Reporting Services, Web Services.
 *   
 
-Outside of work, Jonny loves travelling, music, sport and cooking. He currently plays guitar and harmonica, and is learning piano. To date his travels have led him across Europe, South America and Africa. 
-
-His favourite saying is *"Where there's muck there's brass."* 
+Outside of work, Jonny loves travelling, music, sport and cooking. He currently plays guitar and harmonica, and is learning piano. To date his travels have led him across Europe, South America, Africa and Asia. 
