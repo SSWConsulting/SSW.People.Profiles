@@ -1,5 +1,5 @@
 ---
-current_employee: false
+current_employee: true
 ID: "BillChen"
 name: "Bill Chen"
 nickname: "Bill"
