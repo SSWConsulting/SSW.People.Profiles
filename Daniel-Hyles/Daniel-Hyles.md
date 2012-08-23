@@ -58,4 +58,5 @@ Some recent clients include:
 *   **Colonial First State** (ASP, SQL, Intranet application) 
 *   **Bradcorp** (Migration from Exchange 5.5, Network Admin, ASP.NET) 
 
+
 His favourite quote is *"Share your knowledge. It's the way to achieve immortality".*
