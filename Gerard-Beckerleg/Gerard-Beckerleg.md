@@ -6,7 +6,7 @@ nickname: "Gerard"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Gerard.aspx"
 category: "Developers"
-role:  "Senior Software Architect "
+role:  "Solution Architect "
 qualifications:  "BSc (Hons) Business Information Systems, Professional Scrum Developer, Microsoft Certified Technology Specialist"
 location: "Sydney"
 
@@ -20,10 +20,7 @@ skype:  ""
 quote:  "You can have good, fast, or cheap.  But you can only pick two."
 ---
 
-
-  
-
- ![](./Images/Bio/gerardMCTSlogo.png) 
+![](./Images/Bio/gerardMCTSlogo.png) 
  ![](./Images/Bio/gerardpsdlogo.png) 
  
 
