@@ -24,7 +24,7 @@ quote:  "You can have good, fast, or cheap.  But you can only pick two."
  ![](./Images/Bio/gerardpsdlogo.png) 
  
 
-Gerard Beckerleg is a senior software architect at SSW in Sydney since 2011. 
+Gerard Beckerleg is a Solution Architect at SSW in Sydney since 2011. 
 
 Used to working under pressure, with ten years industry experience, he is from the new breed of software architects who are able to combine excellent technical skills with great communication and commercial awareness. Although specialising in Web E-commerce solutions, Gerard has extensive experience in Microsoft.NET and loves working with C#, MVC, SQL Server, Umbraco, Kendo UI and SharePoint.
 
