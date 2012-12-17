@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "WenHan"
 name: "Wen Han"
 nickname: "Wen"
@@ -19,9 +19,6 @@ skype:  ""
 
 quote:  "Limits, like fears, are often just an illusion "
 ---
-
-
-  
 
 Wen is a Senior Software Developer at SSW. He specializes in developing solutions with ASP.NET (prefers C# over VB.net), SQL Server, SilverLight and SharePoint 2010.  
  **  
