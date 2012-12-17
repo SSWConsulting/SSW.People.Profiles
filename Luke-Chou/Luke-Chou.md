@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "LukeChou"
 name: "Luke Chou"
 nickname: "Luke"
@@ -22,14 +22,11 @@ quote:  "Do it, take it."
 
 Luke is a software developer at SSW. He specializes in developing solutions with ASP.NET (prefer C# over VB.net) and SQL Server.   
 
-
 Luke's clients projects:
-
 
 *   **Microsoft China** Worked with Microsoft China DPE on new technologies training and Windows 7 compatibility support. There are hundreds of ISVs who benefit from Luke’s professional knowledge on Windows 7 compatibilities.   
 
     Related Technology: VSTS, Windows 7. 
-  
 
 Luke's internal projects:  
 
