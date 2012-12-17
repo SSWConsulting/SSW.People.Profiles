@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "AlvinShen"
 name: "Alvin Shen"
 nickname: "Alvin"
@@ -21,8 +21,7 @@ quote:  "Storms make trees take deeper roots"
 ---
 
     ![](./Images/Bio/AlvinShenMCTS.gif) 
-
-
+ 
 Alvin is a Software Architect at SSW. He specializes in developing solutions with .NET Framework 3.5,C#,VB.NET,XML,Web Service,ASP.NET and SQL Server. He is also familar with some design softwares such as Photoshop and Dreamweaver.   
 
 Alvin's client projects:
