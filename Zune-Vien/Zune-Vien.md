@@ -6,7 +6,7 @@ nickname: "Zune"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Zune.aspx"
 category: "Developers"
-role:  "Software Architect"
+role:  "Software Architect (CRM)"
 qualifications:  "B.E. - Software Engineering"
 location: "Sydney"
 
