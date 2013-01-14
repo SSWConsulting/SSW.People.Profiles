@@ -6,7 +6,7 @@ nickname: "Lei"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Lei.aspx"
 category: "Managers"
-role:  "Solution Architect and General Manager (Beijing )"
+role:  "Solution Architect and General Manager (Beijing)"
 qualifications:  "B.Eng - Industrial Engineering & Computer Science, M.Info - Information Science "
 location: ""
 
