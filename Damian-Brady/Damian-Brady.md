@@ -6,7 +6,7 @@ nickname: "Damian"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Damian.aspx"
 category: "Managers"
-role:  "Solution Architect and QLD State Manager"
+role:  "Solution Architect and General Manager (QLD)"
 qualifications:  "B.InfoTech (hons), MBA"
 location: ""
 
