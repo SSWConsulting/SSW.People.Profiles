@@ -42,8 +42,7 @@ James is a Software Architect in the SSW Beijing office. Since Microsoft .NET Fr
 
 **Work  
 
-**Some of his big projects are:
-
+**Some of his big projects are :
 
 *   BlueParcel - ASP.NET online shopping web solution 
 *   Westlink - ASP.NET web project with SQL Server 2000 database development 
