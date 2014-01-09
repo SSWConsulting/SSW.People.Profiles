@@ -20,9 +20,10 @@ skype:  ""
 quote:  "If you look at something you did a year ago and can't think of a better way to do it, it's not a sign you did it perfectly the first time, it's a sign you're not learning."
 ---
 
-![](./Images/Bio/MCP.png) 
+![Microsoft_MVP_Logo.png](./Images/Bio/Microsoft_MVP_Logo.png) 
+  ![](./Images/Bio/MCP.png) 
   
- Damian is a Solution Architect and Microsoft Certified Professional who runs our Brisbane SSW Office.  
+ Damian is a Solution Architect and Microsoft MVP in Visual Studio ALM who runs our Brisbane SSW Office.  
 
  With well over ten years of experience both in software development and business analysis roles, Damian has had exposure to a large number of industries including government and finance. A software architect with a wide skillset, he is able to use his excellent technical skills and knowledge of business process to deliver the most effective solutions to our clients.  
 
@@ -51,6 +52,8 @@ Damian worked on the public-facing website for the National Australia Day Counci
 
 **Damian's Presentations:**
 
+*   What’s new for ALM in Visual Studio 2013 and Team Foundation Server 2013 - Presented with Adam Cogan at [Tech Ed Australia](http://channel9.msdn.com/Events/TechEd/Australia/2013/DEV211) and [Tech Ed NZ](http://channel9.msdn.com/Events/TechEd/NewZealand/2013/DEV101)
+*   Climbing the Agile Testing Ladder - Presented with Adam Cogan at [Tech Ed Australia](http://channel9.msdn.com/Events/TechEd/Australia/2013/DEV323B) and [Tech Ed NZ](http://channel9.msdn.com/Events/TechEd/NewZealand/2013/DEV303)
 *   SSW Enterprise MVC Courses [Part 1](http://www.ssw.com.au/ssw/events/Training/enterprise-MVC-part-1.aspx) and [Part 2](http://www.ssw.com.au/ssw/events/Training/Enterprise-MVC-Part-2.aspx) - Written and presented with [Adam Stephensen](/AboutUs/Employees/Pages/AdamS.aspx)
 *   [Zero to Everywhere with ASP.NET MVC](http://tv.ssw.com/1785/ddd-brisbane-damian-brady-zero-to-everywhere "Zero to Everywhere with ASP.NET MVC")
 *   [Building Mobile Websites with ASP.NET MVC 3 and 4](http://www.slideshare.net/damovisa/building-mobile-websites-with-aspnet-mvc-3-4-11395594 "Building Mobile Websites with ASP.NET MVC 3 and 4")
