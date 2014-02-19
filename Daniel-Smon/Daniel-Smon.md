@@ -6,7 +6,7 @@ nickname: "Daniel"
 
 legacy_page_url: "/AboutUs/Employees/Pages/DanielS.aspx"
 category: "Developers"
-role:  "Senior Software Developer, Continuous Learning PO"
+role:  "Solution Architect, Continuous Learning PO"
 qualifications:  "Microsoft Certified Technology Specialist"
 location: ""
 
