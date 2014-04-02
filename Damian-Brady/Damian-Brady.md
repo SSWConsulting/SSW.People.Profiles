@@ -21,7 +21,9 @@ quote:  "If you look at something you did a year ago and can't think of a better
 ---
 
 ![Microsoft_MVP_Logo.png](./Images/Bio/Microsoft_MVP_Logo.png) 
-  ![](./Images/Bio/MCP.png) 
+  ![MCSD_2013(rgb)_1509.png](./Images/Bio/MCSD_2013(rgb) 
+_1509.png)  ![PSMI.png](./Images/Bio/PSMI.png) 
+   ![cover_small.png](./Images/Bio/cover_small.png) 
   
  Damian is a Solution Architect and Microsoft MVP in Visual Studio ALM who runs our Brisbane SSW Office.  
 
@@ -31,7 +33,7 @@ quote:  "If you look at something you did a year ago and can't think of a better
 
  Damian is very active in the Brisbane developer community and runs both the [Brisbane .Net User Group](http://www.meetup.com/Brisbane-Net-User-Group/ "Brisbane .Net User Group") (formerly Qld MSDN User Group and the 
 [DeveloperDeveloperDeveloper Brisbane](http://www.dddbrisbane.com/ "DDD Brisbane") conference.  He is also a regular speaker at the 
-[Queensland ALM](http://www.qalmug.org/ "Qld ALM User Group") user group and various conferences and user groups in other states.  
+[Queensland ALM](http://www.qalmug.org/ "Qld ALM User Group") user group and various conferences and user groups in other states. He's also a co-author of "[Professional Team Foundation Server 2013](http://brdy.in/ProTFS2013)".  
 
  In his spare time, Damian plays indoor and beach volleyball, and is an avid St. Kilda AFL supporter. 
   
