@@ -23,7 +23,7 @@ quote:  "If you look at something you did a year ago and can't think of a better
 ![Microsoft_MVP_Logo.png](./Images/Bio/Microsoft_MVP_Logo.png) 
   ![MCSD_2013(rgb)_1509.png](./Images/Bio/MCSD_2013(rgb) 
 _1509.png)  ![PSMI.png](./Images/Bio/PSMI.png) 
-   ![cover_small.png](./Images/Bio/cover_small.png) 
+   [![cover_small.png](./Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013) 
   
  Damian is a Solution Architect and Microsoft MVP in Visual Studio ALM who runs our Brisbane SSW Office.  
 
