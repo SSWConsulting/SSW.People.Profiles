@@ -26,7 +26,7 @@ quote:  "Nothing in this world can take the place of persistence."
 **Background:** 
 
 *   Martin is a Senior Software Developer at SSW Beijing Office. 
-*   Martin has been working as a .NET developer for nine years. He specializes in developing solutions with C#, ASP.NET,  WinForm, WPF/WCF, Reporting Service and SQL Server.  
+*   Martin has been working as a .NET developer for 9 years. He specializes in developing solutions with C#, ASP.NET,  WinForm, WPF/WCF, Reporting Service and SQL Server.  
 
 **Martin's project mainly focuses on: **
 
