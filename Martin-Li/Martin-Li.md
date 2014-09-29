@@ -30,7 +30,8 @@ quote:  "Nothing in this world can take the place of persistence."
 
 **Martin's project mainly focuses on: **
 
-*   ****SSW Link Auditor** & **Daily task**                                **                                                                                                       SSW Link Auditor - SSW's award winning SEO and website maintenance tool to help web masters to find out bad links on their website, and also help them to improve their Google ranking. Martin also fix website bad links/error logs every day.  
+*   ****SSW Link Auditor** & **Daily task   
+**** SSW Link Auditor - SSW's award winning SEO and website maintenance tool to help web masters to find out bad links on their website, and also help them to improve their Google ranking. Martin also fix website bad links/error logs every day.   
 *   **[SSW TimePro reports](https://reports.ssw.com.au/reports) &** [www.ssw.com.au](http://www.ssw.com.au/)   
 Related Technology: ASP.NET, C#, VB.NET, SQL Server 2008, SQL Reporting Services and Web Services. 
 
