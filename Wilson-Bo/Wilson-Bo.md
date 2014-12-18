@@ -6,7 +6,7 @@ nickname: "Wilson"
 
 legacy_page_url: "/AboutUs/Employees/Pages/WilsonBo.aspx"
 category: "Developers"
-role:  "Senior Software Developer"
+role:  "Senior Software Architect"
 qualifications:  "MCP"
 location: "Beijing"
 
