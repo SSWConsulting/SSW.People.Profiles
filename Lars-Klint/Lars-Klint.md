@@ -6,7 +6,7 @@ nickname: "Lars"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Lars.aspx"
 category: "Developers"
-role:  "Software Architect"
+role:  "Solution Architect"
 qualifications:  "BCompSc"
 location: ""
 
@@ -23,7 +23,7 @@ quote:  "Whether you think you can, or can't, you're right - Henry Ford "
 ![](./Images/Bio/Microsoft_MVP_Logo.png) 
  
 
-Lars is a Software Architect and Windows Platform Development MVP. 
+Lars is a Solution Architect and Windows Platform Development MVP. 
 
 <font color="#000000">He is an author, trainer, Microsoft MVP, community leader, authority on all things Windows Phone and part time car restorer. He is a published [Pluralsight author ](http://www.pluralsight.com/author/lars-klint)and has been a part of the software development community for the past 20 years. Lars is heavily involved in the developer community, regularly speaks at conferences, and also helps organise community events. </font>
 
