@@ -25,7 +25,7 @@ quote:  "If you look at something you did a year ago and can't think of a better
 _1509.png)  ![PSMI.png](./Images/Bio/PSMI.png) 
    [![cover_small.png](./Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013) 
   
- Damian is a Solution Architect and Microsoft MVP in Visual Studio ALM who runs our Brisbane SSW Office.  
+ Damian is the Chief Architect and State Manager for QLD and is a Microsoft MVP in Visual Studio ALM.  
 
  With well over ten years of experience both in software development and business analysis roles, Damian has had exposure to a large number of industries including government and finance. A software architect with a wide skillset, he is able to use his excellent technical skills and knowledge of business process to deliver the most effective solutions to our clients.  
 
@@ -39,7 +39,8 @@ _1509.png)  ![PSMI.png](./Images/Bio/PSMI.png)
   
 
 
-**Damian's client projects include:**  
+**Damian's client projects include:** 
+
 
 *   **Management Advantage - Mentoring and Development  
  **Management Advantage is a leading provider of aged care and clinical management software. Looking to move their legacy VB6 codebase to .Net and improve their software development process, they engaged SSW to help. Since coming on board, we've implemented an effective Scrum process, provided guidance on best practices for .Net development, and mentored the development team in both technical and process areas.
