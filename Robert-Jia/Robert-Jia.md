@@ -6,7 +6,7 @@ nickname: "Robert"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Robert.aspx"
 category: "Developers"
-role:  "software developer "
+role:  "Software Developer "
 qualifications:  "MCP, Information System Management"
 location: "Beijing"
 
@@ -20,7 +20,7 @@ skype:  ""
 quote:  "The future belongs to those who believe in the beauty of their dreams."
 ---
 
-Robert Jia is a software developer at SSW. He has been developing software projects more than 8 years on Microsoft technology platform, such as C#, MVC, ASP.Net,WinForm, TFS, SQLServer.
+Robert Jia is a software developer at SSW. He has been developing software projects more than 8 years on the Microsoft technology platform, Robert is an expert in C#, MVC, ASP.Net, Windows Forms, TFS and SQLServer.
 
 **Certifications:**
 
