@@ -6,7 +6,7 @@ nickname: "Michelle"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Michelle.aspx"
 category: "Admin"
-role:  "BJ Finance"
+role:  "BJ Accountant"
 qualifications:  ""
 location: "Beijing"
 
