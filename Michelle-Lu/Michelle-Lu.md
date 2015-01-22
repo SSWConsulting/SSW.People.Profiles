@@ -26,7 +26,7 @@ Daily financial issues including bookkeeping, financial reports, tax declaration
 
 **Michelle's Background:**
 
-7-year working experiences in finance including,
+Master in accounting, 7-year working experiences in finance including,
 
  [Sun Microsystems]: focusing on GL bookkeeping; inter-company transactions;
 
