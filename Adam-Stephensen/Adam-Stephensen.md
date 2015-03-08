@@ -20,6 +20,11 @@ skype:  "astephensen"
 quote:  "'fail fast', inspect, adapt, have a lot of fun.  "
 ---
 
+![MCSD Web Applications](./Images/Bio/MCSD_2013(rgb) 
+_1477.jpg) ![Professional Scrum Master I](./Images/Bio/PSMI.png) 
+ ![Microsoft Certified Professional](./Images/Bio/MCP.png) 
+  
+
 Adam is passionate about building awesome teams and software projects. 
 
 He loves people, patterns, processes and technology: Azure, MVC, Scrum, clean code, dependency injection, tests, continuous delivery, training, mentoring and presenting. 
