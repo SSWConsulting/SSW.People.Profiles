@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "AllanZhou"
 name: "Allan Zhou"
 nickname: "Allan"
@@ -20,9 +20,6 @@ skype:  ""
 quote:  "I believe concentration and exertion makes perfection."
 ---
 
-
-  
-
  **Background  
  **Allan Zhou is a Senior Software Developer at SSW, a Microsoft Certified Gold Partner specializing in database driven .NET Solutions. Allan has more than 7 years experience in software development and project management. Allan is currently working with C#, VB.NET, ASP.NET, PHP, Windows Forms, WCF/WF/WPF/Silverlight, SQL Server, Oracle, Dynamic CRM and Microsoft SharePoint. He also has been working on BizTalk Server.
 
@@ -32,7 +29,6 @@ Allan's client projects:
 
     Related Technologies:Dynamic CRM 4.0, Web Service 
 
-
  Note: Bring me to Australia for a Project.
 
 *   **Energy Australia  **A Rostering, Employee, Training and Equipment management application.  
@@ -41,7 +37,6 @@ Allan's client projects:
 *   **An eCommerce website   
 
     **Related Technology: ASP.NET 3.5, LINQ to SQL, Lucene, SQL Server Full Text Indexing, Reporting Services, MediaChase ECF v5.0** **
-
 
 **** 
 
