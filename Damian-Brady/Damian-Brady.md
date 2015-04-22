@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "DamianBrady"
 name: "Damian Brady"
 nickname: "Damian"
@@ -36,11 +36,8 @@ _1509.png)  ![PSMI.png](./Images/Bio/PSMI.png)
 [Queensland ALM](http://www.qalmug.org/ "Qld ALM User Group") user group and various conferences and user groups in other states. He's also a co-author of "[Professional Team Foundation Server 2013](http://brdy.in/ProTFS2013)".  
 
  In his spare time, Damian plays indoor and beach volleyball, and is an avid St. Kilda AFL supporter. 
-  
-
 
 **Damian's client projects include:** 
-
 
 *   **Management Advantage - Mentoring and Development  
  **Management Advantage is a leading provider of aged care and clinical management software. Looking to move their legacy VB6 codebase to .Net and improve their software development process, they engaged SSW to help. Since coming on board, we've implemented an effective Scrum process, provided guidance on best practices for .Net development, and mentored the development team in both technical and process areas.
@@ -49,7 +46,6 @@ _1509.png)  ![PSMI.png](./Images/Bio/PSMI.png)
 Damian worked on the public-facing website for the National Australia Day Council along with a handful of other SSW developers. Built on Umbraco with plenty of customization for search as well as submission and management of events, it has evolved into a very performant and effective site.
 *   **An Internal Management Application for a major electricity provider  
  **A long-running project, Damian came on board to help bring the software to completion.  Combining DynamicData, ASP.Net, and rich Silverlight interfaces, the solution was a powerful tool to help their management team. 
-  
 
 **Damian's other work includes:**  
 
@@ -59,11 +55,11 @@ Damian worked on the public-facing website for the National Australia Day Counci
  **Damian's Presentations:**
 
 *   [Diving into Team Foundation Server Extensibility](http://search.channel9.msdn.com/content/result?sid=38a2fe9e-312c-44a1-81ad-14b04a911731&rid=6e9526bb-c526-4fac-9082-a39d00f30586) - Tech Ed New Zealand 2014
-    
+
 *   [Release Management for the Enterprise](http://search.channel9.msdn.com/content/result?sid=38a2fe9e-312c-44a1-81ad-14b04a911731&rid=b6182d1f-a29b-40f0-bfbf-a39d00f3023e) - Tech Ed New Zealand 2014
-    
+
 *   [Octopus Deploy and how to stop deploying like an idiot](http://tv.ssw.com/5522/octopus-deploy-and-how-to-stop-deploying-like-an-idiot-damien-brady-ddd-melbourne) - DDD Melbourne 2014
-   
+
 *   What’s new for ALM in Visual Studio 2013 and Team Foundation Server 2013 - Presented with Adam Cogan at 
       [Tech Ed Australia](http://channel9.msdn.com/Events/TechEd/Australia/2013/DEV211) and 
       [Tech Ed NZ](http://channel9.msdn.com/Events/TechEd/NewZealand/2013/DEV101)
