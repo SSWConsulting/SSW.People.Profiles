@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "MarkHetherington"
 name: "Mark Hetherington"
 nickname: "Mark H (aka MLH)"
@@ -19,9 +19,6 @@ skype:  ""
 
 quote:  "\"We work efficiently on the right things in a visible way\".  If you really do this properly, your customers, whether internal or external, will have no reason to ever complain."
 ---
-
-
-  
 
 When we need to affect major large transformations to the use of Scrum and Agile, we call on the services of Mark Hetherington.
 
@@ -62,4 +59,3 @@ Mark has found that his value lies in setting up or improving the agile/Scrum pr
 *   Developed a sophisticated resource tracking and incident
     handling system for Merseyside Police (Liverpool, UK) in 1982 that still runs
     today 
-
