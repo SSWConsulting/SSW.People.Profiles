@@ -31,4 +31,4 @@ Adriaan has experience leading and managing software and hardware projects leadi
 
 Although specialising in Web E-commerce solutions, Adriaan has extensive experience in Microsoft both pre and post .NET and loves working with C#, SQL Server, Azure, AngularJS, TypeScript and ASP.NET MVC.
 
-When not developing solutions for clients Adriaan spends his time building IoT devices, including twitter driven birthday sparklers. [https://youtu.be/NTrpr4kAFXc](https://youtu.be/NTrpr4kAFXc%E2%80%8B)
+When not developing solutions for clients Adriaan spends his time building IoT devices, including twitter driven birthday sparklers. [https://youtu.be/NTrpr4kAFXc]()
