@@ -45,4 +45,5 @@ Exam: 70-496 - Administering Microsoft Visual Studio Team Foundation Server 2012
 Exam: 70-498 - Delivering Continuous Value with Visual Studio 2012 Application Lifecycle Management  
 Exam: 70-246 - Monitoring and Operating a Private Cloud with System Center 2012  
 Exam: 70-247 - Configuring and Deploying a Private Cloud with System Center 2012  
-Exam: 70-693 - PRO: Windows Server 2008 R2, Virtualization Administrator
+Exam: 70-693 - PRO: Windows Server 2008 R2, Virtualization Administrator  
+Exam: 70-410- Installing and Configuring Windows Server 2012
