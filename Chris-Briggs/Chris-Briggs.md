@@ -20,7 +20,7 @@ skype:  ""
 quote:  "You don't find buried treasure by sitting down."
 ---
 
-Chris Briggs is a Senior Software Developer at SSW who has a passion for development and security: 
+Chris is a Senior Software Developer at SSW, based in Brisbane. Whose passionate about IoT, Scrum, Security, Windows Universal Apps and Xamarin. All the Devs at SSW have been asking Chris, what he thinks the Internet of Things will mean for their day to day lives? It ranges from the impossible to the improbable, from automating their coffee breaks, to telling them exactly when the next bus will arrive! 
 
 *   Worked with the Brisbane academic development community as a Microsoft Student Partner.
 *   Background in security. Represented Queensland University of Technology (QUT) in the national Cyber Security Challenge Australia (CySCA) competitions for three years.
