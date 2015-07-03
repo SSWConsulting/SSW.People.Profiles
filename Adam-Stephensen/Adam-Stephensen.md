@@ -6,7 +6,7 @@ nickname: "Adam"
 
 legacy_page_url: "/AboutUs/Employees/Pages/AdamS.aspx"
 category: "Managers"
-role:  "Solution Architect (MVC), Scrum Master, SQL Deploy PO"
+role:  "Solution Architect, State Manager QLD, Scrum Master"
 qualifications:  "Master of Software Development "
 location: "Brisbane"
 
