@@ -25,12 +25,12 @@ quote:  "Nothing Is Impossible"
 
 
 **Background:**  
-Jacky Zhou is a Senior Software Developer at SSW Beijing Office.
+Jacky is a Senior Software Developer at SSW Beijing Office.
 
-He has been working with .Net for 4+ years, with many years experience as a TFS consultant. Specializes in TFS, Agile Training, ASP.NET, Reporting Services, Windows Azure Pack. 
+He has been working with .Net for 4+ years, with many years experience as a TFS consultant. Specializes in TFS, Agile Training, ASP.NET, Reporting Services, Windows Azure Pack.
 
 **Work:  
-**Jacky Zhou has been a TFS consultant many years and has helped many companies to use TFS and Visual Studio better.   
+**Jacky has been a TFS consultant many years and has helped many companies to use TFS and Visual Studio better.   
 Some of his major clients include:  
 **ABC **( Agriculture Bank of China ) - Help the client use TFS build to achieve automatically build and deployment.  
 **Microsoft **- TFS & Agile training, Windows Azure Pack Customization & Extension.  
