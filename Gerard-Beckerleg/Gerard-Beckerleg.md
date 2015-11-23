@@ -20,11 +20,11 @@ skype:  ""
 quote:  "You can have good, fast, or cheap.  But you can only pick two."
 ---
 
-![](./Images/Bio/gerardMCTSlogo.png) 
+ ![](./Images/Bio/gerardMCTSlogo.png) 
  ![](./Images/Bio/gerardpsdlogo.png) 
  
 
-Gerard Beckerleg is a Solution Architect at SSW in Sydney since 2011. 
+Gerard is a Solution Architect at SSW in Sydney since 2011.
 
 Used to working under pressure, with fourteen years industry experience, he is from the new breed of software architects who are able to combine excellent technical skills with great communication and commercial awareness. Although specialising in Web E-commerce solutions, Gerard has extensive experience in Microsoft.NET and loves working with C#, MVC, SQL Server, JavaScript, Angular JS, Kendo UI and SharePoint.
 
@@ -33,13 +33,13 @@ He graduated from Leeds Metropolitan University with honours in Business Informa
 As a qualified Professional Scrum Developer, Gerard is capable of working as part of a Scrum Development Team or in the role of Scrum Master. His experience as a Scrum Master covers a wide range of clients and industries including Toll, Vulcan Steel, Carnival Cruises, McDonalds, Sydney Airports, National Australia Day Council and TAFE.
 
 **Vulcan Steel** - Migrate existing back end to Web Services including auto generating clients and documentation. Solution included .NET Async, Swagger, Web API 2, OWIN, Octopus Deploy.  
-**FireBootCamp** - Mentor of 9 week full immersion .NET and AngularJS course. Topics included enterprise architecture, SOLID principles, JavaScript, TypeScript, Entity Framework, MVC 5, Web API, Octopus Deploy, Scrum. See [http://firebootcamp.com](http://firebootcamp.com/)  
+**FireBootCamp** - Mentor of 9 week full immersion .NET and AngularJS course. Topics included enterprise architecture, SOLID principles, JavaScript, TypeScript, Entity Framework, MVC 5, Web API, Octopus Deploy, Scrum. See [http://firebootcamp.com ](http://firebootcamp.com/)  
 **Undisclosed Client** - Designed and implemented enterprise wide ADFS Single Sign On solution encompassing WinForms, Web API and MVC applications. Solution included custom OWIN modules to generate and process JWT bearer tokens.  
 **Vulcan Steel **- Anvil ERP System, Mobile App and IntranetUsing AngularJS, MVC 5, Octopus Deploy, TeamCity, Web API, Kendo mobile, Selenium page object pattern, Winforms, SQL Server 2012, Firebird, DDD, jQuery, SharePoint 2013, ADFS  
 **Toll Linehaul **- Vehicle Planning and Monitoring SystemUsing MVC 4, Knockout js, Entity framework, Typescript, Kendo UI, Google maps API, SQL Server 2008 R2, Twitter Bootstrap, jQuery, see [http://bit.ly/1hx7NjE](http://bit.ly/1hx7NjE)   
 **Pre-Paid Services Pty Ltd** - Barcode Scanning SystemUsing MVC 3, SQL Server 2008 R2. Twitter Bootstrap, jQuery  
 **University of Technology Sydney** - TrainingLecturer for .NET MVC course [http://bit.ly/1kb6ma5](http://bit.ly/1kb6ma5) Lecturer for SharePoint course [http://bit.ly/1hEUAPS](http://bit.ly/1hEUAPS)   
-**FireBootcamp** - TrainingMentor jQuery and Twitter Bootstrap [http://firebootcamp.com/mentors/ ](http://firebootcamp.com/mentors/%20)  
+**FireBootcamp** - TrainingMentor jQuery and Twitter Bootstrap [http://firebootcamp.com/mentors/ ](http://firebootcamp.com/mentors/)  
 **Johnson and Johnson** - SharePoint consultant and SharePoint trainer  
 **NSW Fire Service** - MVC 5 trainer  
 **Australian Red Cross Blood Service** - On premise TFS upgrade  
