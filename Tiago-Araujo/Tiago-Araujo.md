@@ -23,13 +23,13 @@ quote:  "It's not what you look at that matters, it's what you see."
 
   
 
-Tiago Araujo is our favourite creative genius. When he told us he wanted to move back to Brazil, we said "Ok, but you're still working for us". We couldn't let him go.  
+Tiago is our favourite creative genius. When he told us he wanted to move back to Brazil, we said "Ok, but you're still working for us". We couldn't let him go.  
 
- Tiago is a creative individual who enjoys a challenge. He has five years experience working as a designer for both print and web projects. He also loves spending time playing with Photoshop while listen to old songs. Here are some of his skills:
+Tiago is a creative individual who enjoys a challenge. He has five years experience working as a designer for both print and web projects. He also loves spending time playing with Photoshop while listen to old songs. Here are some of his skills:
 
-*   Development of Internet/Multimedia solutions, ranging from concept, project, layout, development and implementation; 
-*   Image editing and optimization aiming usage at either printed or digital media; 
-*   Photoshop, InDesign, Illustrator, Acrobat, Dreamweaver, Fireworks, Flash, Silverlight, CorelDraw, XHTML, CSS and JQuery 
+*   Development of Internet/Multimedia solutions, ranging from concept, project, layout, development and implementation;
+*   Image editing and optimization aiming usage at either printed or digital media;
+*   Photoshop, InDesign, Illustrator, Acrobat, Dreamweaver, Fireworks, Flash, Silverlight, CorelDraw, XHTML, CSS and JQuery
 
 
 Besides SSW's design enhancement projects, Tiago's past clients include Energy Australia, FastAs, WorleyParsons, The Home Loan Company and Carmody Group.
@@ -51,5 +51,4 @@ to
 *<font color="#808080">padding-top:10px;  padding-bottom:10px;  padding-left:0 ;  padding-right:0px;</font>  
 to  
 <font color="#808080">padding:10px 0;</font>*
-
-**
+ **
