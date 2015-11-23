@@ -20,15 +20,15 @@ skype:  ""
 quote:  "TFS + .NET"
 ---
 
-**Background**:
+** Background**:
 
-Wilson Bo is a Senior Software Architect at SSW Beijing Office.
+Wilson is a Senior Software Architect at SSW Beijing Office.
 
 He has been working with TFS consultant 4 years, with many years as a senior software developer. Specializes in Team Foundation Server, Scrum Training, Reporting Service and Microsoft Work Flow.
 
 <strong class="ms-rteThemeForeColor-9-0">Work:**
 
- Wilson Bo has implemented many companies, help client build TFS environment and provide the appropriate solution to help client realize application lifecycle management. Some of his major clients include:
+ Wilson has implemented many companies, helped clients build TFS environment and provide the appropriate solution to help clients realize application lifecycle managemen t. Some of his major clients include:
 
 **ABI **(ABInbev) - Help client build TFS environment, provide TFS solution and training.
 
