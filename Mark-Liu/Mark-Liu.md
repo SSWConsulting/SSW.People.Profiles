@@ -29,7 +29,7 @@ quote:  "Excellence is not a skill, it's an attitude."
 
 As one of the smartest guys at SSW, Mark is the man to go to for any .NET related issue. He's the one that others come to when they get stuck.  
 
-Mark is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in .NET Solutions. He is specialized in developing solutions with C#, VB.NET, ASP.NET (1.1 and 2.0), Web Services, SQL Server, Microsoft Office Integration and SharePoint customization.
+Mark is a Solution Architect at SSW, a Microsoft Certified Professional specialising in .NET Solutions. He is experienced in developing solutions with C#, ASP.NET, Web Services, SQL Server, Microsoft Office Integration and SharePoint customization.
 
 Mark's client projects:
 
