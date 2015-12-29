@@ -24,7 +24,7 @@ quote:  "You cannot improve your past, but you can improve your future. Once tim
   
 
 
-A Microsoft Certified Partner specialising in .NET solutions, as a senior software developer. I pecializes in developing solutions with C#, VB.NET, ASP.NET, WinForms, Reporting Services, SQL Server and Team Foundation Server. In past two years, I focused in the technologies of Team Foundation Server, and helped a lot of client to adopt TFS in China.
+A Microsoft Certified Partner specialising in .NET solutions, as a senior software developer. I specializes in developing solutions with C#, VB.NET, ASP.NET, WinForms, Reporting Services, SQL Server and Team Foundation Server. In past two years, I focused in the technologies of Team Foundation Server, and helped a lot of client to adopt TFS in China.
 
 Rewarded as ALM MVP by Microsoft in 2015.  
 
