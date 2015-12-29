@@ -29,7 +29,6 @@ Making sustainable software that solves real world issues is what makes Duncan t
 
 With the current speed of change in frontend best practices Duncan helps teams learning and implementing modern frontend build processes to produce scalable and maintainable applications quickly.
 
-He made a dramatic career change fom being an [Accredited Practising Dietitian ](http://daa.asn.au/for-the-public/find-an-apd/what-is-an-accredited-practising-dietitian/) to an ASP.NET developer after founding foodzone.com.au and falling in love with web development. 
  
 **Duncan's client projects include:**
 
@@ -47,7 +46,9 @@ Related Technology: MVC5, SignalR, SQL Server 2012 , AngularJS, Azure
 Related Technology: MVC5 & Azure</strong>
 *   **Link Auditor **is a link and rule checking web application.  
 Related Technology: MVC5, AngularJS, Azure Webjobs  
-**** 
+
+*   **Vopak **Contractor Timesheet Application  
+Related technologies: MCV5, AngularJS, Kendo**** 
      
  
    **Duncan's other work includes:**  
@@ -61,9 +62,7 @@ Related Technology: MVC5, AngularJS, Azure Webjobs
 
 *   [ AngularJS with TypeScript made easy with Duncan](http://tv.ssw.com/5866/angularjs-with-typescript-made-easy-with-duncan-hunter-dev-superpowers-9)  
 
-*   [ Using TypeScript with AngularJS made | Justin Schwartzenberger Interv](http://tv.ssw.com/5840/using-typescript-with-angularjs-justin-schwartzenberger)
-
-*   iew      
+*   [ Using TypeScript with AngularJS made | Justin Schwartzenberger Inter](http://tv.ssw.com/5840/using-typescript-with-angularjs-justin-schwartzenberger)view     
 
 <font color="#333333">ng software he will likely be climbing a cliff face some where. He has climbed for the last 20 years with ascents of some of the tallest rocks in the world from Yosemite's El Capitan to Himalayan big walls in Pakistan.  
 </font> 
