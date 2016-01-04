@@ -20,8 +20,7 @@ skype:  "jackyzhou-ssw"
 quote:  "Nothing Is Impossible"
 ---
 
-![jackyzhou_mcp.jpg](/AboutUs/Employees/PublishingImages/jackyzhou_mcp.jpg) 
- ![jackyzhou_Consultant.jpg](/AboutUs/Employees/PublishingImages/jackyzhou_Consultant.jpg) 
+![MVPLOGO.png](./Images/Bio/MVPLOGO.png) 
 
 
 **Background:**  
@@ -47,3 +46,7 @@ Exam: 70-246 - Monitoring and Operating a Private Cloud with System Center 2012
 Exam: 70-247 - Configuring and Deploying a Private Cloud with System Center 2012  
 Exam: 70-693 - PRO: Windows Server 2008 R2, Virtualization Administrator  
 Exam: 70-410- Installing and Configuring Windows Server 2012
+
+**个人信息:**
+
+周文洋（<font color="#0066cc">微软认证专家 – ALM领域</font>）致力于软件开发生命周期管理咨询服务多年, 为国内大量知名客户提供包括Team Foundation Server的平台搭建、研发流程落地、数据迁移、系统集成、二次开发、报表开发、技术咨询、敏捷培训等服务.
