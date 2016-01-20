@@ -29,17 +29,19 @@ Making sustainable software that solves real world issues is what makes Duncan t
 
 With the current speed of change in frontend best practices Duncan helps teams learning and implementing modern frontend build processes to produce scalable and maintainable applications quickly.
 
+Duncan is a passionate teacher and delivers courses around the country on best practices in Angular2 and ASP.NET Core1.0.
+
  
 **Duncan's client projects include:**
 
-*   **Class Super - FundWeb**  
+*   **Class Super - Four different projects including Client View, Advisor Portal, Document Managment System and Client Messaging**  
 Class Super engaged SSW to rewrite their outdated web application in AngularJS and Typescript while upskilling their development team to master these frontend technologies.     
-Related Technology: AngularJS, TypeScript, WebAPI, Kendo
+Related Technology: AngularJS, TypeScript, WebAPI, Kendo, Azure Web Jobs
 *   <strong style="line-height:1.5em;background-color:initial;">Brisbane Catholic Education - Student Behaviour  
 **Brisbane Catholic Education engaged SSW to build a student behaviour tracking tool that would be powerful, flexible, and easy to use for all of their schools administrators across South-East Queensland.  
 Related Technology: AngularJS, TypeScript, WebAPI, ASP.NET 5 (aka vnext), Octopus Deploy</strong>****
 
-*   **ime**  
+*   **PWC**  
 PwC engaged SSW to help move their flagship business tax reporting platform built ontop of Access and SQL server to the web.  
 Related Technology: MVC5, SignalR, SQL Server 2012 , AngularJS, Azure
 *   <strong style="background-color:initial;">Sugar Learning** is the next generation induction tool for smart companies  
