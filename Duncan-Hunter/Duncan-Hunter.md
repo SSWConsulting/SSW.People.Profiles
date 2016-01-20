@@ -39,9 +39,11 @@ Class Super engaged SSW to rewrite their outdated web application in AngularJS
 Related Technology: AngularJS, TypeScript, WebAPI, Kendo, Azure Web Jobs
 *   <strong style="line-height:1.5em;background-color:initial;">Brisbane Catholic Education - Student Behaviour  
 **Brisbane Catholic Education engaged SSW to build a student behaviour tracking tool that would be powerful, flexible, and easy to use for all of their schools administrators across South-East Queensland.  
-Related Technology: AngularJS, TypeScript, WebAPI, ASP.NET 5 (aka vnext), Octopus Deploy</strong>****
+Related Technology: AngularJS, TypeScript, WebAPI, ASP.NET 5 (aka vnext), Octopus Depl</strong>
 
-*   **PWC**  
+*   oy****
+
+*   **C**  
 PwC engaged SSW to help move their flagship business tax reporting platform built ontop of Access and SQL server to the web.  
 Related Technology: MVC5, SignalR, SQL Server 2012 , AngularJS, Azure
 *   <strong style="background-color:initial;">Sugar Learning** is the next generation induction tool for smart companies  
@@ -55,8 +57,7 @@ Related technologies: MCV5, AngularJS, Kendo****
  
    **Duncan's other work includes:**  
 
-*   [Foodzone](https://foodzone.com.au/) ![](./Images/Bio/external.gif "You are now leaving SSW") 
- Duncan is the founder of the leading Australian nutrition assessment software used by thousands of nutrition students and health professionals.
+*   [Foodzone](https://foodzone.com.au/) Duncan is the founder of the leading Australian nutrition assessment software used by thousands of nutrition students and health professionals.
 
  **Duncan's Presentations:**
 
