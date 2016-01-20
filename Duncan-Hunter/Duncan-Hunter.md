@@ -43,7 +43,7 @@ Related Technology: AngularJS, TypeScript, WebAPI, ASP.NET 5 (aka vnext), Octop
 
 *   oy****
 
-*   **C**  
+*   ** Waterhourse Coopers**  
 PwC engaged SSW to help move their flagship business tax reporting platform built ontop of Access and SQL server to the web.  
 Related Technology: MVC5, SignalR, SQL Server 2012 , AngularJS, Azure
 *   <strong style="background-color:initial;">Sugar Learning** is the next generation induction tool for smart companies  
@@ -59,7 +59,9 @@ Related technologies: MCV5, AngularJS, Kendo****
 
 *   [Foodzone](https://foodzone.com.au/) Duncan is the founder of the leading Australian nutrition assessment software used by thousands of nutrition students and health professionals.
 
- **Duncan's Presentations:**
+ **Duncan's Present**
+
+**ations:**
 
 *   [How to Use Hot Towel Angular with Duncan ](http://tv.ssw.com/5611/use-hot-towel-angular-duncan-hunter)  
 
