@@ -1,0 +1,31 @@
+---
+current_employee: true
+ID: "IvanTyapkin"
+name: "Ivan Tyapkin"
+nickname: "Ivan"
+
+legacy_page_url: "/AboutUs/Employees/Pages/IvanTyapkin.aspx"
+category: "Developers"
+role:  "Senior Software Architect"
+qualifications:  "B.Tech., Dipl.-Ing., MCSD"
+location: "Melbourne"
+
+blog:  ""
+website:  ""
+facebook:  ""
+twitter:  ""
+linkedin:  ""
+skype:  "ityapkin"
+
+quote:  "Failing to plan is planning to fail, but responding to change over following a plan"
+---
+
+Ivan is a Senior Software Architect at SSW
+
+With over 15 years of experience in software development across number of industries Ivan directly worked on every stage of SDLC from requirements gathering and functional specifications to providing conceptual designs; application architecture and development; integration, UI and usability design; and support. 
+
+Ivan enjoys writing clean and supportable code and always taking care about how software may evolve in the future by using proven OOD and OOP principles and design patterns.
+
+Ivan has working knowledge of number of programming languages and his areas of interest being in database design, data modelling, SQL programming, and performance tuning.
+
+Ivan firmly believes that technology should be used to support business case and takes pride in being genuinely interested in helping clients to achieve their goals and adding value to their business. 
