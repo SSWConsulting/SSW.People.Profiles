@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "GerardBeckerleg"
 name: "Gerard Beckerleg"
 nickname: "Gerard"
