@@ -20,4 +20,4 @@ skype:  "shigemi_matsumoto"
 quote:  "There is no substitute for hard work"
 ---
 
-SugarLearning
+www.sugarLearning.com
