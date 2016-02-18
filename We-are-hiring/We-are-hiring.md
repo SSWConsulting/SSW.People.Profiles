@@ -6,7 +6,7 @@ nickname: "We are hiring"
 
 legacy_page_url: "/AboutUs/Employees/Pages/JoinOurTeam.aspx"
 category: "Developers"
-role:  "Enthusiastic People"
+role:  "enthusiastic People"
 qualifications:  "Many"
 location: ""
 
