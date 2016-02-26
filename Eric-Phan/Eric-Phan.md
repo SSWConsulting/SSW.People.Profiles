@@ -6,7 +6,7 @@ nickname: "Eric"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Eric.aspx"
 category: "Managers"
-role:  "Project Manager and Chief Architect"
+role:  "Chief Architect"
 qualifications:  "B.E. - Software Engineering, Certified Scrum Master"
 location: "Sydney"
 
@@ -38,19 +38,21 @@ quote:  "There are 10 types of people in the world. Ones that understand binary 
 
 
 
-Eric is the ultimate Solution Architect. His wide range of technical skills, and deep knowledge of certain specialty technologies, mix well with his amiable manner and excellent communication skills.  
+Eric is the ultimate Chief Architect. His wide range of technical skills, and deep knowledge of certain specialty technologies, mix well with his amiable manner and excellent communication skills.  
 
-Eric is keen Solution Architect who doesn't mind a challenge. He has an in-depth knowledge of .NET and the Microsoft Stack. He came from the Java (J2SE & J2ME) world and values running strong teams, .NET architecture, unit testing and maintainable code via coding standards.
+He has in-depth knowledge of .NET and the Microsoft Stack and is exceptional at delivering high quality and value products to your business. He came from the Java (J2SE & J2ME) world and values running strong teams, .NET architecture, unit testing and maintainable code via coding standards.
 
-Eric is always on the cutting edge, using Microsoft's latest technologies before they are widely adopted. He also is a frequent presenter at user groups and technical breakfasts where he shares his experiences using these technologies.
+Eric is always on the cutting edge, using Microsoft's latest technologies before they are widely adopted. At SSW he helps drive adoption of the latest technology to make sure our developers are up to date with everything happening in the world of software development. He also is a frequent presenter at user groups and technical breakfasts where he shares his experiences using these technologies.
 
 Eric's client projects include:
 
 *   **Price Waterhouse Coopers - Comply First Time**  
-PwC engaged SSW to help move their flagship business tax reporting platform built on top of Access and SQL server to the web.  
-Related Technology: MVC5, SignalR, SQL Server 2012 , AngularJS, Azure
+PwC engaged SSW to help redevelop their flagship business tax reporting platform built on top of Access and SQL server to the web.   
+[http://www.pwc.com.au/goods-and-services-tax/comply-first-time.html](http://www.pwc.com.au/goods-and-services-tax/comply-first-time.html)  
+Related Technology: MVC 5, SignalR, SQL Server 2014 , AngularJS, Azure, WebAPI
 *   **Productivity Development Solutions - CcMS**  
-PDS is a long time client with SSW. We helped develop their ruggedized mobile application for dealing with Asset management, Inspections and Wear Management at mining sites. We also helped build their flagship Windows Forms application managing the same systems. This year we helped PDS migrate their Windows Forms application to the web with a new MVC website, using WebAPIs. This allowed us to make the application cross platform and tablet ready.
+PDS is a long time client with SSW. We helped develop their ruggedized mobile application for dealing with Asset management, Inspections and Wear Management at mining sites. We also helped build their flagship Windows Forms application managing the same systems. This year we helped PDS migrate their Windows Forms application to the web with a new MVC website, using WebAPIs. This allowed us to make the application cross platform and tablet ready.  
+Related Technology: MVC 5, SQL Server 2014 , Reporting Services, WebAPI, AngularJS
 *   **Energetics (BRW Client Choice Award Winner for 2011)**  
 Energetics were looking towards SSW to take over the development of their existing One2Five web application from their previous vendor. We conducted a software audit, migration to .NET 4.0, code clean-up involving merging two separate code bases for English and Japanese into the one globalized version and implemented a many enhancements and bug fixes to streamline the use of the web application for facilitators and administrators. We implemented features into their offline Windows Forms application to bring it to parity with the web application and implemented a ClickOnce deployment mechanism for easier delivery. We worked using the scrum methodology and consistently met deadlines and delivered extra functionality. 
         
@@ -66,7 +68,7 @@ Related Technology: Visual Studio, Team Foundation Server, Lab Management, Conti
 This retailer was experiencing severe performance issues on their 10 year old website (written in legacy ASP code). Eric managed a team of 5 developers and 2 designers to implement a new eCommerce system with a fresh design after reviewing their existing system and deciding it was infeasible to correct all the performance issues from non scalable code. 
         
 Related Technology: ASP.NET, LINQ to SQL, Lucene Search, SQL Server Full Text Indexing, SQL Reporting Services, MediaChase ECF
-*   **An Australian utilities company  
+*   **Energy Australia  
  **This large utilities company needed an automated and easy to use Rostering and Employee management system to replace their current spreadsheet based system. The system manages all the engineers across Australia.  
 Related Technology: Silverlight, ASP.NET, Dynamic Data, LINQ to SQL, WCF REST, SQL Server, SQL Reporting Services
 *   **Australian ISV and Microsoft Gold Partner with a CMS and Document Management product**  
