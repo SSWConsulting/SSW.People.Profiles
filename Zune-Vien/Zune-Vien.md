@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "ZuneVien"
 name: "Zune Vien"
 nickname: "Zune"
@@ -35,10 +35,8 @@ _1135_1133_1134.jpg)
 *   Silverlight 
 *   SharePoint 2007 (also a little on SharePoint 2010) 
 *   DotNetNuke 
-  
 
 Zune's client projects:
-
 
 *   **BCS Direction** A customized Microsoft Dynamics CRM 4.0 system for managing clients, contacts, super funds, audit jobs and timesheets. Customizations involve: custom entities, custom ASP.NET pages, advanced customizations of CRM 4.0 form using JavaScript accessing CRM 4.0 data, custom reports and automatically email reports   
 
@@ -58,7 +56,6 @@ Zune's client projects:
 
     Related Technology: VB.NET, ASP.NET 2, DotNetNuke, SQL Server 2005. 
 
-
 Zune's internal projects: 
 
 *   **SSW MYOB Reports** Using SQL Server Integration Services to extract data from MYOB and SQL Server Reporting Services to build custom reports that cannot be done in MYOB.  
@@ -73,4 +70,3 @@ Zune's internal projects:
 *   **SSW DotNetNuke Traning Site.** SSW traning site for DotNetNuke with a collection of numerous tutorials, training videos, 3rd party tools, handy tips and resources.  
 
     Related Technology: VB.NET, ASP.NET 2, SQL Server 2005, DotNetNuke 
-
