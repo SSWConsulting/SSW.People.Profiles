@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "JulianBueno"
 name: "Julian Bueno"
 nickname: "Julian"
@@ -20,9 +20,6 @@ skype:  ""
 quote:  "A well-spent day brings happy sleep. Leonardo Da Vinci"
 ---
 
-
-  
-
  ![](./Images/Bio/MCTS(rgb) 
 _512_513.gif) 
 
@@ -41,7 +38,6 @@ Julian's client projects:
     **Developed and lectured the UTS .NET Short Course on Visual Studio 2010.  
 
     Related Technology: .NET Framework 4.0, LINQ, ASP.NET, ClickOnce, Jquery, MVC, Silverlight, WCF, Security and Entity framework 
-
 
 Julian's internal projects: 
 
