@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "JamesZhou"
 name: "James Zhou"
 nickname: "James"
@@ -20,9 +20,6 @@ skype:  ""
 quote:  "I like challenging work. I like using cutting edge technologies to make great solutions for my clients."
 ---
 
-
-  
-
 ## 
     ![pmp logo](./Images/Bio/pmp_logo.jpg) 
  ![](./Images/Bio/MCAD-RGB.gif) 
@@ -31,14 +28,11 @@ quote:  "I like challenging work. I like using cutting edge technologies to make
 ![](./Images/Bio/scrumtrainer.png) 
  
 
-
 **Background**  
 
 James is a Software Architect in the SSW Beijing office. Since Microsoft .NET Framework 1.1 was released, he has been working on many windows applications and web projects written in C# and VB.NET with SQL Server.   
 
 ****
-
-
 
 **Work  
 
@@ -51,10 +45,8 @@ James is a Software Architect in the SSW Beijing office. Since Microsoft .NET Fr
 *   Conquest - Silverlight web project with SQL Server 2008 database development 
 James also works on some of SSW products as product manager or developer:
 
-
 *   [SSW Exchange Reporter](http://www.ssw.com.au/ssw/ExchangeReporter) 
 *   [SSW Link Auditor](http://www.ssw.com.au/ssw/LinkAuditor) 
 **User Group Presentations **
-
 
 *   China Beijing .NET User Group - topics about ASP.NET MVC 
