@@ -20,9 +20,12 @@ skype:  "ityapkin"
 quote:  "Failing to plan is planning to fail, but responding to change over following a plan"
 ---
 
-Ivan is a Senior Software Architect at SSW
+[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/IvanTyapkin) 
 
-With over 15 years of experience in software development across number of industries Ivan directly worked on every stage of SDLC from requirements gathering and functional specifications to providing conceptual designs; application architecture and development; integration, UI and usability design; and support. 
+
+ Ivan is a Senior Software Architect at SSW
+
+ With over 15 years of experience in software development across number of industries Ivan directly worked on every stage of SDLC from requirements gathering and functional specifications to providing conceptual designs; application architecture and development; integration, UI and usability design; and support. 
 
 Ivan enjoys writing clean and supportable code and always taking care about how software may evolve in the future by using proven OOD and OOP principles and design patterns.
 
