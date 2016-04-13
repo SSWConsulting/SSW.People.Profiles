@@ -20,6 +20,9 @@ skype:  ""
 quote:  "“So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.”  ― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship"
 ---
 
+ [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/DuncanHunter) 
+
+
  ![FireBootCamp-Logo.png](./Images/Bio/FireBootCamp-Logo.png) 
    
 
@@ -31,15 +34,12 @@ With the current speed of change in frontend best practices Duncan helps teams 
 
 Duncan is a passionate teacher and delivers courses around the country on best practices in Angular2 and ASP.NET Core1.0.  
 
-  
-**Duncan's client projects include:**
-
+**Duncan's client projects include:** 
 
 *   **Class Super - Four different projects including Client View, Advisor Portal, Document Management System and Client Messaging**  
 Class Super engaged SSW to rewrite their outdated web application in AngularJS and Typescript while upskilling their development team to master these frontend technologies.     
 Related Technology: AngularJS, TypeScript, WebAPI, Kendo, Azure Web Jobs
-*   <strong style="line-height:1.5em;background-color:initial;"> 
-    Brisbane Catholic Education - Student Behaviour  
+*   <strong style="line-height:1.5em;background-color:initial;">Brisbane Catholic Education - Student Behaviour  
 **Brisbane Catholic Education engaged SSW to build a student behaviour tracking tool that would be powerful, flexible, and easy to use for all of their schools administrators across South-East Queensland.  
 Related Technology: AngularJS, TypeScript, WebAPI, ASP.NET 5 (aka vnext), Octopus Deploy</strong>
 
@@ -52,15 +52,12 @@ Related Technology: MVC5 & Azure</strong>
 Related Technology: MVC5, AngularJS, Azure Webjobs  
 
 *   **Vopak **Contractor Timesheet Application  
-Related technologies: MCV5, AngularJS, Kendo
-      ****
-      
-   
+Related technologies: MCV5, AngularJS, Kendo 
+      **** 
 
  **Duncan's other work includes:**  
 
 *   [Foodzone](https://foodzone.com.au/) Duncan is the founder of the leading Australian nutrition assessment software used by thousands of nutrition students and health professionals.
-
 
  **Duncan's Present**<strong style="line-height:1.6;">ations:**
 
@@ -70,11 +67,9 @@ Related technologies: MCV5, AngularJS, Kendo
 
 *   [ Using TypeScript with AngularJS made | Justin Schwartzenberger Inter](http://tv.ssw.com/5840/using-typescript-with-angularjs-justin-schwartzenberger)view     
 
-
  <font color="#333333">When he's not making software, he will likely be climbing a cliff face somewhere. He has climbed for the last 20 years with ascents of some of the tallest rocks in the world from Yosemite's El Capitan to Himalayan big walls in Pakistan.  
-</font>
-      ****
-      
+</font> 
+      **** 
 
  ![DuncanHunter-Climbing.png](./Images/Bio/DuncanHunter-Climbing.png) 
    
