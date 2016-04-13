@@ -20,11 +20,11 @@ skype:  "danzhang-ssw"
 quote:  "You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted."
 ---
 
+ [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/DanZhang) 
+
+
 [![](./Images/Bio/Microsoft_MVP_Logo.png)](http://davidburela.wordpress.com/2012/10/02/ive-been-awarded-microsoft-mvp-for-windows-azure/) 
-  
-
-
-A Microsoft Certified Partner specialising in .NET solutions, as a senior software developer. I specializes in developing solutions with C#, VB.NET, ASP.NET, WinForms, Reporting Services, SQL Server and Team Foundation Server. In past two years, I focused in the technologies of Team Foundation Server, and helped a lot of client to adopt TFS in China.
+A Microsoft Certified Partner specialising in .NET solutions, as  a senior software developer. I specializes in developing solutions with C#, VB.NET, ASP.NET, WinForms, Reporting Services, SQL Server and Team Foundation Server. In past two years, I focused in the technologies of Team Foundation Server, and helped a lot of client to adopt TFS in China.
 
 Rewarded as ALM MVP by Microsoft in 2015.  
 
