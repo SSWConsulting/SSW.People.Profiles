@@ -20,7 +20,9 @@ skype:  ""
 quote:  "Software is like music. Easy to use but hard to write."
 ---
 
- ![MVP_FullLogo.png](./Images/Bio/MVP_FullLogo.png) 
+[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/DanijelMalik) 
+  
+![MVP_FullLogo.png](./Images/Bio/MVP_FullLogo.png) 
  ![](./Images/Bio/MCSD_2013(rgb) 
 _1477.jpg) ![MCTS_2013(rgb)_NETFX.jpg](./Images/Bio/MCTS_2013(rgb) 
 _NETFX.jpg)
@@ -29,26 +31,24 @@ _NETFX.jpg)
 
  As Solution Architect, he has been involved in numerous projects built on Microsoft Stack that range from the manufacturing sector to medical services to taxes.
 
-At SSW, Danijel runs some internal projects including being the Product Owner for [SSW Code Auditor](https://www.ssw.com.au/ssw/CodeAuditor/).With an eye on bleeding edge technologies, he is always one step ahead, and loves sharing his experience at user groups and conferences.  
-Danijel is also a Microsoft MVP for Visual Studio ALM. 
-        
- 
-   Some of his client projects include:  
+At SSW, Danijel runs some internal projects including being the Product Owner for 
+      [SSW Code Auditor](https://www.ssw.com.au/ssw/CodeAuditor/).With an eye on bleeding edge technologies, he is always one step ahead, and loves sharing his experience at user groups and conferences. 
+
+   Danijel is also a Microsoft MVP for Visual Studio ALM. 
+
+   Some of his client projects include: 
 
 *   <strong style="line-height:18px;">Carnival Australia - Cruise Control  
 **Carnival Australia celebrated many successful projects with SSW over the last few years. Due to such a great partnership they wanted SSW to their support Cruise Control application, which is one of the key websites for P&O. Danijel stepped in and took the project to the next level: besides coding Danjiel transformed their processes and moved them from a ticketing system in SharePoint to Scrum with TFS. The month long release cycles were replaced with Continuous Delivery and fully automated deployments to production every few days.  
 Related Technologies: TFS, Octopus Deploy, ASP.NET WebAPI, ServiceStack</strong> 
-        
 
 *   **Estate Master - TFS Migration & Release Management**  
 Danijel's push was to migrate all their code (from TFS 2008 and Visual SourceSafe) to Visual Studio Online. Danijel also established a Continuous Delivery practice where each check-in resulted in a new setup package. The client was ecstatic.  
 Related Technologies: VSO, PowerShell, Advanced Installer 
-        
 
 *   **EMA - Scrum Training**  
 EMA is a Slovenian client who was looking for optimization of th****eir work processes. SSW provided with technical advice for their hardware, firmware and software. Tailored Scrum training also was provided.  
 Related Technologies: Visual Studio Team Services, Scrum 
-        
 
 *   **IP Payments - TFS Training**  
 The client received customised training around TFS & ALM, to understand the product's capabilities and options for embracing DevOps.  
