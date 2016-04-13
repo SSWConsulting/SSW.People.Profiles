@@ -20,9 +20,12 @@ skype:  ""
 quote:  "Logic will get you from  A to Z; imagination will get you everywhere"
 ---
 
+[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/FarrukhKhan) 
+  
+
 Farrukh is a digital designer and front-end developer at SSW with over ten years of industry experience in digital design, frontend development, and its implementation for various platforms.
 
-He has strong knowledge of W3C web standards, accessibility, front-end performance, search engine optimization, and cross-browser consistency for web and mobile apps. His key skills include:
+ He has strong knowledge of W3C web standards, accessibility, front-end performance, search engine optimization, and cross-browser consistency for web and mobile apps. His key skills include:
 
 *   Design and development of wireframes and interactive prototypes.
 *   Design concepts (Mobile and web) including wireframes, prototypes.
