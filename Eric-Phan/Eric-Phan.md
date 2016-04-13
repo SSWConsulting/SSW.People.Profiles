@@ -20,23 +20,22 @@ skype:  ""
 quote:  "There are 10 types of people in the world. Ones that understand binary and ones that don't."
 ---
 
+[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/EricPhan) 
+  
 
+## 
+
+ ![](./Images/Bio/MCP.png) 
+![](./Images/Bio/eric_msts.png) 
 
 
 ##  
-   ![](./Images/Bio/MCP.png) 
+      ![](./Images/Bio/csm.png) 
+
+      ![](./Images/Bio/scrumtrainer.png) 
+
+      ![](./Images/Bio/psd.png) 
  
-   ![](./Images/Bio/eric_msts.png) 
-
-
-## 
-   ![](./Images/Bio/csm.png) 
- 
-   ![](./Images/Bio/scrumtrainer.png) 
- 
-   ![](./Images/Bio/psd.png) 
-
-
 
 Eric is the ultimate Chief Architect. His wide range of technical skills, and deep knowledge of certain specialty technologies, mix well with his amiable manner and excellent communication skills.  
 
@@ -47,26 +46,27 @@ Eric is always on the cutting edge, using Microsoft's latest technologies before
 Eric's client projects include:
 
 *   **Price Waterhouse Coopers - Comply First Time**  
-PwC engaged SSW to help redevelop their flagship business tax reporting platform built on top of Access and SQL server to the web.   
-[http://www.pwc.com.au/goods-and-services-tax/comply-first-time.html](http://www.pwc.com.au/goods-and-services-tax/comply-first-time.html)  
+PwC engaged SSW to help redevelop their flagship business tax reporting platform built on top of Access and SQL server to the web. 
+
+ [http://www.pwc.com.au/goods-and-services-tax/comply-first-time.html](http://www.pwc.com.au/goods-and-services-tax/comply-first-time.html)  
 Related Technology: MVC 5, SignalR, SQL Server 2014 , AngularJS, Azure, WebAPI
 *   **Productivity Development Solutions - CcMS**  
 PDS is a long time client with SSW. We helped develop their ruggedized mobile application for dealing with Asset management, Inspections and Wear Management at mining sites. We also helped build their flagship Windows Forms application managing the same systems. This year we helped PDS migrate their Windows Forms application to the web with a new MVC website, using WebAPIs. This allowed us to make the application cross platform and tablet ready.  
 Related Technology: MVC 5, SQL Server 2014 , Reporting Services, WebAPI, AngularJS
 *   **Energetics (BRW Client Choice Award Winner for 2011)**  
 Energetics were looking towards SSW to take over the development of their existing One2Five web application from their previous vendor. We conducted a software audit, migration to .NET 4.0, code clean-up involving merging two separate code bases for English and Japanese into the one globalized version and implemented a many enhancements and bug fixes to streamline the use of the web application for facilitators and administrators. We implemented features into their offline Windows Forms application to bring it to parity with the web application and implemented a ClickOnce deployment mechanism for easier delivery. We worked using the scrum methodology and consistently met deadlines and delivered extra functionality. 
-        
+
 Related Technology: ASP.NET, Windows Forms, Click Once, jQuery, AJAX, Globalization
 *   **The Treasury - Developer Training  
  **Delivered a two day training course on VSTO to help transition the Treasury from VBA and macros in their Word and Excel applications into managed .NET code.  
 Related Technology: VSTO, Office 
 *   **Full End to End Microsoft ALM implementation for Medibank Health  
  **Medibank Health has an existing development ecosystem built on a multitude of different tools from different vendors. They wanted to consolidate them all to use the Microsoft ALM stack to gain efficiencies during their testing and development cycle. We ended up implementing TFS with Lab Management and creating custom build and deployment scripts to push a build to Lab Management for verification every night. This cut their testing cycle from 3 days to 10 minutes! 
-        
+
 Related Technology: Visual Studio, Team Foundation Server, Lab Management, Continuous Integration, Workflow
 *   **An eCommerce website for a well established Australian retailer**  
 This retailer was experiencing severe performance issues on their 10 year old website (written in legacy ASP code). Eric managed a team of 5 developers and 2 designers to implement a new eCommerce system with a fresh design after reviewing their existing system and deciding it was infeasible to correct all the performance issues from non scalable code. 
-        
+
 Related Technology: ASP.NET, LINQ to SQL, Lucene Search, SQL Server Full Text Indexing, SQL Reporting Services, MediaChase ECF
 *   **Energy Australia  
  **This large utilities company needed an automated and easy to use Rostering and Employee management system to replace their current spreadsheet based system. The system manages all the engineers across Australia.  
@@ -77,8 +77,8 @@ Related Technology: ASP.NET, jQuery, WCF, VSTO
 *   **Snack Brands Australia  
  **Snack Brands is the largest distributor of chips in Australia and has recently gone through some mergers. Eric managed the many data silos, that was sales, inventory, forecasting and logistical data spread across many different systems. This business intelligence project consolidated all this data into a data warehouse and cube, that enabled better reporting of figures.  
 Related Technology: SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), SQL Server Reporting Services (SSRS), SharePoint initially then SharePoint, Excel Services, Performance Point Services
-*   **Maximus **
-        
+*   **Maximus ** 
+
 Eric created a software as a service application to deliver a HR Management system that facilitates career management, selection, surveys and performance management.  
 Related Technology: (ASP.NET Application, NHibernate, SQL Server,  XMLFO Reports, LMS Integration)
 *   **Hills Transport Pty Ltd**  
@@ -89,7 +89,7 @@ A media company looking to develop an intranet site to manage their media direct
 Related Technology: Intranet ASP.NET Website - with ComponentArt\AJAX
 *   **Anglican Care - Developer Training**  
 Ran a four day training course on ASP.NET Web Development with Visual Studio Team System. 
-        
+
 Related Technology: Visual Studio Team Suite, Visual Studio Team Foundation Server, ASP.NET 2, Web Services
 *   **UTS .NET Short Course**  
 Developed and lectured the UTS .NET Short Course.  
@@ -105,7 +105,7 @@ Planned the successful migration of SSW's live TFS 2008 to TFS 2010 to TFS 2012 
 Related Technology: TFS 2010/2012/2013, SharePoint, Reporting Services
 *   **SSW eXtreme Emails**  
 Outlook based task management system. 
-        
+
 Related Technology: VB.NET, VSTO , Windows Form, Outlook, XML, XSL.
 *   **SSW Web Pager**  
 SSW Web Pager is a utility that sends any web page to your inbox. This utility has many applications - from emailing you the latest news daily to emailing daily and monthly HTML reports to your administrator. Everything you need will be in one centralized location - the Inbox, saving you from opening many web pages to view all the pages you visit daily.  
@@ -113,6 +113,4 @@ Related Technology: C#, Windows Form, Socket Programming, Regular Expression, XM
 
 ##### You will grow to love this one!
 
-
-<canvas id="c"></canvas>
-
+<canvas id="c"></canvas> 
