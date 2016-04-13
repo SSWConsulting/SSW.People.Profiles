@@ -20,7 +20,10 @@ skype:  ""
 quote:  "Without requirements or design, programming is the art of adding bugs to an empty text file."
 ---
 
- Igor is Senior Software Architect at SSW. 
+ [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/IgorGoldobin) 
+
+
+Igor is Senior Software Architect at SSW. 
 
 With well over 8 years of experience in software engineering and business intelligence , Igor has had a great deal of exposure to large government, gaming, finance and mining industries. 
 
