@@ -35,7 +35,6 @@ quote:  "​​I build web applications that are lightning fast and dressed to i
     *   [AngularJS - How to make web applications with AngularJS and ASP.NET MVC | Dev SuperPowers Episode 7](https://www.youtube.com/watch?v=vwF1mxZH_hE)
     *   [ASP.NET Identity using vNext | Dev Superpowers Episode 11](http://tv.ssw.com/5980/asp-net-identity-using-vnext-dev-superpowers-episode-11)
     *   ASP.NET 5 and MVC6: Where's My Cheese? | Dev SuperPowers Episode 15
-     
 
 I'm also quite into startups and have plenty of experience with rapid prototyping, especially in the payments space.
 
