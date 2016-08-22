@@ -28,6 +28,12 @@ Tri is a Full Stack Developer from back-end (using native SQL or an ORM like Ent
 
 Tri's projects include:  
 
+*   <strong style="line-height:24px;">Long Service Corporation - Worker Portal**  
+
+Long Service Corporation engaged SSW to redesign and refactor their Worker Portal application, used by workers to download their statements. This application will be extented to include claims for workers. The new software design of the application includes multiple services which can be shared between projects.  
+
+Related Technology: ASP.Net MVC, Entity Framework, WebAPI, TypeScript, jQuery
+
 *   <strong style="line-height:24px;">South East Water - OneAsset**  
 
 South East Water engaged SSW to modernized their web application used for monitoring their assets.  
@@ -60,4 +66,4 @@ Related Technology: WebAPI, Entity Framework, Angular, HTML, CSS / Bootstrap, Wi
 *   <strong style="line-height:18px;">HarvestThe.Net**  
 HarvestThe.Net is a software development company specialised in cloud-based applications. One of their product is a web portal used for:Centralise your production music contentSimplify your distribution processStandardise your metadataProvide music search services to your clientsRelated Technology: HTML, CSS, jQuery, .Net WebForms, Ado.Net, SQL,
 
-</strong></strong>
+</strong></strong></strong>
