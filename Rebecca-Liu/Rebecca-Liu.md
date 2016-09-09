@@ -6,7 +6,7 @@ nickname: "Rebecca"
 
 legacy_page_url: "/AboutUs/Employees/Pages/RebeccaL.aspx"
 category: "Designers"
-role:  "Senior Graphic Designer"
+role:  "User Experience Expert"
 qualifications:  "Graphic Design and Communication Diploma"
 location: "Brisbane"
 
