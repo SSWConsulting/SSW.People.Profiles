@@ -39,7 +39,7 @@ At SSW, Danijel runs some internal projects including being the Product Owner f
    Some of his client projects include: 
 
 *   <strong style="line-height:18px;">Carnival Australia - Cruise Control  
-**Carnival Australia celebrated many successful projects with SSW over the last few years. Due to such a great partnership they wanted SSW to their support Cruise Control application, which is one of the key websites for P&O. Danijel stepped in and took the project to the next level: besides coding Danjiel transformed their processes and moved them from a ticketing system in SharePoint to Scrum with TFS. The month long release cycles were replaced with Continuous Delivery and fully automated deployments to production every few days.  
+**Carnival Australia celebrated many successful projects with SSW over the last few years. Due to such a great partnership they wanted SSW to support their Cruise Control application, which is one of the key websites for P&O. Danijel stepped in and took the project to the next level: besides coding Danijel transformed their processes and moved them from a ticketing system in SharePoint to Scrum with TFS. The month long release cycles were replaced with Continuous Delivery and fully automated deployments to production every few days.  
 Related Technologies: TFS, Octopus Deploy, ASP.NET WebAPI, ServiceStack</strong> 
 
 *   **Estate Master - TFS Migration & Release Management**  
