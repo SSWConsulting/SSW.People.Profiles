@@ -6,7 +6,7 @@ nickname: "Stephen"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Stephen.aspx"
 category: "Managers"
-role:  "Senior Software Architect, State Manager VIC"
+role:  "Senior Software Architect, VIC State Manager"
 qualifications:  "Professional Scrum Master"
 location: "Melbourne"
 
@@ -20,11 +20,15 @@ skype:  "stephen.carter.melb"
 quote:  "Whether you think you can or think you can't, you're right."
 ---
 
-Stephen Carter is a Senior Software Architect with SSW (based in Melbourne) with a background in business and emergency services.  
-Stephen has broad experience in IT and business through a career spanning over 28 years managing the end-to-end delivery of technology projects, with a strong track record of partnering with businesses to deliver technology-enabled transformation in diverse industries including government, rail, digital agency, insurance, emergency services, utilities and private business.  
+<table cellspacing="0" width="100%" class="ms-rteTable-0" style="height:166px;"><tbody><tr class="ms-rteTableEvenRow-0"><td class="ms-rteTableEvenCol-0" style="width:1%;height:155px;">![psmi.jpg](./Images/Bio/psmi.jpg) 
+  
 
-Some of Stephen's recent career highlights:
+</td><td class="ms-rteTableOddCol-0" style="width:50%;height:155px;">Stephen Carter is a Senior Software Architect and the Victorian State Manager with SSW.  He is a certified Professional Scrum Master with a background in business, transport, education, NFP/NGO and emergency services.   
 
+Stephen has broad experience in IT and business through a career spanning 30 years managing the end-to-end delivery of technology projects, with a strong track record of partnering with businesses to deliver technology-enabled transformation in diverse industries including government, rail, digital agency, insurance, emergency services, utilities and private business.  
+</td></tr></tbody></table>Some of Stephen's recent career highlights:
+
+*   Presenting HoloLens to the Canberra and Sydney .NET User Groups and showing developers how they can get started with HoloLens development.
 *   Leading a team of up to 30 members delivering infrastructure, in-house developed software and vendor supplied software projects, establishing standardised reporting across the ICT project portfolio  
 
 *   Leading delivery of a rail infrastructure fault management system  
