@@ -38,7 +38,8 @@ Stephen has broad experience in IT and business through a career spanning 30 y
 *   Leading delivery of an asset geospatial data service  
 
 *   Senior Software Engineer migrating 80+ applications into a single network
-*   Senior Software Engineer developing CMS applications in a digital agency environment  
+*   Senior Software Engineer developing CMS applications in a digital agency environmentStephen cut his teeth developing systems in Microsoft Access in the 1990's for Police, Education, Transport and Utilities.  In 2012 he migrated numerous Access applications during a network consolidation project for a major public transport company.  In 2016 he migrated data from an Access database to SQL Server, keeping Access as the frontend.  
+
 Stephen believes we are on the crest of another technological revolution with the release of Microsoft’s HoloLens, and he is champing at the bit to explore the world of mixed reality and to share his learnings with developers, business, and enthusiasts alike.  
 
-In his spare time, Stephen enjoys Hapkido, mountain biking, playing bass guitar, photography, cooking and travelling.  
+In his spare time, Stephen enjoys martial arts, mountain biking, playing bass guitar, photography, cooking and travelling.  
