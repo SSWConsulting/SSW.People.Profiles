@@ -35,9 +35,10 @@ Thiago has over 10 years of experience in the IT industry in a wide range of tec
 
 *   **SharePoint**: he's been working with it since 2009. He's a Microsoft Certified Solutions Developer in SharePoint 2013, Microsoft Certified Professional Developer in SharePoint 2010 and enthusiast in SharePoint 2016.
 *   **ASP.NET MVC**: Microsoft Certified Professional.
-*   **Angular 2.0**: The current favourite
+*   **Angular 2.0**: The current favourite  
+
 *   **SQL**: he's been working with it for as long as he can remember.
-*   **HTML, JS, CSS**: Thiago is not a designer, but this doesn't stop him from knowing a lot about HTML, CSS and client script, which makes him a great asset to implement a design. 
+*   **HTML, JS, CSS, KendoUI**: Thiago is not a designer, but this doesn't stop him from knowing a lot about HTML, CSS and client script, which makes him a great asset to implement a design.   
 
 Before joining SSW, Thiago worked for a consultancy company in Melbourne. There he specialised in SharePoint development and infrastructure. Over the last 5 years, Thiago has focused on assisting clients with: 
 
