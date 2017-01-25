@@ -21,7 +21,10 @@ quote:  "Logic will get you from  A to Z; imagination will get you everywhere"
 ---
 
 [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/FarrukhKhan) 
-  
+ 
+
+![Sitefinity](./Images/Bio/logo_sitefinity.png) 
+
 
 Farrukh is a digital designer and front-end developer at SSW with over ten years of industry experience in digital design, frontend development, and its implementation for various platforms.
 
