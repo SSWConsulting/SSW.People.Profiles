@@ -21,25 +21,25 @@ quote:  "Software is like music. Easy to use but hard to write."
 ---
 
 [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/DanijelMalik) 
-  
-![MVP_FullLogo.png](./Images/Bio/MVP_FullLogo.png) 
+   
+ ![MVP_FullLogo.png](./Images/Bio/MVP_FullLogo.png) 
  ![](./Images/Bio/MCSD_2013(rgb) 
 _1477.jpg) ![MCTS_2013(rgb)_NETFX.jpg](./Images/Bio/MCTS_2013(rgb) 
-_NETFX.jpg)
+_NETFX.jpg) ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
+   
 
  Danijel is a DevOps mastermind who can make your DevOps cycle run like a well-oiled machine. With a wide range of technical skills and a deep desire to understand the client's business first, Danijel is the person you can always rely on to get the best solution.
 
  As Solution Architect, he has been involved in numerous projects built on Microsoft Stack that range from the manufacturing sector to medical services to taxes.
 
-At SSW, Danijel runs some internal projects including being the Product Owner for 
-      [SSW Code Auditor](https://www.ssw.com.au/ssw/CodeAuditor/).With an eye on bleeding edge technologies, he is always one step ahead, and loves sharing his experience at user groups and conferences. 
+At SSW, Danijel runs some internal projects including being the  Product Owner for [SSW Code Auditor](https://www.ssw.com.au/ssw/CodeAuditor/).With an eye on bleeding edge technologies, he is always one step ahead, and loves sharing his experience at user groups and conferences. 
 
    Danijel is also a Microsoft MVP for Visual Studio ALM. 
 
-   Some of his client projects include: 
+   Some of his client projects include : 
 
-*   <strong style="line-height:18px;">Carnival Australia - Cruise Control  
-**Carnival Australia celebrated many successful projects with SSW over the last few years. Due to such a great partnership they wanted SSW to support their Cruise Control application, which is one of the key websites for P&O. Danijel stepped in and took the project to the next level: besides coding Danijel transformed their processes and moved them from a ticketing system in SharePoint to Scrum with TFS. The month long release cycles were replaced with Continuous Delivery and fully automated deployments to production every few days.  
+*   <strong style="line-height:18px;"> Carnival Australia - Cruise Control  
+**Carnival Australia celebrated many successful projects with SSW over the last few years. Due to such a great partnership they wanted SSW to support their Cruise Control application, which is one of the key websites for P&O. Danijel stepped in and took the project to the next level: besides coding Danij el transformed their processes and moved them from a ticketing system in SharePoint to Scrum with TFS. The month long release cycles were replaced with Continuous Delivery and fully automated deployments to production every few days.  
 Related Technologies: TFS, Octopus Deploy, ASP.NET WebAPI, ServiceStack</strong> 
 
 *   **Estate Master - TFS Migration & Release Management**  
@@ -61,4 +61,4 @@ Related Technologies: ASP.NET MVC, AngularJS, SQL Server
 Related Technologies: TFS, Advanced Installer, PowerShell
 *   **PwC - Comply First Time**  
 PwC engaged SSW to help move their flagship business tax reporting platform from Access and SQL server to a modern Angular web application.  
-Related Technology: MVC5, SignalR, SQL Server 2012, AngularJS, Azure
+Related Technology: MVC5, SignalR, SQL Server 2012, AngularJS, Azure 
