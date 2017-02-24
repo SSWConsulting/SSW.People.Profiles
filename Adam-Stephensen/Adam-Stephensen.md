@@ -6,7 +6,7 @@ nickname: "Adam"
 
 legacy_page_url: "/AboutUs/Employees/Pages/AdamS.aspx"
 category: "Managers"
-role:  "Solution Architect, State Manager QLD, Scrum Master"
+role:  "Solution Architect, State Manager QLD"
 qualifications:  "Master of Software Development "
 location: "Brisbane"
 
