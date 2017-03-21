@@ -29,7 +29,7 @@ I am always looking for a new opportunity for learning. Having spent my universi
 
 ### SSW: Code Auditor  
 
-At SSW I have primarily worked upon the Code Auditor project, which is a Web Forms desktop application and VS extension which helps developers maintain code quality in Visual Studio. I helped update the system to utilise the new Roslyn compiller and integrated it into more rules.   
+At SSW I have primarily worked upon the Code Auditor project, which is a Web Forms desktop application and VS extension which helps developers maintain code quality in Visual Studio. I helped update the system to utilise the new Roslyn compiler and integrated it into more rules. I also added several features including automatic emailing services, reporting and a history of scans.  
 
 ### SSW: TimePro Invoicing  
 
