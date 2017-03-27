@@ -20,8 +20,7 @@ skype:  "thiagospassos"
 quote:  "Never give not having time as an excuse not to do something. Set your priorities and goals and you'll find out that a day may have 48 hours"
 ---
 
- 
-[ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/ThiagoPassos) 
+ [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/ThiagoPassos) 
     
 
  ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png) 
