@@ -6,7 +6,7 @@ nickname: "Marlon"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Marlon.aspx"
 category: "Managers"
-role:  "Sales and Marketing Manager, SSW TV Product Owner, FireBootCamp Program Manager"
+role:  "Sales and Marketing Manager"
 qualifications:  ""
 location: "Brisbane"
 
