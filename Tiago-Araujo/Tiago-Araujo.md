@@ -23,13 +23,13 @@ quote:  "It's not what you look at that matters, it's what you see."
  [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/TiagoAraujo) 
     
 
-Tiago is our favourite creative genius. When he told us he wanted to move back to Brazil, we said: "Ok, but you're still working for us". We couldn't let him go.  
+Tiago is our favourite creative genius. When he told us he wanted to move back to Brazil, we said: "Ok, but you're still working remotely for us". We couldn't let him go.  
 
-Tiago is a creative individual who enjoys a challenge. He has five years experience working as a designer for both print and web projects. He also loves spending time playing with Photoshop while listening to old songs. Here are some of his skills:
+Tiago is a creative individual who enjoys a challenge. He has ten years experience working as a designer for both print and web projects. He also loves spending time playing with Photoshop and creating WordPress websites while listening to old songs. Here are some of his skills:
 
-*   Development of Internet/Multimedia solutions, ranging from concept, project, layout, development and implementation;
+*   Development of Internet/Multimedia solutions, ranging from concept, project, layout, development, and implementation;
 *   Image editing and optimization aiming usage at either printed or digital media;
-*   Photoshop, InDesign, Illustrator, Acrobat, Dreamweaver, Fireworks, Flash, Silverlight, CorelDraw, XHTML, CSS and jQuery
+*   Photoshop, InDesign, Illustrator, Acrobat, Dreamweaver, Fireworks, Flash, XHTML, CSS and jQuery
 
 Besides SSW's design enhancement projects, Tiago's past clients include Energy Australia, FastAs, WorleyParsons, The Home Loan Company and Carmody Group.
 
@@ -39,7 +39,7 @@ _ _
 
  *Did you know you can combine properties?*
 
- *Some properties as padding, margin and border have been split. For example, padding has padding-top, padding-right, padding-bottom, and padding-left. If the possibility exists, you should always combine these properties, making it easier to edit and saving you space too:*
+ *Some properties as padding, margin, and border have been split. For example, padding has padding-top, padding-right, padding-bottom, and padding-left. If the possibility exists, you should always combine these properties, making it easier to edit and saving you space too:*
 
 *  
 *
