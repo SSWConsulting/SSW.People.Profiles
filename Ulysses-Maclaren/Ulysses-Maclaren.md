@@ -20,7 +20,7 @@ skype:  "ulyssesmaclaren"
 quote:  "Nothing in life is impossible. The biggest hurdles to success in life are inaction and fear of failure."
 ---
 
-![Certified Scrum Master](./Images/Bio/ScrumMasterCertification.jpg) 
+ ![Certified Scrum Master](./Images/Bio/ScrumMasterCertification.jpg) 
   
 Ulysses is the General Manager of SSW and has been managing the team since 2006.   
 
