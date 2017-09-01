@@ -26,6 +26,10 @@ quote:  "Always code as if the guy who ends up maintaining your code will be a v
   
 </td></tr></tbody></table>
 
-Jason is a passionate solution architect with over 15 years professional experience, currently specialising in enterprise application development utilising ASP.NET MVC, Web API, SignalR, Entity Framework, AngularJS, TypeScript, and Bootstrap. Achieved Master of Information Technology in Software Architecture (2011) and Microsoft Certified Solutions Developer in Web Applications (2016).  
+ Jason is a passionate solution architect with over 15 years professional experience, currently specializing in enterprise application development utilizing ASP.NET MVC, Web API, SignalR, Entity Framework, AngularJS, TypeScript, and Bootstrap. Achieved Master of Information Technology in Software Architecture (2011) and Microsoft Certified Solutions Developer in Web Applications (2016).  
 
 Skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. Highly productive with effective task management skills and a working knowledge of agile methodologies. Passionate about development and problem solving, constantly learning and exploring new technologies, innovations, and trends.  
+
+<iframe width="760" height="428" src="https://www.youtube.com/embed/UON5Rr_CL2M?rel=0" frameborder="0"></iframe> 
+
+I love public speaking and have run the .NET Core Superpowers to sold out audiences in Sydney, Brisbane and Melbourne.  
