@@ -28,11 +28,11 @@ quote:  "Never give not having time as an excuse not to do something. Set your p
  ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
  
 
-Let's start by his personal profile. He's Brazilian which by itself already makes him awesome. He loves dancing, and he's good at it, but hasn't been doing it lately as he barely has any free time apart from watching his son play and laugh.
+Let's start with his personal profile. He's Brazilian which by itself already makes him awesome. He loves dancing, and he's good at it but hasn't been doing it lately as he barely has any free time apart from watching his kids play and laugh.  
 
-Thiago joined SSW in 2014 as a Senior Software Architect. He's specialized in SharePoint and .NET, preferring C#.NET over VB.NET, working on windows and web applications, including some distributed applications and web services.
+Thiago joined SSW in 2014 as a Senior Software Architect. He's specialized in SharePoint and .NET Core, and loves all aspects of C#, working on windows and web applications, including distributed applications and web services.  
 
-Thiago has over 10 years of experience in the IT industry in a wide range of technologies which would take several pages to list everything, but it's worth listing some key points:
+Thiago has over 10 years of experience in the IT industry in a wide range of technologies which would take several pages to list everything, but it's worth listing some key points:  
 
 *   **SharePoint**: he's been working with it since 2009. He's a Microsoft Certified Solutions Developer in SharePoint 2013, Microsoft Certified Professional Developer in SharePoint 2010 and enthusiast in SharePoint 2016.
 *   **ASP.NET MVC**: Microsoft Certified Professional.
