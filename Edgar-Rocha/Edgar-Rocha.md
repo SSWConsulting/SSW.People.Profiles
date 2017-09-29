@@ -20,4 +20,8 @@ skype:  "edgarsenrarocha@outlook.com"
 quote:  "I'd love to change the world, but they didn't give me the source code"
 ---
 
-Expert in full System Development Life Cycle (SDLC) with over 10 years of software development experience in ASP.NET including Angular framework.   
+With over 10 years of software development experience in web applications specialised in ASP.NET MVC, ASP.NET WebForms, MS SQL, HTML5, CSS, Javascript, jQuery and AngularJs. Edgar has had a great deal of exposure to SAP HCM sub-modules.  
+
+Has the ability to understand and transform complex business requirements into software, ensuring applications are delivered on time, to specification, are scalable, performance optimized and maintainable.
+
+A highly motivated individual who is always learning, able to work to tight deadlines, and who can communicate effectively with technical peers as well as business users. Someone who encourages learning and the sharing of ideas and is always open to new ways of working.  
