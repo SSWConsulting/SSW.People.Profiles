@@ -20,10 +20,11 @@ skype:  "thiagospassos"
 quote:  "Never give not having time as an excuse not to do something. Set your priorities and goals and you'll find out that a day may have 48 hours"
 ---
 
- [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/ThiagoPassos) 
+[ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/ThiagoPassos) 
     
 
- ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png) 
+ ![azure-logo.png](./Images/Bio/azure-logo.png) 
+![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png) 
  ![Special_ProgHTML5_Blk.png](./Images/Bio/Special_ProgHTML5_Blk.png) 
  ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
  
@@ -34,14 +35,19 @@ Thiago joined SSW in 2014 as a Senior Software Architect. He's specialized in Sh
 
 Thiago has over 10 years of experience in the IT industry in a wide range of technologies which would take several pages to list everything, but it's worth listing some key points:  
 
-*   **SharePoint**: he's been working with it since 2009. He's a Microsoft Certified Solutions Developer in SharePoint 2013, Microsoft Certified Professional Developer in SharePoint 2010 and enthusiast in SharePoint 2016.
-*   **ASP.NET MVC**: Microsoft Certified Professional.
-*   **Angular 2.0**: The current favourite   
+*   **Azure:** loves doing Serverless with Functions, containers with Kubernetes and all things Azure****  
 
-*   **SQL**: he's been working with it for as long as he can remember.
-*   **HTML, JS, CSS, KendoUI**: Thiago is not a designer, but this doesn't stop him from knowing a lot about HTML, CSS and client script, which makes him a great asset to implement a design.    
+*   **Angular:** The current favorite  
 
-Before joining SSW, Thiago worked for a consultancy company in Melbourne. There he specialised in SharePoint development and infrastructure. Over the last 5 years, Thiago has focused on assisting clients with:
+*   **ASP.NET MVC**: Microsoft Certified Professional  
+
+*   **SharePoint: **he's been working with it since 2009. He's a Microsoft Certified Solutions Developer in SharePoint 2013, Microsoft Certified Professional Developer in SharePoint 2010 and enthusiast in SharePoint 2016  
+
+*   **SQL**: he's been working with it for as long as he can remember  
+
+*   **HTML, JS, CSS, KendoUI**: Thiago is not a designer, but this doesn't stop him from knowing a lot about HTML, CSS and client script, which makes him a great asset to implement a design   
+
+Before joining SSW, Thiago worked for a consultancy company in Melbourne. There he specialized in SharePoint development and infrastructure. Over the last 5 years, Thiago has focused on assisting clients with:
 
 *   SharePoint solution architecture
 *   Automating SharePoint deployment and configuration
