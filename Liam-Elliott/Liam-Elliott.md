@@ -20,7 +20,7 @@ skype:  "liam.sswsyd@gmail.com"
 quote:  ""
 ---
 
-Liam Elliott is a Senior Software Architect with SSW. He is a certified Professional Scrum Master with experience across the media, telecommunications, foreign exchange, and HR sectors.  
+Liam Elliott is a Solution Architect with SSW. He is a certified Professional Scrum Master with experience across the media, telecommunications, foreign exchange, and HR sectors.  
 
 With an initial focus on WPF and desktop applications, I have been in the .NET world for well over 12 years. Starting out in .NET 2.0, adopting the benefits of each new release and most recently moving into .NET Core. The introduction of rich Javascript frameworks opened my eyes to what can be achieved in the browser and these days I've transfered my UI development efforts into the web.  
 
