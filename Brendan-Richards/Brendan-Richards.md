@@ -23,26 +23,33 @@ quote:  "Open Source Software is not about the price. Its about the freedom to u
  [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/BrendanRichards) 
   
 ![Microsoft Certified Solutions Developer](./Images/Bio/MCSD_2013(rgb) 
-_1477.jpg) ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
+_1477.jpg) ![dotnetcore.png](./Images/Bio/dotnetcore.png) 
+![angular.png](./Images/Bio/angular.png) 
+![ngrx.jpg](./Images/Bio/ngrx.jpg) 
+![liinux.jpg](./Images/Bio/liinux.jpg) 
   
 
-   Throughout his career, Brendan has been a big user and proponent of Open Source software. This has been applied to a broad variety of web-based programming projects spanning the last 12 years.  Brendan has worked with an eclectic mix of languages, platforms and technologies including .Net, Java, PHP, Ruby and Perl across both Unix/Linux and Microsoft Windows platforms. This gives Brendan some unique perspectives on how different teams & platforms have tackled similar problems.  
+   Throughout his career, Brendan has been a big user and proponent of Open Source software. This has been applied to a broad variety of web-based programming projects spanning the last 17 years.  Brendan has worked with an eclectic mix of languages, platforms and technologies including .Net, Java, PHP, Ruby and Perl across both Unix/Linux and Microsoft Windows platforms. This gives Brendan some unique perspectives on how different teams & platforms have tackled similar problems.  
 
-   Brendan has also been an advocate and user of ORM systems including:  
+Since joining SSW in 2012, Brendan has been delivering great solutions on the .NET stack for his clients. He is also been sharing his knowledge and experience with the wider developer community by:  
 
-*   Entity Framework 
-*   NHibernate / Hibernate (for .NET / Java respectively) 
-*   Ruby ActiveRecord 
-*   OJB - Java ORM tool 
-*   Doctrine – PHP ORM 
-*   Propel – PHP ORM
-   In his own words:  
+*   Speaking at Conferences such as NDC and DDD  
+[https://www.youtube.com/watch?v=fGmbXCrgKtg](https://www.youtube.com/watch?v=fGmbXCrgKtg)  
 
-<em class="ms-rteFontSize-2">I think it’s a very exciting time in the .NET space at the moment. The iterations of the .NET platform over the past few years have left other languages far behind. Powerful new core features such as Lambda Expressions have led to an explosion of expressive fluent tools. This has been combined with a shifting approach from Microsoft development teams to embrace open source: both with support for 3rd party open source and by releasing their own stuff to the community. Microsoft has open-sourced a lot of their properties recently which makes me happy and means that there’s never been a better time to jump full-time into .NET development. Projects that particularly interest me at the moment are:*  
+*   Speaking at .NET User Groups  
 
-*   MVC– I’ve been using MVC systems under other platforms for years. It was great to see Microsoft finally join the party over those cumbersome web forms. Wish I could have the time it took to learn that overcomplicated page lifecycle back! :-) 
-*   NuGet- http://www.nuget.org/ 
-*   Entity Framework - http://msdn.microsoft.com/en-us/data/ef.aspx 
-*   Ninject- http://www.ninject.org/ 
-*   Postsharp- http://www.sharpcrafters.com/ 
-*   Glimpse - http://getglimpse.com/ </em>
+*   Delivering Training on .NET Core and Angular Via SSW's FireBootCamp Dev SuperPowers.  
+[https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)  
+[https://www.ssw.com.au/ssw/Events/Training/NET-Core-Superpowers-Tour.aspx](https://www.ssw.com.au/ssw/Events/Training/NET-Core-Superpowers-Tour.aspx)  
+
+*   Getting involved in othe community events including "Angular Hackday" and "Hack4Good"  
+
+Some of his favourite things include:  
+
+*   .NET Core - especially the cross-platform support for Linux  
+
+*   Typescript and moden client side development with Angular CLI and ngrx  
+
+*   Elastic Search  
+
+*   Clean Architecture  
