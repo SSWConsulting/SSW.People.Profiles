@@ -28,13 +28,13 @@ quote:  "I believe positive mental attitude leads to excellence."
 ![MCTS-MSOSPSvr7AppD-logo-BW.png](./Images/Bio/MCTS-MSOSPSvr7AppD-logo-BW.png) 
 
 
-William is a software developer at SSW. He specializes in developing solutions with SharePoint (with client side javascript extensions – mostly with JQuery and Angular) , ASP.NET and SQL server.  
+William is a software developer at SSW. He specializes in developing solutions with SharePoint (with client side javascript extensions – mostly with JQuery, Angular and React) , ASP.NET, SQL server and Azure.  
 
  **Background:** 
 
 *   William started off on the IT pro side before switching to become a developer. Back in the day he first became a Microsoft Certified System Engineer in early 2002. He worked on extending Microsoft Exchange and Lync and other collaboration systems for different Enterprises based on Microsoft's Active Directory infrastructure.  
 
-*   William first met SharePoint in 2006, since then, he has been working with SharePoint for over a decade. He can prove it by his grey hairs. 
+*   William first met SharePoint in 2006, since then, he has been working with SharePoint for over a decade.
 
 **William's selected client projects: **
 
