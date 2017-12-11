@@ -44,7 +44,7 @@ Related Technology: SharePoint, ASP.NET C# and SQL.
 *   [Aftercare](http://www.aftercare.com.au/) - Upgraded SharePoint intranet from 2010 to 2013 and enhanced it with My Site portal configuration, search enhancement, SSL setting up, Office Web App and Active Directory integration. Users gained centralized locations for documents storage, collaboration, enterprise search as well as in-browser documents editing experience.  
 Related Technology: SharePoint, Office Web App, Active Directory.   
 
-*   [Bupa](https://www.bupa.com.au/) - Developed a "claim case management" web system which is used to replace Excel client to manage "insurance claim cases". The system provides morden responsive UI, better claim case status control and search experience.  
+*   [Bupa](https://www.bupa.com.au/) - Developed a "claim case management" web system which is used to replace Excel client to manage "insurance claim cases". The system provides modern responsive UI, better claim case status control and search experience.  
 Related Technology: ASP.NET, MVC,  C#, CSS, JQuery and Web API.   
 
 *   [Rydges Hotel flexible booking system](https://bookings.rydges.com/rates#Flexible) - Developed a complex backend and simple to use frontend that included a fast calendar date picker and brought much flexibility for users to book their favourite room type.  
