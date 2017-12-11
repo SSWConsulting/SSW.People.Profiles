@@ -45,7 +45,7 @@ Related Technology: SharePoint, ASP.NET C# and SQL.
 Related Technology: SharePoint, Office Web App, Active Directory.   
 
 *   [Bupa](https://www.bupa.com.au/) - Developed a "claim case management" web system which is used to replace Excel client to manage "insurance claim cases". The system provides modern responsive UI, better claim case status control and search experience.  
-Related Technology: ASP.NET, MVC,  C#, CSS, JQuery and Web API.   
+Related Technology: ASP.NET, MVC,  C#, CSS, JQuery, Web API and Telerik controls.   
 
 *   [Rydges Hotel flexible booking system](https://bookings.rydges.com/rates#Flexible) - Developed a complex backend and simple to use frontend that included a fast calendar date picker and brought much flexibility for users to book their favourite room type.  
 Related Technology: ASP.NET, MVC,  C#, CSS, JQuery and Web Services.   
