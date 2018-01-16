@@ -20,8 +20,7 @@ skype:  "adamcogan"
 quote:  "Talent can fix tricky bugs, but teamwork and brains build great software. "
 ---
 
- 
-   [ ![BookAdamNow.png](./Images/Bio/BookAdamNow.png)](http://veethere.com/With/AdamCogan) 
+ [ ![BookAdamNow.png](./Images/Bio/BookAdamNow.png)](http://veethere.com/With/AdamCogan) 
 ![](./Images/Bio/microsoftCertified.jpg) 
 ![](./Images/Bio/Microsoft-Regional-Director-35h.png) 
 ![](./Images/Bio/scrumtrainer.png) 
@@ -62,7 +61,7 @@ In addition Adam is a regular speaker at the SSW User Group and conferences, inc
 
 Adam is also the president of the Microsoft .NET User Groups in Sydney and Canberra, and is also the chair of the Speaker Bureau of the APAC INETA organization.  
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/0gSgpzmbrBM" frameborder="0"></iframe> 
+<iframe width="710" height="400" src="https://www.youtube.com/embed/0gSgpzmbrBM" frameborder="0"></iframe> 
 
 ##  
    Made in Australia, China and beyond
