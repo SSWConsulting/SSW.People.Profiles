@@ -21,7 +21,7 @@ quote:  "The greatest thing in this world is not so much where we stand as in wh
 ---
 
 ![Certified Scrum Master](./Images/Bio/ScrumMasterCertification.jpg) 
- 
+   
 
 Lindsay has worked with many organizations from tech start-ups to multi-nationals to help them achieve their growth ambitions and empowers SSW customers to continue their growth stories both in Australia and internationally.  
 
