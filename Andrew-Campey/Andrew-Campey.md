@@ -22,7 +22,7 @@ quote:  "Excuses are a roadblock designed to prevent us from fixing the underlyi
 
 Andrew is a Senior Software Architect based in SSW's Melbourne office.  He's an engaging consultant who loves helping clients reach new heights. He is energised by taking products and pushing them to greater heights.  
 
-Andrew is one of our Dynamics 365 experts and has a decade of implementing both On-Premise, and Cloud based solutions for clients as small as one or two staff up to hundreds of active users.  
+Andrew is one of our Dynamics 365 experts and has a decade of implementing both on-premises, and cloud-based solutions for clients ranging from a couple of staff up to hundreds of active users.  
 
 Andrew is also one of our resident Angular trainers who enjoys seeing our students flourish into some of the best Angular Developers in the business.  
 
