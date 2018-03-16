@@ -38,6 +38,9 @@ William is a software developer at SSW. He specializes in developing solutions w
 
 **William's selected client projects: **
 
+*   **[Allianz](https://www.allianz.com/)** - PAGE (Partnered Allianz Global Education) is an online solution for Allianz marketing and selling of ancillary products and services to students studying abroad (to make students' overseas lives easier), integrated with the existing IH (International Health) system.   
+Related Technology: ASP.NET Core, Angular 4, Bootstrap 4, PrimeNG and SQL server.  
+
 *   [Coffey](http://www.coffey.com/) - Integrated "project management system CPN" and "SharePoint sites" with trusted domain from "tetratech", automate permission setting for switched domain users. Also provided technical support for data conversion.  
 Related Technology: SharePoint (2007, 2010 and SharePoint online in Office 365), ASP.NET C# and SQL.  
 
