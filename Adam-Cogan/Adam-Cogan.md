@@ -27,7 +27,7 @@ quote:  "Talent can fix tricky bugs, but teamwork and brains build great softwar
 ![](./Images/Bio/scrum-badges.jpg) 
   
 
-Adam Cogan is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom .NET, SharePoint, Business Intelligence, and CRM solutions. At SSW, Ad am has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, Worley Parsons, and Aurecon.   
+Adam Cogan is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom .NET Core, Angular, React, SharePoint, Business Intelligence, and CRM solutions. At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, Worley Parsons, and Aurecon.   
 
 Adam is a Certified Scrum Trainer with scrum.org, trains developers in Australia, the US, UK and Europe, and contributes to scrum.org thinking. He consults with development teams on improving their scrum process through mentoring and being a proxy scrum master. He has written many rules around scrum best practices.
 
