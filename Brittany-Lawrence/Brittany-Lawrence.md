@@ -6,7 +6,7 @@ nickname: "Brittany"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Brittany.aspx"
 category: "Admin"
-role:  "Sales and Marketing Assistant"
+role:  "Marketing Coordinator"
 qualifications:  "B Business (Marketing)"
 location: "Sydney"
 
