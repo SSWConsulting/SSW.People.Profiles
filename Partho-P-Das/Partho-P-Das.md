@@ -22,7 +22,7 @@ quote:  "Long Live SSW!"
 
 Partho has shipped a variety of products during his time at Microsoft.(VS Online, VS Platform, Hyper-V, Silverlight/Compact Framework runtimes, J# language tools, MSBuild, MSI, etc.).  
 
-He is passionate about core engineering skillsets (TDD, Refactoring, Pair Programming, Emergent Design). He can code in F#/C#/TypeScript.  
+He is passionate about core engineering skillsets (TDD, Refactoring, Pair Programming, Emergent Design). He can code in F#/C#/TypeScript/PowerShell.  
 
 In his spare time, he enjoys investigating and hacking the inner workings of his mind.  
 
