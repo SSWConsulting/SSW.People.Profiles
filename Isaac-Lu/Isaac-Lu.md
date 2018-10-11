@@ -6,7 +6,7 @@ nickname: "Isaac"
 
 legacy_page_url: "/AboutUs/Employees/Pages/IsaacLu.aspx"
 category: "Developers"
-role:  "Intern"
+role:  "Software Developer"
 qualifications:  "Bachelor of Information Network Engineering"
 location: "Other"
 
