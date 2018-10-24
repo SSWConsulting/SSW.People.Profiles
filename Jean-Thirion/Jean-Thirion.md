@@ -21,24 +21,23 @@ quote:  "There is no shame in not knowing. The problem arises when irrational th
 ---
 
  ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png) 
-![MCSD App Builder-logo-Blk.png](./Images/Bio/MCSD%20App%20Builder-logo-Blk.png) 
+ ![MCSD App Builder-logo-Blk.png](./Images/Bio/MCSD%20App%20Builder-logo-Blk.png) 
  ![angular.png](./Images/Bio/angular.png) 
   
 
-Jean is a software developer at SSW. His field of expertise is **SharePoint Applications**, both **server-side **and **client****-side**, leveraging the **latest technologies** to deliver high-quality applications to clients. He is one of SSW's **Angular** trainer, delivering high quality applications. He has also been involved in various **ASP.Net MVC / WebAPI** projects.   
+Jean is a **solution architect** at **SSW**. His main fields of expertise are** SharePoint Applications**, **Angular **and **.Net Core**. He has also been involved in various **ASP.Net MVC / WebAPI** projects. 
 
-Highly motivated******** and with strong**** skills<strong style="background-color:initial;">**, he is able to understand and convert complex business requirements into software solutions. He is also able to use his **expertise** and **experience**<strong style="background-color:initial;"> **to suggest the **best**<strong style="background-color:initial;"> practices** for any given scenario.
+His deep knowledge of **SharePoint's **many capabilities, combined with the** latest technologies (Angular, React, SPFx)**, let him propose **high-quality tailored** SharePoint Applications to **clients**.
 
-Jean has been working with SharePoint for the past 5 years, in **France**, **Luxembourg**, and now **Australia**. Jean has been involved with a wide variety of projects, from small companies to international firms, in both private and public sectors. He runs the [Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx) across Australia.  
+Jean has been working with **SharePoint **for the past 6 years, in **France**, **Luxembourg**, and now **Australia**. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.  
 
-**SharePoint Third Party tools & Add-ons :**
+When he is not leveraging this **knowledge **to develop **client applications**, Jean is one of **SSW's Angular trainers,** running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.
 
-*   PNP Libraries & provisioning engine  
+Jean is **highly motivated**, with strong technical skills, which allows him to understand and convert complex business requirements into software solutions. He is also able to use his expertise and experience to suggest best practices applicable for any given scenario.  
 
-*   Nintex Workflows  
+ **SharePoint Third Party tools & Add-ons:**  
 
-*   AvePoint  
-
-*   HightCharts for SharePoint   
-
-</strong></strong></strong>
+*   PNP Libraries & provisioning engine
+*   SpFx
+*   Nintex Workflows
+*   AvePoint / ShareGate
