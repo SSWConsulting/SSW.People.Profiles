@@ -20,6 +20,9 @@ skype:  "miichael.smedley"
 quote:  "Great spirits have always encountered violent opposition from mediocre minds."
 ---
 
+![Image result for certified scrum master logo](./Images/Bio/SAI_BadgeSizes_DigitalBadging_CSM.png) 
+ 
+
 Michael is a highly creative and driven person with many “outside the box ideas” and a passion for technology and innovation.   
 
 He has worked with many organizations, from tech start-ups to multi-nationals, to help them build businesses that are profitable and he empowers SSW customers to continue their growth stories in Melbourne (I'm a Richmond supporter).   
@@ -29,6 +32,8 @@ He has had many successes in his past in direct sales, channel management, and p
 Setting up CRM, pipelines sales commission plans, quoting tools and KPIs - He has also set up and run offshore BPO sales teams.   
 
 Michael Specialises in:
+
+*   Digital Marketing and Sales Strategy  
 
 *   Building business cases and cost-benefit analysis  
 
