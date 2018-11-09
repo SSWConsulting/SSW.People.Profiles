@@ -6,7 +6,7 @@ nickname: "Jean Thirion"
 
 legacy_page_url: "/AboutUs/Employees/Pages/JeanThirion.aspx"
 category: "Developers"
-role:  "Senior Software Architect"
+role:  "Solution Architect"
 qualifications:  "MCSD - SharePoint Applications - App Builder"
 location: "Sydney"
 
