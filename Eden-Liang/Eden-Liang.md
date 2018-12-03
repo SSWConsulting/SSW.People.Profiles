@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Actions speak louder than words"
 ---
 
-Eden is a passionate developer with over 6 years of.NET development experience, 3 years React/Angular experience, and is a Scrum Technical Team Leader.  
+ Eden is a passionate developer with over 6 years of.NET development experience, 3 years React/Angular experience, and is a Scrum Technical Team Leader.  
 
 He loves to learn new technologies and is an all round developer who is particularly good at Front-end. As a React Evangelist, he has done many presentations in the community to introduce React.  
 
