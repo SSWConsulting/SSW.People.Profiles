@@ -20,12 +20,10 @@ skype:  ""
 quote:  "Actions speak louder than words"
 ---
 
- Eden is a passionate developer with over 6 years of.NET development experience, 3 years React/Angular experience, and is a Scrum Technical Team Leader.  
+I'm a passionate developer with over 6 years of.NET development experience, 3 years React/Angular experience, and is a Scrum Technical Team Leader.
 
-He loves to learn new technologies and is an all round developer who is particularly good at Front-end. As a React Evangelist, he has done many presentations in the community to introduce React.  
+I love to learn new technologies and is an all-around full stack developer who is particularly good at Front-end. As a React evangelist, he has done many presentations in the community at Fire User group, Hangzhou.
 
-Eden graduated from Hangzhou Dianzi University majoring in Software Engineering.  
+I graduated from Hangzhou Dianzi University majoring in Software Engineering.
 
-Eden originally practised Scrum with his team while working at MIntcode.  
-
-Outside of work, Eden love to ride, and play badminton.  
+Outside of work, I love to ride and play badminton.   
