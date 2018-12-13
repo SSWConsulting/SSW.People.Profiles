@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "ThiagoPassos"
 name: "Thiago Passos"
 nickname: "Thiago"
@@ -45,7 +45,7 @@ Thiago has over 10 years of experience in the IT industry in a wide range of tec
 
 *   **SQL**: he's been working with it for as long as he can remember  
 
-*   **HTML, JS, CSS, KendoUI**: Thiago is not a designer, but this doesn't stop him from knowing a lot about HTML, CSS and client script, which makes him a great asset to implement a design   
+*   **HTML, JS, CSS, KendoUI**: Thiago is not a designer, but this doesn't stop him from knowing a lot about HTML, CSS and client script, which makes him a great asset to implement a design    
 
 Before joining SSW, Thiago worked for a consultancy company in Melbourne. There he specialized in SharePoint development and infrastructure. Over the last 5 years, Thiago has focused on assisting clients with:
 
