@@ -20,6 +20,22 @@ skype:  ""
 quote:  "Perfect is the enemy of good (Aphorism)"
 ---
 
-Joanna's role at SSW is Personal Assistant to Chief Architect Adam Cogan, as well as the day-to-day running of the office. She helps organise SSW training events and User Groups, and also puts together the regular newsletter that is distributed to company friends and clients to keep them in the loop with what's happening at SSW.  
+Joanna holds a degree in writing and editing, and loves to bring her eye for detail and creative spin to any task she is assigned – though her favourite tasks are always those that involve writing and content creation, such as blog posts, ebooks, articles, and the SSW monthly newsletter.
 
-She is loving getting to use her eye for detail, strong organisational skills, and knowledge of HTML in a friendly office atmosphere.  
+Joanna has been with SSW for more than 5 years. She got her start in SSW’s Sydney headquarters before moving to Melbourne to help establish the SSW Melbourne office, where she still works today.   
+
+Her primary skills are:  
+
+*   Copywriting and editing  
+
+*   Content creation  
+
+*   Social media management  
+
+*   Event planner and management  
+
+*   Office administration  
+
+*   PA  
+
+*   and more  
