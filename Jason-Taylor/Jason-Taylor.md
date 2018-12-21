@@ -20,16 +20,20 @@ skype:  "jasongtau"
 quote:  "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
 ---
 
-<table cellspacing="0" class="ms-rteTable-0" style="width:100%;"><tbody><tr class="ms-rteTableEvenRow-0"><td class="ms-rteTableEvenCol-0" style="width:50%;">![](./Images/Bio/MSCertCombined.png) 
+<table cellspacing="0" class="ms-rteTable-0 " style="width:80%;height:197px;"><tbody><tr class="ms-rteTableEvenRow-0"><td class="ms-rteTableEvenCol-0" style="width:50%;">![](./Images/Bio/MSCertCombined.png) 
   
-</td><td class="ms-rteTableOddCol-0" style="width:50%;">![](./Images/Bio/PSDI.png) 
+</td><td class="ms-rteTableOddCol-0" style="width:38%;">![](./Images/Bio/PSDI.png) 
+   
+
+</td><td class="ms-rteTableEvenCol-0" colspan="1" style="width:50%;">  
+![SAI_BadgeSizes_DigitalBadging_CSM.png](./Images/Bio/SAI_BadgeSizes_DigitalBadging_CSM.png) 
   
 </td></tr></tbody></table>
 
- Jason is a passionate solution architect with over 15 years professional experience, currently specializing in enterprise application development utilizing ASP.NET MVC, Web API, SignalR, Entity Framework, AngularJS, TypeScript, and Bootstrap. Achieved Master of Information Technology in Software Architecture (2011) and Microsoft Certified Solutions Developer in Web Applications (2016).  
+ Jason is a passionate solution architect, trainer, mentor, and full stack developer with 20 years professional experience. He currently specializes in building and teaching enterprise application development utilizing .NET Core, Angular, Vue.js, and Azure. Jason achieved a Master of Information Technology in Software Architecture (2011) and Microsoft Certified Solutions Developer in Web Applications (2016). Jason loves a challenge and is skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.  
 
-Skilled at progressing from a simple proposal into a well-defined, coded, and tested solution. Highly productive with effective task management skills and a working knowledge of agile methodologies. Passionate about development and problem solving, constantly learning and exploring new technologies, innovations, and trends.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_lwCVE_XgqI?controls=0" frameborder="0"></iframe>
 
-<iframe width="760" height="428" src="https://www.youtube.com/embed/UON5Rr_CL2M?rel=0" frameborder="0"></iframe> 
+Jason loves public speaking and has run the .NET Core Superpowers to sold out audiences in Sydney, Brisbane and Melbourne. 
 
-I love public speaking and have run the .NET Core Superpowers to sold out audiences in Sydney, Brisbane and Melbourne.  
+[Click here](http://www.codingflow.net/speaking/) to view upcoming and past speaking events.  
