@@ -6,7 +6,7 @@ nickname: "Gabe"
 
 legacy_page_url: "/AboutUs/Employees/Pages/GabrielGeorge.aspx"
 category: "Developers"
-role:  "Software Architect"
+role:  "Senior Software Architect"
 qualifications:  "Master of Information Technology (Software Development)"
 location: "Melbourne"
 
@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Failing is how you learn best. To not to try would be your greatest fall."
 ---
 
-Gabriel is a Software Architect at the SSW Melbourne Office. He specialises in Angular-NgRx Front-End Development.   
+Gabe is a Senior Software Architect at the SSW Melbourne Office. He specialises in Angular-NgRx Front-End Development.   
 
 He is a very motivated person that loves to share his knowledge with his peers. He loves to learn new technologies, especially the cutting edge ones.   
 
