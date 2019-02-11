@@ -20,10 +20,12 @@ skype:  "parthopdas"
 quote:  "Long Live SSW!"
 ---
 
-Partho has shipped a variety of products during his time at Microsoft.(VS Online, VS Platform, Hyper-V, Silverlight/Compact Framework runtimes, J# language tools, MSBuild, MSI, etc.).  
+Partho has shipped a variety of products during his 14 years at Microsoft. He was the Engineering Manager for Azure DevOps Release Management v1 & Log analytics & search services. Prior to that he helped ship VS Platform, Hyper-V, Silverlight/Compact Framework runtimes, J# language tools, MSBuild, MSI, etc. products.  
 
-He is passionate about core engineering skillsets (TDD, Refactoring, Pair Programming, Emergent Design). He can code in F#/C#/TypeScript/PowerShell.  
+He has in depth experience on building secure & scalable services on Azure. His current area of focus is shipping snappy modern front-end using Angular & NgRx.  
 
-In his spare time, he enjoys investigating and hacking the inner workings of his mind.  
+He is passionate about core engineering skillsets: TDD, Refactoring, Pair Programming, Emergent Design, Legacy code refactoring. He loves to mix and match OO and FP depending on the problem at hand. He is fluent in F#/C#/TypeScript/PowerShell.  
 
-He stays in Brisbane with his owner, Kittu (a feisty grey tabby).  
+In his spare time, he enjoys investigating and hacking the inner workings of his mind.  
+
+He stays in Brisbane with his owner, Kittu (a feisty grey tabby).  
