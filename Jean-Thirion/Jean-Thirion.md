@@ -25,7 +25,7 @@ quote:  "There is no shame in not knowing. The problem arises when irrational th
  ![angular.png](./Images/Bio/angular.png) 
   
 
-Jean is a **solution architect** at **SSW**. His main fields of expertise are** SharePoint Applications**, **Angular **and **.Net Core**. He has also been involved in various **ASP.Net MVC / WebAPI** projects. 
+Jean is a **solution architect** at **SSW**. His main fields of expertise are** SharePoint Applications**, **Angular **and **.NETCore**. He has also been involved in various **ASP.Net MVC / WebAPI** projects. 
 
 His deep knowledge of **SharePoint's **many capabilities, combined with the** latest technologies (Angular, React, SPFx)**, let him propose **high-quality tailored** SharePoint Applications to **clients**.
 
