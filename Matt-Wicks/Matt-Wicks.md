@@ -29,4 +29,4 @@ Matt has had experience in the finance sector with:
 *   PABX systems
 *   B2B integrations (including direct entry bank entry APIs)
 
-Matt likes clean OO designs, seeing a project with suites of passing unit tests, Selenium automation and sometimes he still reminisces about WebForms.
+Matt likes good DevOps, clean OO designs, seeing a project with suites of passing unit tests, Selenium automation and sometimes he still reminisces about WebForms.
