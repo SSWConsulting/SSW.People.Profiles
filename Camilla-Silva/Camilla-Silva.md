@@ -28,11 +28,13 @@ Camilla's specialties are:
 
 *   Email Marketing
 *   Social Media
-*   SEO
+*   SEO  
+
 *   Paid Advertising
 *   Content Strategy
-*   Google Rankings/Ads
+*   Google Rankings/Ads  
+
 *   SEM
 *   Marketing Automation  
 
-Focused on improving marketing results and business development process efficiencies and meeting performance objectives, she’s able to quickly adapt to any situation.  
+Focused on improving marketing results and business development process efficiencies and meeting performance objectives, she’s able to quickly adapt to any situation.   
