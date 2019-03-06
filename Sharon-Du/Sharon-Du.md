@@ -24,4 +24,4 @@ Sharon works at SSW China in Office Administration and HR. She loves using her e
 
 She was previously a partner at a tech startup from 2014 to 2017. The experience gave her 3 years of admin experience and a passion for the working atmosphere of the tech world.  
 
-Sharon is indomitable and loves a challenge.   
+Sharon is indomitable and loves challenges.   
