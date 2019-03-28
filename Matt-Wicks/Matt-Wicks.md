@@ -41,4 +41,4 @@ Matt has had experience with large ASX listed companies in the finance and HR se
 
 *   PABX systems  
 
-Matt loves DevOps, DevOps and DevOps. He has experience with Azure DevOps Build and Release and these days prefers it over Octopus and Bamboo. Matt likes clean OO designs, using the right tool for the job, seeing developers push changes to production with confidence, Selenium automation and sometimes he still reminisces about WebForms.  
+Matt loves DevOps, DevOps and DevOps (it's so important it had to be mentioned thrice). He has experience with Azure DevOps Build and Release and these days prefers it over Octopus and Bamboo. Matt likes clean OO designs, using the right tool for the job, seeing developers push changes to production with confidence, Selenium automation and sometimes he still reminisces about WebForms.  
