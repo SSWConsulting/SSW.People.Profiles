@@ -6,7 +6,7 @@ nickname: "Lindsay"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Lindsay.aspx"
 category: "Managers"
-role:  "GM International"
+role:  "General Manager International"
 qualifications:  "MBA (Intl Bus) | JP (Qual) | Certified Scrum Master"
 location: "Brisbane"
 
