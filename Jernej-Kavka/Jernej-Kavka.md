@@ -50,17 +50,22 @@ Infomedia needed to upgrade their applications to a newer version of the Angula
 
 **Related Technology**: Angular, TypeScript  
 
-</td></tr><tr class="ms-rteTableFooterRow-default"><td class="ms-rteTableFooterEvenCol-default" rowspan="1" style="width:165px;height:36px;text-align:center;">![Long Service Corporation](./Images/Bio/LongServiceCorporation.gif) 
+</td></tr><tr class="ms-rteTableOddRow-default"><td class="ms-rteTableEvenCol-default" rowspan="1" style="width:165px;height:36px;text-align:center;">![Long Service Corporation](./Images/Bio/LongServiceCorporation.gif) 
   
 
-</td><td class="ms-rteTableFooterOddCol-default" rowspan="1" style="width:673px;height:36px;">
+</td><td class="ms-rteTableOddCol-default" rowspan="1" style="width:673px;height:36px;">
 
   <strong class="ms-rteThemeForeColor-2-0">Long Service Corporation**  
 Long Service Corporation engaged SSW to redesign and refactor their Worker Portal application, used by workers to download their statements. This application will be extended to include claims for workers. The new software design of the application includes multiple services which can be shared between projects.
 
  **Related Technology**: ASP.Net MVC, Entity Framework, WebAPI, TypeScript, jQuery  
 
-</strong></td></tr></tbody></table>
+</strong></td></tr><tr class="ms-rteTableFooterRow-default"><td class="ms-rteTableFooterEvenCol-default" rowspan="1" style="width:165px;height:36px;text-align:center;">![d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg](./Images/Bio/d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg) 
+</td><td class="ms-rteTableFooterOddCol-default" rowspan="1" style="width:673px;height:36px;">**Banpu**  
+Banpu engaged SSW to develop a PWA application that can be used online and offline in various situations. We have worked with several different teams from different countries and parts of Australia, and the main focus for SSW was delivering micro-services, offline and syncing capabilities of the PWA application, a desktop administration website, the mobile UX animations, and migrating data from Excel spreadsheets. We delivered all of the features with high code coverage with unit and component tests.  
+
+**Related Technology**: React, PWA, CosmosDB, NodeJS, .NET Core  
+</td></tr></tbody></table>  
 
 Jernej's internal projects include:  
 <table class="ms-rteTable-default" cellspacing="0" style="width:100%;"><tbody><tr><td class="ms-rteTable-default" style="width:1%;text-align:center;">![](https://timepro.wpengine.com/wp-content/uploads/2015/11/timepro-logo.png) 
@@ -68,12 +73,15 @@ Jernej's internal projects include:
 </td><td class="ms-rteTable-default" style="width:50%;">
        **SSW ****Time****Pro **-** **Timesheeting and invoicing application that integrates with CRM and TFS servers.  
 
-**Related Technology**: Angular2, TypeScript, MVC 5, SQL Server 2012, jQuery, WebAPI, Kendo UI.  
+**Related Technology**: Angular, TypeScript, MVC 5, SQL Server 2012, jQuery, WebAPI, Kendo UI  
 </td></tr><tr><td class="ms-rteTable-default" style="width:1%;text-align:center;">![](./Images/Bio/SugarLearning_Logo.png) 
 </td><td class="ms-rteTable-default">**SugarLearning** is a simple induction training website used to get new employees up to speed and track their progress.  
 
-**Related Technology**: Angular2, TypeScript, MVC 5, SQL Server 2012, jQuery, WebAPI, Kendo UI   
+**Related Technology**: Angular, TypeScript, MVC 5, SQL Server 2012, jQuery, WebAPI, Kendo UI   
 </td></tr><tr><td>![sophie-logo.png](./Images/Bio/sophie-logo.png) 
   
 </td><td> 
-       **Sophie** is a smart receptionist that recognizes incoming guests and lets them know about their agenda and information relevant to them. In the future, Sophie will be used a full smart office solution.</td></tr></tbody></table>
+       **Sophie** is a smart receptionist that recognizes incoming guests and lets them know about their agenda and information relevant to them. In the future, Sophie will be used a full smart office solution.  
+
+**Related Technology: **React, .NET Core, SignalR, Cognitive Services, Azure Bots, Azure Functions  
+</td></tr></tbody></table>
