@@ -20,4 +20,4 @@ skype:  "hveraus"
 quote:  "You gotta see the world before you can change it."
 ---
 
-Ken is a Product Designer at SSW Hangzhou Office. He has been working in the interactive design industry for more than 10 years, both in China and Australia. After graduating from University of Queensland, he co-founded 2 startups over 7 years before joining SSW in 2019. At SSW he have been focusing on user experience design.  
+Ken is a Product Designer at SSW Hangzhou Office. He has been working in the interactive design industry for more than 10 years, both in China and Australia. After graduating from University of Queensland, he co-founded 2 startups over 7 years before joining SSW in 2019. At SSW he has been focusing on user experience design.  
