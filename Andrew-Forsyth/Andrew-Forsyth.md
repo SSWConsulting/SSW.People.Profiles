@@ -6,7 +6,7 @@ nickname: "Andrew"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Andrew-Forsyth.aspx"
 category: "Designers"
-role:  "Video Producer/ Director/ Editor"
+role:  "Video Producer"
 qualifications:  "MBA, B.Ec."
 location: "Sydney"
 
