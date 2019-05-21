@@ -20,7 +20,7 @@ skype:  ""
 quote:  "You know you are on the road to success if you would do your job, and not be paid for it.  -- Oprah Winfrey"
 ---
 
-![Google ads search badge.jpg](./Images/Bio/Google%20ads%20search%20badge.jpg) 
+![google accreditation Camilla.jpg](./Images/Bio/google%20accreditation%20Camilla.jpg) 
   
 
 She is the champion of SSW Digital and is constantly working towards the best results for our digital clients. Camilla brings with her a solid and long background in Business and Strategy Consultancy, as well as a passion for art & fashion. This rich background makes her creative and resourceful member of the team.
@@ -31,13 +31,12 @@ Camilla's specialties are:
 
 *   Email Marketing
 *   Social Media
-*   SEO  
+*   SEO - Google Rankings  
 
-*   Paid Advertising
-*   Content Strategy
-*   Google Rankings/Ads  
+*   SEM - Paid Advertising  
 
-*   SEM
+*   Content Strategy  
+
 *   Marketing Automation  
 
 Focused on improving marketing results and business development process efficiencies and meeting performance objectives, she’s able to quickly adapt to any situation. 
