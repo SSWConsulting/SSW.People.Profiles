@@ -22,6 +22,6 @@ quote:  "“The definition of genius is taking the complex and making it simple.
 
 Jack is a motivated IT and Business graduate with a wealth of experience developing native mobile applications and web apps.   
 
-Jack has been involved in projects for a variety of organisations ranging from small technology startups to large TNC's. His work has enabled him to develop multiple mobile and web applications and be instrumental in the orchestration of large digital transformation projects.  
+Jack has been involved in projects for a variety of organisations ranging from small technology startup's to large TNC's. His work has enabled him to develop multiple mobile and web applications and be instrumental in the orchestration of large digital transformation projects.  
 
 His areas of interest include machine learning, mobile application development, embedded systems development, user interaction design and artificial intelligence.  
