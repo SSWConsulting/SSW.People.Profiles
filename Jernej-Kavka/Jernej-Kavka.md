@@ -29,11 +29,11 @@ quote:  "Once upon a time, you had to be rich and powerful to change the world. 
  ![dotnet_foundation_logo.png](./Images/Bio/dotnet_foundation_logo.png) 
    
 
-With 10 years of experience in software engineering across multiple industries like Museums, Government, Banks, gaming, entertainment, Jernej has worked on full stack development of native applications from mobile to desktop applications.
+With 10 years of experience in software engineering across multiple industries like Museums, Government, Banks, gaming, entertainment, Jernej has worked on full-stack development of native applications from mobile to desktop applications.
 
 JK loves working on Angular, .NET Core, and cognitive service and his most recent projects have featured Docker and AKS (Azure Kubernetes Services). He now loves containers and sees everything as a container!  
 
-He is often a contributor, preparing developers for their SSW TV presentations and even gets in front of the camera sometimes [https://tv.ssw.com/tag/jernej-kavka](https://tv.ssw.com/tag/jernej-kavka) and [Personal YouTube](https://www.youtube.com/watch?v=3VPHV1902OQ&list=PLO0Fq_pphtfEHluXtyaX-IYy4vV2QxYeS) or at events like [Global Azure Bootcamp ](https://global.azurebootcamp.net/)or [DDD](https://dddbrisbane.com/). He also actively supports .NET Community as a [.NET Foundation member](https://dotnetfoundation.org/) (one of the first 200 members!) and is a backer for several Open Source projects on [Open Collective](https://opencollective.com/jernej-kavka).  
+He is often a contributor, preparing developers for their SSW TV presentations and even gets in front of the camera sometimes [https://tv.ssw.com/tag/jernej-kavka](https://tv.ssw.com/tag/jernej-kavka) and [Personal YouTube](https://www.youtube.com/watch?v=3VPHV1902OQ&list=PLO0Fq_pphtfEHluXtyaX-IYy4vV2QxYeS) or at events like [Global Azure Bootcamp,](https://global.azurebootcamp.net/) [DDD](https://dddbrisbane.com/), and [NDC](https://ndcsydney.com/). He also actively supports .NET Community as a [.NET Foundation member](https://dotnetfoundation.org/) (one of the first 200 members!) and is a backer for several Open Source projects on [Open Collective](https://opencollective.com/jernej-kavka).  
 
 You can also follow me on [Twitter ](https://twitter.com/jernej_kavka)and [my personal dev blog](https://jkdev.me/).  
 You can find his schedule for the next presentation on [Sessionize](https://sessionize.com/jernej-kavka/).  
@@ -61,7 +61,7 @@ Long Service Corporation engaged SSW to redesign and refactor their Worker Por
  **Related Technology**: ASP.Net MVC, Entity Framework, WebAPI, TypeScript, jQuery  
 
 </strong></td></tr><tr class="ms-rteTableFooterRow-default"><td class="ms-rteTableFooterEvenCol-default" rowspan="1" style="width:165px;height:36px;text-align:center;">![d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg](./Images/Bio/d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg) 
-</td><td class="ms-rteTableFooterOddCol-default" rowspan="1" style="width:673px;height:36px;">**Banpu**  
+</td><td class="ms-rteTableFooterOddCol-default" rowspan="1" style="width:673px;height:36px;">** Banpu**  
 Banpu engaged SSW to develop a PWA application that can be used online and offline in various situations. We have worked with several different teams from different countries and parts of Australia, and the main focus for SSW was delivering micro-services, offline and syncing capabilities of the PWA application, a desktop administration website, the mobile UX animations, and migrating data from Excel spreadsheets. We delivered all of the features with high code coverage with unit and component tests.  
 
 **Related Technology**: React, PWA, CosmosDB, NodeJS, .NET Core  
@@ -81,7 +81,7 @@ Jernej's internal projects include:
 </td></tr><tr><td>![sophie-logo.png](./Images/Bio/sophie-logo.png) 
   
 </td><td> 
-       **Sophie** is a smart receptionist that recognizes incoming guests and lets them know about their agenda and information relevant to them. In the future, Sophie will be used a full smart office solution.  
+       **Sophie** is a smart receptionist that recognizes incoming guests and lets them know about their agenda and information relevant to them. In the future, Sophie will be used as a full smart office solution.  
 
 **Related Technology: **React, .NET Core, SignalR, Cognitive Services, Azure Bots, Azure Functions  
 </td></tr></tbody></table>
