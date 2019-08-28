@@ -32,3 +32,5 @@ Using best practices and human-centred design, he has a proven ability in all bu
 David has a working knowledge of HTML, CSS, and JavaScript. He has great mentoring skills, as well as strong skills in all areas of design. David comes with extensive experience in product design and development lifecycle, from pitch, proposal, and concept to launch and ongoing optimisation, working with Product Owners as well as internal and external stakeholders on PWAs (Progressive Web Applications) and native mobile applications.  
 
 David also has a flair for creative design and analytical thinking, to solve complex problems through design, code and interactions.   
+
+David also has 15 years of experience as a cinematographer in the film industry, working for companies such as National Geographic, Discovery Channel and Europe's largest advertising agencies. He worked both behind the camera shooting footage and on the computer in VFX post production, creating documentaries that put dinosaurs in modern day New York City, amongst other things. David brings this experience with him to SSW TV where he helps with shooting and editing corporate videos.  
