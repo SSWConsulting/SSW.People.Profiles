@@ -44,12 +44,20 @@ Since joining SSW in 2012, Brendan has been delivering great solutions on the .N
 
 *   Getting involved in othe community events including "Angular Hackday" and "Hack4Good"  
 
-Some of his favourite things include:  
+His only problem seems to be that he's interested in too many topics! In the last few years, he's delivered talks or training on all of the below:  
 
-*   .NET Core - especially the cross-platform support for Linux  
+*   Entity Framework Core and Clean Code  
 
-*   Typescript and moden client side development with Angular CLI and ngrx  
+*   Angular, State Management and ngrx  
+
+*   Reactive Programming and Redux in .NET  
+
+*   Linux, Docker and Azure  
+
+*   .Net Core  
 
 *   Elastic Search  
 
-*   Clean Architecture  
+*   OpenAPI / Swagger  
+
+*   Blazor  
