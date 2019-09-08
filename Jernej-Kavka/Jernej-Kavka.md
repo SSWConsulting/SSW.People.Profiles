@@ -22,23 +22,27 @@ quote:  "Once upon a time, you had to be rich and powerful to change the world. 
 
  ![](./Images/Bio/MCP.png) 
 ![azure-logo.png](./Images/Bio/azure-logo.png) 
+![.NET Core](./Images/Bio/dotnetcore.png) 
  ![angular.png](./Images/Bio/angular.png) 
  ![xamarin](./Images/Bio/xamarin.jpg) 
  ![dotnetcode](./Images/Bio/dotnetcode.jpg) 
  ![docker](./Images/Bio/docker.jpg) 
  ![dotnet_foundation_logo.png](./Images/Bio/dotnet_foundation_logo.png) 
+![ML.NET-logo.png](./Images/Bio/ML.NET-logo.png) 
+![Microsoft-Cognitive-Service-Logo.png](./Images/Bio/Microsoft-Cognitive-Service-Logo.png) 
    
 
 With 10 years of experience in software engineering across multiple industries like Museums, Government, Banks, gaming, entertainment, Jernej has worked on full-stack development of native applications from mobile to desktop applications.
 
-JK loves working on Angular, .NET Core, and cognitive service and his most recent projects have featured Docker and AKS (Azure Kubernetes Services). He now loves containers and sees everything as a container!  
+JK loves working on Angular, .NET Core, and cognitive service and his most recent projects have featured Docker, AKS (Azure Kubernetes Services) and machine learning. He now loves containers and sees everything as a container!  
 
-He is often a contributor, preparing developers for their SSW TV presentations and even gets in front of the camera sometimes [https://tv.ssw.com/tag/jernej-kavka](https://tv.ssw.com/tag/jernej-kavka) and [Personal YouTube](https://www.youtube.com/watch?v=3VPHV1902OQ&list=PLO0Fq_pphtfEHluXtyaX-IYy4vV2QxYeS) or at events like [Global Azure Bootcamp,](https://global.azurebootcamp.net/) [DDD](https://dddbrisbane.com/), and [NDC](https://ndcsydney.com/). He also actively supports .NET Community as a [.NET Foundation member](https://dotnetfoundation.org/) (one of the first 200 members!) and is a backer for several Open Source projects on [Open Collective](https://opencollective.com/jernej-kavka).  
+He is often a contributor, preparing developers for their SSW TV presentations and even gets in front of the camera sometimes [https://tv.ssw.com/tag/jernej-kavka](https://tv.ssw.com/tag/jernej-kavka) and [Personal YouTube](https://www.youtube.com/watch?v=3VPHV1902OQ&list=PLO0Fq_pphtfEHluXtyaX-IYy4vV2QxYeS) or at events like [Global Azure Bootcamp, ](https://global.azurebootcamp.net/)[Global AI Bootcamp](https://brisbanebootcamp.com/), [DDD](https://dddbrisbane.com/) ([Brisbane](https://dddbrisbane.com/), [Melbourne](https://www.dddmelbourne.com/), and [Sydney](https://www.dddsydney.com.au/)), and [NDC](https://ndcsydney.com/). And yes, he's equally likely to attend a conference/user group as he is to present. 🧐  
 
-You can also follow me on [Twitter ](https://twitter.com/jernej_kavka)and [my personal dev blog](https://jkdev.me/).  
-You can find his schedule for the next presentation on [Sessionize](https://sessionize.com/jernej-kavka/).  
+He also actively supports .NET Community as a [.NET Foundation member](https://dotnetfoundation.org/) (one of the first 200 members!) and is a backer for several Open Source projects on [Open Collective](https://opencollective.com/jernej-kavka).  
 
-Jernej is proficient on Windows platform development from legacy applications (using C#, WinForms, WPF, ...) to modern applications (Windows Store and Windows Universal applications, Xamarin ) but also has experience developing Web Applications using MVC, Angular, jQuery, CSS, HTML5, etc. Lately, he's sharpening his skills with cognitive services as well as machine learning.
+You can follow him on [Twitter,](https://twitter.com/jernej_kavka) [his personal blog](https://jkdev.me/) or check out when is his next talk on [Sessionize](https://sessionize.com/jernej-kavka/).  
+
+Jernej is also proficient on Windows platform development from legacy applications (using C#, WinForms, WPF, ...) to modern applications (Windows Store and Windows Universal applications, Xamarin ) but also has experience developing Web Applications using MVC, Angular, jQuery, CSS, HTML5, etc. Lately, he's sharpening his skills with cognitive services as well as machine learning.
 
 Jernej's client projects include:  
 <table class="ms-rteTable-default" width="100%" cellspacing="0" style="height:146px;"><tbody><tr class="ms-rteTableEvenRow-default"><td class="ms-rteTableEvenCol-default" style="width:165px;height:36px;text-align:center;">![Infomedia](./Images/Bio/infomedia-logo.png) 
