@@ -42,7 +42,9 @@ He also actively supports .NET Community as a [.NET Foundation member](https://d
 
 You can follow him on [Twitter,](https://twitter.com/jernej_kavka) [his personal blog](https://jkdev.me/) or check out when is his next talk on [Sessionize](https://sessionize.com/jernej-kavka/).  
 
-Jernej is also proficient on Windows platform development from legacy applications (using C#, WinForms, WPF, ...) to modern applications (Windows Store and Windows Universal applications, Xamarin ) but also has experience developing Web Applications using MVC, Angular, jQuery, CSS, HTML5, etc. Lately, he's sharpening his skills with cognitive services as well as machine learning.
+On top of being an expert in ASP .NET Core, Angular and Azure DevOps, Jernej is also proficient on Windows platform development from legacy applications (using C#, WinForms, WPF, ...) to modern applications (Windows Store, Windows Universal applications, and Xamarin). Lately, he's sharpening his skills with cognitive services as well as machine learning.
+<iframe src="https://www.youtube.com/embed/LG1DHMNT0TA" width="560" height="315" frameborder="0"></iframe> **
+   Figure: JK's talk on using Machine Learning simplified for developers.**  
 
 Jernej's client projects include:  
 <table class="ms-rteTable-default" width="100%" cellspacing="0" style="height:146px;"><tbody><tr class="ms-rteTableEvenRow-default"><td class="ms-rteTableEvenCol-default" style="width:165px;height:36px;text-align:center;">![Infomedia](./Images/Bio/infomedia-logo.png) 
