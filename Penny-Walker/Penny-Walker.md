@@ -6,7 +6,7 @@ nickname: "Penny"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Penny-Walker.aspx"
 category: "Admin"
-role:  "Personal Assistant & Office Administrator"
+role:  "Sales, Marketing and Onboarding Experience Guru"
 qualifications:  "B Ancient History; MSc Museum Studies"
 location: "Sydney"
 
@@ -20,6 +20,6 @@ skype:  "pennywalker82"
 quote:  "To improve is to change; to be perfect is to change often - Winston Churchill"
 ---
 
-Penny's role at SSW is Personal Assistant to Chief Architect Adam Cogan and is responsible for the smooth day-to-day running of the office. Penny hopes to use her positive energy and strong people skills to help build upon the great team environment at SSW and to support Adam and his team with all of their endeavours. 
+Penny is usually described as SSW's "Chef Problem Solver" (that's what you'll see on her signiture). She is the go-to person if you ever need help, or if you have a problem you cannot solve. Penny is multiskilled, and very adapatable, which allows her to work across a few different teams. She has a background in Administration and Marketing, and has more recently joined our Sales team.  
 
-Due to her strong people skills, Penny is the face of SSW recruitment. She seeks the best people to expand our awesome SSW family, and helps them settle in with a unique on-boarding experience.   
+ Penny has a lot of positive energy and strong people skills, so she is also the face of SSW recruitment. She seeks the best people to expand our awesome SSW family, and helps them settle in with a unique on-boarding experience.   
