@@ -20,6 +20,6 @@ skype:  "pennywalker82"
 quote:  "To improve is to change; to be perfect is to change often - Winston Churchill"
 ---
 
-Penny is usually described as SSW's "Chef Problem Solver" (that's what you'll see on her signature). She is the go-to person if you ever need help, or if you have a problem that you cannot solve. Penny is multi-skilled and very adaptable, which has allowed her to work across a few different teams expanding on her expertise. She has a background in Administration and Marketing, and has more recently joined our Sales team.  
+Thanks to Penny's positive energy and strong people skills she is the face of SSW recruitment. She seeks the best people to expand our awesome SSW family, and then helps them settle in with a unique, personal on-boarding experience. 
 
- Penny has a lot of positive energy and strong people skills, this is why she was chosen as the face of SSW recruitment. She seeks the best people to expand our awesome SSW family, and then helps them settle in with a unique, personal on-boarding experience.   
+Penny is usually described as SSW's "Chief Problem Solver" (that's what you'll see on her signature), but in reality she works across a few different teams. She's an Account Manager, Marketing Officer and Administrator. She is also the go-to person if you ever need help, or if you have a problem that you cannot solve.   
