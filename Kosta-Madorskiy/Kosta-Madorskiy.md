@@ -30,3 +30,7 @@ Kosta is a Senior Software Architect based in SSW's Sydney office. He is passion
 Kosta’s experience covers developing software using several programming languages and technologies, practical data analysis, designing and developing solutions from scratch as well as promptly improving, debugging and optimising clients’ systems.  
 
 SSW is a Zendesk Partner and Kosta is one of our Zendesk experts.  
+
+Kosta's happiest client was the University of Sydney. Check out the BREAST project testimonial video:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rf7zzTMeTf4" frameborder="0"></iframe>
