@@ -20,4 +20,4 @@ skype:  ""
 quote:  "If the only tool you have is a hammer, you tend to see every problem as a nail."
 ---
 
-Duncan is cool  
+Duncan ta lindinho e gostosinho!  
