@@ -20,8 +20,8 @@ skype:  ""
 quote:  "“The definition of genius is taking the complex and making it simple.”  ~ Albert Einstein"
 ---
 
-Jack is a motivated IT and Business graduate with a wealth of experience developing native mobile applications and web apps.   
+Jack is an experienced web/mobile application developer, React trainer and scrum practitioner.  
 
-Jack has been involved in projects for a variety of organisations ranging from small technology startup's to large TNC's. His work has enabled him to develop multiple mobile and web applications and be instrumental in the orchestration of large digital transformation projects.  
+Jack has delivered successful projects ranging in scale from large digital transformation projects to minimum viable products for tech startup's. He has a keen eye for detai, a drive for results and strives for quality and robustnes. Being a trainer/developer means Jack is always familiar with latest technologies and best practices.   
 
-His areas of interest include machine learning, mobile application development, embedded systems development, user interaction design and artificial intelligence.  
+His areas of interest include mobile application development, agumented reality, user interaction design and artificial intelligence.  
