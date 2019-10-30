@@ -110,5 +110,7 @@ The project consisted of upgrading applications to a newer version of the Angula
     </td><td>
        **Sophie Hub** is a smart receptionist that recognizes incoming guests and lets them know about their agenda and information relevant to them. In the future, Sophie will be used as a full smart office solution.  
 
+Check out [https://sswsophie.com/](https://sswsophie.com/) for more information.  
+
 **Related Technology: **React, .NET Core, SignalR, Cognitive Services, Azure Bots, Azure Functions  
 </td></tr></tbody></table> 
