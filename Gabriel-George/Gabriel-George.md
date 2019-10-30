@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Failing is how you learn best. To not to try would be your greatest fall."
 ---
 
-Gabe is a Senior Software Architect at the SSW Melbourne Office. He specialises in Angular-NgRx Front-End Development.   
+Gabe is a Senior Software Architect at the SSW Melbourne Office. He specialises in enterprise front-end development with various modern JavaScript framework.  
 
 He is a very motivated person that loves to share his knowledge with his peers. He loves to learn new technologies, especially the cutting edge ones.   
 
