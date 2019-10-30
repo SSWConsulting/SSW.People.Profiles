@@ -44,7 +44,6 @@ JK also actively supports the .NET Community as a [ **.NET Foundation member**](
 
 You can follow him on [ **Twitter,**](https://twitter.com/jernej_kavka) [ **his personal blog**](https://jkdev.me/) or check out when is his next talk on [ **Sessionize**](https://sessionize.com/jernej-kavka/).  
 
-   <iframe src="https://www.youtube.com/embed/LG1DHMNT0TA" width="560" height="315" frameborder="0"></iframe> 
    ** Figure: JK's talk on using Machine Learning simplified for developers**  
 
 Jernej's client projects include:  
@@ -61,22 +60,22 @@ Additionally, we were responsible for developing systems for 3rd parties to inte
 
 **Related Technologies**: Angular with ngrx, .NET Core, EF Core, NService Bus  
 
-</td></tr><tr class="ms-rteTableFooterRow-default"><td class="ms-rteTableFooterEvenCol-default" rowspan="1" style="width:165px;height:36px;text-align:center;">  
+</td></tr><tr class="ms-rteTableFooterRow-default"><td rowspan="1" class="ms-rteTableFooterEvenCol-default" style="width:165px;height:36px;text-align:center;">  
 ![d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg](./Images/Bio/d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg) 
-</td><td class="ms-rteTableFooterOddCol-default" rowspan="1" style="width:673px;height:36px;">
+</td><td rowspan="1" class="ms-rteTableFooterOddCol-default" style="width:673px;height:36px;">
        ** Banpu**  
 Banpu engaged SSW to develop a PWA application that can be used online and offline in various situations. We have worked with several different teams from different countries and parts of Australia, and the main focus for SSW was delivering micro-services, offline and syncing capabilities of the PWA application, a desktop administration website, the mobile UX animations, and migrating data from Excel spreadsheets. We delivered all of the features with high code coverage with unit and component tests.  
 
 **Related Technologies**: React, PWA, CosmosDB, NodeJS, .NET Core  
-</td></tr><tr class="ms-rteTableOddRow-default"><td class="ms-rteTableEvenCol-default" rowspan="1" style="width:165px;height:36px;text-align:center;">  
+</td></tr><tr class="ms-rteTableOddRow-default"><td rowspan="1" class="ms-rteTableEvenCol-default" style="width:165px;height:36px;text-align:center;">  
 
 ![Long Service Corporation](./Images/Bio/LongServiceCorporation.gif) 
   
 
-</td><td class="ms-rteTableOddCol-default" rowspan="1" style="width:673px;height:36px;">
+</td><td rowspan="1" class="ms-rteTableOddCol-default" style="width:673px;height:36px;">
 
   <strong class="ms-rteThemeForeColor-2-0">Long Service Corporation**  
-Long Service Corporation engaged SSW to redesign and refactor their Worker Portal application, used by workers to download their statements. This application will be extended to include claims for workers. The new software design of the application includes multiple services which can be shared between projects.
+Long Service Corporation engaged SSW to redesign and refactor their Worker Portal application, used by workers to download their statements. This application will be extended to include claims for workers. The new software design of the application includes multiple services that can be shared between projects.
 
  **Related Technologies**: ASP.Net MVC, Entity Framework, WebAPI, TypeScript, jQuery  
 
@@ -86,7 +85,7 @@ Long Service Corporation engaged SSW to redesign and refactor their Worker Por
 
 </td><td class="ms-rteTableOddCol-default" style="width:673px;height:36px;"> 
        **Infomedia**  
-The project consisted of upgrading applications to a newer version of the Angular framework which resulted in improved the overall application performance for users.  
+The project consisted of upgrading applications to a newer version of the Angular framework which resulted in improving the overall application performance for users.  
 
 **Related Technologies**: Angular, TypeScript  
 </td></tr></tbody></table>
@@ -98,18 +97,18 @@ The project consisted of upgrading applications to a newer version of the Angula
 </td><td class="ms-rteTable-default" style="width:50%;"> 
        **SSW ****Time****Pro **-** **Timesheeting and invoicing application that integrates with CRM and TFS servers.  
 
-**Related Technology**: Angular, TypeScript, MVC 5, SQL Server 2012, jQuery, WebAPI, Kendo UI  
+**Related Technology**: Angular, TypeScript, MVC, SQL Server 2017, jQuery, WebAPI, Kendo UI  
 </td></tr><tr><td class="ms-rteTable-default" style="width:1%;text-align:center;">![](./Images/Bio/SugarLearning_Logo.png) 
 </td><td class="ms-rteTable-default">
        **SugarLearning** is a simple induction training website used to get new employees up to speed and track their progress.  
 
-**Related Technology**: Angular, TypeScript, MVC 5, SQL Server 2012, jQuery, WebAPI, Kendo UI  
+**Related Technology**: Angular, TypeScript, MVC, Azure SQL Server, WebAPI, Kendo UI  
 </td></tr><tr><td>
        ![sophie-logo.png](./Images/Bio/sophie-logo.png) 
-
+   
 
     </td><td>
-       **Sophie** is a smart receptionist that recognizes incoming guests and lets them know about their agenda and information relevant to them. In the future, Sophie will be used as a full smart office solution.  
+       **Sophie Hub** is a smart receptionist that recognizes incoming guests and lets them know about their agenda and information relevant to them. In the future, Sophie will be used as a full smart office solution.  
 
 **Related Technology: **React, .NET Core, SignalR, Cognitive Services, Azure Bots, Azure Functions  
 </td></tr></tbody></table> 
