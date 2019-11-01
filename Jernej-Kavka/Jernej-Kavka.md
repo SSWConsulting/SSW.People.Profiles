@@ -68,6 +68,7 @@ Additionally, we were responsible for developing systems for 3rd parties to inte
 Banpu engaged SSW to develop a PWA application that can be used online and offline in various situations. We have worked with several different teams from different countries and parts of Australia, and the main focus for SSW was delivering micro-services, offline and syncing capabilities of the PWA application, a desktop administration website, the mobile UX animations, and migrating data from Excel spreadsheets. We delivered all of the features with high code coverage with unit and component tests.  
 
 **Related Technologies**: React, PWA, CosmosDB, NodeJS, .NET Core  
+
 </td></tr><tr class="ms-rteTableOddRow-default"><td rowspan="1" class="ms-rteTableEvenCol-default" style="width:165px;height:36px;text-align:center;">  
 
 ![Long Service Corporation](./Images/Bio/LongServiceCorporation.gif) 
@@ -99,8 +100,7 @@ The project consisted of upgrading applications to a newer version of the Angula
  
 
     </td><td> 
-       **Sophie Bot** is an essential part of SSW smart office solution where employees can check who’s in the office, see others' availability, and many more features.See more information at 
-       [https://sswsophie.com/sophie-bot](https://sswsophie.com/sophie-bot)  
+       **Sophie Bot** is an essential part of SSW smart office solution where employees can check who’s in the office, see others' availability, and many more features.See more information at [sswsophie.com/sophie-bot](https://sswsophie.com/sophie-bot)  
 
 **Related Technology: **React, .NET Core, SignalR, Cognitive Services, Azure Bots, Azure Functions  
 
@@ -108,10 +108,10 @@ The project consisted of upgrading applications to a newer version of the Angula
 
 **Sophie Hub** is a smart receptionist that recognizes incoming guests and lets them know about their agenda and information relevant to them. In the future, Sophie will be used as a full smart office solution.  
 
-Check out 
-       [https://sswsophie.com/](https://sswsophie.com/) for more information.  
+Check out [sswsophie.com](https://sswsophie.com/) for more information.  
 
 **Related Technology: **Google DialogFlow, Azure Functions,  Google Firebase, CRM, Office365  
+
 </td></tr><tr><td class="ms-rteTable-default" style="width:1%;text-align:center;">![TimePRO_logo.png](./Images/Bio/TimePRO_logo.png) 
   
 </td><td class="ms-rteTable-default" style="width:50%;">
