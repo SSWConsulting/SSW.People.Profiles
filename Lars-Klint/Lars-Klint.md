@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "LarsKlint"
 name: "Lars Klint"
 nickname: "Lars"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "Whether you think you can, or can't, you're right - Henry Ford "
+quote:  "Whether you think you can, or can\'t, you\'re right - Henry Ford "
 ---
 
 ​​​![](/Images/Bio/Microsoft_MVP_Logo.png) 

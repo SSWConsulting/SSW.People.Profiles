@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "WilsonBo"
 name: "Wilson Bo"
 nickname: "Wilson"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "TFS + .NET"
+quote:  "TFS \+ .NET"
 ---
 
 ​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/WilsonBo)​​​​​<span style="line-height:18px;">​​  

@@ -1,5 +1,5 @@
 ---
-current_employee: "True"
+current_employee: true
 ID: "RajDhatt"
 name: "Raj Dhatt"
 nickname: "Raj"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "If you do something cool, I'm there to film it. Secretly."
+quote:  "If you do something cool, I\'m there to film it. Secretly."
 ---
 
 ​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/RajDhatt)​​​​​<span style="line-height:18px;">​​  

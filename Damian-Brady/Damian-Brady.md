@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "DamianBrady"
 name: "Damian Brady"
 nickname: "Damian"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "If you look at something you did a year ago and can't think of a better way to do it, it's not a sign you did it perfectly the first time, it's a sign you're not learning."
+quote:  "If you look at something you did a year ago and can\'t think of a better way to do it, it\'s not a sign you did it perfectly the first time, it\'s a sign you\'re not learning."
 ---
 
 ​​[![Microsoft_MVP_Logo.png](/Images/Bio/Microsoft_MVP_Logo.png)​](https://mvp.microsoft.com/en-us/mvp/Damian%20Brady-5000595)  ![MCSD_2013(rgb)_1509.png](/Images/Bio/MCSD_2013(rgb)_1509.png)​  ![PSMI.png](/Images/Bio/PSMI.png)   [![cover_small.png](/Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013)​  

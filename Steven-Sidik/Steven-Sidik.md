@@ -1,5 +1,5 @@
 ---
-current_employee: "True"
+current_employee: true
 ID: "StevenSidik"
 name: "Steven Sidik"
 nickname: "Steven"
@@ -7,7 +7,7 @@ nickname: "Steven"
 legacy_page_url: "/AboutUs/Employees/Pages/Steven.aspx"
 category: "Developers"
 role:  "Senior Network Engineer"
-qualifications:  "CCNP + CCDP"
+qualifications:  "CCNP \+ CCDP"
 location: "Sydney"
 
 blog:  ""

@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "MarkHetherington"
 name: "Mark Hetherington"
 nickname: "Mark H (aka MLH)"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  ""We work efficiently on the right things in a visible way".  If you really do this properly, your customers, whether internal or external, will have no reason to ever complain."
+quote:  "\"We work efficiently on the right things in a visible way\".  If you really do this properly, your customers, whether internal or external, will have no reason to ever complain."
 ---
 
 <span style="font-size:9pt;font-family:verdana, sans-serif;color:#676767;">When we need to affect major large transformations to the use of Scrum and Agile, we call on the services of Mark Hetherington.</span>

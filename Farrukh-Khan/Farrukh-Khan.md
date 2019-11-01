@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "FarrukhKhan"
 name: "Farrukh Khan"
 nickname: "Farrukh"

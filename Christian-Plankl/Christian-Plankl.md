@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "ChristianPlankl"
 name: "Christian Plankl"
 nickname: "Christian"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  "https://www.linkedin.com/in/christian-plankl-83bb3011a/"
 skype:  "chrplankl@live.de"
 
-quote:  "if you can't explain it simply, you don't understand it well enough"
+quote:  "if you can\'t explain it simply, you don\'t understand it well enough"
 ---
 
 ​​​​​​Christian is a Software Developer at SSW working on SSW Sophie, a digital assistant which greets you as soon as you enter SSW and shows your important and personal information. 

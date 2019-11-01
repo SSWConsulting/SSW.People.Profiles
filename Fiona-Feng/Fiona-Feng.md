@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "FionaFeng"
 name: "Fiona Feng"
 nickname: "Fiona"

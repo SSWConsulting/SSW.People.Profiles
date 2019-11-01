@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "LindsayCorfield"
 name: "Lindsay Corfield"
 nickname: "Lindsay"
@@ -7,7 +7,7 @@ nickname: "Lindsay"
 legacy_page_url: "/AboutUs/Employees/Pages/Lindsay.aspx"
 category: "Managers"
 role:  "General Manager International"
-qualifications:  "MBA (Intl Bus) | JP (Qual) | Certified Scrum Master"
+qualifications:  "MBA (Intl Bus) \| JP (Qual) \| Certified Scrum Master"
 location: "Brisbane"
 
 blog:  ""

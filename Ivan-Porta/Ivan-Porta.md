@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "IvanPorta"
 name: "Ivan Porta"
 nickname: "Ivan"
@@ -17,7 +17,7 @@ twitter:  "https://twitter.com/GTRekter"
 linkedin:  "https://www.linkedin.com/in/ivanporta/"
 skype:  "ivan.porta.web_1"
 
-quote:  "It's not a bug, It's an undocumented feature! "
+quote:  "It\'s not a bug, It\'s an undocumented feature! "
 ---
 
 ​​​​​​​​​​​​​Ivan is an imaginative and passionate **Software Developer** based in SSW's Melbourne office.  

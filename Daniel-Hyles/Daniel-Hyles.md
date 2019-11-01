@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "DanielHyles"
 name: "Daniel Hyles"
 nickname: "Daniel"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "Share your knowledge. It's the way to achieve immortality"
+quote:  "Share your knowledge. It\'s the way to achieve immortality"
 ---
 
 ​​ [ ![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/DanielHyles) <span style="line-height:18px;"> </span>

@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "BrookeRooney"
 name: "Brooke Rooney"
 nickname: "Brooke"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  ""Even the smallest person can change the course of the future." -LOTR"
+quote:  "\"Even the smallest person can change the course of the future.\" -LOTR"
 ---
 
 <span>

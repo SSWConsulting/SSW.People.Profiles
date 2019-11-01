@@ -1,5 +1,5 @@
 ---
-current_employee: "True"
+current_employee: true
 ID: "SebastienBoissiere"
 name: "Sebastien Boissiere"
 nickname: "Sebastien"
@@ -14,7 +14,7 @@ blog:  ""
 website:  ""
 facebook:  ""
 twitter:  ""
-linkedin:  "s%C3%A9bastien-boissi%C3%A8re-71b76637/?locale=en_US"
+linkedin:  "s%C3%A9bastien-boissi%C3%A8re-71b76637/\?locale=en_US"
 skype:  "live:boissiere.seb"
 
 quote:  "First, solve the problem. Then, write the code. – John Johnson"

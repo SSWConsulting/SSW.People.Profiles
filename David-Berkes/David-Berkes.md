@@ -1,5 +1,5 @@
 ---
-current_employee: "True"
+current_employee: true
 ID: "DavidBerkes"
 name: "David Berkes"
 nickname: "David"
@@ -7,7 +7,7 @@ nickname: "David"
 legacy_page_url: "/AboutUs/Employees/Pages/DavidBerkes.aspx"
 category: "Designers"
 role:  "Senior Product Designer (UI, UX)"
-qualifications:  "BA - Digital Design | Cinema Studies"
+qualifications:  "BA - Digital Design \| Cinema Studies"
 location: "Sydney"
 
 blog:  ""

@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "DavidKlein"
 name: "David Klein"
 nickname: "DDK"
@@ -7,7 +7,7 @@ nickname: "DDK"
 legacy_page_url: "/AboutUs/Employees/Pages/DavidK.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
-qualifications:  "B Com (Information Systems\HRM with Merit), MCP, MCDBA"
+qualifications:  "B Com (Information Systems\\HRM with Merit), MCP, MCDBA"
 location: ""
 
 blog:  ""

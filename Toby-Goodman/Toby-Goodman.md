@@ -1,5 +1,5 @@
 ---
-current_employee: "True"
+current_employee: true
 ID: "TobyGoodman"
 name: "Toby Goodman"
 nickname: "Toby"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  ""There can be many answers to a question but you will need to ask Adam how it is formatted""
+quote:  "\"There can be many answers to a question but you will need to ask Adam how it is formatted\""
 ---
 
 ​​​Toby is a Video Producer based in the Sydney SSW office. He is passionate about story telling, animation and cats. ​  

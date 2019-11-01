@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "DuncanHunter"
 name: "Duncan Hunter"
 nickname: "Duncan"

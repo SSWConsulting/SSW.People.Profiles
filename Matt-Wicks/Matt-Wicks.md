@@ -1,5 +1,5 @@
 ---
-current_employee: "True"
+current_employee: true
 ID: "MattWicks"
 name: "Matt Wicks"
 nickname: "Matt"
@@ -17,7 +17,7 @@ twitter:  "matteightyate"
 linkedin:  "mattswicks"
 skype:  ""
 
-quote:  "I didn't want to pay DynDNS - so I wrote an Azure function to replace them"
+quote:  "I didn\'t want to pay DynDNS - so I wrote an Azure function to replace them"
 ---
 
 ​​​​​​<div>​​![CSM Certified](/Images/Bio/badge-7227.png)![devops.png](/Images/Bio/devops.png)  

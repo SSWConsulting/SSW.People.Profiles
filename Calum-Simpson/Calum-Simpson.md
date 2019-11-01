@@ -1,5 +1,5 @@
 ---
-current_employee: "True"
+current_employee: true
 ID: "CalumSimpson"
 name: "Calum Simpson"
 nickname: "Calum"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  "calum-simpson-2171bb120/"
 skype:  ""
 
-quote:  ""Never trust a computer you can’t throw out a window."  — Steve Wozniak"
+quote:  "\"Never trust a computer you can’t throw out a window.\"  — Steve Wozniak"
 ---
 
 ​Calum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, CRM, C# .NET, plus experience in Angular and React. ​

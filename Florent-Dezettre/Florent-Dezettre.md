@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "FlorentDezettre"
 name: "Florent Dezettre"
 nickname: "Florent"
@@ -7,7 +7,7 @@ nickname: "Florent"
 legacy_page_url: "/AboutUs/Employees/Pages/Florent.aspx"
 category: "Admin"
 role:  "Sales and Marketing Assistant"
-qualifications:  "International Marketing Master's Degree"
+qualifications:  "International Marketing Master\'s Degree"
 location: "Sydney"
 
 blog:  ""

@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "EricPhan"
 name: "Eric Phan"
 nickname: "Eric"
@@ -17,7 +17,7 @@ twitter:  "ericphan"
 linkedin:  "ephan"
 skype:  ""
 
-quote:  "There are 10 types of people in the world. Ones that understand binary and ones that don't."
+quote:  "There are 10 types of people in the world. Ones that understand binary and ones that don\'t."
 ---
 
 ​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/EricPhan) <span style="line-height:18px;">   

@@ -1,5 +1,5 @@
 ---
-current_employee: "False"
+current_employee: false
 ID: "EdgarRocha"
 name: "Edgar Rocha"
 nickname: "Edgar"
@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  "edgarsenrarocha"
 skype:  "edgarsenrarocha@outlook.com"
 
-quote:  "I'd love to change the world, but they didn't give me the source code"
+quote:  "I\'d love to change the world, but they didn\'t give me the source code"
 ---
 
 ​With over 11 years of software development experience in web applications specialised in ASP.NET MVC, ASP.NET Webforms, MS SQL Server, .NET Core, HTML5, CSS, JavaScript​, jQuery and Angular. Edgar has had a great deal of exposure to SAP HCM sub-modules .  

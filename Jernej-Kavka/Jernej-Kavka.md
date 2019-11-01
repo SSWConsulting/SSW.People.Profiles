@@ -1,5 +1,5 @@
 ---
-current_employee: "True"
+current_employee: true
 ID: "JernejKavka"
 name: "Jernej Kavka"
 nickname: "Jernej (JK)"
