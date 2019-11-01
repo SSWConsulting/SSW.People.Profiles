@@ -17,7 +17,7 @@ twitter:  "stavrosthegeek"
 linkedin:  "stephenmarkcarter"
 skype:  "stephen.carter.melb"
 
-quote:  "Whether you think you can or think you can\'t, you\'re right."
+quote:  "Whether you think you can or think you can't, you're right."
 ---
 
 ​![psmi.jpg](/Images/Bio/psmi.jpg) ​![Sitefinity](/Images/Bio/logo_sitefinity.png)

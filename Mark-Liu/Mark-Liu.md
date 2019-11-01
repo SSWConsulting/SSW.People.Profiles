@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "Excellence is not a skill, it\'s an attitude."
+quote:  "Excellence is not a skill, it's an attitude."
 ---
 
 ​​​​ [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/MarkLiu)​​​​​<span style="line-height:18px;">​​</span><div><span style="line-height:18px;">  

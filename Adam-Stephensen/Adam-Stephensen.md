@@ -17,7 +17,7 @@ twitter:  "adamstephensen"
 linkedin:  ""
 skype:  "astephensen"
 
-quote:  "\'fail fast\', inspect, adapt, have a lot of fun.  "
+quote:  "'fail fast', inspect, adapt, have a lot of fun.  "
 ---
 
 ​​​​​ [ ![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/AdamStephensen) <span style="line-height:18px;"> </span>

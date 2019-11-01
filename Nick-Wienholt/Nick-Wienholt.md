@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  "nick-wienholt-160b7b40"
 skype:  "nick.wienholt"
 
-quote:  "To forget one\'s purpose is the commonest form of stupidity. Friedrich Nietzsche"
+quote:  "To forget one's purpose is the commonest form of stupidity. Friedrich Nietzsche"
 ---
 
 ​​​  

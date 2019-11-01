@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "Mistakes are proof that you\'re trying."
+quote:  "Mistakes are proof that you're trying."
 ---
 
 Helen is the Personal Assistant to Chief Architect Adam Cogan. She also helps manage the office to make sure everything runs smoothly in between running the SSW User Groups and other technical events SSW holds.

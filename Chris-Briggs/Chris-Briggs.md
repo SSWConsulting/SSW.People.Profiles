@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "You don\'t find buried treasure by sitting down."
+quote:  "You don't find buried treasure by sitting down."
 ---
 
 ​​ [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/ChrisBriggs)​​​​​<span style="line-height:18px;">​​</span>

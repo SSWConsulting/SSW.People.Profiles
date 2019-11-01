@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "Give a person a fish and you feed them for a day; teach that person to use the Internet and they won\'t bother you for weeks."
+quote:  "Give a person a fish and you feed them for a day; teach that person to use the Internet and they won't bother you for weeks."
 ---
 
 Matt Hodgkins is the hardest working man at SSW. He looks after any and all internal server issues while setting up virtual development environments for the other developers, and on top of this makes sure we are always running the latest version of any technology that comes out that Adam likes the look of.  

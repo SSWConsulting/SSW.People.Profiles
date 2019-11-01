@@ -7,7 +7,7 @@ nickname: "Jack"
 legacy_page_url: "/AboutUs/Employees/Pages/JackKranz.aspx"
 category: "Developers"
 role:  "Software Architect"
-qualifications:  "Bachelor of IT: Enterprise Systems Development  \|   Bachelor of Business: Management"
+qualifications:  "Bachelor of IT: Enterprise Systems Development  |   Bachelor of Business: Management"
 location: "Sydney"
 
 blog:  ""

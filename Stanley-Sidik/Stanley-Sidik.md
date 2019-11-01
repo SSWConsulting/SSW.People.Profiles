@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "Have you switched it off and on again\?"
+quote:  "Have you switched it off and on again?"
 ---
 
 ​​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/StanleySidik)​​​​​<span style="line-height:18px;">​​  

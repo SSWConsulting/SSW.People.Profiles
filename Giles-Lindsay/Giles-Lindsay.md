@@ -7,7 +7,7 @@ nickname: "Giles"
 legacy_page_url: "/AboutUs/Employees/Pages/Giles.aspx"
 category: "Developers"
 role:  "Network Administrator"
-qualifications:  "Class of 92\' Certificate in Business Computing"
+qualifications:  "Class of 92' Certificate in Business Computing"
 location: ""
 
 blog:  ""

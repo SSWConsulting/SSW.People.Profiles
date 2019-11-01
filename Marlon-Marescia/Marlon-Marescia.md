@@ -17,7 +17,7 @@ twitter:  "MarlonMarescia"
 linkedin:  "marlonmarescia"
 skype:  "marlon.ssw"
 
-quote:  "Enjoy the journey because the destination might not be all it\'s cracked up to be."
+quote:  "Enjoy the journey because the destination might not be all it's cracked up to be."
 ---
 
 ​​Marlon ​is the Sales Manager and Marketing at SSW. His hands on experience with Microsoft technologies like ASP.NET, SharePoint, Microsoft CRM and Office add-ins help give him insight into how we can solve our clients business challenges. Marlon's past work as a consultant, building and implementing strategic and operational plans within small to medium businesses gives him a unique understanding of our client's needs.

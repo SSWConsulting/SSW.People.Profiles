@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  "https://au.linkedin.com/in/alex-breskin-4a822880"
 skype:  "live:alexbreskin"
 
-quote:  "You know what they say, one person\'s code is another person\'s legacy\? Let\'s try to avoid that"
+quote:  "You know what they say, one person's code is another person's legacy? Let's try to avoid that"
 ---
 
 ​​​​Alex is a .NET Developer with over 5 years of experience consulting on a variety of companies that specialized in Financial Technology, Market Research, Logistics, Construction and Real-Estate to name a few. Always interested in an opportunity to hone his skills, Alex is always up to try new and exciting technologies and challenges to be on the cutting edge, and to help others along the way.​  

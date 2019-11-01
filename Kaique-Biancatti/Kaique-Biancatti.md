@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  "kikibianc"
 skype:  "kikibianc"
 
-quote:  "Until you\'re ready to look foolish, you\'ll never have the possibility of being great."
+quote:  "Until you're ready to look foolish, you'll never have the possibility of being great."
 ---
 
 Kaique has worked for 3 years as an Infrastructure Analyst and Help Desk, building servers and machines, and helping everyone around the office with their tech-related problems.   

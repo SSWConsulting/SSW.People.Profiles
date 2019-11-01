@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "I\'m always trying to be more professional."
+quote:  "I'm always trying to be more professional."
 ---
 
 ![MCPD](/Images/Bio/MCPD_WebDev2.0.jpg)  

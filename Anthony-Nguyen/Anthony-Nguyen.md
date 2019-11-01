@@ -17,7 +17,7 @@ twitter:  "anguyen1909"
 linkedin:  "anthonynguyen1909"
 skype:  "nvhoanganh1909"
 
-quote:  "Do it now, sometimes \'later\' becomes \'never\'"
+quote:  "Do it now, sometimes 'later' becomes 'never'"
 ---
 
 ​​​​​​​​​​​​​​​​​​​​​![csm](/Images/Bio/csm.png) ![mcp](/Images/Bio/MCP.png) ![Sitefinity](/Images/Bio/logo_sitefinity.png)​  

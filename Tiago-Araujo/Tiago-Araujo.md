@@ -17,7 +17,7 @@ twitter:  "tiagov8"
 linkedin:  ""
 skype:  "tiagov8"
 
-quote:  "It\'s not what you look at that matters, it\'s what you see."
+quote:  "It's not what you look at that matters, it's what you see."
 ---
 
 ​ [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/TiagoAraujo) <span style="line-height:18px;">   

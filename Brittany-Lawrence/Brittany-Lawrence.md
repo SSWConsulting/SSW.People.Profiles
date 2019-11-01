@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "Don\'t stop when you\'re tired. Stop when you\'re done."
+quote:  "Don't stop when you're tired. Stop when you're done."
 ---
 
  <span style="line-height:1.6;">​​​​​​Brittany is the Sales and Marketing Assistant at SSW. Her role includes conducting Lead Generation, the creation and execution of marketing strategies, Online Marketing through both Social Media and Social Media Advertising, Webinars, Email Marketing, Google AdWords as well as the marketing of SSW Events. </span>

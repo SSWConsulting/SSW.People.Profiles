@@ -17,7 +17,7 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "knowing you don\'t know is the most essential step of knowing"
+quote:  "knowing you don't know is the most essential step of knowing"
 ---
 
 ​​​ As a member of the SSW TV team, Yu Hsien, Taiwan born and US educated designer, specializes in motion graphics and post-production. A particular passion for him is visual art and technology, this is an area where he excel at, because of his specialized expertise and a keen eye for both design and aesthetics.   
