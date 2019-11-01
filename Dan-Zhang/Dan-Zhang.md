@@ -1,0 +1,31 @@
+---
+current_employee: "False"
+ID: "DanZhang"
+name: "Dan Zhang"
+nickname: "Dan"
+
+legacy_page_url: "/AboutUs/Employees/Pages/DanZhang.aspx"
+category: "Developers"
+role:  "Senior Software Architect"
+qualifications:  "Master of computer"
+location: "Beijing"
+
+blog:  ""
+website:  ""
+facebook:  ""
+twitter:  ""
+linkedin:  ""
+skype:  "danzhang-ssw"
+
+quote:  "You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted."
+---
+
+​​ [![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/DanZhang)​​​​​<span style="line-height:18px;">​​</span>
+​
+​​[![](/AboutUs/Employees/PublishingImages/Microsoft_MVP_Logo.png)](http://davidburela.wordpress.com/2012/10/02/ive-been-awarded-microsoft-mvp-for-windows-azure/)<span style="line-height:1.6;">A Microsoft Certified Partner specialising in .NET solutions, as  a senior software developer. I specializes in developing solutions with C#, VB.NET, ASP.NET, WinForms, Reporting Services, SQL Server and Team Foundation Server. In past two years, I focused in the technologies of Team Foundation Server, and helped a lot of client to adopt TFS in China.</span>
+
+Rewarded as ALM MVP by Microsoft in 2015.  
+
+blog: http://www.cnblogs.com/danzhang/  
+
+在过去的几年中，专注于以Team Foundation Server为核心的微软ALM技术。协助许多客户建设基于TFS的软件开发平台。2015年被授予微软最有价值专家称号(MVP)。

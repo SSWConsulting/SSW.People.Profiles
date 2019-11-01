@@ -1,8 +1,10 @@
 ---
 current_employee: "True"
-
+ID: "AdamCogan"
 name: "Adam Cogan"
-page_url: "/AboutUs/Employees/Pages/Adam.aspx"
+nickname: "Adam Cogan"
+
+legacy_page_url: "/AboutUs/Employees/Pages/Adam.aspx"
 category: "Managers"
 role:  "Chief Architect, Microsoft Regional Director"
 qualifications:  "Trainer, B Bus, JP, MCP, Microsoft MVP (ALM)"
@@ -18,7 +20,7 @@ skype:  "adamcogan"
 quote:  "Talent can fix tricky bugs, but teamwork and brains build great software. "
 ---
 
-<div>​​​​ [ ![BookAdamNow.png](/Images/Bio/BookAdamNow.png)](http://veethere.com/With/AdamCogan)​​​​</div>​​​​![](/Images/Bio/microsoftCertified.jpg)![](/Images/Bio/Microsoft-Regional-Director-35h.png)![](/Images/Bio/scrumtrainer.png)![](/Images/Bio/scrum-badges.jpg) ​![](/Images/Bio/devops.png) 
+<div>​​​​ [ ![BookAdamNow.png](/AboutUs/Employees/PublishingImages/BookAdamNow.png)](http://veethere.com/With/AdamCogan)​​​​</div>​​​​![](/AboutUs/Employees/PublishingImages/microsoftCertified.jpg)![](/AboutUs/Employees/PublishingImages/Microsoft-Regional-Director-35h.png)![](/AboutUs/Employees/PublishingImages/scrumtrainer.png)![](/AboutUs/Employees/PublishingImages/scrum-badges.jpg) ​![](/AboutUs/Employees/PublishingImages/devops.png) 
 
 Adam Cogan is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom Azure, Azure DevOps (was TFS), .NET, SharePoint and Business Intelligence solutions.​ At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, Worley Parsons, and Aurecon.   
 
@@ -67,7 +69,7 @@ In 2005 Adam took SSW beyond Australia and opened an SSW branch in China. There 
 
 Adam loves to spend time working on his Rules pages, and his favourite quote is "There is always free cheese in a mousetrap".
 
-![](/Images/Bio/figureMouse.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Well all rules are meant to be broken :-) </font> ![](/Images/Bio/figureMap.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Adam h as spoken at user groups/conferences in these countries </font> ![](/Images/Bio/figureIce.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!</font>
+![](/AboutUs/Employees/PublishingImages/figureMouse.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Well all rules are meant to be broken :-) </font> ![](/AboutUs/Employees/PublishingImages/figureMap.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Adam h as spoken at user groups/conferences in these countries </font> ![](/AboutUs/Employees/PublishingImages/figureIce.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!</font>
 
 ##  
    <span style="color:#cc4141;">What have others said about Adam's speaking? </span>
