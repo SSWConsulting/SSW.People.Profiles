@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Innovative thinking is the best way to gain market share."
 ---
 
-  ![Microsoft MVP - Team System](/AboutUs/Employees/PublishingImages/mvplogo.gif)
+  ![Microsoft MVP - Team System](/Images/Bio/mvplogo.gif)
 
 MVP - Microsoft Most Valuable Professional  
  MTO - Microsoft TechNet Observer

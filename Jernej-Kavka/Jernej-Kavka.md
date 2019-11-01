@@ -20,7 +20,7 @@ skype:  "jernej.kavka"
 quote:  "Once upon a time, you had to be rich and powerful to change the world. Now you just need to be bold and write code."
 ---
 
- ![](/AboutUs/Employees/PublishingImages/MCP.png) ![azure-logo.png](/AboutUs/Employees/PublishingImages/azure-logo.png) ![.NET Core](/AboutUs/Employees/PublishingImages/dotnetcore.png) ![angular.png](/AboutUs/Employees/PublishingImages/angular.png) ![xamarin](/AboutUs/Employees/PublishingImages/xamarin.jpg) ![dotnetcode](/AboutUs/Employees/PublishingImages/dotnetcode.jpg) ![docker](/AboutUs/Employees/PublishingImages/docker.jpg) ![dotnet_foundation_logo.png](/AboutUs/Employees/PublishingImages/dotnet_foundation_logo.png)![ML.NET-logo.png](/AboutUs/Employees/PublishingImages/ML.NET-logo.png)![Microsoft-Cognitive-Service-Logo.png](/AboutUs/Employees/PublishingImages/Microsoft-Cognitive-Service-Logo.png)   
+ ![](/Images/Bio/MCP.png) ![azure-logo.png](/Images/Bio/azure-logo.png) ![.NET Core](/Images/Bio/dotnetcore.png) ![angular.png](/Images/Bio/angular.png) ![xamarin](/Images/Bio/xamarin.jpg) ![dotnetcode](/Images/Bio/dotnetcode.jpg) ![docker](/Images/Bio/docker.jpg) ![dotnet_foundation_logo.png](/Images/Bio/dotnet_foundation_logo.png)![ML.NET-logo.png](/Images/Bio/ML.NET-logo.png)![Microsoft-Cognitive-Service-Logo.png](/Images/Bio/Microsoft-Cognitive-Service-Logo.png)   
 
 With 10 years of Software Engineering experience across multiple industries such as  Museums, Government, Banks, Gaming, Entertainment, Jernej has worked on full-stack development of native applications including both mobile and desktop.  
 
@@ -41,7 +41,7 @@ You can follow him on [ **Twitter,**](https://twitter.com/jernej_kavka) [ **his 
 </div><div>Jernej's client projects include:  
 
 </div><div><table class="ms-rteTable-default" width="100%" cellspacing="0" style="height:146px;"><tbody><tr class="ms-rteTableEvenRow-default"><td class="ms-rteTableEvenCol-default" style="width:165px;height:36px;text-align:center;"><div>​​​</div><div>  
-![Allianz_logo_logotype.png](/AboutUs/Employees/PublishingImages/Allianz_logo_logotype.png)  
+![Allianz_logo_logotype.png](/Images/Bio/Allianz_logo_logotype.png)  
 
 </div></td><td class="ms-rteTableOddCol-default" style="width:673px;height:36px;"> 
                **Allianz Australia**  
@@ -52,14 +52,14 @@ Additionally, we were responsible for developing systems for 3rd parties to inte
 **Related Technologies**: Angular with ngrx, .NET Core, EF Core, NService Bus  
 
 </td></tr><tr class="ms-rteTableFooterRow-default"><td rowspan="1" class="ms-rteTableFooterEvenCol-default" style="width:165px;height:36px;text-align:center;">​  
-![d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg](/AboutUs/Employees/PublishingImages/d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg)</td><td rowspan="1" class="ms-rteTableFooterOddCol-default" style="width:673px;height:36px;">
+![d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg](/Images/Bio/d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg)</td><td rowspan="1" class="ms-rteTableFooterOddCol-default" style="width:673px;height:36px;">
                <span class="ms-rteThemeForeColor-2-0">** Banpu**  
 Banpu engaged SSW to develop a PWA application that can be used online and offline in various situations. We have worked with several different teams from different countries and parts of Australia, and the main focus for SSW was delivering micro-services, offline and syncing capabilities of the PWA application, a desktop administration website, the mobile UX animations, and migrating data from Excel spreadsheets. We delivered all of the features with high code coverage with unit and component tests.  
 
 **Related Technologies**: React, PWA, CosmosDB, NodeJS, .NET Core  
 </span></td></tr><tr class="ms-rteTableOddRow-default"><td rowspan="1" class="ms-rteTableEvenCol-default" style="width:165px;height:36px;text-align:center;">​​  
 
-![Long Service Corporation](/AboutUs/Employees/PublishingImages/LongServiceCorporation.gif)  
+![Long Service Corporation](/Images/Bio/LongServiceCorporation.gif)  
 
 </td><td rowspan="1" class="ms-rteTableOddCol-default" style="width:673px;height:36px;">
 
@@ -69,7 +69,7 @@ Banpu engaged SSW to develop a PWA application that can be used online and offli
  <span class="ms-rteThemeForeColor-2-0"> **Related Technologies**: ASP.Net MVC, Entity Framework, WebAPI, TypeScript, jQuery  
 </span>
 </strong></td></tr><tr class="ms-rteTableEvenRow-default"><td class="ms-rteTableEvenCol-default" style="width:165px;height:36px;text-align:center;"><div>​​​</div><div>  
-</div><div>![Infomedia](/AboutUs/Employees/PublishingImages/infomedia-logo.png)  
+</div><div>![Infomedia](/Images/Bio/infomedia-logo.png)  
 
 </div></td><td class="ms-rteTableOddCol-default" style="width:673px;height:36px;"> 
                **Infomedia**  
@@ -81,17 +81,17 @@ The project consisted of upgrading applications to a newer version of the Angula
 </div><div>   
  </div><div>Jernej's internal projects include:  
 
-</div><div><table class="ms-rteTable-default" cellspacing="0" style="width:100%;"><tbody><tr><td class="ms-rteTable-default" style="width:1%;text-align:center;">​![TimePRO_logo.png](/AboutUs/Employees/PublishingImages/TimePRO_logo.png)  
+</div><div><table class="ms-rteTable-default" cellspacing="0" style="width:100%;"><tbody><tr><td class="ms-rteTable-default" style="width:1%;text-align:center;">​![TimePRO_logo.png](/Images/Bio/TimePRO_logo.png)  
 </td><td class="ms-rteTable-default" style="width:50%;"> 
                **SSW ****Time****Pro **-** **Timesheeting and invoicing application that integrates with CRM and TFS servers.  
 
 **Related Technology**: Angular, TypeScript, MVC, SQL Server 2017, jQuery, WebAPI, Kendo UI  
-</td></tr><tr><td class="ms-rteTable-default" style="width:1%;text-align:center;">​![](https://www.ssw.com.au/SSW/Logo/SugarLearning/Images/SugarLearning_Logo.png)</td><td class="ms-rteTable-default">
+</td></tr><tr><td class="ms-rteTable-default" style="width:1%;text-align:center;">​![](/Images/Bio/SugarLearning_Logo.png)</td><td class="ms-rteTable-default">
                **SugarLearning** is a simple induction training website used to get new employees up to speed and track their progress.  
 
 **Related Technology**: Angular, TypeScript, MVC, Azure SQL Server, WebAPI, Kendo UI  
 </td></tr><tr><td>
-               ![sophie-logo.png](/AboutUs/Employees/PublishingImages/sophie-logo.png)   
+               ![sophie-logo.png](/Images/Bio/sophie-logo.png)   
 
             </td><td>
                **Sophie Hub** is a smart receptionist that recognizes incoming guests and lets them know about their agenda and information relevant to them. In the future, Sophie will be used as a full smart office solution.  

@@ -20,11 +20,11 @@ skype:  ""
 quote:  "Excellence is not a skill, it's an attitude."
 ---
 
-​​​​ [![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/MarkLiu)​​​​​<span style="line-height:18px;">​​</span><div><span style="line-height:18px;">  
+​​​​ [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/MarkLiu)​​​​​<span style="line-height:18px;">​​</span><div><span style="line-height:18px;">  
 </span>
 
 ## ​​​​​​ 
-   ![](/AboutUs/Employees/PublishingImages/scrumtrainer.png) 
+   ![](/Images/Bio/scrumtrainer.png) 
 
 As one of the smartest guys at SSW, Mark is the man to go to for any .NET related issue. He's the one that others come to when they get stuck.​  
 

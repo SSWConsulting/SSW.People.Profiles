@@ -20,8 +20,8 @@ skype:  ""
 quote:  "Software is like music. Easy to use but hard to write."
 ---
 
-​​​​​​​​​​​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/DanijelMalik) <span style="line-height:18px;">   
-</span> <span style="line-height:1.6;"> </span> ![MVP_FullLogo.png](/AboutUs/Employees/PublishingImages/MVP_FullLogo.png) <span style="line-height:1.6;">    </span>![](/AboutUs/Employees/PublishingImages/MCSD_2013(rgb)_1477.jpg)<span style="line-height:1.6;">  </span> ![MCTS_2013(rgb)_NETFX.jpg](/AboutUs/Employees/PublishingImages/MCTS_2013(rgb)_NETFX.jpg) ![Sitefinity](/AboutUs/Employees/PublishingImages/logo_sitefinity.png)   
+​​​​​​​​​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/DanijelMalik) <span style="line-height:18px;">   
+</span> <span style="line-height:1.6;"> </span> ![MVP_FullLogo.png](/Images/Bio/MVP_FullLogo.png) <span style="line-height:1.6;">    </span>![](/Images/Bio/MCSD_2013(rgb)_1477.jpg)<span style="line-height:1.6;">  </span> ![MCTS_2013(rgb)_NETFX.jpg](/Images/Bio/MCTS_2013(rgb)_NETFX.jpg) ![Sitefinity](/Images/Bio/logo_sitefinity.png)   
 
  <span style="line-height:1.5em;background-color:initial;">Danijel is a DevOps mastermind who can make your DevOps cycle run like a well-oiled machine. With a wide range of technical skills and a deep desire to understand the client's business first, Danijel is the person you can always rely on to get the best solution.</span>
 

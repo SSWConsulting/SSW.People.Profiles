@@ -20,8 +20,8 @@ skype:  ""
 quote:  "Open Source Software is not about the price. Its about the freedom to use and improve your tools."
 ---
 
-​​​​​​​​​ [ ![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/BrendanRichards)​​​​​<span style="line-height:18px;">​​  
-</span><span style="font-size:11pt;line-height:18px;">​​​​​​​​​​​</span>![Microsoft Certified Solutions Developer](/AboutUs/Employees/PublishingImages/MCSD_2013(rgb)_1477.jpg) ​![dotnetcore.png](/AboutUs/Employees/PublishingImages/dotnetcore.png)![angular.png](/AboutUs/Employees/PublishingImages/angular.png)![ngrx.jpg](/AboutUs/Employees/PublishingImages/ngrx.jpg)![liinux.jpg](/AboutUs/Employees/PublishingImages/liinux.jpg)  
+​​​​​​​​​ [ ![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/BrendanRichards)​​​​​<span style="line-height:18px;">​​  
+</span><span style="font-size:11pt;line-height:18px;">​​​​​​​​​​​</span>![Microsoft Certified Solutions Developer](/Images/Bio/MCSD_2013(rgb)_1477.jpg) ​![dotnetcore.png](/Images/Bio/dotnetcore.png)![angular.png](/Images/Bio/angular.png)![ngrx.jpg](/Images/Bio/ngrx.jpg)![liinux.jpg](/Images/Bio/liinux.jpg)  
 
 <div> 
    <span class="ms-rteFontSize-2">Throughout his career, Brendan has been a big user and proponent of Open Source software. This has been applied to a broad variety of web-based programming projects spanning the last 17 years.  Brendan has worked with an eclectic mix of languages, platforms and technologies including .Net, Java, PHP, Ruby and Perl across both Unix/Linux and Microsoft Windows platforms. This gives Brendan some unique perspectives on how different teams & platforms have tackled similar problems.</span>  

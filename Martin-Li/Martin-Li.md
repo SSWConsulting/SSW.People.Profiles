@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Nothing in this world can take the place of persistence."
 ---
 
-​​![jackyzhou_mcp.jpg](/AboutUs/Employees/PublishingImages/jackyzhou_mcp.jpg) 
+​​![jackyzhou_mcp.jpg](/Images/Bio/jackyzhou_mcp.jpg) 
 
 **Background:** 
 

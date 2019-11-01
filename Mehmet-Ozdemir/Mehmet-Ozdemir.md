@@ -20,10 +20,10 @@ skype:  ""
 quote:  "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"
 ---
 
-​​​​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/MehmetOzdemir)​​​​​<span style="line-height:18px;">​​  
+​​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/MehmetOzdemir)​​​​​<span style="line-height:18px;">​​  
 </span><span lang="EN-AU">
 
-​​​​​​​​​​![](/AboutUs/Employees/PublishingImages/MCSD_2013(rgb)_1509.png)<span style="line-height:1.6;"> </span>
+​​​​​​​​​​![](/Images/Bio/MCSD_2013(rgb)_1509.png)<span style="line-height:1.6;"> </span>
 
 Mehmet​ is a Solution Architect at SSW, a Microsoft Certified Solutions Developer specialising in Power BI, SSRS, Dynamics 365, and SharePoint solutions. Mehmet has extensive experience in Microsoft products both pre and post .NET and loves working with C#, Power Query, DAX, and SQL. In previous roles before SSW, Mehmet has worked with BI tools such as Teradata Data Warehouse, Oracle DRM (Master Data Management), Essbase and Cognos ReportNet.
 

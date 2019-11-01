@@ -20,7 +20,7 @@ skype:  ""
 quote:  "I'm always trying to be more professional."
 ---
 
-![MCPD](/AboutUs/Employees/PublishingImages/MCPD_WebDev2.0.jpg)  
+![MCPD](/Images/Bio/MCPD_WebDev2.0.jpg)  
 
 **Background:**  
 

@@ -20,9 +20,9 @@ skype:  ""
 quote:  "Work hard leads to decent living"
 ---
 
-​<span style="font-size:10.5pt;font-family:calibri, sans-serif;">​![MCPicon.png](/AboutUs/Employees/PublishingImages/MCPicon.png)Microsoft MCP - Programming in HTML5 with JavaScript and CSS3  
-</span><span style="line-height:1.6;"><span style="line-height:20.7999992370605px;">​</span><span style="font-size:10.5pt;font-family:calibri, sans-serif;">​![MCPicon.png](/AboutUs/Employees/PublishingImages/MCPicon.png)Microsoft MCP - </span>Administering Visual Studio Team Foundation Server 2012</span><span style="line-height:1.6;">​  
-<span style="line-height:20.7999992370605px;">​</span><span style="font-size:10.5pt;font-family:calibri, sans-serif;">​![MCPicon.png](/AboutUs/Employees/PublishingImages/MCPicon.png)​Microsoft MCP - </span>Delivering Continuous Value With Visual Studio 2012 Application Lifecycle Management​  
+​<span style="font-size:10.5pt;font-family:calibri, sans-serif;">​![MCPicon.png](/Images/Bio/MCPicon.png)Microsoft MCP - Programming in HTML5 with JavaScript and CSS3  
+</span><span style="line-height:1.6;"><span style="line-height:20.7999992370605px;">​</span><span style="font-size:10.5pt;font-family:calibri, sans-serif;">​![MCPicon.png](/Images/Bio/MCPicon.png)Microsoft MCP - </span>Administering Visual Studio Team Foundation Server 2012</span><span style="line-height:1.6;">​  
+<span style="line-height:20.7999992370605px;">​</span><span style="font-size:10.5pt;font-family:calibri, sans-serif;">​![MCPicon.png](/Images/Bio/MCPicon.png)​Microsoft MCP - </span>Delivering Continuous Value With Visual Studio 2012 Application Lifecycle Management​  
 </span>
 
 <span style="line-height:1.6;">Dorben loves new techs and meant to bring them into our daily life, especially loves Arduino, but now have not invent anything.</span>

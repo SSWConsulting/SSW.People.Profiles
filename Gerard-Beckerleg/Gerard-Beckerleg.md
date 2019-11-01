@@ -20,7 +20,7 @@ skype:  ""
 quote:  "You can have good, fast, or cheap.  But you can only pick two."
 ---
 
-<span>​​​​​​​ ![](/AboutUs/Employees/Documents/gerardMCTSlogo.png) <span>![](/AboutUs/Employees/Documents/gerardpsdlogo.png) </span></span>
+<span>​​​​​​​ ![](/Images/Bio/gerardMCTSlogo.png) <span>![](/Images/Bio/gerardpsdlogo.png) </span></span>
 
 <span><span></span></span>Gerard is a Solution Architect at SSW in Sydney since 2011.
 

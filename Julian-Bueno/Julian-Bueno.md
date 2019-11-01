@@ -20,7 +20,7 @@ skype:  ""
 quote:  "A well-spent day brings happy sleep. Leonardo Da Vinci"
 ---
 
-​ ![](/AboutUs/Employees/PublishingImages/MCTS(rgb)_512_513.gif) 
+​ ![](/Images/Bio/MCTS(rgb)_512_513.gif) 
 
 Julian is a Senior Software Developer at SSW has been working for more than 5 years in the .NET ecosystem. He is specialized in developing solutions with C#,VB.NET, ASP.NET (2.0 - 4.0), Web Services, SQL Server, Mobile applications and Windows Forms. 
 

@@ -20,7 +20,7 @@ skype:  "stephen.carter.melb"
 quote:  "Whether you think you can or think you can't, you're right."
 ---
 
-​![psmi.jpg](/AboutUs/Employees/PublishingImages/psmi.jpg) ​![Sitefinity](/AboutUs/Employees/PublishingImages/logo_sitefinity.png)
+​![psmi.jpg](/Images/Bio/psmi.jpg) ​![Sitefinity](/Images/Bio/logo_sitefinity.png)
 
 Stephen Carter is a Senior  Software Architect and the Victorian State Manager with SSW. He is a certified Professional Scrum Master with a background in business, transport, education, NFP/NGO and emergency services.   
 

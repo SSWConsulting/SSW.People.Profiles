@@ -20,7 +20,7 @@ skype:  "shigemi_matsumoto"
 quote:  "There is no substitute for hard work"
 ---
 
-​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/Shigemi)​​​​​<span style="line-height:18px;">​​  
+​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/Shigemi)​​​​​<span style="line-height:18px;">​​  
 </span>
 <div class="editable-item section-item current-position" style="margin-bottom:30px;border:0px;font-size:13px;font-family:arial, sans-serif;vertical-align:baseline;font-stretch:inherit;line-height:17px;color:#333333;"><div style="border:0px;font-weight:inherit;font-style:inherit;font-family:inherit;vertical-align:baseline;font-variant:inherit;font-stretch:inherit;line-height:inherit;">​​​
 

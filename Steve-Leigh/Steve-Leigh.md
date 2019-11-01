@@ -20,7 +20,7 @@ skype:  "steveleighssw"
 quote:  "Code cleanly to ship quickly"
 ---
 
-​​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/SteveLeigh)​​​​​<span style="line-height:18px;">​​  
+​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/SteveLeigh)​​​​​<span style="line-height:18px;">​​  
 
 </span> 
 <div>​​​Steve is a Solution Architect, with extensive experience in the gamut of technologies require to ship web based software.</div><div><div>

@@ -21,8 +21,8 @@ quote:  "I like challenging work. I like using cutting edge technologies to make
 ---
 
 ## ​
-    ![pmp logo](/AboutUs/Employees/PublishingImages/pmp_logo.jpg) ![](/AboutUs/Employees/PublishingImages/MCAD-RGB.gif)  ![](/AboutUs/Employees/PublishingImages/mcp-rgb.gif) 
-![](/AboutUs/Employees/PublishingImages/scrumtrainer.png) 
+    ![pmp logo](/Images/Bio/pmp_logo.jpg) ![](/Images/Bio/MCAD-RGB.gif)  ![](/Images/Bio/mcp-rgb.gif) 
+![](/Images/Bio/scrumtrainer.png) 
 
 **Background**  
 

@@ -20,8 +20,8 @@ skype:  "williamyin-ssw"
 quote:  "I believe positive mental attitude leads to excellence."
 ---
 
-​​​​​​​​​​​​​​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/WilliamYin) <span style="line-height:18px;">   
-</span><span style="line-height:1.6;"> </span>![MCSE_SharePoint_Blk.png](/AboutUs/Employees/PublishingImages/MCSE_SharePoint_Blk.png)![MCSA_Office365_Blk.png](/AboutUs/Employees/PublishingImages/MCSA_Office365_Blk.png)![MCPD-SharePtDev2010-logo-BW.png](/AboutUs/Employees/PublishingImages/MCPD-SharePtDev2010-logo-BW.png)![MCTS-MSOSPSvr7AppD-logo-BW.png](/AboutUs/Employees/PublishingImages/MCTS-MSOSPSvr7AppD-logo-BW.png)
+​​​​​​​​​​​​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/WilliamYin) <span style="line-height:18px;">   
+</span><span style="line-height:1.6;"> </span>![MCSE_SharePoint_Blk.png](/Images/Bio/MCSE_SharePoint_Blk.png)![MCSA_Office365_Blk.png](/Images/Bio/MCSA_Office365_Blk.png)![MCPD-SharePtDev2010-logo-BW.png](/Images/Bio/MCPD-SharePtDev2010-logo-BW.png)![MCTS-MSOSPSvr7AppD-logo-BW.png](/Images/Bio/MCTS-MSOSPSvr7AppD-logo-BW.png)
 
 William is a software developer at SSW. He specializes in developing solutions with SharePoint (with client side javascript extensions – mostly with JQuery, Angular and React) , ASP.NET, SQL server and Azure.  
 

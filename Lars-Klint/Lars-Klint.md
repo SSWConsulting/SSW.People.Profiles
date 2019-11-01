@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Whether you think you can, or can't, you're right - Henry Ford "
 ---
 
-​​​![](/AboutUs/Employees/PublishingImages/Microsoft_MVP_Logo.png) 
+​​​![](/Images/Bio/Microsoft_MVP_Logo.png) 
 
 Lars is a Solution Architect and Windows Platform Development MVP. ​
 

@@ -22,7 +22,7 @@ quote:  " Nothing is too complex to do, usually different people have already so
 
 ​​​​​​​​​
 
-​![FireBootCamp-Logo.png](/AboutUs/Employees/PublishingImages/FireBootCamp-Logo.png)<span style="line-height:31.23px;"> </span>
+​![FireBootCamp-Logo.png](/Images/Bio/FireBootCamp-Logo.png)<span style="line-height:31.23px;"> </span>
 
 Adriaan is a Senior Software Architect at SSW.
 

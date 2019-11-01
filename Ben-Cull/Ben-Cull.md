@@ -20,7 +20,7 @@ skype:  ""
 quote:  "​​I build web applications that are lightning fast and dressed to impress."
 ---
 
-​​​​​ [ ![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/BenCull) <span style="line-height:18px;"> </span>
+​​​​​ [ ![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/BenCull) <span style="line-height:18px;"> </span>
 
  <span style="color:#333333;font-family:arial, sans-serif;line-height:17px;"> I'm a full stack web developer with extensive experience developing enterprise software in ASP.NET MVC and SQL Server.</span>
 
@@ -46,4 +46,4 @@ I also have a beer brewing channel on youtube:  [Mash Hacks](https://www.youtu
 
 <span style="color:#333333;font-family:arial, sans-serif;line-height:17px;">Specialties: Web Development, Cloud Applications, Payments, Startups </span>
 
-​![](/AboutUs/Employees/PublishingImages/MCSD_2013(rgb)_1477.jpg) ![Sitefinity](/AboutUs/Employees/PublishingImages/logo_sitefinity.png) ​   
+​![](/Images/Bio/MCSD_2013(rgb)_1477.jpg) ![Sitefinity](/Images/Bio/logo_sitefinity.png) ​   

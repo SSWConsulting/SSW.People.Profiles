@@ -20,7 +20,7 @@ skype:  "madkonst"
 quote:  "A good programmer looks both ways before crossing a one-way street"
 ---
 
-​​​​​​​​![dotnetcore.png](/AboutUs/Employees/PublishingImages/dotnetcore.png)![angular.png](/AboutUs/Employees/PublishingImages/angular.png)![zendesk.png](/AboutUs/Employees/PublishingImages/zendesk.png)  
+​​​​​​​​![dotnetcore.png](/Images/Bio/dotnetcore.png)![angular.png](/Images/Bio/angular.png)![zendesk.png](/Images/Bio/zendesk.png)  
 
 Kosta is a Senior Software Architect based in SSW's Sydney office. He is passionate about innovations and effective delivery of services.  
 

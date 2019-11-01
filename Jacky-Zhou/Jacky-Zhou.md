@@ -20,10 +20,10 @@ skype:  "jackyzhou-ssw"
 quote:  "Nothing Is Impossible"
 ---
 
-​​​​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/JackyZhou)​​​​​<span style="line-height:18px;">​​  
+​​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/JackyZhou)​​​​​<span style="line-height:18px;">​​  
 </span>​
 
-​​​![MVPLOGO.png](/AboutUs/Employees/PublishingImages/MVPLOGO.png)
+​​​![MVPLOGO.png](/Images/Bio/MVPLOGO.png)
 
  <span style="color:#993366;">**<span style="color:#800080;">Background</span>:**</span>  
 Jacky is a Senior Software Developer at SSW Beijing Office.

@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Function without Design is like a car without a steering wheel"
 ---
 
-​​​​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/DavidBerkes) <span style="line-height:18px;">   
+​​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/DavidBerkes) <span style="line-height:18px;">   
 </span>​
 
 David is a multidisciplinary designer who is experienced in Product & Digital Design, including UCD (User Centred Design), UI, UX, IA (Information Architecture), and Design Thinking. I bring over 15 years experience of end to end-user and customer-focused experience covering such elements as User Stories, Personas, Scenarios, Data Analytics, AB Testing, User & Stakeholder Surveys, Concept Maps and Project flows, Storyboards, Wireframes & interactive prototypes, Animations and micro-interactions using Lottie JS. As well as 3D mock-ups, original concepts and product visualisation.  

@@ -20,9 +20,9 @@ skype:  ""
 quote:  "“So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.”  ― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship"
 ---
 
-​​​ [![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/DuncanHunter) <span style="line-height:18px;"> </span>
+​​​ [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/DuncanHunter) <span style="line-height:18px;"> </span>
 
-​​​​​​​ ![FireBootCamp-Logo.png](/AboutUs/Employees/PublishingImages/FireBootCamp-Logo.png)   
+​​​​​​​ ![FireBootCamp-Logo.png](/Images/Bio/FireBootCamp-Logo.png)   
 
 Duncan loves working in passionate teams to make awesome software.   
 
@@ -31,7 +31,7 @@ Making sustainable software that solves real world issues is what makes Duncan t
 With the current speed of change in frontend best practices, Duncan helps teams learning and implementing modern frontend build processes to produce scalable and maintainable applications quickly.   
 
 Duncan is a passionate teacher and delivers courses around the world on best practices in Angular and ASP.NET Core.<div>  
-</div><div>![duncan-at-google.jpg](/AboutUs/Employees/PublishingImages/duncan-at-google.jpg)  
+</div><div>![duncan-at-google.jpg](/Images/Bio/duncan-at-google.jpg)  
 
  Figure: Duncan teaching Angular  
 
@@ -74,7 +74,7 @@ Related technologies: MCV5, AngularJS, Kendo
 </font></div> 
       **** 
 
- ![DuncanHunter-Climbing.png](/AboutUs/Employees/PublishingImages/DuncanHunter-Climbing.png)   
+ ![DuncanHunter-Climbing.png](/Images/Bio/DuncanHunter-Climbing.png)   
  <span style="line-height:20.8px;">Figure: Duncan climbing on </span>[Nameless Tower](http://en.wikipedia.org/wiki/Trango_Towers)<span style="line-height:20.8px;"> in Pakistan</span>  
 
 </strong></div></div></div>

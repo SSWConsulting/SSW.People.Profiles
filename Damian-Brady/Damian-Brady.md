@@ -20,7 +20,7 @@ skype:  ""
 quote:  "If you look at something you did a year ago and can't think of a better way to do it, it's not a sign you did it perfectly the first time, it's a sign you're not learning."
 ---
 
-​​[![Microsoft_MVP_Logo.png](/AboutUs/Employees/PublishingImages/Microsoft_MVP_Logo.png)​](https://mvp.microsoft.com/en-us/mvp/Damian%20Brady-5000595)  ![MCSD_2013(rgb)_1509.png](/AboutUs/Employees/PublishingImages/MCSD_2013(rgb)_1509.png)​  ![PSMI.png](/AboutUs/Employees/PublishingImages/PSMI.png)   [![cover_small.png](/AboutUs/Employees/PublishingImages/cover_small.png)](http://brdy.in/ProTFS2013)​  
+​​[![Microsoft_MVP_Logo.png](/Images/Bio/Microsoft_MVP_Logo.png)​](https://mvp.microsoft.com/en-us/mvp/Damian%20Brady-5000595)  ![MCSD_2013(rgb)_1509.png](/Images/Bio/MCSD_2013(rgb)_1509.png)​  ![PSMI.png](/Images/Bio/PSMI.png)   [![cover_small.png](/Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013)​  
  Damian is the Chief Architect and State Manager for QLD and is a Microsoft MVP in Visual Studio ALM.  
 
  With well over ten years of experience both in software development and business analysis roles, Damian has had exposure to a large number of industries including government and finance. A software architect with a wide skillset, he is able to use his excellent technical skills and knowledge of business process to deliver the most effective solutions to our clients.  

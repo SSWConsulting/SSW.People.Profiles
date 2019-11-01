@@ -22,7 +22,7 @@ quote:  "It is better to light a candle than to curse the darkness."
 
 ## 
     [
-      ![](/AboutUs/Employees/PublishingImages/scrumtrainer.png) ](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx)
+      ![](/Images/Bio/scrumtrainer.png) ](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx)
 
 Key Technologies: **[SharePoint 2010](http://www.ssw.com.au/ssw/Consulting/SharePoint.aspx), [Team Foundation Server 2010](http://www.ssw.com.au/ssw/Consulting/ALM.aspx), [ASP.NET](http://www.ssw.com.au/ssw/Consulting/WebsiteDevelopment.aspx)**  
  Customer Benefits: **Improved project management and optimised developement processes**  

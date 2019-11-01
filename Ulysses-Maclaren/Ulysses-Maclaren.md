@@ -20,7 +20,7 @@ skype:  "ulyssesmaclaren"
 quote:  "Nothing in life is impossible. The biggest hurdles to success in life are inaction and fear of failure."
 ---
 
-​​​​​​ ![Certified Scrum Master](/AboutUs/Employees/PublishingImages/ScrumMasterCertification.jpg)   
+​​​​​​ ![Certified Scrum Master](/Images/Bio/ScrumMasterCertification.jpg)   
  <span style="line-height:1.6;">Ulysses is the General Manager of SSW and has been managing the team since 2006.   
 </span><span style="line-height:1.6;">  
 Used to working under pressure, he is Adam Cogan's 2nd in charge, and keeps the company running smoothly while also dealing with SSW's clients and the development and design teams. </span><span style="line-height:1.6;">His passion is making sure that all the guys at SSW feel like a family, while always improving their skill sets and challenging them to constantly expand their horizons.  

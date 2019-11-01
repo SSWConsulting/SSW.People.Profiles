@@ -20,7 +20,7 @@ skype:  "ityapkin"
 quote:  "Failing to plan is planning to fail, but responding to change over following a plan"
 ---
 
-​​​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/IvanTyapkin)​​​​​<span style="line-height:18px;">​​</span>
+​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/IvanTyapkin)​​​​​<span style="line-height:18px;">​​</span>
 
  <span style="line-height:18px;">​​​​​​Ivan is a Senior Software Architect at SSW</span>
 

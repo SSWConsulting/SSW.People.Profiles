@@ -20,9 +20,9 @@ skype:  "astephensen"
 quote:  "'fail fast', inspect, adapt, have a lot of fun.  "
 ---
 
-​​​​​ [ ![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/AdamStephensen) <span style="line-height:18px;"> </span>
+​​​​​ [ ![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/AdamStephensen) <span style="line-height:18px;"> </span>
 
- <span style="line-height:18px;"></span><span style="font-family:calibri;font-size:11pt;line-height:1.6;"> </span>![MCSD Web Applications](/AboutUs/Employees/PublishingImages/MCSD_2013(rgb)_1477.jpg)<span style="font-family:calibri;font-size:11pt;line-height:1.6;">     </span>![Professional Scrum Master I](/AboutUs/Employees/PublishingImages/PSMI.png)<span style="font-family:calibri;font-size:11pt;line-height:1.6;">    </span>![Microsoft Certified Professional](/AboutUs/Employees/PublishingImages/MCP.png)
+ <span style="line-height:18px;"></span><span style="font-family:calibri;font-size:11pt;line-height:1.6;"> </span>![MCSD Web Applications](/Images/Bio/MCSD_2013(rgb)_1477.jpg)<span style="font-family:calibri;font-size:11pt;line-height:1.6;">     </span>![Professional Scrum Master I](/Images/Bio/PSMI.png)<span style="font-family:calibri;font-size:11pt;line-height:1.6;">    </span>![Microsoft Certified Professional](/Images/Bio/MCP.png)
 
 Adam is passionate about building awesome teams and software projects.
 

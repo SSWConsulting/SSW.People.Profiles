@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Have you switched it off and on again?"
 ---
 
-​​​​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/StanleySidik)​​​​​<span style="line-height:18px;">​​  
+​​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/StanleySidik)​​​​​<span style="line-height:18px;">​​  
 </span> 
 
 ​​​​​​​​Stanley is an IT professional with over ten years industry experience, a graduate of Macquarie University in B. Information Systems. His field of expertise is design, implementation and management of IT Infrastructure and network. A strong believer of continuous IT improvement to remain aligned with business objectives, through new technology and business process re-engineering. 

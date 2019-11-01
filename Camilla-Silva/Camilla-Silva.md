@@ -20,7 +20,7 @@ skype:  ""
 quote:  "You know you are on the road to success if you would do your job, and not be paid for it.  -- Oprah Winfrey"
 ---
 
-​ ![google accreditation Camilla.jpg](/AboutUs/Employees/PublishingImages/google%20accreditation%20Camilla.jpg)   
+​ ![google accreditation Camilla.jpg](/Images/Bio/google%20accreditation%20Camilla.jpg)   
 ​​​​​  
 
 She is the champion of SSW Digital and is constantly working towards the best results for our digital clients. Camilla brings with her a solid and long background in Business and Strategy Consultancy, as well as a passion for art & fashion. This rich background makes her a creative and resourceful member of the team.

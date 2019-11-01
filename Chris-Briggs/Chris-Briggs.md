@@ -20,7 +20,7 @@ skype:  ""
 quote:  "You don't find buried treasure by sitting down."
 ---
 
-​​ [![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/ChrisBriggs)​​​​​<span style="line-height:18px;">​​</span>
+​​ [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/ChrisBriggs)​​​​​<span style="line-height:18px;">​​</span>
 
 ​​​​​​​Chris is a Senior Software Developer, <span style="line-height:20.8px;">who heads up IoT at SSW</span><span style="line-height:20.8px;"> </span> . B<span style="line-height:20.8px;">ased in Brisbane</span> , he's passionate about IoT, Scrum, Security, Windows Universal Apps and Xamarin. All the Devs at SSW have been asking Chris, what he thinks the Internet of Things will mean for their day to day lives? It ranges from the impossible to the improbable, from automating their coffee breaks, to telling them exactly when the next bus will arrive!
 

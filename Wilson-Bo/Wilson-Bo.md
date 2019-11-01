@@ -20,7 +20,7 @@ skype:  ""
 quote:  "TFS + .NET"
 ---
 
-​​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/WilsonBo)​​​​​<span style="line-height:18px;">​​  
+​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/WilsonBo)​​​​​<span style="line-height:18px;">​​  
 
 </span> 
 

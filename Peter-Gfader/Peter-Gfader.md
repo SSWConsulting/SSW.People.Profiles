@@ -20,9 +20,9 @@ skype:  ""
 quote:  "Carpe diem, et noctem."
 ---
 
-##  ![](/AboutUs/Employees/PublishingImages/mcp-rgb.gif)     ![](/AboutUs/Employees/PublishingImages/MCAD-RGB.gif)    ![](/AboutUs/Employees/PublishingImages/scrumtrainer.png)
+##  ![](/Images/Bio/mcp-rgb.gif)     ![](/Images/Bio/MCAD-RGB.gif)    ![](/Images/Bio/scrumtrainer.png)
 
-##  ![](/AboutUs/Employees/PublishingImages/MCPD-windev-rgb_505.jpg) ![](/AboutUs/Employees/PublishingImages/MCTS-dotnet-2-windows-apps-rgb_512.jpg) ![MCTS Web applications](/AboutUs/Employees/PublishingImages/MCTS-web(rgb)_513.png) ![MCPD Web developer](/AboutUs/Employees/PublishingImages/MCPD-web(rgb)_504.png) 
+##  ![](/Images/Bio/MCPD-windev-rgb_505.jpg) ![](/Images/Bio/MCTS-dotnet-2-windows-apps-rgb_512.jpg) ![MCTS Web applications](/Images/Bio/MCTS-web(rgb)_513.png) ![MCPD Web developer](/Images/Bio/MCPD-web(rgb)_504.png) 
 
  Peter is a Solution Architect at SSW that mixes Scrum experience with development techniques like XP and Agile. 
 

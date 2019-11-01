@@ -20,7 +20,7 @@ skype:  ""
 quote:  "I am not really a cat."
 ---
 
-​​​​[![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/RebeccaLiu)​​​​​<span style="line-height:18px;">​​  
+​​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/RebeccaLiu)​​​​​<span style="line-height:18px;">​​  
 </span>​
 
 ​​​​Rebecca is a Graphic Designer at SSW. She loves typography, bright color palettes and attention to small details. She is camera shy and doesn't like talking about herself.

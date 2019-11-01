@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Without requirements or design, programming is the art of adding bugs to an empty text file."
 ---
 
-​ [![BookNow.png](/AboutUs/Employees/PublishingImages/BookNow.png)](http://veethere.com/With/IgorGoldobin)​​​​​<span style="line-height:18px;">​​</span>
+​ [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/IgorGoldobin)​​​​​<span style="line-height:18px;">​​</span>
 
 ​​​Igor is Senior Software Architect at SSW. 
 

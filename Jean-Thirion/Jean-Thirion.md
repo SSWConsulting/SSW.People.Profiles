@@ -20,7 +20,7 @@ skype:  "thirion.jean@outlook.com"
 quote:  "There is no shame in not knowing. The problem arises when irrational thought and attendant behaviour fill the vacuum left by ignorance. (Neil Degrasse Tyson) "
 ---
 
-​​​​ ![MCSD_ShareApp_Blk.png](/AboutUs/Employees/PublishingImages/MCSD_ShareApp_Blk.png) ![MCSD App Builder-logo-Blk.png](/AboutUs/Employees/PublishingImages/MCSD%20App%20Builder-logo-Blk.png) ![angular.png](/AboutUs/Employees/PublishingImages/angular.png) ​![images.png](/AboutUs/Employees/PublishingImages/images.png)  
+​​​​ ![MCSD_ShareApp_Blk.png](/Images/Bio/MCSD_ShareApp_Blk.png) ![MCSD App Builder-logo-Blk.png](/Images/Bio/MCSD%20App%20Builder-logo-Blk.png) ![angular.png](/Images/Bio/angular.png) ​![images.png](/Images/Bio/images.png)  
 
 Jean is a** SSW Solution Architect **. His main fields of expertise are** SharePoint Applications**, **Angular, ​React **and **.NETCore**.  
 
@@ -28,7 +28,7 @@ His deep knowledge of **SharePoint's **many capabilities, combined with the**�
 
 Jean has been working with **SharePoint **for the past 6 years, in **France**, **Luxembourg**, and now **Australia**. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.  
 
-![60398623_2776967035653247_301891567608659968_n.jpg](/AboutUs/Employees/PublishingImages/60398623_2776967035653247_301891567608659968_n.jpg)​  
+![60398623_2776967035653247_301891567608659968_n.jpg](/Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)​  
 **Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**  
 
 **  
