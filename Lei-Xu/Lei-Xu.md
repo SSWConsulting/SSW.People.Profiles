@@ -24,11 +24,11 @@ quote:  "I believe in understanding people and technology. This combination has 
    ![MVP](./Images/Bio/mvp.jpg) 
   
    ![Region Director](./Images/Bio/regionalDirector.jpg) 
-
+ 
    ![MCP](./Images/Bio/MCP.png) 
-
+ 
    ![MCP](./Images/Bio/csm.png) 
-
+ 
    ![Certified Scrum Trainer](./Images/Bio/scrumtrainer.png) 
 
 
@@ -64,3 +64,7 @@ Some of his major internal work includes:
 *   Improving the project management processes by utilizing Visual Studio Team System and Team Foundation Server even more. 
 *   Delivering more business solutions while using SSW 
       [Agile Development Processes (aka SSW Extreme Programming Method (XPDM) )](/Standards/Management/RulesToBetterProjectManagement/Pages/Default.aspx)    
+
+*   **Favourite Quote**
+
+His favourite quote is "I don't want to get to the end of my life and find that I have just lived the length of it. I want to have lived the width of it as well."
