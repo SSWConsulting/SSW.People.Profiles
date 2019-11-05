@@ -24,13 +24,16 @@ quote:  "I believe in understanding people and technology. This combination has 
    ![MVP](./Images/Bio/mvp.jpg) 
   
    ![Region Director](./Images/Bio/regionalDirector.jpg) 
-![MCP](./Images/Bio/MCP.png) 
-![MCP](./Images/Bio/csm.png) 
-![Certified Scrum Trainer](./Images/Bio/scrumtrainer.png) 
+
+   ![MCP](./Images/Bio/MCP.png) 
+
+   ![MCP](./Images/Bio/csm.png) 
+
+   ![Certified Scrum Trainer](./Images/Bio/scrumtrainer.png) 
 
 
  **Background  
- **Lei Xu is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in .NET solutions. He specializes in developing solutions with C#, VB.NET, ASP.NET, WinForms, WPF/WCF/WF, Windows Services, Reporting Services, SQL Server and Exchange Server. Lei is one of the few to work in both the Sydney and Beijing offices. Lei has been running the Beijing office since 2005 - so he is in charge of the day to day operation of the office, but spends most of his time taking the lead in the technical directions.
+ **Lei Xu is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in .NET solutions. He specializes in developing solutions with C#, VB.NET, ASP.NET, WinForms, WPF/WCF/WF, Windows Services, Reporting Services, SQL Server and Exchange Server. Lei is one of the few to work in both the Sydney and Beijing offices. Lei has been running the Beijing office since 2005 - so he is in charge of the day to day operation of the office, but spends most of his time taking the lead in the technical directions.  
 
  **Work  
  **Lei has been a Microsoft Most Valuable Professional (MVP) for many years (since 2006). In fact his MVP specialities have crossed many technologies:
@@ -64,4 +67,4 @@ Some of his major internal work includes:
 
 *   **Favourite Quote**
 
-His favourite quote is "I don't want to get to the end of my life and find that I have just lived the length of it. I want to have lived the width of it as well."
+His favourite quote is I don't want to get to the end of my life and find that I have just lived the length of it. I want to have lived the width of it as well.
