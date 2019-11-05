@@ -24,9 +24,12 @@ quote:  "I believe in understanding people and technology. This combination has 
    ![MVP](./Images/Bio/mvp.jpg) 
   
    ![Region Director](./Images/Bio/regionalDirector.jpg) 
-![MCP](./Images/Bio/MCP.png) 
-![MCP](./Images/Bio/csm.png) 
-![Certified Scrum Trainer](./Images/Bio/scrumtrainer.png) 
+
+   ![MCP](./Images/Bio/MCP.png) 
+
+   ![MCP](./Images/Bio/csm.png) 
+
+   ![Certified Scrum Trainer](./Images/Bio/scrumtrainer.png) 
 
 
  **Background  
@@ -51,3 +54,13 @@ Some of his major internal work includes:
 *   SSW Exchange Reporter: the best selling product of SSW. Lei has been the major developer behind this product and helped hunderds of clients around the world in their complex Exchange system to install this tool and extract valuable information from their huge databases. 
 *   SSW Link Auditor: SSW's award winning SEO and website maintenance tool to help web masters to find out bad links on their website, and also help them to improve their Google ranking. Lei has been one of the major developers behind this tool and he was the one who started running this tool on SSW's own 12,000 pages. 
 *   SSW Agile Template: SSW's customization of MSF Agile Process Template, which eventually helped SSW to move the project management process on top of VSTS.    
+
+ **Passion**  
+ Lei is also a TechEd speaker and a frequent speaker at Microsoft (Beijing) .NET User Group, he is working closely with the management team of the .NET User Group to deliver many award winning courses covering cutting edge technologies, such as .NET Framework 3.0/3.5 (WCF/WF/WPF), Silverlight, SQL Server 2005/2008, SQL Reporting Services, IE 8.0, Windows Vista and Windows Server 2008.
+
+ **Future Goals  
+ **Right now, Lei's goals are:
+
+*   Improving the project management processes by utilizing Visual Studio Team System and Team Foundation Server even more. 
+*   Delivering more business solutions while using SSW 
+      [Agile Development Processes (aka SSW Extreme Programming Method (XPDM) )](/Standards/Management/RulesToBetterProjectManagement/Pages/Default.aspx)    
