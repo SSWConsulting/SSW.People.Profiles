@@ -24,12 +24,9 @@ quote:  "I believe in understanding people and technology. This combination has 
    ![MVP](./Images/Bio/mvp.jpg) 
   
    ![Region Director](./Images/Bio/regionalDirector.jpg) 
- 
-   ![MCP](./Images/Bio/MCP.png) 
- 
-   ![MCP](./Images/Bio/csm.png) 
- 
-   ![Certified Scrum Trainer](./Images/Bio/scrumtrainer.png) 
+![MCP](./Images/Bio/MCP.png) 
+![MCP](./Images/Bio/csm.png) 
+![Certified Scrum Trainer](./Images/Bio/scrumtrainer.png) 
 
 
  **Background  
