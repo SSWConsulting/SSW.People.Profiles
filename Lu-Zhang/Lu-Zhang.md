@@ -21,8 +21,7 @@ quote:  "Think before acting."
 ---
 
   
-[ 
-   ![BookNow.png](/Images/Bio/BookNow.png) 
+[   ![BookNow.png](./Images/Bio/BookNow.png) 
 ](http://veethere.com/With/LuZhang)  
 
  Lu is a senior software developer at SSW, working in both the Beijing and Sydney office. He specializes in C#, Asp.Net MVC, Angular, Azure and Dynamics 365 (Microsoft CRM). 
@@ -35,14 +34,14 @@ Setup and customized  Dynamics 365 on premise as  child enrolment management 
 
 *   SSW LinkAuditor 
 
-Used for checking broken links and invalid html pages in a website.   
+      Used for checking broken links and invalid html pages in a website.   
 It has  a Windows ([http://www.ssw.com.au/ssw/LinkAuditor/](http://www.ssw.com.au/ssw/LinkAuditor/)) and a Web version ([https://sswlinkauditor.com](https://sswlinkauditor.com/)).  
-Developed with Azure Web Job, AngularJS and Asp.Net MVC.
+Developed with Azure Web Job, AngularJS and Asp.Net MVC. 
 
 *   SSW CRM Plugin  
 Used to sync SSW website and CRM client information to SSW TimePRO. 
 
-Developed with Web API and CRM plugin customization.  
+Developed with Web API and CRM plugin customization. 
 
 *   SSW Reports  
 SSW internal reports for finical and marketing purposes. 
