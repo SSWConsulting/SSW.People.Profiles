@@ -21,7 +21,7 @@ quote:  "Think before acting."
 ---
 
      
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/LuZhang) 
+[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/LuZhang) 
   
 
  Lu is a senior software developer at SSW, working in both the Beijing and Sydney office. He specializes in C#, Asp.Net MVC, Angular, Azure and Dynamics 365 (Microsoft CRM). 
