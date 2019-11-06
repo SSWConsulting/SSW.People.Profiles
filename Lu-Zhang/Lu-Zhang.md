@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Think before acting."
 ---
 
-     
+ 
 [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/LuZhang) 
   
 
