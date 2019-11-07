@@ -24,7 +24,7 @@ quote:  "Logic will get you from  A to Z; imagination will get you everywhere"
 
 ​![Sitefinity](/Images/Bio/logo_sitefinity.png)
 
-​Farrukh is a digital designer and front-end developer at SSW with over ten years of industry experience in digital design, frontend development, and its implementation for various platforms.
+​Farrukh is a digital designer and front-end developer at SSW with over ten years of industry experience in digital design, frontend development, and its implementation for various platforms.
 
  <span style="line-height:1.6;">He has strong knowledge of W3C web standards, accessibility, front-end performance, search engine optimization, and cross-browser consistency for web and mobile apps. His key skills include:</span>
 

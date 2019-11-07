@@ -20,7 +20,7 @@ skype:  ""
 quote:  "I believe nothing is impossible"
 ---
 
-​​​​​​​John is a SSW Solution Architect with 15 years of experience working in various sectors such as Automotive, Finance, Pharmaceutical, E-commerce, working for companies such as Volvo Group, IQVIA​, CP+B amongst others.​​  
+​​​​​​​John is a SSW Solution Architect with 15 years of experience working in various sectors such as Automotive, Finance, Pharmaceutical, E-commerce, working for companies such as Volvo Group, IQVIA​, CP+B amongst others.​​  
 
  With a background as:
 

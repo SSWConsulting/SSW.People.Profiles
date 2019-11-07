@@ -20,7 +20,7 @@ skype:  ""
 quote:  "If the only tool you have is a hammer, you tend to see every problem as a nail."
 ---
 
-​Duncan takes care of the day to day administration of the Sydney office as well as being the personal assistant to Adam. He spent many years working in the public service before deciding to move to the private sector for a challenge.   
+​Duncan takes care of the day to day administration of the Sydney office as well as being the personal assistant to Adam. He spent many years working in the public service before deciding to move to the private sector for a challenge.   
 
-In addition to working for SSW he is a Latin Dance instructor and has won an Australian title as a professional Bachata dancer. His speciality is Brazilian Zouk. If you would like to see his work, check out the facebook link.   
+In addition to working for SSW he is a Latin Dance instructor and has won an Australian title as a professional Bachata dancer. His speciality is Brazilian Zouk. If you would like to see his work, check out the facebook link.   
 ​  

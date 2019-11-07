@@ -23,7 +23,7 @@ quote:  "It's not what you look at that matters, it's what you see."
 ​ [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/TiagoAraujo) <span style="line-height:18px;">   
 </span>​
 
-Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: "Ok, but you're still working remotely for us". We couldn't let him go. After a few years in Brazil, he now lives and works in Canada.  
+Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: "Ok, but you're still working remotely for us". We couldn't let him go. After a few years in Brazil, he now lives and works in Canada.  
 
 Tiago is a creative individual who enjoys a challenge. He has ten years experience working as a designer for both print and web projects. He also loves spending time playing with Photoshop and creating WordPress websites while listening to old songs. Here are some of his skills:
 
@@ -31,7 +31,7 @@ Tiago is a creative individual who enjoys a challenge. He has ten years experien
 *   Image editing and optimization aiming usage at either printed or digital media;
 *   Photoshop, InDesign, Illustrator, Acrobat, Dreamweaver, Fireworks, Flash, XHTML, CSS and jQuery
 
-Besides SSW's design enhancement projects, Tiago's past clients include Energy Australia, FastAs, WorleyParsons, The Home Loan Company and Carmody Group.
+Besides SSW's design enhancement projects, Tiago's past clients include Energy Australia, FastAs, WorleyParsons, The Home Loan Company and Carmody Group.
 
 _ _
 

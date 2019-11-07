@@ -75,6 +75,6 @@ Related technologies: MCV5, AngularJS, Kendo
       **** 
 
  ![DuncanHunter-Climbing.png](/Images/Bio/DuncanHunter-Climbing.png)   
- <span style="line-height:20.8px;">Figure: Duncan climbing on </span>[Nameless Tower](http://en.wikipedia.org/wiki/Trango_Towers)<span style="line-height:20.8px;"> in Pakistan</span>  
+ <span style="line-height:20.8px;">Figure: Duncan climbing on </span>[Nameless Tower](http://en.wikipedia.org/wiki/Trango_Towers)<span style="line-height:20.8px;"> in Pakistan</span>  
 
 </strong></div></div></div>

@@ -20,7 +20,7 @@ skype:  ""
 quote:  "If you ask Him for happiness, He will not give you happiness. What He will give you is, the opportunities to be happy."
 ---
 
-Andy is a Software Architect at SSW. He specializes in developing solutions with .NET Framework 3.5, C#, VB.NET, ASP.NET, Web Services / WCF, LINQ, SQL Server, Reporting Services and MS Access.  
+Andy is a Software Architect at SSW. He specializes in developing solutions with .NET Framework 3.5, C#, VB.NET, ASP.NET, Web Services / WCF, LINQ, SQL Server, Reporting Services and MS Access.  
 
  ![](/Images/Bio/mcp.gif)
 

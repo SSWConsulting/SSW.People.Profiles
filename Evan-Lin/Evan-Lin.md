@@ -22,7 +22,7 @@ quote:  "I believe that progress is made day by day."
 
 **Background**
 
-Evan is a software developer at SSW. He specializes in developing solutions in ASP.NET (prefers C# over VB.NET), SQL Server and SQL Reporting Services. 
+Evan is a software developer at SSW. He specializes in developing solutions in ASP.NET (prefers C# over VB.NET), SQL Server and SQL Reporting Services. 
 
 ****Work****
 
@@ -38,12 +38,12 @@ Evan is a software developer at SSW. He specializes in developing solutions in A
 > Related Technology: ASP.NET 3.5, C#, WPF, WCF, Web Service, Workflow, LINQ, SQL Server 2005 </li>
 > <li>**[**FastAs**](http://www.fastas.com/) **- A site that provides search services for businesses people.
 > Related Technology: ASP.NET 2.0, Web Services, Windows Forms, SQL Server 2000, ADO.NET.</li>
-> <li>**NSWHealthWaitingList - **The NSW Health waiting List website. 
+> <li>**NSWHealthWaitingList - **The NSW Health waiting List website.
 > Related Technology: ASP.NET 2.0, SQL Server 2005, SQL 2005 Reporting Services, ADO.NET.</li>
 > <li>**Finametrica **- Risk Profiling System.
 > Related Technology: ASP.NET 2.0, SQL Server 2005.</li>
 
- Internal projects
+ Internal projects
 
 <li>[**SSW Link Auditor**](http://www.ssw.com.au/ssw/linkauditor)** - **The best tool to check and validate your website's links.  
 Related Technology: C#, Windows Forms, SQL Server 2008, SQL 2008 Reporting Services, ADO.NET, ASP.NET 2.0, Web Services, Regular Expressions.</li>

@@ -31,11 +31,11 @@ quote:  "There are 10 types of people in the world. Ones that understand binary 
 ##  
       ![](/Images/Bio/csm.png) ![](/Images/Bio/scrumtrainer.png) ![](/Images/Bio/psd.png) ![Sitefinity](/Images/Bio/logo_sitefinity.png)    
 
-Eric is the ultimate Chief Architect. His wide range of technical skills, and deep knowledge of certain specialty technologies, mix well with his amiable manner and excellent communication skills.  
+Eric is the ultimate Chief Architect. His wide range of technical skills, and deep knowledge of certain specialty technologies, mix well with his amiable manner and excellent communication skills.  
 
-He has in-depth knowledge of .NET and the Microsoft Stack and is exceptional at delivering high quality and value products to your business. He came from the Java (J2SE & J2ME) world and values running strong teams, .NET architecture, unit testing and maintainable code via coding standards.
+He has in-depth knowledge of .NET and the Microsoft Stack and is exceptional at delivering high quality and value products to your business. He came from the Java (J2SE & J2ME) world and values running strong teams, .NET architecture, unit testing and maintainable code via coding standards.
 
-Eric is always on the cutting edge, using Microsoft's latest technologies before they are widely adopted. At SSW he helps drive adoption of the latest technology to make sure our developers are up to date with everything happening in the world of software development. He also is a frequent presenter at user groups and technical breakfasts where he shares his experiences using these technologies.
+Eric is always on the cutting edge, using Microsoft's latest technologies before they are widely adopted. At SSW he helps drive adoption of the latest technology to make sure our developers are up to date with everything happening in the world of software development. He also is a frequent presenter at user groups and technical breakfasts where he shares his experiences using these technologies.
 
 Eric's client projects include:  
 

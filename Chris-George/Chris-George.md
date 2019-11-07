@@ -22,9 +22,9 @@ quote:  "Learning is a lifetime lesson - keep yourself open to learn something n
 
 ​Chris is a professional software developer specialising in web-development, following new mobile and web technologies around the world.​  
 
-He is an Angular and .NET Core specialist, supported by his experiences in many technologies, which includes: C#, HTML, CSS, Javascript, Java/Kotlin, SQL, Python, and Android.   
+He is an Angular and .NET Core specialist, supported by his experiences in many technologies, which includes: C#, HTML, CSS, Javascript, Java/Kotlin, SQL, Python, and Android.   
 
-Additionally, Chris is also experienced in embedded devices - particularly real-time systems and IoT devices using various hardware such as Raspberry Pi​, ESP8266, and others​. Chris is experienced in interfacing real-world hardware with software, delivering the information gathered all the way to the cloud.  
+Additionally, Chris is also experienced in embedded devices - particularly real-time systems and IoT devices using various hardware such as Raspberry Pi​, ESP8266, and others​. Chris is experienced in interfacing real-world hardware with software, delivering the information gathered all the way to the cloud.  
 
 He also follows mobile and web technology news around the world, keeping up-to-date with the latest technologies. Chris is always happy to discuss and share his knowledge in new technology.  
 

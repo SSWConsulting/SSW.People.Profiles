@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Even if you're on the right track, you'll get run over if you just sit there."
 ---
 
-Gracia is a Software Developer at SSW. She specializes in developing solutions with C#, VB.NET, SQL Server and MS Access. 
+Gracia is a Software Developer at SSW. She specializes in developing solutions with C#, VB.NET, SQL Server and MS Access. 
 
 Gracia's client projects: 
 

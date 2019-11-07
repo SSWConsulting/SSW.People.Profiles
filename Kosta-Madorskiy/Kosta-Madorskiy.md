@@ -28,6 +28,6 @@ Kosta’s experience covers developing software using several programming langua
 
 SSW is a Zendesk Partner and Kosta is one of our Zendesk experts.  
 
-Kosta's happiest client was the University of Sydney. Check out the BREAST project testimonial video:  
+Kosta's happiest client was the University of Sydney. Check out the BREAST project testimonial video:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rf7zzTMeTf4" frameborder="0"></iframe>​

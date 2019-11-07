@@ -26,19 +26,19 @@ quote:  "Nothing Is Impossible"
 ​​​![MVPLOGO.png](/Images/Bio/MVPLOGO.png)
 
  <span style="color:#993366;">**<span style="color:#800080;">Background</span>:**</span>  
-Jacky is a Senior Software Developer at SSW Beijing Office.
+Jacky is a Senior Software Developer at SSW Beijing Office.
 
-He has been working with .Net for 4+ years, with many years experience as a TFS consultant.  Specializes in TFS, Agile Training, ASP.NET, Reporting Services, Windows Azure Pack.
+He has been working with .Net for 4+ years, with many years experience as a TFS consultant. Specializes in TFS, Agile Training, ASP.NET, Reporting Services, Windows Azure Pack.
 
  <span style="color:#993366;">**<span style="color:#800080;">Work:  
-</span>**</span>Jacky has been a TFS consultant many years and has helped many companies to use TFS and Visual Studio better. <span class="ms-rteFontSize-2">   
+</span>**</span>Jacky has been a TFS consultant many years and has helped many companies to use TFS and Visual Studio better. <span class="ms-rteFontSize-2">   
 Some of his major clients include:  
 </span>**ABC **( Agriculture Bank of China ) - Help the client use TFS build to achieve automatically build and deployment.  
 **Microsoft **- TFS & Agile training, Windows Azure Pack Customization & Extension.  
-<span class="ms-rteFontSize-2">Other TFS & ALM work </span> <span class="ms-rteFontSize-2">experience</span><span class="ms-rtefontsize-2"><span lang="EN-AU" style="color:#444444;font-family:" segoe="" ui",="" sans-serif;font-size:10pt;"="">:   
+<span class="ms-rteFontSize-2">Other TFS & ALM work </span> <span class="ms-rteFontSize-2">experience</span><span class="ms-rtefontsize-2"><span lang="EN-AU" style="color:#444444;font-family:" segoe="" ui",="" sans-serif;font-size:10pt;"="">:   
 </span></span>Helped some clients to use TFS as their REQ Management System and Custom Report for them.  
 Helped some clients to upgrade their TFS and SharePoint <span lang="EN-AU" style="color:#444444;font-family:" segoe="" ui",="" sans-serif;font-size:10pt;"="">environment.  
-</span><font size="2">Helped some clients to migrate their </font>repository from (CVS, SVN, GIT, and VSS) to TFS.
+</span><font size="2">Helped some clients to migrate their </font>repository from (CVS, SVN, GIT, and VSS) to TFS.
 
 #### 
    <span style="color:#993366;">**<span style="color:#800080;">Certifications</span>:**</span>

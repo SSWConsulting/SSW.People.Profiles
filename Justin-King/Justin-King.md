@@ -20,7 +20,7 @@ skype:  ""
 quote:  "List<ScottGu> throws an exception - there is only one ScottGu!"
 ---
 
-With over 13 years Software and Database development experience, Justin has worked on many large and small projects with varying technologies. Justin started out developing in CPM in the early 80's but professionally since 1996 from Visual Basic 3.0 moving into the web world in asp/asp.net 1.0 then 5 years as a Java Swing developer. During this time also providing interop solutions between C# and Java Axis webservices and legacy systems.
+With over 13 years Software and Database development experience, Justin has worked on many large and small projects with varying technologies. Justin started out developing in CPM in the early 80's but professionally since 1996 from Visual Basic 3.0 moving into the web world in asp/asp.net 1.0 then 5 years as a Java Swing developer. During this time also providing interop solutions between C# and Java Axis webservices and legacy systems.
 
 For the last 3 years Justin's focus has been purely on .NET Solutions with SQL Server from ASP.NET to WPF/Silverlight, Business Intelligence/PerformancePoint, SQL Server 2000/2005/2008 Disaster Recovery, Specification gathering and Solution Architecture. 
 
@@ -36,7 +36,7 @@ ASP.NET 2.0 Application with a Windows Workflow foundation distributed system fo
 
 **Ernst & Young**
 
-Database Administration and Disaster Recovery Project from Sydney to Melbourne as well as auditing 100 instances of SQL Server with various versions and service packs across the organistation.
+Database Administration and Disaster Recovery Project from Sydney to Melbourne as well as auditing 100 instances of SQL Server with various versions and service packs across the organistation.
 
 **Conquest Solutions**
 
@@ -48,7 +48,7 @@ ASP.NET Dynamic Data application providing funding for Community Grants and Repo
 
 **Energy Australia**
 
-Project Managing a 6 month Rostering, Employee, Training and Equipment management application developed in ASP.NET Dynamic Data, Silverlight and SQL Server 2005. 
+Project Managing a 6 month Rostering, Employee, Training and Equipment management application developed in ASP.NET Dynamic Data, Silverlight and SQL Server 2005. 
 
 **Intergen NZ**
 
@@ -137,3 +137,5 @@ Teaching entire course of SQL Server 2005 for Developers and Business Intelligen
         </tr>
     </tbody>
 </table>
+
+</e.law>

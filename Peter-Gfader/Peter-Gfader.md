@@ -24,7 +24,7 @@ quote:  "Carpe diem, et noctem."
 
 ##  ![](/Images/Bio/MCPD-windev-rgb_505.jpg) ![](/Images/Bio/MCTS-dotnet-2-windows-apps-rgb_512.jpg) ![MCTS Web applications](/Images/Bio/MCTS-web(rgb)_513.png) ![MCPD Web developer](/Images/Bio/MCPD-web(rgb)_504.png) 
 
- Peter is a Solution Architect at SSW that mixes Scrum experience with development techniques like XP and Agile. 
+ Peter is a Solution Architect at SSW that mixes Scrum experience with development techniques like XP and Agile. 
 
 Peter is an active developer who enjoys different sports like running, climbing, cycling (MTB / Road), hiking, swimming and surfing.
 
@@ -34,7 +34,7 @@ Peter has worked wth different clients with a lot of different technologies:
 
 Tuning the performance of an existing website without touching the code was a tough challenge. Server was IIS 6 on Windows Server 2003 and a ASP.NET v1.1 web app.  
 
- Additionally, we did some performance tuning of the in house developed website. Reduced the average page load ~10 times.   
+ Additionally, we did some performance tuning of the in house developed website. Reduced the average page load ~10 times.   
  From an average of 4 seconds down to ~0.42 seconds per page 
 
 *   **NRMA **
@@ -44,7 +44,7 @@ ASP.NET Dynamic Data application providing funding for Community Grants and Repo
 *   **An Australian Utilities Company** 
 
 This utilities company needed an automated and easy to use Rostering and Employee management system to replace their current spreadsheet based system. The system was to manage all the engineers across NSW.  
- Related Technology: Silverlight 2.0, ASP.NET 3.5, Dynamic Data, LINQ to SQL, WCF REST, SQL Server 2005, Reporting Services 
+ Related Technology: Silverlight 2.0, ASP.NET 3.5, Dynamic Data, LINQ to SQL, WCF REST, SQL Server 2005, Reporting Services 
 
 *   **TAFE NSI** 
 
@@ -56,7 +56,7 @@ Existing client application was hard to maintain and write plugins for. We chang
 
 *   **Elcom Technology **
 
-The existent search solution for an ASP.NET web application was very slow and not very accurate. Peter solved this by implementing a search portal based on LINQ2SQL and SQL Server Fulltext search
+The existent search solution for an ASP.NET web application was very slow and not very accurate. Peter solved this by implementing a search portal based on LINQ2SQL and SQL Server Fulltext search
 
 *   **MIP** 
 
@@ -64,7 +64,7 @@ On site teaching of Reporting services at FirstData
 
 *   **PeakSolutions** 
 
-Training in C#, .NET and best practices for a new line of business application
+Training in C#, .NET and best practices for a new line of business application
 
 *   **UTS** 
 

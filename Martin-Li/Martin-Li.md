@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Nothing in this world can take the place of persistence."
 ---
 
-​​![jackyzhou_mcp.jpg](/Images/Bio/jackyzhou_mcp.jpg) 
+​​![jackyzhou_mcp.jpg](/Images/Bio/jackyzhou_mcp.jpg) 
 
 **Background:** 
 
@@ -41,7 +41,7 @@ Exam: 70-496 - Administering Visual Studio Team Foundation Server
 Exam: 70-497 - Software Testing with Visual Studio  
 Exam: 70-498 - Delivering Continuous Value With Visual Studio Application Lifecycle Management
 
-**  
+** 
 
 **Favourite quote:**
 

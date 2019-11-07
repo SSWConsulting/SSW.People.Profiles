@@ -22,9 +22,9 @@ quote:  "\"We work efficiently on the right things in a visible way\".  If you r
 
 <span style="font-size:9pt;font-family:verdana, sans-serif;color:#676767;">When we need to affect major large transformations to the use of Scrum and Agile, we call on the services of Mark Hetherington.</span>
 
-<span style="color:#676767;font-family:verdana, sans-serif;font-size:9pt;line-height:15pt;background-color:white;">Mark is the Scrum Coach advising SSW. He advises projects and our customers on the best processes and tools to organise work efficiently to an agile and/or Scrum process.  </span>
+<span style="color:#676767;font-family:verdana, sans-serif;font-size:9pt;line-height:15pt;background-color:white;">Mark is the Scrum Coach advising SSW. He advises projects and our customers on the best processes and tools to organise work efficiently to an agile and/or Scrum process. </span>
 
-<span style="color:#676767;font-family:verdana, sans-serif;font-size:9pt;line-height:15pt;background-color:white;">Mark has acquired these skills over the last 20+ years. Before such tools existed, he wrote his first tracking and work scheduling system in 1986. Since then he has helped start over six software organisations growing three of them to over 100 staff.  He knows which tools & processes and organisational structure to choose to suit the culture, budget, size, maturity and resources of an organisation.</span>
+<span style="color:#676767;font-family:verdana, sans-serif;font-size:9pt;line-height:15pt;background-color:white;">Mark has acquired these skills over the last 20+ years. Before such tools existed, he wrote his first tracking and work scheduling system in 1986. Since then he has helped start over six software organisations growing three of them to over 100 staff. He knows which tools & processes and organisational structure to choose to suit the culture, budget, size, maturity and resources of an organisation.</span>
 
 <span style="font-size:9pt;font-family:verdana, sans-serif;color:#676767;">His last ten years have all been in Agile/Scrum environments.</span>
 

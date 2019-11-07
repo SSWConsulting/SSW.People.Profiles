@@ -24,4 +24,4 @@ quote:  "For man is man and master of his fate."
 
 She was previously a partner at a tech startup from 2014 to 2017. The experience gave her 3 years of admin experience and a passion for the working atmosphere of the tech world.  
 
-Sharon is indomitable and loves challenges.    
+Sharon is indomitable and loves challenges.   

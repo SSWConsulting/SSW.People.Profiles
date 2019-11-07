@@ -20,5 +20,3 @@ skype:  ""
 quote:  "If it has an ON switch or plugs into something, I take care of it !"
 ---
 
-Bio could not be converted to Markdown 
- 

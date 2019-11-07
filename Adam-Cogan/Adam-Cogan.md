@@ -22,15 +22,15 @@ quote:  "Talent can fix tricky bugs, but teamwork and brains build great softwar
 
 <div>​​​​ [ ![BookAdamNow.png](/Images/Bio/BookAdamNow.png)](http://veethere.com/With/AdamCogan)​​​​</div>​​​​![](/Images/Bio/microsoftCertified.jpg)![](/Images/Bio/Microsoft-Regional-Director-35h.png)![](/Images/Bio/scrumtrainer.png)![](/Images/Bio/scrum-badges.jpg) ​![](/Images/Bio/devops.png) 
 
-Adam Cogan is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom Azure, Azure DevOps (was TFS), .NET, SharePoint and Business Intelligence solutions.​ At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, Worley Parsons, and Aurecon.   
+Adam Cogan is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom Azure, Azure DevOps (was TFS), .NET, SharePoint and Business Intelligence solutions.​ At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, Worley Parsons, and Aurecon.   
 
 Adam is a Certified Scrum Trainer with scrum.org, trains developers in Australia, the US, UK and Europe, and contributes to scrum.org thinking. He consults with development teams on improving their scrum process through mentoring and being a proxy scrum master. He has written many rules around scrum best practices.
 
-Adam is one of only three Microsoft Regional Directors in Australia. In this role, he regularly presents at conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft <span style="line-height:20.8px;">headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favo</span><span style="line-height:20.8px;">urite Microsoft teams that he loves to work with are Brian Harry's TFS team and Jeff Teper's SharePoint team.</span>
+Adam is one of only three Microsoft Regional Directors in Australia. In this role, he regularly presents at conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft <span style="line-height:20.8px;">headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favo</span><span style="line-height:20.8px;">urite Microsoft teams that he loves to work with are Brian Harry's TFS team and Jeff Teper's SharePoint team.</span>
 
-Adam travels to record interviews with technology experts around the world – his most popular video is a scrum meeting with the Microsoft Scrum Foundation team. You can view this video at [http://tv.ssw.com/12 79/daily-scrum-at-microsoft ]()  
+Adam travels to record interviews with technology experts around the world – his most popular video is a scrum meeting with the Microsoft Scrum Foundation team. You can view this video at [http://tv.ssw.com/12 79/daily-scrum-at-microsoft ]()  
 
-At SSW, Adam enjoys working with the teams, improving their usage of Scrum and TFS, reviewing the architecture of large .NET projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](http://firebootcamp.com/), an intensive 9-week .NET training course.
+At SSW, Adam enjoys working with the teams, improving their usage of Scrum and TFS, reviewing the architecture of large .NET projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](http://firebootcamp.com/), an intensive 9-week .NET training course.
 
 Some of Adam's project highlights have been:  
 
@@ -65,7 +65,7 @@ Adam is also the president of the Microsoft .NET User Groups in Sydney and Canbe
 ##  
    <span style="color:#cc4141;">Made in Australia, China and beyond</span>
 
-In 2005 Adam took SSW beyond Australia and opened an SSW branch in China. There are now also SSW branches in 3 locations within Australia – Brisbane, Melbourne and the Sydney headquarters - as well as a satellite branch in Europe. Today all SSW developers work closely together to develop high quality software with high performing teams for the US, Australian and international markets.  
+In 2005 Adam took SSW beyond Australia and opened an SSW branch in China. There are now also SSW branches in 3 locations within Australia – Brisbane, Melbourne and the Sydney headquarters - as well as a satellite branch in Europe. Today all SSW developers work closely together to develop high quality software with high performing teams for the US, Australian and international markets. 
 
 Adam loves to spend time working on his Rules pages, and his favourite quote is "There is always free cheese in a mousetrap".
 

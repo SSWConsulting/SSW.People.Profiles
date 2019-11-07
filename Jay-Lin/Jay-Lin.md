@@ -22,7 +22,7 @@ quote:  "I know to satisfy clients it takes 100% effort. That is my challenge an
 
  **Background** 
 
-Jay is a Software Architect at SSW. He specializes in developing solutions with C#, C++, ASP.NET, WinForms, SQL Server and Reporting Services. 
+Jay is a Software Architect at SSW. He specializes in developing solutions with C#, C++, ASP.NET, WinForms, SQL Server and Reporting Services. 
 
 **Work**
 

@@ -24,9 +24,9 @@ quote:  "I'm always trying to be more professional."
 
 **Background:**  
 
-David is a software developer at SSW, a Microsoft Certified Professional Developer in building Web applications. He specializes in developing solutions with ASP.NET (prefers C# over VB.NET), SQL Server and SQL Reporting Services. 
+David is a software developer at SSW, a Microsoft Certified Professional Developer in building Web applications. He specializes in developing solutions with ASP.NET (prefers C# over VB.NET), SQL Server and SQL Reporting Services. 
 
-**Some of David's clients are: **
+**Some of David's clients are: **
 
 *   **[TheGuide](http://www.theguide.com.au/)** - A website delivering accurate and up-to-date information about Restaurants, Bars and Hotels in Australia.   
 Related Technology: C#, VB.NET, SQL Server 2005, SQL Reporting Services, NetTiers and nHibernate. 

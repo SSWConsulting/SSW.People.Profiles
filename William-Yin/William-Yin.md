@@ -23,7 +23,7 @@ quote:  "I believe positive mental attitude leads to excellence."
 ​​​​​​​​​​​​​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/WilliamYin) <span style="line-height:18px;">   
 </span><span style="line-height:1.6;"> </span>![MCSE_SharePoint_Blk.png](/Images/Bio/MCSE_SharePoint_Blk.png)![MCSA_Office365_Blk.png](/Images/Bio/MCSA_Office365_Blk.png)![MCPD-SharePtDev2010-logo-BW.png](/Images/Bio/MCPD-SharePtDev2010-logo-BW.png)![MCTS-MSOSPSvr7AppD-logo-BW.png](/Images/Bio/MCTS-MSOSPSvr7AppD-logo-BW.png)
 
-William is a software developer at SSW. He specializes in developing solutions with SharePoint (with client side javascript extensions – mostly with JQuery, Angular and React) , ASP.NET, SQL server and Azure.  
+William is a software developer at SSW. He specializes in developing solutions with SharePoint (with client side javascript extensions – mostly with JQuery, Angular and React) , ASP.NET, SQL server and Azure.  
 
  **Background:** 
 
@@ -31,7 +31,7 @@ William is a software developer at SSW. He specializes in developing solutions w
 </span>
 *   <span style="line-height:1.5em;background-color:initial;">William first met SharePoint in 2006, since then, he has been working with SharePoint for over a decade.</span>
 
-**William's selected client projects: **
+**William's selected client projects: **
 
 *   **[Allianz​](https://www.allianz.com/)** - PAGE (Partnered Allianz Global Education) is an online solution for Allianz marketing and selling of ancillary products and services to students studying abroad (to make students' overseas lives easier), integrated with the existing IH (International Health) system.   
 Related Technology: ASP.NET Core, Angular 4, Bootstrap 4, PrimeNG and SQL server.​  

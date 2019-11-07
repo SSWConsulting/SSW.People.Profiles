@@ -27,10 +27,10 @@ quote:  "Always code as if the guy who ends up maintaining your code will be a v
 ![SAI_BadgeSizes_DigitalBadging_CSM.png](/Images/Bio/SAI_BadgeSizes_DigitalBadging_CSM.png)  
 </td></tr></tbody></table>
 
- <span style="line-height:1.6;"> </span> <span style="line-height:1.6;">Jason is a passionate solution architect, trainer, mentor, and full stack developer with 20 year</span><span style="line-height:1.6;">s professional experience. He currently specializes in building and teaching enterprise application development utilizing .NET Core, Angular, Vue.js, and Azure. Jason achieved a Master of Information Technology in Software Architecture (2011) and Microsoft Certified Solutions Developer in Web Applications (2016). </span>Jason loves a challenge and is skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.  
+ <span style="line-height:1.6;"> </span> <span style="line-height:1.6;">Jason is a passionate solution architect, trainer, mentor, and full stack developer with 20 year</span><span style="line-height:1.6;">s professional experience. He currently specializes in building and teaching enterprise application development utilizing .NET Core, Angular, Vue.js, and Azure. Jason achieved a Master of Information Technology in Software Architecture (2011) and Microsoft Certified Solutions Developer in Web Applications (2016). </span>Jason loves a challenge and is skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_lwCVE_XgqI?controls=0" frameborder="0"></iframe>
 
-Jason loves public speaking and has run the .NET Core Superpowers to sold out audiences in Sydney, Brisbane and Melbourne. 
+Jason loves public speaking and has run the .NET Core Superpowers to sold out audiences in Sydney, Brisbane and Melbourne. 
 
 [Click here​](http://www.codingflow.net/speaking/) to view upcoming and past speaking events.  

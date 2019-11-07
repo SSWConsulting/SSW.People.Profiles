@@ -24,7 +24,7 @@ quote:  "Share your knowledge. It's the way to achieve immortality"
 
 ![Sitefinity](/Images/Bio/logo_sitefinity.png) ​   
 
-Daniel H  is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in SQL Server .NET Solutions. Although specialising in Web E-commerce solutions, Daniel has extensive experience in Microsoft both pre and post .NET and loves working with C#, VB .NET, SQL Server and applications for PDA's/smartphones.
+Daniel H is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in SQL Server .NET Solutions. Although specialising in Web E-commerce solutions, Daniel has extensive experience in Microsoft both pre and post .NET and loves working with C#, VB .NET, SQL Server and applications for PDA's/smartphones.
 
 Daniel also helps many clients and SSW with network administration. Daniel helps develop internal products such as SSW Access Reporter.
 

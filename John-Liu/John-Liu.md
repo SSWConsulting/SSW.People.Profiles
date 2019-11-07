@@ -24,9 +24,9 @@ quote:  "I believe that there are always more than one point of view and I liste
 
 **Background** 
 
-John Liu is a Solution Architect at SSW, a Microsoft Certified Partner specialising in .NET and SharePoint solutions. 
+John Liu is a Solution Architect at SSW, a Microsoft Certified Partner specialising in .NET and SharePoint solutions. 
 
-John is responsible for developing and maintaining SharePoint, ASP.NET and Silverlight applications using C# and SQL Server. 
+John is responsible for developing and maintaining SharePoint, ASP.NET and Silverlight applications using C# and SQL Server. 
 
 **![](/Images/Bio/MCTS-MOSS2007-Config.gif)  
 

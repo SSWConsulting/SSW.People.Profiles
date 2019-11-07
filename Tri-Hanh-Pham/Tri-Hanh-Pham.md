@@ -20,26 +20,26 @@ skype:  "trihanh.pham"
 quote:  "In order to understand recursion, one must first understand recursion."
 ---
 
-​​​​​​​​​​​​​​Tri is a Senior Software Architect at SSW​​
+​​​​​​​​​​​​​​Tri is a Senior Software Architect at SSW​​
 
-With 10 years of experience in software development across multiple industries like Market Research, Multimedia, Banks/Insurance, Tri has worked on every stage of the SDLC.  
+With 10 years of experience in software development across multiple industries like Market Research, Multimedia, Banks/Insurance, Tri has worked on every stage of the SDLC.  
 
-Tri is a Full Stack D​eveloper from back-end (using native SQL or an ORM like Entity Framework) to the front-end (using native Javascript, jQuery, AngularJS with HTML/CSS) but he also has experience developing Desktop Applications using Winforms, Excel or Access with VBA.
+Tri is a Full Stack D​eveloper from back-end (using native SQL or an ORM like Entity Framework) to the front-end (using native Javascript, jQuery, AngularJS with HTML/CSS) but he also has experience developing Desktop Applications using Winforms, Excel or Access with VBA.
 
-Tri's projects include​:  
+Tri's projects include​:  
 
 *   <strong style="line-height:24px;">​Long Service Corporation - Worker Portal**  
 
-Long Service Corporation engaged SSW to redesign and refactor their Worker Portal application, used by workers to download their statements. This application will be extented to include claims for workers. The new software design of the application includes multiple services which can be shared between projects.  
+Long Service Corporation engaged SSW to redesign and refactor their Worker Portal application, used by workers to download their statements. This application will be extented to include claims for workers. The new software design of the application includes multiple services which can be shared between projects.  
 
-<span style="line-height:22.5px;">Related Technology:  ASP.Net MVC, Entity Framework,  WebAPI, TypeScript, jQuery</span>
+<span style="line-height:22.5px;">Related Technology: ASP.Net MVC, Entity Framework, WebAPI, TypeScript, jQuery</span>
 
 *   <strong style="line-height:24px;">​South East Water - OneAsset**  
 
 <span style="line-height:24px;">South East Water​ engaged SSW to modernized their web application used for monitoring their assets.  
 </span>
 
-<span style="line-height:24px;"><span style="line-height:22.5px;">Related Technology:  AngularJS,  WebAPI, highcharts</span>  
+<span style="line-height:24px;"><span style="line-height:22.5px;">Related Technology: AngularJS, WebAPI, highcharts</span>  
 </span>
 
 <span style="line-height:24px;"><span style="line-height:22.5px;">  
@@ -59,7 +59,7 @@ Related Technology: Console App, Entity Framework, Crystal Report
 
 *   <span style="line-height:1.6;">**Ipsos - Qualitative Recruitment**</span>  
 
-Ipsos needed a web application to help Ipsos users to book slot for their panel for phone interviews
+Ipsos needed a web application to help Ipsos users to book slot for their panel for phone interviews
 <div><span style="line-height:24px;">Related Technology: WebAPI, Entity Framework - Code First, Angular, HTML, CSS / Bootstrap, Dimensions (Data Collection System)</span>  
 </div><div>
 
@@ -68,7 +68,7 @@ Ipsos needed a web application to help Ipsos users to book slot for their panel
 
 *   <span style="line-height:1.6;">**Ipsos **</span><span style="line-height:1.6;">**- **</span><span style="line-height:1.6;">**Paysheet application**</span>  
 
-Complete rewriting of their Paysheet application to make it compatible with 64 bits and improve their performance
+Complete rewriting of their Paysheet application to make it compatible with 64 bits and improve their performance
 
 <span style="line-height:24px;">Related Technology: WebAPI, Entity Framework, Angular, HTML, CSS / Bootstrap, WinForms</span>  
 

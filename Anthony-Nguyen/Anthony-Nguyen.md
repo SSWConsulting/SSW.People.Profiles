@@ -22,9 +22,9 @@ quote:  "Do it now, sometimes 'later' becomes 'never'"
 
 ​​​​​​​​​​​​​​​​​​​​​![csm](/Images/Bio/csm.png) ![mcp](/Images/Bio/MCP.png) ![Sitefinity](/Images/Bio/logo_sitefinity.png)​  
 
- <span style="line-height:1.6;">Anthony is the Solution Architect at SSW, a certified Scrum Master with experience delivering various types of Software Development projects ranging from contact center ERP, CRM, HR and Payroll, Utilities (Telecom) and recording systems, CMS, Product Transformation and Cloud Migration. </span>  
+ <span style="line-height:1.6;">Anthony is the Solution Architect at SSW, a certified Scrum Master with experience delivering various types of Software Development projects ranging from contact center ERP, CRM, HR and Payroll, Utilities (Telecom) and recording systems, CMS, Product Transformation and Cloud Migration. </span>  
 
-Starting off as Technical Support Engineer and moving on to be Full Stack Developer, Technical Lead/Evangelist, Technical Project Manager, Scrum Master and Solution Architect, Anthony has broad understanding of all aspects of IT and Software Development Life Cycle. 
+Starting off as Technical Support Engineer and moving on to be Full Stack Developer, Technical Lead/Evangelist, Technical Project Manager, Scrum Master and Solution Architect, Anthony has broad understanding of all aspects of IT and Software Development Life Cycle. 
 
 Some of Anthony's recent career highlights:
 

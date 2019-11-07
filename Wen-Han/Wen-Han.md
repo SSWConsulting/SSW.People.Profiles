@@ -20,9 +20,9 @@ skype:  ""
 quote:  "Limits, like fears, are often just an illusion "
 ---
 
-Wen is a Senior Software Developer at SSW. He specializes in developing solutions with ASP.NET (prefers C# over VB.net), SQL Server, SilverLight and SharePoint 2010.  
+Wen is a Senior Software Developer at SSW. He specializes in developing solutions with ASP.NET (prefers C# over VB.net), SQL Server, SilverLight and SharePoint 2010.  
  **  
- Some of Wenshuo's client projects: **  
+ Some of Wenshuo's client projects: **  
  **  
  NRMA   
  **ASP.NET Dynamic Data application providing funding for Community Grants and Reporting with SQL 2005 back end.
@@ -31,9 +31,9 @@ Wen is a Senior Software Developer at SSW. He specializes in developing solution
  **ASP.NET application with LINQ to SQL provding a strategic management tool to address business response for climate change.  
 
  <span class="Apple-style-span" style="text-transform:none;text-indent:0px;border-collapse:separate;font:medium 'times new roman';white-space:normal;letter-spacing:normal;color:#000000;word-spacing:0px;"><span class="Apple-style-span" style="line-height:20px;font-family:verdana,arial,helvetica,sans-serif;font-size:12px;">**UTS   
- **<span class="Apple-style-span" style="text-transform:none;text-indent:0px;border-collapse:separate;font:medium 'times new roman';white-space:normal;letter-spacing:normal;color:#000000;word-spacing:0px;"><span class="Apple-style-span" style="line-height:20px;font-family:verdana,arial,helvetica,sans-serif;font-size:12px;">Assist and teach<span class="Apple-converted-space"> [UTS Short Courses](http://www.feit.uts.edu.au/courses/short/index.html)</span><span class="Apple-converted-space"> </span>in .NET, SQL Server 2008</span></span></span></span>  
+ **<span class="Apple-style-span" style="text-transform:none;text-indent:0px;border-collapse:separate;font:medium 'times new roman';white-space:normal;letter-spacing:normal;color:#000000;word-spacing:0px;"><span class="Apple-style-span" style="line-height:20px;font-family:verdana,arial,helvetica,sans-serif;font-size:12px;">Assist and teach<span class="Apple-converted-space"> [UTS Short Courses](http://www.feit.uts.edu.au/courses/short/index.html)</span><span class="Apple-converted-space"> </span>in .NET, SQL Server 2008</span></span></span></span>  
 
- **Wen's internal projects: **
+ **Wen's internal projects: **
 
 *   [**SSW Code Auditor**](http://www.ssw.com.au/ssw/codeauditor/)** -** one of the best tool for developers to audit their code.  
 

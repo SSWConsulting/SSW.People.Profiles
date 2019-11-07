@@ -20,15 +20,15 @@ skype:  ""
 quote:  "You can have good, fast, or cheap.  But you can only pick two."
 ---
 
-<span>​​​​​​​ ![](/Images/Bio/gerardMCTSlogo.png) <span>![](/Images/Bio/gerardpsdlogo.png) </span></span>
+<span>​​​​​​​ ![](/Images/Bio/gerardMCTSlogo.png) <span>![](/Images/Bio/gerardpsdlogo.png) </span></span>
 
-<span><span></span></span>Gerard is a Solution Architect at SSW in Sydney since 2011.
+<span><span></span></span>Gerard is a Solution Architect at SSW in Sydney since 2011.
 
-Used to working under pressure, with fourteen years industry experience, he is from the new breed of software architects who are able to combine excellent technical skills with great communication and commercial awareness. Although specialising in Web E-commerce solutions, Gerard has extensive experience in Microsoft.NET and loves working with C#, MVC, SQL Server, JavaScript, Angular JS, Kendo UI and SharePoint.
+Used to working under pressure, with fourteen years industry experience, he is from the new breed of software architects who are able to combine excellent technical skills with great communication and commercial awareness. Although specialising in Web E-commerce solutions, Gerard has extensive experience in Microsoft.NET and loves working with C#, MVC, SQL Server, JavaScript, Angular JS, Kendo UI and SharePoint.
 
-He graduated from Leeds Metropolitan University with honours in Business Information Systems. His passion is making sure the products we build meet the business needs of the customer. 
+He graduated from Leeds Metropolitan University with honours in Business Information Systems. His passion is making sure the products we build meet the business needs of the customer. 
 
-As a qualified Professional Scrum Developer, Gerard is capable of working as part of a Scrum Development Team or in the role of Scrum Master. His experience as a Scrum Master covers a wide range of clients and industries including Toll, Vulcan Steel, Carnival Cruises, McDonalds, Sydney Airports, National Australia Day Council and TAFE.
+As a qualified Professional Scrum Developer, Gerard is capable of working as part of a Scrum Development Team or in the role of Scrum Master. His experience as a Scrum Master covers a wide range of clients and industries including Toll, Vulcan Steel, Carnival Cruises, McDonalds, Sydney Airports, National Australia Day Council and TAFE.
 
 <div>**Vulcan Steel** - Migrate existing back end to Web Services including auto generating clients and documentation. Solution included .NET Async, Swagger, Web API 2, OWIN, Octopus Deploy.</div><div>  
 </div><div>**FireBootCamp** - Mentor of 9 week full immersion .NET and AngularJS course. Topics included enterprise architecture, SOLID principles, JavaScript, TypeScript, Entity Framework, MVC 5, Web API, Octopus Deploy, Scrum. See [http://firebootcamp.com ](http://firebootcamp.com/)</div><div>  

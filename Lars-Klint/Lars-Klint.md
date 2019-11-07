@@ -20,11 +20,11 @@ skype:  ""
 quote:  "Whether you think you can, or can't, you're right - Henry Ford "
 ---
 
-​​​![](/Images/Bio/Microsoft_MVP_Logo.png) 
+​​​![](/Images/Bio/Microsoft_MVP_Logo.png) 
 
-Lars is a Solution Architect and Windows Platform Development MVP. ​
+Lars is a Solution Architect and Windows Platform Development MVP. ​
 
-<span class="ms-rteThemeFontFace-1" lang="EN-AU" style="line-height:107%;font-size:13px;"><font color="#000000">He is an author, trainer, Microsoft MVP, community leader, authority on all things Windows Phone and part time car restorer. He is a published [Pluralsight author ](http://www.pluralsight.com/author/lars-klint)and has been a part of the software development community for the past 20 years. <span style="font-style:normal;font-variant:normal;font-weight:normal;font-size:13px;line-height:20.79px;font-family:'segoe ui', segoe, tahoma, helvetica, arial, sans-serif;color:#444444;text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;float:none;white-space:normal;font-stretch:normal;display:inline !important;background-color:#ffffff;">Lars is heavily involved in the developer community, regularly speaks at conferences, and also helps organise community events.</span> </font></span>
+<span class="ms-rteThemeFontFace-1" lang="EN-AU" style="line-height:107%;font-size:13px;"><font color="#000000">He is an author, trainer, Microsoft MVP, community leader, authority on all things Windows Phone and part time car restorer. He is a published [Pluralsight author ](http://www.pluralsight.com/author/lars-klint)and has been a part of the software development community for the past 20 years. <span style="font-style:normal;font-variant:normal;font-weight:normal;font-size:13px;line-height:20.79px;font-family:'segoe ui', segoe, tahoma, helvetica, arial, sans-serif;color:#444444;text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;float:none;white-space:normal;font-stretch:normal;display:inline !important;background-color:#ffffff;">Lars is heavily involved in the developer community, regularly speaks at conferences, and also helps organise community events.</span> </font></span>
 
 <span class="ms-rteThemeFontFace-1" lang="EN-AU" style="line-height:107%;font-size:13px;"><font color="#000000">Lars also hosts the podcast [The Dane and The Pain](http://www.daneandthepain.com/), which explores everything tech with a cheeky side to things.</font></span>
 
@@ -43,4 +43,4 @@ Lars is a Solution Architect and Windows Platform Development MVP. ​
 *   <span class="ms-rteThemeFontFace-1" lang="EN-AU" style="line-height:107%;font-size:13px;">DVLUP Training Day in conjunction with Microsoft</span>
 *   <span class="ms-rteThemeFontFace-1" lang="EN-AU" style="line-height:107%;font-size:13px;"><span id="ms-rterangepaste-end">Pluralsight Authors Summit - <span class="ms-rteThemeFontFace-1" lang="EN-AU" style="line-height:107%;font-size:13px;"><span class="ms-rteThemeFontFace-1" lang="EN-AU" style="line-height:107%;font-size:13px;">Authoring and Time Management</span></span></span></span>
 
-<span class="ms-rteThemeFontFace-1" lang="EN-AU" style="line-height:107%;font-size:13px;"><font color="#000000"></font></span> 
+<span class="ms-rteThemeFontFace-1" lang="EN-AU" style="line-height:107%;font-size:13px;"><font color="#000000"></font></span> 

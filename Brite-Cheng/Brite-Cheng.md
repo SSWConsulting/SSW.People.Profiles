@@ -35,12 +35,12 @@ Related Technology: ASP.NET 3.5, Silverlight, WCF, SQL Server 2008, LINQ to Enti
 
 *   
 
-**[Westlink ](http://www.westlinkconsulting.com.au/):** Web and Windows applications for a large independent valuation and property consultancy practice in Australia.  
+**[Westlink ](http://www.westlinkconsulting.com.au/):** Web and Windows applications for a large independent valuation and property consultancy practice in Australia.  
 Related Technology: ASP.NET 1.1, Web Services, Windows Forms, SQL Server 2000 and ADO.NET. 
 
 *   
 
-**Energy Australia:** A Rostering, Employee, Training and Equipment management application.  
+**Energy Australia:** A Rostering, Employee, Training and Equipment management application.  
 Related Technology: ASP.NET 3.5, Silverlight, WCF, Microsoft Dynamic Data and SQL Server 2005 
 
 *   
