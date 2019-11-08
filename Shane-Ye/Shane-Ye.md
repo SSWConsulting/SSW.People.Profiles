@@ -6,7 +6,7 @@ nickname: "Shane"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Shane.aspx"
 category: "Developers"
-role:  "Solution Architect"
+role:  "Software Architect"
 qualifications:  "Bachelor of Computer Science"
 location: "Other"
 
