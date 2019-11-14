@@ -20,6 +20,8 @@ skype:  "live:.cid.3de3f4b733ade61b"
 quote:  "Any technology distinguishable from magic is insufficiently advances (Gregory Benford)"
 ---
 
-Matt has worked in IT for 15 years, with a background in infrastructure and management, and has delivered security policies, IT strategies and disaster recovery plans to a number of high profile national and multi-national clients.
+Matt has worked in IT for 15 years, with a background in infrastructure and management, and has delivered security policies, IT strategies and disaster recovery plans to a number of high profile national and multi-national clients.   
+
+He has since moved on to web development, specialising in .NET Core, Angular, and Azure.  
 
 Drawing on a combination of hands-on experience and enterprise governance practices, Matt is able to make connections between business and technology to deliver user and business focused outcomes.  
