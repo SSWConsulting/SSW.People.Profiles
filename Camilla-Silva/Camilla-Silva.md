@@ -6,7 +6,7 @@ nickname: "Camilla"
 
 legacy_page_url: "/AboutUs/Employees/Pages/CamillaSilva.aspx"
 category: "Admin"
-role:  "Marketing/SEO Expert"
+role:  "Marketing Coordinator"
 qualifications:  "Bachelor of Business Management, MBA in Business Strategic Management"
 location: "Sydney"
 
