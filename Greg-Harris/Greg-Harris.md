@@ -20,7 +20,7 @@ skype:  "gregharris.net"
 quote:  "Keep pushing forward and never give up"
 ---
 
-​​​​​​​​​​​​​​Greg is a Senior Software Architect at SSW with over 15 years of experience in software development. He specializes in C#, ASP.NET MVC, SQL​ Server, Azure and React. He is constantly learning new technologies with React Native being his current focus.
+Greg is a Senior Software Architect at SSW with over 15 years of experience in software development. He specializes in C#, ASP.NET MVC, SQL Server, Azure and React. He is constantly learning new technologies with React Native being his current focus.
 
 Some key projects include:  
 

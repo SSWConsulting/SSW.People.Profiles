@@ -20,7 +20,6 @@ skype:  "chrplankl@live.de"
 quote:  "if you can't explain it simply, you don't understand it well enough"
 ---
 
-​​​​​​Christian is a Software Developer at SSW working on SSW Sophie, a digital assistant which greets you as soon as you enter SSW and shows your important and personal information. 
+Christian is a Software Developer at SSW working on SSW Sophie, a digital assistant which greets you as soon as you enter SSW and shows your important and personal information. 
 
 In his spare time, he loves to go hiking at the rural outskirts of Sydney and to take some nice photos of it.  
-​  

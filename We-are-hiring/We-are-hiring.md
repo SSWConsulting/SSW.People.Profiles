@@ -20,8 +20,6 @@ skype:  ""
 quote:  ""
 ---
 
-​​We're always on the look out for great people.
+We're always on the look out for great people.
 
-Take a look at our [employment](http://www.ssw.com.au/ssw/Employment/Employment.aspx) page to find out more.​
-
-​
+Take a look at our [employment](http://www.ssw.com.au/ssw/Employment/Employment.aspx) page to find out more.

@@ -20,9 +20,7 @@ skype:  ""
 quote:  " Nothing is too complex to do, usually different people have already solved the parts, you just need to glue their solutions into one."
 ---
 
-​​​​​​​​​
-
-​![FireBootCamp-Logo.png](/Images/Bio/FireBootCamp-Logo.png)<span style="line-height:31.23px;"> </span>
+![FireBootCamp-Logo.png](./Images/Bio/FireBootCamp-Logo.png) 
 
 Adriaan is a Senior Software Architect at SSW.
 
@@ -32,10 +30,4 @@ Adriaan has experience leading and managing software and hardware projects leadi
 
 Although specialising in Web E-commerce solutions, Adriaan has extensive experience in Microsoft both pre and post .NET and loves working with C#, SQL Server, Azure, AngularJS, TypeScript and ASP.NET MVC.
 
-When not developing solutions for clients Adriaan spends his time building IoT devices, including twitter driven birthday sparklers. [https://youtu.be/NTrpr4kAFXc​​]()
-
-<span style="line-height:31.23px;">  
-</span> 
-
-<span style="line-height:31.23px;">  
-</span> 
+When not developing solutions for clients Adriaan spends his time building IoT devices, including twitter driven birthday sparklers. [https://youtu.be/NTrpr4kAFXc]()

@@ -20,9 +20,9 @@ skype:  ""
 quote:  "I like challenging work. I like using cutting edge technologies to make great solutions for my clients."
 ---
 
-## ​
-    ![pmp logo](/Images/Bio/pmp_logo.jpg) ![](/Images/Bio/MCAD-RGB.gif)  ![](/Images/Bio/mcp-rgb.gif) 
-![](/Images/Bio/scrumtrainer.png) 
+## 
+    ![pmp logo](./Images/Bio/pmp_logo.jpg) ![](./Images/Bio/MCAD-RGB.gif)  ![](./Images/Bio/mcp-rgb.gif) 
+![](./Images/Bio/scrumtrainer.png) 
 
 **Background**  
 

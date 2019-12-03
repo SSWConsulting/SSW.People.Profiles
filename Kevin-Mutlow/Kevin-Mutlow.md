@@ -20,4 +20,3 @@ skype:  "kmutlow"
 quote:  ""
 ---
 
-​​​​​​​

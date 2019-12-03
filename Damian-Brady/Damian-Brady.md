@@ -20,7 +20,7 @@ skype:  ""
 quote:  "If you look at something you did a year ago and can't think of a better way to do it, it's not a sign you did it perfectly the first time, it's a sign you're not learning."
 ---
 
-​​[![Microsoft_MVP_Logo.png](/Images/Bio/Microsoft_MVP_Logo.png)​](https://mvp.microsoft.com/en-us/mvp/Damian%20Brady-5000595)  ![MCSD_2013(rgb)_1509.png](/Images/Bio/MCSD_2013(rgb)_1509.png)​  ![PSMI.png](/Images/Bio/PSMI.png)   [![cover_small.png](/Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013)​  
+[![Microsoft_MVP_Logo.png](./Images/Bio/Microsoft_MVP_Logo.png)](https://mvp.microsoft.com/en-us/mvp/Damian%20Brady-5000595)  ![MCSD_2013(rgb)_1509.png](./Images/Bio/MCSD_2013(rgb)_1509.png)  ![PSMI.png](./Images/Bio/PSMI.png)   [![cover_small.png](./Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013)  
  Damian is the Chief Architect and State Manager for QLD and is a Microsoft MVP in Visual Studio ALM.  
 
  With well over ten years of experience both in software development and business analysis roles, Damian has had exposure to a large number of industries including government and finance. A software architect with a wide skillset, he is able to use his excellent technical skills and knowledge of business process to deliver the most effective solutions to our clients.  
@@ -29,7 +29,7 @@ quote:  "If you look at something you did a year ago and can't think of a better
 
  Damian is very active in the Brisbane developer community and runs both the [Brisbane .Net User Group](http://www.meetup.com/Brisbane-Net-User-Group/ "Brisbane .Net User Group") (formerly Qld MSDN User Group and the 
 [DeveloperDeveloperDeveloper Brisbane](http://www.dddbrisbane.com/ "DDD Brisbane") conference.  He is also a regular speaker at the 
-[Queensland ALM](http://www.qalmug.org/ "Qld ALM User Group") user group and various conferences and user groups in other states. He's also a co-author of "[Professional Team Foundation Server 2013](http://brdy.in/ProTFS2013)".​  
+[Queensland ALM](http://www.qalmug.org/ "Qld ALM User Group") user group and various conferences and user groups in other states. He's also a co-author of "[Professional Team Foundation Server 2013](http://brdy.in/ProTFS2013)".  
 
  In his spare time, Damian plays indoor and beach volleyball, and is an avid St. Kilda AFL supporter. 
 
@@ -52,8 +52,7 @@ Damian worked on the public-facing website for the National Australia Day Counci
 
 *   [Diving into Team Foundation Server Extensibility](http://search.channel9.msdn.com/content/result?sid=38a2fe9e-312c-44a1-81ad-14b04a911731&rid=6e9526bb-c526-4fac-9082-a39d00f30586) - Tech Ed New Zealand 2014
 
-*   ​
-        [Release Management for the Enterprise](http://search.channel9.msdn.com/content/result?sid=38a2fe9e-312c-44a1-81ad-14b04a911731&rid=b6182d1f-a29b-40f0-bfbf-a39d00f3023e) - Tech Ed New Zealand 2014
+*   [Release Management for the Enterprise](http://search.channel9.msdn.com/content/result?sid=38a2fe9e-312c-44a1-81ad-14b04a911731&rid=b6182d1f-a29b-40f0-bfbf-a39d00f3023e) - Tech Ed New Zealand 2014
 
 *   [Octopus Deploy and how to stop deploying like an idiot](http://tv.ssw.com/5522/octopus-deploy-and-how-to-stop-deploying-like-an-idiot-damien-brady-ddd-melbourne) - DDD Melbourne 2014
 

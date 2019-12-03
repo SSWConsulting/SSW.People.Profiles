@@ -20,7 +20,7 @@ skype:  ""
 quote:  "There is always room at the top"
 ---
 
-![](/Images/Bio/MCITP_ST.png)
+![](./Images/Bio/MCITP_ST.png)
 
 Sergei Tchernykh is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in .NET Solutions. He worked as a software engineer in the University of Newcastle. Sergei's main areas of expertise are in Microsoft technologies such as SQL Server 2005, SQL Server 2000, ASP.NET, C++, VB.NET, C#, Business Intelligence, Access and Business Objects XI (Crystal Reports) and he is the product manager on SSW Upsizing PRO. His experience spans from database design to performance tuning. He worked for clients such as: 
 

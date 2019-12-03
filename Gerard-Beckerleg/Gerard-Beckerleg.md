@@ -20,9 +20,9 @@ skype:  ""
 quote:  "You can have good, fast, or cheap.  But you can only pick two."
 ---
 
-<span>​​​​​​​ ![](/Images/Bio/gerardMCTSlogo.png) <span>![](/Images/Bio/gerardpsdlogo.png) </span></span>
+ ![](./Images/Bio/gerardMCTSlogo.png) ![](./Images/Bio/gerardpsdlogo.png) 
 
-<span><span></span></span>Gerard is a Solution Architect at SSW in Sydney since 2011.
+Gerard is a Solution Architect at SSW in Sydney since 2011.
 
 Used to working under pressure, with fourteen years industry experience, he is from the new breed of software architects who are able to combine excellent technical skills with great communication and commercial awareness. Although specialising in Web E-commerce solutions, Gerard has extensive experience in Microsoft.NET and loves working with C#, MVC, SQL Server, JavaScript, Angular JS, Kendo UI and SharePoint.
 

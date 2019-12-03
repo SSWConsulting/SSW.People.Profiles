@@ -20,7 +20,7 @@ skype:  ""
 quote:  "It is not a matter of luck, it is a matter of time."
 ---
 
-​​Florent is a Sales and Marketing Assistant at SSW.
+Florent is a Sales and Marketing Assistant at SSW.
 
 While helping Brittany in her tasks (Lead Generation, Email Marketing, Social Media, etc.) he is also in charge of our **SSW Digital** activities, which include Content Strategy, Google Rankings and SEO, Paid Advertising and SEM as well as Marketing Automation, among others.  
 

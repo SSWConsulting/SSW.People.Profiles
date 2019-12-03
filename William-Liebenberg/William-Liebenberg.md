@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Make a plan! Make it happen!"
 ---
 
-​​​​​​William is a passionate Software Developer with almost 15 years of professional experience in industries ranging from Petrochemical, Electrical, Transportation, Student Housing, and Education.   
+William is a passionate Software Developer with almost 15 years of professional experience in industries ranging from Petrochemical, Electrical, Transportation, Student Housing, and Education.   
 
 He joined SSW as a Solutions Architect and specializes in Application Modernization to help companies transform and migrate to Azure. William has helped some of Australia's largest software companies and financial institutions through their digital transformation processes to take full advantage of the Cloud.   
 

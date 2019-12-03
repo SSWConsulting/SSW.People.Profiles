@@ -20,7 +20,7 @@ skype:  "JeremyCade"
 quote:  "Strong Opinions, Weakly Held."
 ---
 
-​​​​Jeremy is a polyglot software engineer with over 15 years of experience developing end to end applications and services for the connected world.   
+Jeremy is a polyglot software engineer with over 15 years of experience developing end to end applications and services for the connected world.   
 
 From a technology standpoint, Jeremy is comfortable developing applications on a wide range of technologies and platforms, though he prefers the C# language due to it's modern design and syntactic sugar.   
 

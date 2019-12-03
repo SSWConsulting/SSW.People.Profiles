@@ -6,7 +6,7 @@ nickname: "Shane"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Shane.aspx"
 category: "Developers"
-role:  "Senior Software Developer"
+role:  "Software Architect"
 qualifications:  "Bachelor of Computer Science"
 location: "Other"
 
@@ -20,12 +20,11 @@ skype:  "shanerocks117"
 quote:  "The difference between a pebble and a mountain lies in whom you ask to move it."
 ---
 
-​​​​​​​​​​​​​Shane is a software developer with extensive background working with web application development.   
+Shane is a software developer with extensive background working with web application development.   
 
 He is passionate about the technologies he works with on a daily basis, knowledgeable of all the development cycle stages and has a good command of coding languages. Has much experience in teamwork and excellent problem-solving skill.  
 
-In his spare time Shane loves playing basketball and enjoys reading.​  
-​  
+In his spare time Shane loves playing basketball and enjoys reading.  
 
 <style>
 p.p1 {

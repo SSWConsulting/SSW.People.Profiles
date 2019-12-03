@@ -20,10 +20,9 @@ skype:  "steveleighssw"
 quote:  "Code cleanly to ship quickly"
 ---
 
-​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/SteveLeigh)​​​​​<span style="line-height:18px;">​​  
+[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/SteveLeigh)  
 
-</span> 
-<div>​​​Steve is a Solution Architect, with extensive experience in the gamut of technologies require to ship web based software.</div><div><div>
+<div>Steve is a Solution Architect, with extensive experience in the gamut of technologies require to ship web based software.</div><div><div>
 
    </div><div>He has a deep passion for clean code, well designed code, tests, automation, efficiency and repeatability – all things needed for quality code and a quality product.  Whether it be organizing your code better, getting more targeted and accurate test results or understanding and optimizing your production application performance, Steve has the chops to deliver.  
 </div><div>

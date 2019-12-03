@@ -20,11 +20,9 @@ skype:  ""
 quote:  "TFS + .NET"
 ---
 
-​​[![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/WilsonBo)​​​​​<span style="line-height:18px;">​​  
+[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/WilsonBo)  
 
-</span> 
-
-​<span class="ms-rteThemeForeColor-9-0">**​ Background**</span>:
+** Background**:
 
 Wilson is a Senior Consultant at SSW Beijing Office.
 

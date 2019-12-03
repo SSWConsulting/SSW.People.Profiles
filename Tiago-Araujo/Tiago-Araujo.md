@@ -20,8 +20,7 @@ skype:  "tiagov8"
 quote:  "It's not what you look at that matters, it's what you see."
 ---
 
-​ [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/TiagoAraujo) <span style="line-height:18px;">   
-</span>​
+ [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/TiagoAraujo)    
 
 Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: "Ok, but you're still working remotely for us". We couldn't let him go. After a few years in Brazil, he now lives and works in Canada.  
 
@@ -59,7 +58,7 @@ _ _
 *  
 *
 
- *When the bottom/top values are the same and the left-right values as well, you can optimize it even more:*<span style="line-height:18px;"></span>
+ *When the bottom/top values are the same and the left-right values as well, you can optimize it even more:*
 
 *<font color="#808080">  
 </font>*

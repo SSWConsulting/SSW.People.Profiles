@@ -20,15 +20,15 @@ skype:  "astephensen"
 quote:  "'fail fast', inspect, adapt, have a lot of fun.  "
 ---
 
-​​​​​ [ ![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/AdamStephensen) <span style="line-height:18px;"> </span>
+ [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/AdamStephensen) 
 
- <span style="line-height:18px;"></span><span style="font-family:calibri;font-size:11pt;line-height:1.6;"> </span>![MCSD Web Applications](/Images/Bio/MCSD_2013(rgb)_1477.jpg)<span style="font-family:calibri;font-size:11pt;line-height:1.6;"> </span>![Professional Scrum Master I](/Images/Bio/PSMI.png)<span style="font-family:calibri;font-size:11pt;line-height:1.6;"> </span>![Microsoft Certified Professional](/Images/Bio/MCP.png)
+ ![MCSD Web Applications](./Images/Bio/MCSD_2013(rgb)_1477.jpg) ![Professional Scrum Master I](./Images/Bio/PSMI.png) ![Microsoft Certified Professional](./Images/Bio/MCP.png)
 
 Adam is passionate about building awesome teams and software projects.
 
 He loves people, patterns, processes and technology: Azure, MVC, Scrum, clean code, dependency injection, tests, continuous delivery, training, mentoring and presenting.
 
-Adam believes communication and agility lead to success: 'fail fast', inspect, adapt, have a lot of fun.<span> </span>
+Adam believes communication and agility lead to success: 'fail fast', inspect, adapt, have a lot of fun. 
 
 Adam loves a puzzle. His favourite is how to transform complex business requirements into working software, delivered incrementally, while educating and co-ordinating team members and stakeholders.
 
@@ -56,9 +56,9 @@ Eat Your Vegetables –Baking Healthy Projects with Unit Testing and Dependency 
 
  **Adam's products: **
 
- <span>SQL Deploy: Product Owner [http://www.ssw.com.au/ssw/SQLDeploy/](http://www.ssw.com.au/ssw/SQLDeploy/)</span>
+ SQL Deploy: Product Owner [http://www.ssw.com.au/ssw/SQLDeploy/](http://www.ssw.com.au/ssw/SQLDeploy/)
 
- <span>SQL Deploy MVC: Imagined and Implemented [http://nuget.org/packages/SSW.SQLDeploy.MVC](http://nuget.org/packages/SSW.SQLDeploy.MVC)</span>
+ SQL Deploy MVC: Imagined and Implemented [http://nuget.org/packages/SSW.SQLDeploy.MVC](http://nuget.org/packages/SSW.SQLDeploy.MVC)
 
  **Adam's community involvement**
 

@@ -28,7 +28,7 @@ John Liu is a Solution Architect at SSW, a Microsoft Certified Partner specialis
 
 John is responsible for developing and maintaining SharePoint, ASP.NET and Silverlight applications using C# and SQL Server. 
 
-**![](/Images/Bio/MCTS-MOSS2007-Config.gif)  
+**![](./Images/Bio/MCTS-MOSS2007-Config.gif)  
 
  Work**
 

@@ -20,13 +20,13 @@ skype:  ""
 quote:  "I didn't want to pay DynDNS - so I wrote an Azure function to replace them"
 ---
 
-​​​​​​<div>​​![CSM Certified](/Images/Bio/badge-7227.png)![devops.png](/Images/Bio/devops.png)  
+<div>![CSM Certified](./Images/Bio/badge-7227.png)![devops.png](./Images/Bio/devops.png)  
 
 </div><div>Matt is a solution architect, Certified ScrumMaster and Microsoft DevOps FastTrack Partner Consultant based at SSW's Sydney office.</div><div>  
 </div><div>He has been developing solutions using the full Microsoft stack since .NET 2 was in beta.</div><div>  
 <div>
 
-​Matt has had experien​​​ce with large ASX listed companies in the finance and HR sector, helping them with: 
+Matt has had experience with large ASX listed companies in the finance and HR sector, helping them with: 
 
 *   Build and Release Pipelines (upgrading from XCopy deploy processes to full CI/CD automation on Azure DevOps)  
 
@@ -42,7 +42,6 @@ quote:  "I didn't want to pay DynDNS - so I wrote an Azure function to replace t
 
 *   PABX systems  
 
-​Matt loves DevOps, DevOps and DevOps. He has experience with Azure DevOps Build and Release and these days prefers it over Octopus​ and Bamboo. Matt likes clean architecture, using the right tool for the job, seeing developers push changes to production with confidence, Selenium automation, building solutions on Azure and never has to reminisce about Webforms.  
-​​  
+Matt loves DevOps, DevOps and DevOps. He has experience with Azure DevOps Build and Release and these days prefers it over Octopus and Bamboo. Matt likes clean architecture, using the right tool for the job, seeing developers push changes to production with confidence, Selenium automation, building solutions on Azure and never has to reminisce about Webforms.  
 
 </div></div>

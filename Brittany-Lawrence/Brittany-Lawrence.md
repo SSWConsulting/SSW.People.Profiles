@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Don't stop when you're tired. Stop when you're done."
 ---
 
- <span style="line-height:1.6;">​​​​​​Brittany is the Sales and Marketing Assistant at SSW. Her role includes conducting Lead Generation, the creation and execution of marketing strategies, Online Marketing through both Social Media and Social Media Advertising, Webinars, Email Marketing, Google AdWords as well as the marketing of SSW Events. </span>
+ Brittany is the Sales and Marketing Assistant at SSW. Her role includes conducting Lead Generation, the creation and execution of marketing strategies, Online Marketing through both Social Media and Social Media Advertising, Webinars, Email Marketing, Google AdWords as well as the marketing of SSW Events. 
 
 **- Email Marketing**
 
@@ -34,4 +34,4 @@ Brittany has been involved in Social Media Advertising across a number of platfo
 
 DevSuperPowers is a monthly webinar run by SSW and its developers. Brittany helps to organize and coordinate presenters for each month, as well as carrying out the promotion of each webinar. 
 
-Brittany enjoys online marketing and analysing​ the metrics after each campaign. She uses her strong organizational skills and forward thinking to assist in carrying out her duties. 
+Brittany enjoys online marketing and analysing the metrics after each campaign. She uses her strong organizational skills and forward thinking to assist in carrying out her duties. 

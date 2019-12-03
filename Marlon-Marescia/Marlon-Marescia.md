@@ -20,7 +20,7 @@ skype:  "marlon.ssw"
 quote:  "Enjoy the journey because the destination might not be all it's cracked up to be."
 ---
 
-​​Marlon ​is the Sales Manager and Marketing at SSW. His hands on experience with Microsoft technologies like ASP.NET, SharePoint, Microsoft CRM and Office add-ins help give him insight into how we can solve our clients business challenges. Marlon's past work as a consultant, building and implementing strategic and operational plans within small to medium businesses gives him a unique understanding of our client's needs.
+Marlon is the Sales Manager and Marketing at SSW. His hands on experience with Microsoft technologies like ASP.NET, SharePoint, Microsoft CRM and Office add-ins help give him insight into how we can solve our clients business challenges. Marlon's past work as a consultant, building and implementing strategic and operational plans within small to medium businesses gives him a unique understanding of our client's needs.
 
 As the Sales and Marketing Manager of SSW Marlon leads the sales and marketing teams to take new clients through their journey from finding SSW, discussing the solutions they require and watching over the delivery of the solutions to ensure projects go smoothly.
 

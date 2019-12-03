@@ -20,10 +20,9 @@ skype:  "thiagospassos"
 quote:  "Never give not having time as an excuse not to do something. Set your priorities and goals and you'll find out that a day may have 48 hours"
 ---
 
-​​[ ![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/ThiagoPassos) <span style="line-height:18px;">   
-</span>
+[ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/ThiagoPassos)    
 
-​​​​​​​​ ​ ​![azure-logo.png](/Images/Bio/azure-logo.png)![MCSD_ShareApp_Blk.png](/Images/Bio/MCSD_ShareApp_Blk.png) ![Special_ProgHTML5_Blk.png](/Images/Bio/Special_ProgHTML5_Blk.png) ![Sitefinity](/Images/Bio/logo_sitefinity.png) ​ 
+ ![azure-logo.png](./Images/Bio/azure-logo.png)![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png) ![Special_ProgHTML5_Blk.png](./Images/Bio/Special_ProgHTML5_Blk.png) ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
 
 Let's start with his personal profile. He's Brazilian which by itself already makes him awesome. He loves dancing, and he's good at it but hasn't been doing it lately as he barely has any free time apart from watching his kids play and laugh.  
 

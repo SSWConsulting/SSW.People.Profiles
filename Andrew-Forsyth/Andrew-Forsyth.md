@@ -20,7 +20,7 @@ skype:  ""
 quote:  "A picture is worth a thousand words!"
 ---
 
-​​​​​Andrew has ten+ years experience creating video content for the web, mobile devices, sales engagements and events. Prior to that he held senior positions in sales & marketing roles with Microsoft and Canon in Australia, USA and Singapore.   
+Andrew has ten+ years experience creating video content for the web, mobile devices, sales engagements and events. Prior to that he held senior positions in sales & marketing roles with Microsoft and Canon in Australia, USA and Singapore.   
 
 After starting his career with Canon Australia and completing an MBA at Macquarie Graduate School of Management, he started a new division at Canon Singapore marketing digital imaging devices across SE Asia. Then, after seven years with Microsoft including three as a senior marketing manager in the US subsidiary, Andrew started Pemberton Productions with the aim of producing high quality video & marketing communications that deliver business results.  
 

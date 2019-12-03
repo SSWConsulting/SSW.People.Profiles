@@ -20,7 +20,7 @@ skype:  "live:boissiere.seb"
 quote:  "First, solve the problem. Then, write the code. – John Johnson"
 ---
 
-​ Sebastien is a Software Architect with more than 10 years of experience in software development in France, China and now Australia. 
+ Sebastien is a Software Architect with more than 10 years of experience in software development in France, China and now Australia. 
 
  Before working for SSW, Sebastien worked for the world leading company for HR and Payroll, ADP, for 10 years, developing solutions used to pay hundreds of thousands employees. First using Java/J2EE and Oracle database then .Net/.Net Core, Angular and SQL Server.
 

@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Work hard, play hard"
 ---
 
-**​​​Michelle's Duty in SSW:**
+**Michelle's Duty in SSW:**
 
 Daily financial issues including bookkeeping, financial reports, tax declaration and so forth;
 

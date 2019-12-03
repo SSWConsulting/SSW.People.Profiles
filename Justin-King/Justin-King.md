@@ -62,7 +62,7 @@ Travelled to Wellington to work with the great team of Intergen to assist in del
 
 Teaching entire course of SQL Server 2005 for Developers and Business Intelligence as a Short Course at the University of Technology Sydney. Justin has tought this course in complete twice over the past 2 years. Also teching the ASP.NET and Windows Forms Developer short course.
 
-<span class="ms-rteCustom-ArticleTitle">User Group Presentations</span>
+User Group Presentations
 
 <table style="width:100%;">
     <tbody>

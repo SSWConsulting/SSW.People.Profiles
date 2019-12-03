@@ -30,8 +30,8 @@ Wen is a Senior Software Developer at SSW. He specializes in developing solution
 **ENERGETICS  
  **ASP.NET application with LINQ to SQL provding a strategic management tool to address business response for climate change.  
 
- <span class="Apple-style-span" style="text-transform:none;text-indent:0px;border-collapse:separate;font:medium 'times new roman';white-space:normal;letter-spacing:normal;color:#000000;word-spacing:0px;"><span class="Apple-style-span" style="line-height:20px;font-family:verdana,arial,helvetica,sans-serif;font-size:12px;">**UTS   
- **<span class="Apple-style-span" style="text-transform:none;text-indent:0px;border-collapse:separate;font:medium 'times new roman';white-space:normal;letter-spacing:normal;color:#000000;word-spacing:0px;"><span class="Apple-style-span" style="line-height:20px;font-family:verdana,arial,helvetica,sans-serif;font-size:12px;">Assist and teach<span class="Apple-converted-space"> [UTS Short Courses](http://www.feit.uts.edu.au/courses/short/index.html)</span><span class="Apple-converted-space"> </span>in .NET, SQL Server 2008</span></span></span></span>  
+ **UTS   
+ **Assist and teach [UTS Short Courses](http://www.feit.uts.edu.au/courses/short/index.html) in .NET, SQL Server 2008  
 
  **Wen's internal projects: **
 

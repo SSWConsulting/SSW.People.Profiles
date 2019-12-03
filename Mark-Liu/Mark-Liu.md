@@ -20,13 +20,12 @@ skype:  ""
 quote:  "Excellence is not a skill, it's an attitude."
 ---
 
-​​​​ [![BookNow.png](/Images/Bio/BookNow.png)](http://veethere.com/With/MarkLiu)​​​​​<span style="line-height:18px;">​​</span><div><span style="line-height:18px;">  
-</span>
+ [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/MarkLiu)<div>  
 
-## ​​​​​​ 
-   ![](/Images/Bio/scrumtrainer.png) 
+##  
+   ![](./Images/Bio/scrumtrainer.png) 
 
-As one of the smartest guys at SSW, Mark is the man to go to for any .NET related issue. He's the one that others come to when they get stuck.​  
+As one of the smartest guys at SSW, Mark is the man to go to for any .NET related issue. He's the one that others come to when they get stuck.  
 
 Mark is a Solution Architect at SSW, a Microsoft Certified Professional specialising in .NET Solutions. He is experienced in developing solutions with C#, ASP.NET, Web Services, SQL Server, Microsoft Office Integration and SharePoint customization.
 

@@ -25,4 +25,3 @@ Chris joined SSW in 2018 as a Software Architect and brought with him over 10 ye
 Working across these industries has allowed Chris to understand and communicate with clients from all backgrounds. He is an advocate of good team culture and realizes success through forming strong relationships and fostering a strong team dynamic. Chris has enjoyed success working with high-profile SSW enterprise customers, where his ability to communicate clearly and develop practical solutions has been broadly praised.  
 
 Chris’s skills include C#, .NET Core, Angular, Typescript, SQL Server, Oracle, PL/SQL and PowerBI and he is always on the lookout for new technologies.  
-​

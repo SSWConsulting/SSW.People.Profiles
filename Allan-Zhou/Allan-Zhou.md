@@ -25,7 +25,7 @@ quote:  "I believe concentration and exertion makes perfection."
 
 Allan's client projects:
 
-*   **SDN** <span> A children care platform which help parents around Australia to take care of their children </span>  
+*   **SDN**  A children care platform which help parents around Australia to take care of their children   
 
     Related Technologies:Dynamic CRM 4.0, Web Service 
 
