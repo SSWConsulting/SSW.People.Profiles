@@ -20,7 +20,7 @@ skype:  "adamcogan"
 quote:  "Talent can fix tricky bugs, but teamwork and brains build great software. "
 ---
 
-<div>​​​​ [ ![BookAdamNow.png](./Images/Bio/BookAdamNow.png)](http://veethere.com/With/AdamCogan)​​​​</div>​​​​![](./Images/Bio/microsoftCertified.jpg)![](./Images/Bio/Microsoft-Regional-Director-35h.png)![](./Images/Bio/scrumtrainer.png)![](./Images/Bio/scrum-badges.jpg) ​![](./Images/Bio/devops.png) 
+<div> [ ![BookAdamNow.png](./Images/Bio/BookAdamNow.png)](http://veethere.com/With/AdamCogan)</div>![](./Images/Bio/microsoftCertified.jpg)![](./Images/Bio/Microsoft-Regional-Director-35h.png)![](./Images/Bio/scrumtrainer.png)![](./Images/Bio/scrum-badges.jpg) ![](./Images/Bio/devops.png) 
 
 Adam Cogan is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom Azure, Azure DevOps (was TFS), .NET, SharePoint and Business Intelligence solutions. At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, Worley Parsons, and Aurecon.   
 
@@ -28,7 +28,7 @@ Adam is a Certified Scrum Trainer with scrum.org, trains developers in Australia
 
 Adam is one of only three Microsoft Regional Directors in Australia. In this role, he regularly presents at conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favourite Microsoft teams that he loves to work with are Brian Harry's TFS team and Jeff Teper's SharePoint team.
 
-Adam travels to record interviews with technology experts around the world – his most popular video is a scrum meeting with the Microsoft Scrum Foundation team. You can view this video at [http://tv.ssw.com/12 79/daily-scrum-at-microsoft]()  
+Adam travels to record interviews with technology experts around the world – his most popular video is a scrum meeting with the Microsoft Scrum Foundation team. You can view this video at [http://tv.ssw.com/12 79/daily-scrum-at-microsoft ]()  
 
 At SSW, Adam enjoys working with the teams, improving their usage of Scrum and TFS, reviewing the architecture of large .NET projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](http://firebootcamp.com/), an intensive 9-week .NET training course.
 
@@ -44,7 +44,7 @@ Some of Adam's project highlights have been:
 
 In addition Adam is a regular speaker at the SSW User Group and conferences, including:  
 
-*   Adam has spoken at NDC Olso and NDC Sydney and was the #2 speaker of the conference (after Troy Hunt)​  
+*   Adam has spoken at NDC Olso and NDC Sydney and was the #2 speaker of the conference (after Troy Hunt)  
 
 *   Microsoft Tech Ed in USA (including a highly rated joint session with Billy Hollis), Malaysia, New Zealand and Australia (recently ranked in top 4 of 90 speakers in NZ) 
 *   Microsoft Roadshows
@@ -58,9 +58,7 @@ In addition Adam is a regular speaker at the SSW User Group and conferences, inc
 
 Adam is also the president of the Microsoft .NET User Groups in Sydney and Canberra, and is also the chair of the Speaker Bureau of the APAC INETA organization.  
 
-<iframe width="710" height="400" src="https://www.youtube.com/embed/0gSgpzmbrBM" frameborder="0"></iframe>
-
-​  
+<div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify"><iframe width="710" height="400" src="https://www.youtube.com/embed/0gSgpzmbrBM" frameborder="0"></iframe> </div>
 
 ##  
    Made in Australia, China and beyond
