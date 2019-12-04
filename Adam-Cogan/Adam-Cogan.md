@@ -64,10 +64,9 @@ In addition Adam is a regular speaker at the SSW User Group and conferences, inc
 
 Adam is also the president of the Microsoft .NET User Groups in Sydney and Canberra, and is also the chair of the Speaker Bureau of the APAC INETA organization.  
 
-<div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify"><iframe width="710" height="400" src="https://www.youtube.com/embed/0gSgpzmbrBM" frameborder="0"></iframe> </div>
+<div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify"><iframe width="710" height="400" src="https://www.youtube.com/embed/0gSgpzmbrBM" frameborder="0"></iframe></div>
 
-##  
-   Made in Australia, China and beyond
+## Made in Australia, China and beyond
 
 In 2005 Adam took SSW beyond Australia and opened an SSW branch in China. There are now also SSW branches in 3 locations within Australia – Brisbane, Melbourne and the Sydney headquarters - as well as a satellite branch in Europe. Today all SSW developers work closely together to develop high quality software with high performing teams for the US, Australian and international markets. 
 
@@ -75,8 +74,7 @@ Adam loves to spend time working on his Rules pages, and his favourite quote is 
 
 ![](./Images/Bio/figureMouse.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Well all rules are meant to be broken :-) </font> ![](./Images/Bio/figureMap.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Adam h as spoken at user groups/conferences in these countries </font> ![](./Images/Bio/figureIce.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!</font>
 
-##  
-   What have others said about Adam's speaking? 
+## What have others said about Adam's speaking? 
 
  "He is the closest thing to a Geek rock star" 
 
