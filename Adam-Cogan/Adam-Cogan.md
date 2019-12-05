@@ -76,14 +76,14 @@ Adam loves to spend time working on his Rules pages, and his favourite quote is 
 
 ## What have others said about Adam's speaking? 
 
- "He is the closest thing to a Geek rock star" 
+ *"He is the closest thing to a Geek rock star"* 
 
- "I enjoy Adam's presentations as he is the closest thing to a “geek rock star” that I have ever seen!" 
+ *"I enjoy Adam's presentations as he is the closest thing to a “geek rock star” that I have ever seen!"*
 
- "Thanks heaps for putting together a great conference. I loved the emphasis on real examples. I loved Adams presentation style, very dynamic and he kept the interest level up and audience awake" 
+ *"Thanks heaps for putting together a great conference. I loved the emphasis on real examples. I loved Adams presentation style, very dynamic and he kept the interest level up and audience awake"*
 
- "Adams session on creating Windows Apps was the best ever… great VB demos" 
+ *"Adams session on creating Windows Apps was the best ever… great VB demos"*
 
- "Adam Cogan is very inspiring, humorous and a pleasure to watch. For my first time here I'm impressed at the objective opinions of good and bad parts of MS VS .NET - very happy it wasn't a propaganda mission" 
+ *"Adam Cogan is very inspiring, humorous and a pleasure to watch. For my first time here I'm impressed at the objective opinions of good and bad parts of MS VS .NET - very happy it wasn't a propaganda mission"*
 
- "I've attended many Roadshows etc over the years - Adam Cogan is probably the best and most realistic speaker I've heard" 
+ *"I've attended many Roadshows etc over the years - Adam Cogan is probably the best and most realistic speaker I've heard"*
