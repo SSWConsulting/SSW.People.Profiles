@@ -6,7 +6,7 @@ nickname: "Calum"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Calum-Simpson.aspx"
 category: "Developers"
-role:  "Senior Software Architect "
+role:  "Senior Software Architect	"
 qualifications:  "BBA, BIT"
 location: "Sydney"
 
