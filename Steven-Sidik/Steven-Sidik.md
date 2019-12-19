@@ -22,7 +22,7 @@ quote:  "Going with the cheapest option may sometimes seem like a good idea. But
 
 Steven's technical background is in Network Engineering, this involves the design and implementation of network solutions, including completely new networks as well as add ons/upgrades to existing networks, providing the network and infrastructure for your servers and applications to communicate.  
 
-Steven has been working in the IT industry for 10+ years. He has extensive experience with Cisco, HP, Cisco ASA, Ubiquiti networking, Cisco/Aruba and Ubiquiti Wireless as well as ExpressRoute to Azure.  
+Steven has been working in the IT industry for 10+ years. He has experience with Routing, Switching, Firewalling and Wireless with Cisco, HP, Unifi and Aruba devices as well as ExpressRoute to Azure.  
 
 Steven moved into the System Administration space 3+ years ago to get a better understanding of the end to end communication required between servers and applications, this has given him a wholistic overview for design considerations when implementing new infrastructure.   
 
