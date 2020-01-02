@@ -39,7 +39,7 @@ Jean has been working with **SharePoint **for the past 6 years, in **France**, *
 **  
 **
 
-When he is not leveraging this **knowledge **to develop **client applications**, Jean is one of **SSW's Angular trainers,** running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.  
+When he is not leveraging this **knowledge** to develop **client applications**, Jean is one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.  
 
 Jean is **highly motivated**, with strong technical skills, which allows him to understand and convert complex business requirements into software solutions. He is also able to use his expertise and experience to suggest best practices applicable for any given scenario.  
 
@@ -54,7 +54,7 @@ Jean is **highly motivated**, with strong technical skills, which allows him to 
 
 **Jean's Internal Projects:**  
 
-*   **[Rules.SSW](https://rules.ssw.com.au/) **- Developed a state of the art new SSW website to take 12,000 ASP.NET pages into a SharePoint public site. This site took advantage of SharePoint’s document management, version control and publishing workflow. This new site gave SSW editors a substantially better experience and their website visitors a better user experience.   
+*   **[Rules.SSW](https://rules.ssw.com.au/)** - Developed a state of the art new SSW website to take 12,000 ASP.NET pages into a SharePoint public site. This site took advantage of SharePoint’s document management, version control and publishing workflow. This new site gave SSW editors a substantially better experience and their website visitors a better user experience.   
 
 Related Technology: SharePoint, ASP.NET, C#, XML, JQuery, Web Services, TFS and SQL Server.  
 
