@@ -26,18 +26,15 @@ quote:  "There is no shame in not knowing. The problem arises when irrational th
  ![images.png](./Images/Bio/images.png) 
   
 
-Jean is a** SSW Solution Architect **. His main fields of expertise are** SharePoint Applications**, **Angular, React **and **.NETCore**.  
+Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NETCore**.  
 
-His deep knowledge of **SharePoint's **many capabilities, combined with the** latest technologies (Angular, React, SPFx)**, let him propose **high-quality tailored** SharePoint Applications to **clients**.
+His deep knowledge of **SharePoint's** many capabilities, combined with the **latest technologies (Angular, React, SPFx)**, let him propose **high-quality tailored** SharePoint Applications to **clients**.
 
 Jean has been working with **SharePoint **for the past 6 years, in **France**, **Luxembourg**, and now **Australia**. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.  
 
 ![60398623_2776967035653247_301891567608659968_n.jpg](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg) 
   
 **Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**  
-
-**  
-**
 
 When he is not leveraging this **knowledge** to develop **client applications**, Jean is one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.  
 
@@ -47,9 +44,7 @@ Jean is **highly motivated**, with strong technical skills, which allows him to 
 
 *   PNP Libraries & provisioning engine
 *   SPFX  
-
 *   Nintex Workflows / MS Flow  
-
 *   AvePoint / ShareGate  
 
 **Jean's Internal Projects:**  
