@@ -23,8 +23,14 @@ quote:  "There is no shame in not knowing. The problem arises when irrational th
  ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png) 
  ![MCSD App Builder-logo-Blk.png](./Images/Bio/MCSD%20App%20Builder-logo-Blk.png) 
  ![angular.png](./Images/Bio/angular.png) 
- ![images.png](./Images/Bio/images.png) 
+
+
+[[danger]]
+| ![images.png](./Images/Bio/images.png) 
   
+
+[[danger]]
+| ![images.png](./Images/Bio/images.png) 
 
 Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NETCore**.  
 
