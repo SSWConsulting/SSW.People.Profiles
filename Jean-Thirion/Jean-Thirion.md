@@ -29,13 +29,13 @@ quote:  "There is no shame in not knowing. The problem arises when irrational th
 | ![images.png](./Images/Bio/images.png) 
   
 
-[[imgLg]]
+[[imgBadge]]
 | ![images.png](./Images/Bio/images.png) 
 
-[[imgMd]]
+[[imgBadge]]
 | ![images.png](./Images/Bio/images.png) 
 
-[[imgSm]]
+[[imgBadge]]
 | ![images.png](./Images/Bio/images.png) 
 
 Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NETCore**.  
