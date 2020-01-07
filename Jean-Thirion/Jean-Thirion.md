@@ -25,11 +25,17 @@ quote:  "There is no shame in not knowing. The problem arises when irrational th
  ![angular.png](./Images/Bio/angular.png) 
 
 
-[[danger]]
+[[imgBadge]]
 | ![images.png](./Images/Bio/images.png) 
   
 
-[[danger]]
+[[imgLg]]
+| ![images.png](./Images/Bio/images.png) 
+
+[[imgMd]]
+| ![images.png](./Images/Bio/images.png) 
+
+[[imgSm]]
 | ![images.png](./Images/Bio/images.png) 
 
 Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NETCore**.  
