@@ -39,7 +39,20 @@ His deep knowledge of **SharePoint's** many capabilities, combined with the **la
 
 Jean has been working with **SharePoint **for the past 6 years, in **France**, **Luxembourg**, and now **Australia**. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.  
 
-![60398623_2776967035653247_301891567608659968_n.jpg](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg) 
+[[imgLg]]
+| ![60398623_2776967035653247_301891567608659968_n.jpg](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg) 
+  
+**Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**  
+
+
+[[imgMd]]
+| ![60398623_2776967035653247_301891567608659968_n.jpg](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg) 
+  
+**Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**  
+
+
+[[imgSm]]
+| ![60398623_2776967035653247_301891567608659968_n.jpg](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg) 
   
 **Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**  
 
