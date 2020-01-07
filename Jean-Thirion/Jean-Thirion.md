@@ -20,23 +20,18 @@ skype:  "thirion.jean@outlook.com"
 quote:  "There is no shame in not knowing. The problem arises when irrational thought and attendant behaviour fill the vacuum left by ignorance. (Neil Degrasse Tyson) "
 ---
 
- ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png) 
- ![MCSD App Builder-logo-Blk.png](./Images/Bio/MCSD%20App%20Builder-logo-Blk.png) 
- ![angular.png](./Images/Bio/angular.png) 
-
 
 [[imgBadge]]
-| ![images.png](./Images/Bio/images.png) 
+| ![angular.png](./Images/Bio/angular.png) 
   
-
 [[imgBadge]]
 | ![images.png](./Images/Bio/images.png) 
 
 [[imgBadge]]
-| ![images.png](./Images/Bio/images.png) 
+| ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png) 
 
 [[imgBadge]]
-| ![images.png](./Images/Bio/images.png) 
+| ![MCSD App Builder-logo-Blk.png](./Images/Bio/MCSD%20App%20Builder-logo-Blk.png) 
 
 Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NETCore**.  
 
