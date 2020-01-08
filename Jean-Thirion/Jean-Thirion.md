@@ -47,7 +47,7 @@ His deep knowledge of **SharePoint's** many capabilities, combined with the **la
 
 <br/>
 
-Jean has been working with **SharePoint** for the past 6 years, in **France**, **Luxembourg**, and now **Australia**. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.
+Jean has been working with **SharePoint** for the past 7 years, in **France**, **Luxembourg**, and now **Australia**. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.
 
 <br/>
 
