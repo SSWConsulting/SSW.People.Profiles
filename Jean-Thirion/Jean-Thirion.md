@@ -22,6 +22,7 @@ quote:  "There is no shame in not knowing. The problem arises when irrational th
 
 ---
 <br/>
+
 [[imgBadge]]
 | ![angular.png](./Images/Bio/angular.png) 
   
