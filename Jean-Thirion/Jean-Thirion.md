@@ -20,7 +20,6 @@ skype:  "thirion.jean@outlook.com"
 quote:  "There is no shame in not knowing. The problem arises when irrational thought and attendant behaviour fill the vacuum left by ignorance. (Neil Degrasse Tyson) "
 ---
 
-
 [[imgBadge]]
 | ![angular.png](./Images/Bio/angular.png) 
   
@@ -33,32 +32,21 @@ quote:  "There is no shame in not knowing. The problem arises when irrational th
 [[imgBadge]]
 | ![MCSD App Builder-logo-Blk.png](./Images/Bio/MCSD%20App%20Builder-logo-Blk.png) 
 
+---
+
 Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NETCore**.  
-
-His deep knowledge of **SharePoint's** many capabilities, combined with the **latest technologies (Angular, React, SPFx)**, let him propose **high-quality tailored** SharePoint Applications to **clients**.
-
-Jean has been working with **SharePoint **for the past 6 years, in **France**, **Luxembourg**, and now **Australia**. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.  
-
-[[imgLg]]
-| ![60398623_2776967035653247_301891567608659968_n.jpg](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg) 
-  
-**Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**  
-
+His deep knowledge of **SharePoint's** many capabilities, combined with the **latest technologies (Angular, React, SPFx)**, let him propose **high-quality tailored** SharePoint Applications to **clients**.  
+Jean has been working with **SharePoint** for the past 6 years, in **France**, **Luxembourg**, and now **Australia**. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.    
 
 [[imgMd]]
 | ![60398623_2776967035653247_301891567608659968_n.jpg](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg) 
+**Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**   
   
-**Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**  
+When he is not leveraging this **knowledge** to develop **client applications**, Jean is one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.   
 
+Jean is **highly motivated**, with strong technical skills, which allows him to understand and convert complex business requirements into software solutions. He is also able to use his expertise and experience to suggest best practices applicable for any given scenario.    
 
-[[imgSm]]
-| ![60398623_2776967035653247_301891567608659968_n.jpg](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg) 
-  
-**Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**  
-
-When he is not leveraging this **knowledge** to develop **client applications**, Jean is one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.  
-
-Jean is **highly motivated**, with strong technical skills, which allows him to understand and convert complex business requirements into software solutions. He is also able to use his expertise and experience to suggest best practices applicable for any given scenario.  
+---
 
  **SharePoint Third Party tools & Add-ons:**  
 
