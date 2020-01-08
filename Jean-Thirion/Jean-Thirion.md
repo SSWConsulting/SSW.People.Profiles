@@ -20,6 +20,8 @@ skype:  "thirion.jean@outlook.com"
 quote:  "There is no shame in not knowing. The problem arises when irrational thought and attendant behaviour fill the vacuum left by ignorance. (Neil Degrasse Tyson) "
 ---
 
+---
+
 [[imgBadge]]
 | ![angular.png](./Images/Bio/angular.png) 
   
@@ -31,6 +33,8 @@ quote:  "There is no shame in not knowing. The problem arises when irrational th
 
 [[imgBadge]]
 | ![MCSD App Builder-logo-Blk.png](./Images/Bio/MCSD%20App%20Builder-logo-Blk.png) 
+
+----
 
 <br/>
 
