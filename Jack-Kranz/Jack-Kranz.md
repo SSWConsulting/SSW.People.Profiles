@@ -24,4 +24,4 @@ Jack is an experienced web/mobile application developer, React trainer and scrum
 
 Jack has delivered successful projects ranging in scale from large digital transformation projects to minimum viable products for tech startups. He has a keen eye for detail, a drive for results and strives for quality and robustnes. Being a trainer/developer means Jack is always familiar with latest technologies and best practices.   
 
-His areas of interest include .NET web development, mobile application development, agumented reality, user interaction design and artificial intelligence.  
+His areas of interest include .NET web development, mobile application development, agumented reality, user interaction design and PWA development.
