@@ -75,9 +75,9 @@ Jean is highly motivated, with strong technical skills, which allows him to unde
 
 **Jean's Internal Projects:**  
 *   **[Rules.SSW](https://rules.ssw.com.au/)** - Developed a state of the art new SSW website to take 12,000 ASP.NET pages into a SharePoint public site. This site took advantage of SharePoint’s document management, version control and publishing workflow. This new site gave SSW editors a substantially better experience and their website visitors a better user experience.  
-    Related Technologies: SharePoint, ASP.NET, C#, XML, JQuery, Web Services, TFS and SQL Server.
+    *Related Technologies: SharePoint, ASP.NET, C#, XML, JQuery, Web Services, TFS and SQL Server.*
 
 
 
 *   **SharePoint intranet** - This SharePoint site is used by all SSW employees to store shared resources and provide project management, internal administrative and global search functionality.  
-    Related Technologies: SharePoint, SPFX, React, C#, Web Services and SQL Server. 
+    *Related Technologies: SharePoint, SPFX, React, C#, Web Services and SQL Server.*
