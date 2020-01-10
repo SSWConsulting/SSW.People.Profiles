@@ -1,5 +1,5 @@
 ---
-current_employee: true
+current_employee: false
 ID: "JohnLiu"
 name: "John Liu"
 nickname: "John Liu"
@@ -28,16 +28,19 @@ John Liu is a Solution Architect at SSW, a Microsoft Certified Partner specialis
 
 John is responsible for developing and maintaining SharePoint, ASP.NET and Silverlight applications using C# and SQL Server. 
 
-**Work**
+**![](./Images/Bio/MCTS-MOSS2007-Config.gif) 
+  
+
+ Work**
 
 His major clients over the past years have been:
 
-*   Geos (SharePoint)
-*   DispatchKing (Silverlight)
-*   AuctionsPlus (Silverlight)
-*   PDS (Windows Mobile)
-*   Enterprise Data (SharePoint)
-*   WorleyParsons Improve Operating Platform (SharePoint)
+*   Geos (SharePoint) 
+*   DispatchKing (Silverlight) 
+*   AuctionsPlus (Silverlight) 
+*   PDS (Windows Mobile) 
+*   Enterprise Data (SharePoint) 
+*   WorleyParsons Improve Operating Platform (SharePoint) 
 *   Conquest (Silverlight) 
 *   Microsoft (SharePoint) 
 *   WorleyParsons (SharePoint) 
