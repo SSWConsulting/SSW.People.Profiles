@@ -43,7 +43,7 @@ Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePo
 
 <br/>
 
-His deep knowledge of **SharePoint's** many capabilities, combined with the **latest technologies (Angular, React, SPFx)**, let him propose **high-quality tailored** SharePoint Applications to **clients**.
+His deep knowledge of **SharePoint's** many capabilities, combined with the **latest technologies (Angular, React, SPFx)**, let him propose **high-quality tailored** SharePoint Applications to clients.
 
 <br/>
 
