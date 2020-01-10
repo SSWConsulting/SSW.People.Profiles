@@ -47,7 +47,7 @@ His deep knowledge of **SharePoint's** many capabilities, combined with the **la
 
 <br/>
 
-Jean has been working with **SharePoint** for the past 7 years, in **France**, **Luxembourg**, and now **Australia**. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.
+Jean has been working with **SharePoint** for the past 7 years, in France, Luxembourg, and now Australia. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.
 
 <br/>
 
@@ -61,7 +61,7 @@ When he is not leveraging this **knowledge** to develop **client applications**,
 
 <br/>
 
-Jean is **highly motivated**, with strong technical skills, which allows him to understand and convert complex business requirements into software solutions. He is also able to use his expertise and experience to suggest best practices applicable for any given scenario.
+Jean is highly motivated, with strong technical skills, which allows him to understand and convert complex business requirements into software solutions. He is also able to use his expertise and experience to suggest best practices applicable for any given scenario.
 
 <br/>
 
@@ -74,16 +74,10 @@ Jean is **highly motivated**, with strong technical skills, which allows him to 
 <br/>
 
 **Jean's Internal Projects:**  
-*   **[Rules.SSW](https://rules.ssw.com.au/)** - Developed a state of the art new SSW website to take 12,000 ASP.NET pages into a SharePoint public site. This site took advantage of SharePoint’s document management, version control and publishing workflow. This new site gave SSW editors a substantially better experience and their website visitors a better user experience.
+*   **[Rules.SSW](https://rules.ssw.com.au/)** - Developed a state of the art new SSW website to take 12,000 ASP.NET pages into a SharePoint public site. This site took advantage of SharePoint’s document management, version control and publishing workflow. This new site gave SSW editors a substantially better experience and their website visitors a better user experience.  
+    Related Technologies: SharePoint, ASP.NET, C#, XML, JQuery, Web Services, TFS and SQL Server.
 
-<br/>
 
-Related Technology: SharePoint, ASP.NET, C#, XML, JQuery, Web Services, TFS and SQL Server.
 
-<br/>
-
-*   **SharePoint intranet** - This SharePoint site is used by all SSW employees to store shared resources and provide project management, internal administrative and global search functionality.
-
-<br/>
-
-Related Technology: SharePoint, SPFX, React, C#, Web Services and SQL Server. 
+*   **SharePoint intranet** - This SharePoint site is used by all SSW employees to store shared resources and provide project management, internal administrative and global search functionality.  
+    Related Technologies: SharePoint, SPFX, React, C#, Web Services and SQL Server. 
