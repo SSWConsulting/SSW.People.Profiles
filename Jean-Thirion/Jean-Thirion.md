@@ -81,3 +81,6 @@ Jean is highly motivated, with strong technical skills, which allows him to unde
 
 *   **SharePoint intranet** - This SharePoint site is used by all SSW employees to store shared resources and provide project management, internal administrative and global search functionality.  
     *Related Technologies: SharePoint, SPFX, React, C#, Web Services and SQL Server.*
+
+#### Video
+@[youtube](cEFYB9O1QpI)
