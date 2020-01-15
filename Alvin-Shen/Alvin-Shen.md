@@ -20,7 +20,8 @@ skype:  ""
 quote:  "Storms make trees take deeper roots"
 ---
 
-  ![CSPO_medallion_200.png](./Images/Bio/CSPO_medallion_200.png) 
+[[ImgBadge]]
+| ![CSPO_medallion_200.png](./Images/Bio/CSPO_medallion_200.png) 
   
 
 Alvin Shen is the CEO of SSW China managing SSW Beijing and SSW Hangzhou Office.  
