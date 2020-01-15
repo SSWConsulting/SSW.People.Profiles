@@ -45,9 +45,9 @@ Adam is a Certified Scrum Trainer with scrum.org, trains developers in Australia
 
 Adam is one of only three Microsoft Regional Directors in Australia. In this role, he regularly presents at conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favourite Microsoft teams that he loves to work with are Brian Harry's TFS team and Jeff Teper's SharePoint team.
 
-Adam travels to record interviews with technology experts around the world – his most popular video is a scrum meeting with the Microsoft Scrum Foundation team. You can view this video at [http://tv.ssw.com/12 79/daily-scrum-at-microsoft ]()  
+Adam travels to record interviews with technology experts around the world – his most popular video is a scrum meeting with the Microsoft Scrum Foundation team. You can view this video at [https://tv.ssw.com/daily-scrum-at-microsoft](https://tv.ssw.com/daily-scrum-at-microsoft)  
 
-At SSW, Adam enjoys working with the teams, improving their usage of Scrum and TFS, reviewing the architecture of large .NET projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](http://firebootcamp.com/), an intensive 9-week .NET training course.
+At SSW, Adam enjoys working with the teams, improving their usage of Scrum and TFS, reviewing the architecture of large .NET projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](https://firebootcamp.com), an intensive 9-week .NET training course.
 
 Some of Adam's project highlights have been:  
 
