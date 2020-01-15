@@ -69,7 +69,6 @@ JK also actively supports the .NET Community as a [ **.NET Foundation member**](
 
 You can follow him on [ **Twitter,**](https://twitter.com/jernej_kavka)[**his personal blog**](https://jkdev.me/) or check out when is his next talk on [ **Sessionize**](https://sessionize.com/jernej-kavka/).  
 
-   ** Figure: JK's talk on using Machine Learning simplified for developers**  
 
 Jernej's client projects include:  
 
@@ -88,7 +87,7 @@ Additionally, we were responsible for developing systems for 3rd parties to inte
 
 [[imgSm]]
 | ![d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg](./Images/Bio/d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg) 
-** Banpu**  
+**Banpu**  
 Banpu engaged SSW to develop a PWA application that can be used online and offline in various situations. We have worked with several different teams from different countries and parts of Australia, and the main focus for SSW was delivering micro-services, offline and syncing capabilities of the PWA application, a desktop administration website, the mobile UX animations, and migrating data from Excel spreadsheets. We delivered all of the features with high code coverage with unit and component tests.  
 
 **Related Technologies**: React, PWA, CosmosDB, NodeJS, .NET Core  
