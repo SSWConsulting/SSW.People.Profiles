@@ -55,10 +55,10 @@ Mehmet worked with the carnival team to implement new data warehouse loads. This
 Feature enhancements and maintenance on internal logistics database. Syncing SQL database from remote systems, adding new database feeds. Recently Mehmet has migrated Mac from SQL Server 2005 to current version of SQL Server. The upgrade also includes upgrading connections to all remote systems.  
     *Related Technologies: SQL Server, Great Plains, SQL Server Integration Services*
 
- * **[Hong Kong Aviation](http://www.hongkongaviation.com/)**  
+* **[Hong Kong Aviation](http://www.hongkongaviation.com/)**  
  Migration of MS Access based asset tracking system to SQL Server 2008 R2  
     *Related Technologies: SQL Server 2008 R2, SQL Server Integration Services 2014, Web Services*
 
- * **[Turbomeca](http://www.turbomeca.com/)**  
+* **[Turbomeca](http://www.turbomeca.com/)**  
 Migration of SharePoint 2007 intranet and Document workflow system to SharePoint 2010. Migrate from single server to full farm deployment; with separate development, testing and production servers, all virtualised using HyperV R2  
     *Related Technologies: Windows 2008 R2, HyperV, SharePoint 2010, SQL Server 2008*

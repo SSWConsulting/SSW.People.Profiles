@@ -1,7 +1,7 @@
 ---
 current_employee: true
-ID: "StevenSidik"
-name: "Steven Sidik"
+ID: "StevenAndrews"
+name: "Steven Andrews"
 nickname: "Steven"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Steven.aspx"
@@ -31,10 +31,7 @@ An outgoing, self motivated person who is currently working towards improving hi
 Currently Certified with:
 
 *   CCNA  
-
 *   CCNA - Security
 *   CCDA  
-
 *   CCNP  
-
 *   Microsoft MTA  
