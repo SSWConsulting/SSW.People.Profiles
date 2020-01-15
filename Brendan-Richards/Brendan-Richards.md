@@ -22,12 +22,27 @@ quote:  "Open Source Software is not about the price. Its about the freedom to u
 
  [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/BrendanRichards) 
   
-![Microsoft Certified Solutions Developer](./Images/Bio/MCSD_2013(rgb) 
-_1477.jpg) ![dotnetcore.png](./Images/Bio/dotnetcore.png) 
-![angular.png](./Images/Bio/angular.png) 
-![ngrx.jpg](./Images/Bio/ngrx.jpg) 
-![liinux.jpg](./Images/Bio/liinux.jpg) 
-  
+---
+<br/>
+
+[[imgBadge]]
+| ![Microsoft Certified Solutions Developer](./Images/Bio/MCSD_2013%28rgb%29_1477.jpg) 
+
+[[imgBadge]]
+| ![dotnetcore.png](./Images/Bio/dotnetcore.png) 
+
+[[imgBadge]]
+| ![angular.png](./Images/Bio/angular.png) 
+
+[[imgBadge]]
+| ![ngrx.jpg](./Images/Bio/ngrx.jpg) 
+
+[[imgBadge]]
+| ![liinux.jpg](./Images/Bio/liinux.jpg) 
+
+----
+
+<br/>
 
    Throughout his career, Brendan has been a big user and proponent of Open Source software. This has been applied to a broad variety of web-based programming projects spanning the last 17 years.  Brendan has worked with an eclectic mix of languages, platforms and technologies including .Net, Java, PHP, Ruby and Perl across both Unix/Linux and Microsoft Windows platforms. This gives Brendan some unique perspectives on how different teams & platforms have tackled similar problems.  
 
