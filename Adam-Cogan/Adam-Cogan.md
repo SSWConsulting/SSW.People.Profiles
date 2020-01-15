@@ -85,15 +85,15 @@ Adam loves to spend time working on his Rules pages, and his favourite quote is 
 
 [[imgMd]]
 | ![](./Images/Bio/figureMouse.jpg)  
-Figure: Well all rules are meant to be broken :-) 
+**Figure: Well all rules are meant to be broken :-)** 
 
 [[imgMd]]
 | ![](./Images/Bio/figureMap.jpg)   
-Figure: Adam h as spoken at user groups/conferences in these countries
+**Figure: Adam h as spoken at user groups/conferences in these countries**
 
 [[imgMd]]
 | ![](./Images/Bio/figureIce.jpg)  
-Figure: Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!
+**Figure: Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!**
 
 ### What have others said about Adam's speaking? 
 
