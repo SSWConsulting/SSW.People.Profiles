@@ -67,4 +67,6 @@ Jean is highly motivated, with strong technical skills, which allows him to unde
     *Related Technologies: SharePoint, SPFX, React, C#, Web Services and SQL Server.*
 
 #### Video
-@[youtube](cEFYB9O1QpI)
+
+<iframe width="710" height="400" src="https://www.youtube.com/embed/cEFYB9O1QpI" frameborder="0"></iframe> 
+
