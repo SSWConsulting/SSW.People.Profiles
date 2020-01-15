@@ -39,7 +39,7 @@ quote:  "There is no shame in not knowing. The problem arises when irrational th
 
 <br/>
 
-Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NETCore**.
+Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NET Core**.
 
 <br/>
 
