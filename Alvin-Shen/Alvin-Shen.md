@@ -20,7 +20,7 @@ skype:  ""
 quote:  "Storms make trees take deeper roots"
 ---
 
-[[ImgBadge]]
+[[imgBadge]]
 | ![CSPO_medallion_200.png](./Images/Bio/CSPO_medallion_200.png) 
   
 
