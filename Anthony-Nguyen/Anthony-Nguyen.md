@@ -21,7 +21,11 @@ quote:  "Do it now, sometimes 'later' becomes 'never'"
 ---
 [[imgBadge]]
 | ![Certified Scrum Master](./Images/Bio/csm.png) 
+
+[[imgBadge]]
 | ![Microsoft Certified Professional](./Images/Bio/MCP.png) 
+
+[[imgBadge]]
 | ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
   
 
