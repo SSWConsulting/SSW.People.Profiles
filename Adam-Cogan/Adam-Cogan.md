@@ -21,11 +21,22 @@ quote:  "Talent can fix tricky bugs, but teamwork and brains build great softwar
 ---
 
  [ ![BookAdamNow.png](./Images/Bio/BookAdamNow.png)](http://veethere.com/With/AdamCogan)  
-![](./Images/Bio/microsoftCertified.jpg)  
-![](./Images/Bio/Microsoft-Regional-Director-35h.png) 
-![](./Images/Bio/scrumtrainer.png) 
-![](./Images/Bio/scrum-badges.jpg) 
- ![](./Images/Bio/devops.png) 
+ 
+[[imgBadge]]
+| ![](./Images/Bio/microsoftCertified.jpg)  
+
+[[imgBadge]]
+| ![](./Images/Bio/Microsoft-Regional-Director-35h.png) 
+
+[[imgBadge]]
+| ![](./Images/Bio/scrumtrainer.png) 
+
+[[imgBadge]]
+| ![](./Images/Bio/scrum-badges.jpg) 
+
+
+[[imgSm]]
+| ![](./Images/Bio/devops.png) 
  
 
 Adam Cogan is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom Azure, Azure DevOps (was TFS), .NET, SharePoint and Business Intelligence solutions. At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, Worley Parsons, and Aurecon.   
@@ -72,13 +83,16 @@ In 2005 Adam took SSW beyond Australia and opened an SSW branch in China. There 
 
 Adam loves to spend time working on his Rules pages, and his favourite quote is "There is always free cheese in a mousetrap".
 
-![](./Images/Bio/figureMouse.jpg)  
+[[imgMd]]
+| ![](./Images/Bio/figureMouse.jpg)  
 Figure: Well all rules are meant to be broken :-) 
 
-![](./Images/Bio/figureMap.jpg)   
+[[imgMd]]
+| ![](./Images/Bio/figureMap.jpg)   
 Figure: Adam h as spoken at user groups/conferences in these countries
 
-![](./Images/Bio/figureIce.jpg)  
+[[imgMd]]
+| ![](./Images/Bio/figureIce.jpg)  
 Figure: Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!
 
 ### What have others said about Adam's speaking? 
