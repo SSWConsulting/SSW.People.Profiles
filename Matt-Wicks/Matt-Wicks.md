@@ -23,7 +23,7 @@ quote:  "I didn't want to pay DynDNS - so I wrote an Azure function to replace t
 [[imgBadge]]
 | ![CSM Certified](./Images/Bio/badge-7227.png) 
 
-[[imgSm]]
+[[imgLg]]
 | ![devops.png](./Images/Bio/devops.png) 
   
 
