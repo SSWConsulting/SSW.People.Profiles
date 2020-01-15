@@ -35,7 +35,7 @@ quote:  "Talent can fix tricky bugs, but teamwork and brains build great softwar
 | ![](./Images/Bio/scrum-badges.jpg) 
 
 
-[[imgSm]]
+[[imgLg]]
 | ![](./Images/Bio/devops.png) 
  
 
