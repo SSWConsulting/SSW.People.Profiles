@@ -20,8 +20,11 @@ skype:  ""
 quote:  "I didn't want to pay DynDNS - so I wrote an Azure function to replace them"
 ---
 
-![CSM Certified](./Images/Bio/badge-7227.png) 
-![devops.png](./Images/Bio/devops.png) 
+[[imgBadge]]
+| ![CSM Certified](./Images/Bio/badge-7227.png) 
+
+[[imgSm]]
+| ![devops.png](./Images/Bio/devops.png) 
   
 
 Matt is a solution architect, Certified ScrumMaster and Microsoft DevOps FastTrack Partner Consultant based at SSW's Sydney office.  
