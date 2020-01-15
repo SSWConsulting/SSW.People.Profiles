@@ -7,7 +7,7 @@ nickname: "Jerry"
 legacy_page_url: "/AboutUs/Employees/Pages/Jerry.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
-qualifications:  "Bachelor of software engineering"
+qualifications:  "Bachelor of Software Engineering"
 location: "Other"
 
 blog:  ""
