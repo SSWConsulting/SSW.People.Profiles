@@ -15,7 +15,7 @@ website:  ""
 facebook:  ""
 twitter:  ""
 linkedin:  "camillarosa"
-skype:  ""
+skype:  "cammyrs"
 
 quote:  "You know you are on the road to success if you would do your job, and not be paid for it.  -- Oprah Winfrey"
 ---
