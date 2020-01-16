@@ -1,7 +1,7 @@
 ---
 current_employee: true
 ID: "JernejKavka"
-name: "Jernej Kavka"
+name: "Jernej Kavka (JK)"
 nickname: "Jernej (JK)"
 
 legacy_page_url: "/AboutUs/Employees/Pages/JK.aspx"
@@ -11,7 +11,7 @@ qualifications:  "MCSD"
 location: "SydneyBrisbaneMelbourne"
 
 blog:  ""
-website:  ""
+website:  "https://jkdev.me"
 facebook:  "jernej.kavka"
 twitter:  "jernej_kavka"
 linkedin:  "jernej-kavka-b002111b"
