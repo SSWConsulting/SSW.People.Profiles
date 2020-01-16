@@ -13,9 +13,9 @@ location: "Sydney"
 blog:  ""
 website:  ""
 facebook:  ""
-twitter:  ""
+twitter:  "@mozdemir_au"
 linkedin:  ""
-skype:  ""
+skype:  "mehmet.ozdemir.ssw"
 
 quote:  "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"
 ---
