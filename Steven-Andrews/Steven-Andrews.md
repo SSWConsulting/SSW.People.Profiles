@@ -17,7 +17,7 @@ twitter:  "StevenA89"
 linkedin:  "steven-andrews-6489aa40"
 skype:  "stevenandrews89"
 
-quote:  "Going with the cheapest option may sometimes seem like a good idea. But when it leads to more expensive and time consuming work to resolve a poor design, it is generally worse."
+quote:  "Going with the cheapest option may seem like a good idea. But it generally leads to more expensive and time consuming work to resolve a poor design."
 ---
 
 Steven's technical background is in Network Engineering, this involves the design and implementation of network solutions, including completely new networks as well as add ons/upgrades to existing networks, providing the network and infrastructure for your servers and applications to communicate.  
