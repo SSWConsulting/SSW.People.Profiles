@@ -20,12 +20,23 @@ skype:  "adamcogan"
 quote:  "Talent can fix tricky bugs, but teamwork and brains build great software. "
 ---
 
- [ ![BookAdamNow.png](./Images/Bio/BookAdamNow.png)](http://veethere.com/With/AdamCogan) 
-![](./Images/Bio/microsoftCertified.jpg) 
-![](./Images/Bio/Microsoft-Regional-Director-35h.png) 
-![](./Images/Bio/scrumtrainer.png) 
-![](./Images/Bio/scrum-badges.jpg) 
- ![](./Images/Bio/devops.png) 
+ [ ![BookAdamNow.png](./Images/Bio/BookAdamNow.png)](http://veethere.com/With/AdamCogan)  
+ 
+[[imgBadge]]
+| ![](./Images/Bio/microsoftCertified.jpg)  
+
+[[imgBadge]]
+| ![](./Images/Bio/Microsoft-Regional-Director-35h.png) 
+
+[[imgBadge]]
+| ![](./Images/Bio/scrumtrainer.png) 
+
+[[imgBadge]]
+| ![](./Images/Bio/scrum-badges.jpg) 
+
+
+[[imgLg]]
+| ![](./Images/Bio/devops.png) 
  
 
 Adam Cogan is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom Azure, Azure DevOps (was TFS), .NET, SharePoint and Business Intelligence solutions. At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, Worley Parsons, and Aurecon.   
@@ -34,9 +45,9 @@ Adam is a Certified Scrum Trainer with scrum.org, trains developers in Australia
 
 Adam is one of only three Microsoft Regional Directors in Australia. In this role, he regularly presents at conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favourite Microsoft teams that he loves to work with are Brian Harry's TFS team and Jeff Teper's SharePoint team.
 
-Adam travels to record interviews with technology experts around the world – his most popular video is a scrum meeting with the Microsoft Scrum Foundation team. You can view this video at [http://tv.ssw.com/12 79/daily-scrum-at-microsoft ]()  
+Adam travels to record interviews with technology experts around the world – his most popular video is a scrum meeting with the Microsoft Scrum Foundation team. You can view this video at [https://tv.ssw.com/daily-scrum-at-microsoft](https://tv.ssw.com/daily-scrum-at-microsoft)  
 
-At SSW, Adam enjoys working with the teams, improving their usage of Scrum and TFS, reviewing the architecture of large .NET projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](http://firebootcamp.com/), an intensive 9-week .NET training course.
+At SSW, Adam enjoys working with the teams, improving their usage of Scrum and TFS, reviewing the architecture of large .NET projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](https://firebootcamp.com), an intensive 9-week .NET training course.
 
 Some of Adam's project highlights have been:  
 
@@ -66,29 +77,34 @@ Adam is also the president of the Microsoft .NET User Groups in Sydney and Canbe
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/0gSgpzmbrBM" frameborder="0"></iframe> 
 
-##  
-   Made in Australia, China and beyond
+### Made in Australia, China and beyond
 
 In 2005 Adam took SSW beyond Australia and opened an SSW branch in China. There are now also SSW branches in 3 locations within Australia – Brisbane, Melbourne and the Sydney headquarters - as well as a satellite branch in Europe. Today all SSW developers work closely together to develop high quality software with high performing teams for the US, Australian and international markets. 
 
 Adam loves to spend time working on his Rules pages, and his favourite quote is "There is always free cheese in a mousetrap".
 
-![](./Images/Bio/figureMouse.jpg) 
- <font class="ms-rteCustom-FigureNormal">Figure: Well all rules are meant to be broken :-) </font> ![](./Images/Bio/figureMap.jpg) 
- <font class="ms-rteCustom-FigureNormal">Figure: Adam h as spoken at user groups/conferences in these countries </font> ![](./Images/Bio/figureIce.jpg) 
- <font class="ms-rteCustom-FigureNormal">Figure: Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!</font>
+[[imgMd]]
+| ![](./Images/Bio/figureMouse.jpg)  
+**Figure: Well all rules are meant to be broken :-)** 
 
-##  
-   What have others said about Adam's speaking? 
+[[imgMd]]
+| ![](./Images/Bio/figureMap.jpg)   
+**Figure: Adam h as spoken at user groups/conferences in these countries**
 
- "He is the closest thing to a Geek rock star" 
+[[imgMd]]
+| ![](./Images/Bio/figureIce.jpg)  
+**Figure: Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!**
 
- "I enjoy Adam's presentations as he is the closest thing to a “geek rock star” that I have ever seen!" 
+### What have others said about Adam's speaking? 
 
- "Thanks heaps for putting together a great conference. I loved the emphasis on real examples. I loved Adams presentation style, very dynamic and he kept the interest level up and audience awake" 
+ > "He is the closest thing to a Geek rock star" 
 
- "Adams session on creating Windows Apps was the best ever… great VB demos" 
+ > "I enjoy Adam's presentations as he is the closest thing to a “geek rock star” that I have ever seen!" 
 
- "Adam Cogan is very inspiring, humorous and a pleasure to watch. For my first time here I'm impressed at the objective opinions of good and bad parts of MS VS .NET - very happy it wasn't a propaganda mission" 
+ > "Thanks heaps for putting together a great conference. I loved the emphasis on real examples. I loved Adams presentation style, very dynamic and he kept the interest level up and audience awake" 
 
- "I've attended many Roadshows etc over the years - Adam Cogan is probably the best and most realistic speaker I've heard" 
+ > "Adams session on creating Windows Apps was the best ever… great VB demos" 
+
+ > "Adam Cogan is very inspiring, humorous and a pleasure to watch. For my first time here I'm impressed at the objective opinions of good and bad parts of MS VS .NET - very happy it wasn't a propaganda mission" 
+
+ > "I've attended many Roadshows etc over the years - Adam Cogan is probably the best and most realistic speaker I've heard" 

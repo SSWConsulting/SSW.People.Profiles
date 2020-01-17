@@ -28,5 +28,6 @@ He is familiar with many of Azure Services offered by Microsoft including workin
 
 In addition, Christian is Certified in ITIL Foundations Service Management and has experience working across all levels of support.  
 
-![ITIL.png](./Images/Bio/ITIL.png) 
+[[imgBadge]]
+| ![ITIL.png](./Images/Bio/ITIL.png) 
   

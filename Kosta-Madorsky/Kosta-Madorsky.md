@@ -1,7 +1,7 @@
 ---
 current_employee: true
-ID: "KostaMadorskiy"
-name: "Kosta Madorskiy"
+ID: "KostaMadorsky"
+name: "Kosta Madorsky"
 nickname: "Kosta"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Kosta.aspx"
@@ -20,9 +20,15 @@ skype:  "madkonst"
 quote:  "A good programmer looks both ways before crossing a one-way street"
 ---
 
-![dotnetcore.png](./Images/Bio/dotnetcore.png) 
-![angular.png](./Images/Bio/angular.png) 
-![zendesk.png](./Images/Bio/zendesk.png) 
+
+[[imgBadge]]
+| ![dotnetcore.png](./Images/Bio/dotnetcore.png) 
+
+[[imgBadge]]
+| ![angular.png](./Images/Bio/angular.png) 
+
+[[imgBadge]]
+| ![zendesk.png](./Images/Bio/zendesk.png) 
   
 
 Kosta is a Senior Software Architect based in SSW's Sydney office. He is passionate about innovations and effective delivery of services.  

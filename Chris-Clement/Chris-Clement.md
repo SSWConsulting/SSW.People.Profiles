@@ -1,7 +1,7 @@
 ---
 current_employee: true
-ID: "ChrisGeorge"
-name: "Chris George"
+ID: "ChrisClement"
+name: "Chris Clement"
 nickname: "Chris"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Chris.aspx"
