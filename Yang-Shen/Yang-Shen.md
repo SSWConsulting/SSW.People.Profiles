@@ -22,6 +22,6 @@ quote:  "Live long and prosper"
 
 Yang used to be a merchandiser for almost 10 years in one of Chinese biggest textile trading groups -- ZHEJIANG ORIENT. She finished MBA Degree in 2014, accomplished the certificate of National Psychological Consultant.
 
-She has 3-years' experience of executive administration and human resource management in internet industry.
+She has 5-years' experience of executive administration and human resource management in internet industry.
 
-Now she's serving SSW China in Office Administration, HR and Chinafy Program.   
+Now she's serving SSW China in social media, Fire User Group, Office Administration, HR and Chinafy Program.   
