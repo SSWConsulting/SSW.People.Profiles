@@ -63,15 +63,13 @@ JK loves working on Angular, .NET Core, and Cognitive Services. His most recent 
 
 In addition to being an expert in ASP, .NET Core, Angular, and Azure DevOps, Jernej is also proficient on Windows platform development from legacy applications (using C#, WinForms, WPF, …) changing them into modern applications (using Windows Store, Windows Universal applications, and Xamarin). Lately, he's sharpening his skills with Cognitive Services as well as Machine Learning.  
 
-JK is a technology thought leader and frequent contributor to technical presentations. He likes to help prepare developers for SSW TV presentations and even gets in front of the camera sometimes. You can see his latest work here: [ **https://tv.ssw.com/tag/jernej-kavka**](https://tv.ssw.com/tag/jernej-kavka) and [**Personal YouTube**](https://www.youtube.com/watch?v=3VPHV1902OQ&list=PLO0Fq_pphtfEHluXtyaX-IYy4vV2QxYeS) or at events like [ **Global Azure Bootcamp**](https://global.azurebootcamp.net/), [**Global AI Bootcamp**](https://brisbanebootcamp.com/), [ **DDD**](https://dddbrisbane.com/) ([**Brisbane**](https://dddbrisbane.com/) , [ **Melbourne**](https://www.dddmelbourne.com/) , and [ **Sydney**](https://www.dddsydney.com.au/) ), and [ **NDC**](https://ndcsydney.com/). JK is equally likely to attend a conference/user group as he is to present at one. 🧐
+JK is a technology thought leader and frequent contributor to technical presentations. He likes to help prepare developers for SSW TV presentations and even gets in front of the camera sometimes. You can see his latest work here: [**https://tv.ssw.com/tag/jernej-kavka**](https://tv.ssw.com/tag/jernej-kavka) and [**Personal YouTube**](https://www.youtube.com/watch?v=3VPHV1902OQ&list=PLO0Fq_pphtfEHluXtyaX-IYy4vV2QxYeS) or at events like [**Global Azure Bootcamp**](https://global.azurebootcamp.net/), [**Global AI Bootcamp**](https://brisbanebootcamp.com/), [**DDD**](https://dddbrisbane.com/) ([**Brisbane**](https://dddbrisbane.com/) , [**Melbourne**](https://www.dddmelbourne.com/) , and [ **Sydney**](https://www.dddsydney.com.au/) ), and [**NDC**](https://ndcsydney.com/). JK is equally likely to attend a conference/user group as he is to present at one. 🧐
 
-JK also actively supports the .NET Community as a [ **.NET Foundation member**](https://dotnetfoundation.org/) (one of the first 200 members!) and is a backer for several Open Source projects on [ **Open Collective**](https://opencollective.com/jernej-kavka).  
+JK also actively supports the .NET Community as a [**.NET Foundation member**](https://dotnetfoundation.org/) (one of the first 200 members!) and is a backer for several Open Source projects on [**Open Collective**](https://opencollective.com/jernej-kavka).  
 
-You can follow him on [ **Twitter,**](https://twitter.com/jernej_kavka)[**his personal blog**](https://jkdev.me/) or check out when is his next talk on [ **Sessionize**](https://sessionize.com/jernej-kavka/).  
-
+You can follow him on [**Twitter,**](https://twitter.com/jernej_kavka), [**his personal blog**](https://jkdev.me/) or check out when is his next talk on [**Sessionize**](https://sessionize.com/jernej-kavka/). 
 
 Jernej's client projects include:  
-
 
 [[imgSm]]
 | ![Allianz_logo_logotype.png](./Images/Bio/Allianz_logo_logotype.png) 
