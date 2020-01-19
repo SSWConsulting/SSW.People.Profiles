@@ -8,7 +8,7 @@ legacy_page_url: "/AboutUs/Employees/Pages/Penny-Walker.aspx"
 category: "Admin"
 role:  "Sales, Marketing and Onboarding Experience Guru"
 qualifications:  "B Ancient History; MSc Museum Studies"
-location: "Sydney"
+location: "Brisbane"
 
 blog:  ""
 website:  ""
