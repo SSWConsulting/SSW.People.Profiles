@@ -24,4 +24,4 @@ Kaique has worked for 3 years as an Infrastructure Analyst and Help Desk, buildi
 
 Another 2 years working as a Customer Experience Analyst brings the necessary skillset to give SSW clients the best possible customer service and support.
 
-A lot of experience with Windows and Windows Servers, Active Directory, Networking, Zendesk, Office 365 applications, Azure, Skype, Skype for business, PowerShell, Microsoft Flow, automation and hardware maintenance. He currently holds a Bachelor's Degree in Computer Science.  
+A lot of experience with Windows and Windows Servers, Active Directory, Networking, Zendesk, Office 365 applications, Azure, Skype, Microsoft Teams, PowerShell, Power Automate, automation and hardware maintenance. He currently holds a Bachelor's Degree in Computer Science.  
