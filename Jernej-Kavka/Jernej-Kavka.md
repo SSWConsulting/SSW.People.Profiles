@@ -69,7 +69,7 @@ JK also actively supports the .NET Community as a [**.NET Foundation member**](h
 
 You can follow him on [**Twitter,**](https://twitter.com/jernej_kavka), [**his personal blog**](https://jkdev.me/) or check out when is his next talk on [**Sessionize**](https://sessionize.com/jernej-kavka/). 
 
-Jernej's client projects include:  
+Jernej's client projects include: 
 
 [[imgSm]]
 | ![Allianz_logo_logotype.png](./Images/Bio/Allianz_logo_logotype.png) 
