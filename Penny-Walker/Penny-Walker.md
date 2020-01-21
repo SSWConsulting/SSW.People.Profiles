@@ -5,7 +5,7 @@ name: "Penny Walker"
 nickname: "Penny"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Penny-Walker.aspx"
-category: "Admin"
+category: "Manager"
 role:  "State Manager - Queensland and International"
 qualifications:  "B Ancient History; MSc Museum Studies"
 location: "Brisbane"
