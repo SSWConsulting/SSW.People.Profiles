@@ -18,10 +18,7 @@ linkedin:  ""
 skype:  "tiagov8"
 
 quote:  "It's not what you look at that matters, it's what you see."
----
-
- [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/TiagoAraujo) 
-    
+---  
 
 Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: "OK, but you're still working remotely for us". We couldn't let him go. After a few years in Brazil, he now lives and works in Canada.  
 
