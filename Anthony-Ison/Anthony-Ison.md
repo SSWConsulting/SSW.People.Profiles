@@ -10,7 +10,7 @@ role:  "Senior Software Architect"
 qualifications:  "Bachelor of Engineering (Elec-CompSys)"
 location: "Brisbane"
 
-blog:  ""
+blog:  "https://anthonyison.com"
 website:  ""
 facebook:  ""
 twitter:  "isonaj"
