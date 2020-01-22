@@ -20,11 +20,6 @@ skype:  ""
 quote:  "Open Source Software is not about the price. Its about the freedom to use and improve your tools."
 ---
 
- [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/BrendanRichards) 
-  
----
-<br/>
-
 [[imgBadge]]
 | ![Microsoft Certified Solutions Developer](./Images/Bio/MCSD_2013(rgb)_1477.jpg) 
 
