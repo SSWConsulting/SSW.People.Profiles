@@ -10,7 +10,7 @@ role:  "Senior Software Architect"
 qualifications:  "Master of Engineering - Software (University of Melbourne)"
 location: "Melbourne"
 
-blog:  ""
+blog:  "https://patrickzhao1989.blog/"
 website:  ""
 facebook:  ""
 twitter:  ""
