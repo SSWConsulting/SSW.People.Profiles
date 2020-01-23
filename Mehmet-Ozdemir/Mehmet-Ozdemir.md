@@ -20,8 +20,6 @@ skype:  "mehmet.ozdemir.ssw"
 quote:  "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"
 ---
 
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/MehmetOzdemir) 
-  
 [[imgBadge]]
 | ![](./Images/Bio/MCSD_2013.png) 
 

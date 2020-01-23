@@ -19,8 +19,6 @@ skype:  "adamcogan"
 
 quote:  "Talent can fix tricky bugs, but teamwork and brains build great software. "
 ---
-
- [ ![BookAdamNow.png](./Images/Bio/BookAdamNow.png)](http://veethere.com/With/AdamCogan)  
  
 [[imgBadge]]
 | ![](./Images/Bio/microsoftCertified.jpg)  
