@@ -13,7 +13,7 @@ location: "Sydney"
 blog:  ""
 website:  ""
 facebook:  ""
-twitter:  ""
+twitter:  "AndreasLengkeek"
 linkedin:  "andreas-lengkeek-11537a102"
 skype:  ""
 
