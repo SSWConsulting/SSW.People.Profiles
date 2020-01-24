@@ -48,7 +48,7 @@ Example:
 | ![angular.png](./Images/Bio/angular.png) 
 ```
 
-Available styles:
+Available styles :
 
 | Style name | Code     | Inline | Image max-width |
 | ---------- | -------- | ------ | --------------- |

@@ -20,10 +20,10 @@ skype:  ""
 quote:  "random and amazing quote"
 ---
 
-## Headings
+# Headings
 ---
 
-#### Input:
+## Input:
 ```
 # H1
 ## H2
@@ -39,7 +39,7 @@ Alt-H2
 ------
 ```
 
-#### Output:
+## Output:
 # H1
 ## H2
 ### H3
@@ -56,10 +56,10 @@ Alt-H2
 ------
 
 
-## Emphasis
+# Emphasis
 ---
 
-#### Input:
+## Input:
 ```
 * **bold** or __bold__
 
@@ -70,7 +70,7 @@ Alt-H2
 * ~~strikethrough~~
 ```
 
-#### Output:
+## Output:
 * **bold** or __bold__
 
 * *italic* or _italic_
@@ -80,26 +80,30 @@ Alt-H2
 * ~~strikethrough~~
 
 
-## Ordered and Unordered lists
+# Ordered and Unordered lists
 ---
 
-#### Input:
+## Input:
 ```
 1. Ordered List Item 1
 2. Ordered List Item 2
 3. Ordered List Item 3
 
+
 * Unordered List Item 1
 * Unordered List Item 2
 * Unordered List Item 3
+
 
 1. Ordered List Item  
 ⋅⋅* Sub-list Item
 ⋅⋅⋅⋅* Sub sub-list item
 
+
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+
 
 1. Ordered List Item.
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
@@ -109,22 +113,26 @@ Alt-H2
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 ```
 
-#### Output:
+## Output:
 1. Ordered List Item 1
 2. Ordered List Item 2
 3. Ordered List Item 3
+
 
 * Unordered List Item 1
 * Unordered List Item 2
 * Unordered List Item 3
 
+
 1. Ordered List Item  
-  * Sub-list Item
-     * Sub sub-list item
+   * Sub-list Item
+      * Sub sub-list item
+
 
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+
 
 1. Ordered List Item.
    You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
@@ -134,10 +142,10 @@ Alt-H2
    (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
 
-## Links
+# Links
 ---
 
-### Input:
+## Input:
 ```
 [I'm an inline-style link](https://www.google.com)
 
@@ -162,7 +170,7 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 ```
 
-#### Output:
+## Output:
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
@@ -186,10 +194,10 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 
 
-## Images
+# Images
 ---
 
-#### Input:
+## Input:
 ```
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
@@ -200,7 +208,7 @@ Reference-style:
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 ```
 
-#### Output:
+## Output:
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
@@ -210,10 +218,10 @@ Reference-style:
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
-## Code and Syntax Highlighting
+# Code and Syntax Highlighting
 ---
 
-#### Input:
+## Input:
 ````
 Inline `code` has `back-ticks around` it.
 
@@ -231,7 +239,7 @@ But let's throw in a <b>tag</b>.
 ```
 ````
 
-#### Output:
+## Output:
 Inline `code` has `back-ticks around` it.
 
 ```csharp
@@ -249,10 +257,10 @@ But let's throw in a <b>tag</b>.
 ```
 
 
-## Tables
+# Tables
 ---
 
-#### Input:
+## Input:
 ```
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -266,8 +274,9 @@ Markdown | Less | Pretty
 1 | 2 | 3
 ```
 
-#### Output:
-Colons can be used to align columns.
+## Output:
+Colons can be used to align columns.  
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
@@ -284,22 +293,22 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 
-## Quotation
+# Quotation
 ---
 
-#### Input:
+## Input:
 ```
 > A quote looks like this
 ```
 
-#### Output:
+## Output:
 > A quote looks like this
 
 
-## Inline HTML
+# Inline HTML
 ---
 
-#### Input:
+## Input:
 ```
 <dl>
   <dt>Definition list</dt>
@@ -310,7 +319,7 @@ Markdown | Less | Pretty
 </dl>
 ```
 
-#### Output:
+## Output:
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
@@ -320,9 +329,9 @@ Markdown | Less | Pretty
 </dl>
 
 
-## Horizontal Rules
+# Horizontal Rules
 ---
-#### Input:
+## Input:
 ```
 ---
 Hyphens
@@ -334,7 +343,7 @@ ___
 Underscores
 ```
 
-#### Output:
+## Output:
 
 ---
 Hyphens
@@ -346,10 +355,10 @@ ___
 Underscores
 
 
-## Videos
+# Videos
 ---
 
-#### Input:
+## Input:
 ```
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2G7z2mF7Onk
 " target="_blank"><img src="http://img.youtube.com/vi/2G7z2mF7Onk/0.jpg" 
@@ -358,7 +367,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2G7z2mF7Onk/0.jpg)](http://www.youtube.com/watch?v=2G7z2mF7Onk)
 ```
 
-#### Output:
+## Output:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2G7z2mF7Onk
 " target="_blank"><img src="http://img.youtube.com/vi/2G7z2mF7Onk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
