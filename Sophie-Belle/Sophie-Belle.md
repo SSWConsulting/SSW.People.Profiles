@@ -203,6 +203,39 @@ Reference-style:
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
+# Custom Images
+---
+
+## Input:
+```
+[[imgBadge]]
+| ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
+
+[[imgLg]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgMd]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgSm]]
+| ![](./Images/Bio/cat_computer.jpg)
+```
+
+## Output:
+[[imgBadge]]
+| ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
+
+[[imgLg]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgMd]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgSm]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+
+
 # Code and Syntax Highlighting
 ---
 
@@ -358,35 +391,3 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2G7z2mF7Onk/0.jpg)](http://www.youtube.com/watch?v=2G7z2mF7Onk)
-
-
-# Custom Blocks
----
-
-## Input:
-```
-[[imgBadge]]
-| ![](./Images/Bio/microsoftCertified.jpg)  
-
-[[imgLg]]
-| ![](./Images/Bio/devops.png)
-
-[[imgMd]]
-| ![](./Images/Bio/devops.png)
-
-[[imgSm]]
-| ![](./Images/Bio/devops.png)
-```
-
-## Output:
-[[imgBadge]]
-| ![](./Images/Bio/microsoftCertified.jpg)  
-
-[[imgLg]]
-| ![](./Images/Bio/devops.png)
-
-[[imgMd]]
-| ![](./Images/Bio/devops.png)
-
-[[imgSm]]
-| ![](./Images/Bio/devops.png)
