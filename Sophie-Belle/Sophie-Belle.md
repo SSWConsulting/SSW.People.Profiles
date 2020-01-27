@@ -103,14 +103,6 @@ Alt-H2
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
-
-
-1. Ordered List Item.
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 ```
 
 ## Output:
@@ -133,13 +125,6 @@ Alt-H2
 - Or minuses
 + Or pluses
 
-
-1. Ordered List Item.
-   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-   To have a line break without a paragraph, you will need to use two trailing spaces.  
-   Note that this line is separate, but within the same paragraph.  
-   (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
 
 # Links
@@ -283,8 +268,8 @@ Colons can be used to align columns.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
+There must be at least 3 dashes separating each header cell.  
+The outer pipes (|) are optional, and you don't need to make the  
 raw Markdown line up prettily. You can also use inline Markdown.
 
 Markdown | Less | Pretty
@@ -373,3 +358,35 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2G7z2mF7Onk/0.jpg)](http://www.youtube.com/watch?v=2G7z2mF7Onk)
+
+
+# Custom Blocks
+---
+
+## Input:
+```
+[[imgBadge]]
+| ![](./Images/Bio/microsoftCertified.jpg)  
+
+[[imgLg]]
+| ![](./Images/Bio/devops.png)
+
+[[imgMd]]
+| ![](./Images/Bio/devops.png)
+
+[[imgSm]]
+| ![](./Images/Bio/devops.png)
+```
+
+## Output:
+[[imgBadge]]
+| ![](./Images/Bio/microsoftCertified.jpg)  
+
+[[imgLg]]
+| ![](./Images/Bio/devops.png)
+
+[[imgMd]]
+| ![](./Images/Bio/devops.png)
+
+[[imgSm]]
+| ![](./Images/Bio/devops.png)
