@@ -24,19 +24,6 @@ Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem p
 
 &nbsp;
 
-# Videos
----
-
-## Input:
-```
-`youtube: 2G7z2mF7Onk`
-```
-
-## Output:
-`youtube: 2G7z2mF7Onk`
-
-&nbsp;
-
 # Images
 ---
 
@@ -58,6 +45,12 @@ Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem p
 ## Output:
 [[imgBadge]]
 | ![](./Images/Bio/microsoftCertified.jpg)  
+
+[[imgLg]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgMd]]
+| ![](./Images/Bio/cat_computer.jpg)
 
 [[imgSm]]
 | ![](./Images/Bio/cat_computer.jpg)
