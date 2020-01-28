@@ -36,13 +36,16 @@ Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem p
 ##### H5
 ###### H6
 
+
+Alternatively, for H1 and H2, an underline-ish style:
+
 Alt-H1
 ======
 
 Alt-H2
 ------
 ```
-
+&nbsp;
 ## Output:
 # H1
 ## H2
@@ -50,8 +53,6 @@ Alt-H2
 #### H4
 ##### H5
 ###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-H1
 ======
@@ -74,7 +75,7 @@ Alt-H2
 
 * ~~strikethrough~~
 ```
-
+&nbsp;
 ## Output:
 * **bold** or __bold__
 
@@ -91,9 +92,6 @@ Alt-H2
 
 ## Input:
 ```
-[[imgBadge]]
-| ![](./Images/Bio/microsoftCertified.jpg)  
-
 [[imgLg]]
 | ![](./Images/Bio/cat_computer.jpg)
 
@@ -102,12 +100,12 @@ Alt-H2
 
 [[imgSm]]
 | ![](./Images/Bio/cat_computer.jpg)
+
+[[imgBadge]]
+| ![](./Images/Bio/microsoftCertified.jpg)  
 ```
-
+&nbsp;
 ## Output:
-[[imgBadge]]
-| ![](./Images/Bio/microsoftCertified.jpg)  
-
 [[imgLg]]
 | ![](./Images/Bio/cat_computer.jpg)
 
@@ -116,6 +114,9 @@ Alt-H2
 
 [[imgSm]]
 | ![](./Images/Bio/cat_computer.jpg)
+
+[[imgBadge]]
+| ![](./Images/Bio/microsoftCertified.jpg)  
 
 &nbsp;
 
@@ -126,7 +127,7 @@ Alt-H2
 ```
 `youtube: 2G7z2mF7Onk`
 ```
-
+&nbsp;
 ## Output:
 `youtube: 2G7z2mF7Onk`
 
@@ -145,7 +146,7 @@ Asterisks
 ___
 Underscores
 ```
-
+&nbsp;
 ## Output:
 
 ---
@@ -166,7 +167,7 @@ Underscores
 ```
 > A quote looks like this
 ```
-
+&nbsp;
 ## Output:
 > A quote looks like this
 
@@ -177,21 +178,7 @@ Underscores
 
 ## Input:
 ```
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-```
-
-## Output:
 Colons can be used to align columns.  
-
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
@@ -201,9 +188,70 @@ Colons can be used to align columns.
 There must be at least 3 dashes separating each header cell.  
 The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily.  
 You can also use inline Markdown.
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+```
+&nbsp;
+## Output:
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 &nbsp;
 
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+&nbsp;
+
+# Lists
+---
+
+## Input:
+```
+1. Ordered List Item 1
+2. Ordered List Item 2
+3. Ordered List Item 3
+
+
+* Unordered List Item 1
+* Unordered List Item 2
+* Unordered List Item 3
+
+
+1. Ordered List Item  
+⋅⋅* Sub-list Item
+⋅⋅⋅⋅* Sub sub-list item
+
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+```
+&nbsp;
+## Output:
+1. Ordered List Item 1
+2. Ordered List Item 2
+3. Ordered List Item 3
+&nbsp;
+
+* Unordered List Item 1
+* Unordered List Item 2
+* Unordered List Item 3
+&nbsp;
+
+1. Ordered List Item  
+   * Sub-list Item
+      * Sub sub-list item
+
+&nbsp;
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
