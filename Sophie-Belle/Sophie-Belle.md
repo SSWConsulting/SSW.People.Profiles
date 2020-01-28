@@ -67,3 +67,30 @@ Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem p
 
 [[imgSm]]
 | ![](./Images/Bio/cat_computer.jpg)
+
+&nbsp;
+
+# Horizontal Rules
+---
+## Input:
+```
+---
+Hyphens
+
+***
+Asterisks
+
+___
+Underscores
+```
+
+## Output:
+
+---
+Hyphens
+
+***
+Asterisks
+
+___
+Underscores
