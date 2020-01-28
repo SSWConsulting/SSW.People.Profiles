@@ -345,28 +345,3 @@ void main(string[] args)
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
-
-&nbsp;
-
-# Inline HTML
----
-
-## Input:
-```
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-```
-&nbsp;
-## Output:
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
