@@ -179,39 +179,6 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 
 
-# Images
----
-
-## Input:
-```
-[[imgBadge]]
-| ![](./Images/Bio/microsoftCertified.jpg)  
-
-[[imgLg]]
-| ![](./Images/Bio/cat_computer.jpg)
-
-[[imgMd]]
-| ![](./Images/Bio/cat_computer.jpg)
-
-[[imgSm]]
-| ![](./Images/Bio/cat_computer.jpg)
-```
-
-## Output:
-[[imgBadge]]
-| ![](./Images/Bio/microsoftCertified.jpg)  
-
-[[imgLg]]
-| ![](./Images/Bio/cat_computer.jpg)
-
-[[imgMd]]
-| ![](./Images/Bio/cat_computer.jpg)
-
-[[imgSm]]
-| ![](./Images/Bio/cat_computer.jpg)
-
-
-
 # Code and Syntax Highlighting
 ---
 
