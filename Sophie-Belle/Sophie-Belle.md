@@ -251,7 +251,6 @@ Markdown | Less | Pretty
    * Sub-list Item
       * Sub sub-list item
 
-&nbsp;
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
