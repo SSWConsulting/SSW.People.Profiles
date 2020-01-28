@@ -185,7 +185,7 @@ Some text to show that the reference links can follow later.
 ## Input:
 ```
 [[imgBadge]]
-| ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
+| ![](./Images/Bio/microsoftCertified.jpg)  
 
 [[imgLg]]
 | ![](./Images/Bio/cat_computer.jpg)
@@ -199,7 +199,7 @@ Some text to show that the reference links can follow later.
 
 ## Output:
 [[imgBadge]]
-| ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
+| ![](./Images/Bio/microsoftCertified.jpg)  
 
 [[imgLg]]
 | ![](./Images/Bio/cat_computer.jpg)
