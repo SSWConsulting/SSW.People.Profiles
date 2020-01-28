@@ -20,6 +20,9 @@ skype:  ""
 quote:  "random and amazing quote"
 ---
 
+Some handom text.
+
+
 
 # Videos
 ---
