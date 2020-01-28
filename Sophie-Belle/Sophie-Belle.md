@@ -20,6 +20,10 @@ skype:  ""
 quote:  "random and amazing quote"
 ---
 
+Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem persecuti id, his malorum patrioque cu. Vis adhuc adversarium no, id elit nostrum mandamus qui. Eum case ornatus menandri cu, dolore labitur eu usu, eu omnis recteque his. Alii habemus vel te.
+
+&nbsp;
+
 # Headings
 ---
 
@@ -32,20 +36,6 @@ quote:  "random and amazing quote"
 ##### H5
 ###### H6
 
-Alt-H1
-======
-
-Alt-H2
-------
-```
-
-## Output:
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
 
 Alternatively, for H1 and H2, an underline-ish style:
 
@@ -54,7 +44,23 @@ Alt-H1
 
 Alt-H2
 ------
+```
+&nbsp;
+## Output:
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
+Alt-H1
+======
+
+Alt-H2
+------
+
+&nbsp;
 
 # Emphasis
 ---
@@ -69,7 +75,7 @@ Alt-H2
 
 * ~~strikethrough~~
 ```
-
+&nbsp;
 ## Output:
 * **bold** or __bold__
 
@@ -79,8 +85,135 @@ Alt-H2
 
 * ~~strikethrough~~
 
+&nbsp;
 
-# Ordered and Unordered lists
+# Images
+---
+
+## Input:
+```
+[[imgLg]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgMd]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgSm]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgBadge]]
+| ![](./Images/Bio/microsoftCertified.jpg)  
+```
+&nbsp;
+## Output:
+[[imgLg]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgMd]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgSm]]
+| ![](./Images/Bio/cat_computer.jpg)
+
+[[imgBadge]]
+| ![](./Images/Bio/microsoftCertified.jpg)  
+
+&nbsp;
+
+# Videos
+---
+
+## Input:
+```
+`youtube: 2G7z2mF7Onk`
+```
+&nbsp;
+## Output:
+`youtube: 2G7z2mF7Onk`
+
+&nbsp;
+
+# Horizontal Rules
+---
+## Input:
+```
+---
+Hyphens
+
+***
+Asterisks
+
+___
+Underscores
+```
+&nbsp;
+## Output:
+
+---
+Hyphens
+
+***
+Asterisks
+
+___
+Underscores
+
+&nbsp;
+
+# Quotation
+---
+
+## Input:
+```
+> A quote looks like this
+```
+&nbsp;
+## Output:
+> A quote looks like this
+
+&nbsp;
+
+# Tables
+---
+
+## Input:
+```
+Colons can be used to align columns.  
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+There must be at least 3 dashes separating each header cell.  
+The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily.  
+You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+```
+&nbsp;
+## Output:
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+&nbsp;
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+&nbsp;
+
+# Lists
 ---
 
 ## Input:
@@ -104,28 +237,27 @@ Alt-H2
 - Or minuses
 + Or pluses
 ```
-
+&nbsp;
 ## Output:
 1. Ordered List Item 1
 2. Ordered List Item 2
 3. Ordered List Item 3
-
+&nbsp;
 
 * Unordered List Item 1
 * Unordered List Item 2
 * Unordered List Item 3
-
+&nbsp;
 
 1. Ordered List Item  
    * Sub-list Item
       * Sub sub-list item
 
-
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
 
-
+&nbsp;
 
 # Links
 ---
@@ -144,9 +276,8 @@ Alt-H2
 
 Or leave it empty and use the [link text itself].
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+URLs and URLs in angle brackets will automatically get turned into links.  
+http://www.example.com or <http://www.example.com> and sometimes example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
@@ -154,7 +285,7 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 ```
-
+&nbsp;
 ## Output:
 [I'm an inline-style link](https://www.google.com)
 
@@ -168,194 +299,11 @@ Some text to show that the reference links can follow later.
 
 Or leave it empty and use the [link text itself].
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+URLs and URLs in angle brackets will automatically get turned into links.  
+http://www.example.com or <http://www.example.com> and sometimes example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
-
-
-# Images
----
-
-## Input:
-```
-[[imgBadge]]
-| ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
-
-[[imgLg]]
-| ![](./Images/Bio/cat_computer.jpg)
-
-[[imgMd]]
-| ![](./Images/Bio/cat_computer.jpg)
-
-[[imgSm]]
-| ![](./Images/Bio/cat_computer.jpg)
-```
-
-## Output:
-[[imgBadge]]
-| ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
-
-[[imgLg]]
-| ![](./Images/Bio/cat_computer.jpg)
-
-[[imgMd]]
-| ![](./Images/Bio/cat_computer.jpg)
-
-[[imgSm]]
-| ![](./Images/Bio/cat_computer.jpg)
-
-
-
-# Code and Syntax Highlighting
----
-
-## Input:
-````
-Inline `code` has `back-ticks around` it.
-
-```csharp
-
-void main(string[] args) 
-{
-     Console.WriteLine("This is a C# code block!");
-}
-
-```
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-````
-
-## Output:
-Inline `code` has `back-ticks around` it.
-
-```csharp
-
-void main(string[] args) 
-{
-     Console.WriteLine("This is a C# code block!");
-}
-
-```
-
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-
-# Tables
----
-
-## Input:
-```
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-```
-
-## Output:
-Colons can be used to align columns.  
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.  
-The outer pipes (|) are optional, and you don't need to make the  
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-
-# Quotation
----
-
-## Input:
-```
-> A quote looks like this
-```
-
-## Output:
-> A quote looks like this
-
-
-# Inline HTML
----
-
-## Input:
-```
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-```
-
-## Output:
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-# Horizontal Rules
----
-## Input:
-```
----
-Hyphens
-
-***
-Asterisks
-
-___
-Underscores
-```
-
-## Output:
-
----
-Hyphens
-
-***
-Asterisks
-
-___
-Underscores
-
-
-# Videos
----
-
-## Input:
-```
-youtube: 2G7z2mF7Onk
-```
-
-## Output:
-youtube: 2G7z2mF7Onk
