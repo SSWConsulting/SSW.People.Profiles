@@ -17,7 +17,8 @@ twitter:  ""
 linkedin:  "s%C3%A9bastien-boissi%C3%A8re-71b76637/?locale=en_US"
 skype:  "live:boissiere.seb"
 
-quote:  "First, solve the problem. Then, write the code. – John Johnson"
+quote:  "First, solve the problem. Then, write the code."
+quote_author: "John Johnson"
 ---
 
 Sebastien is a Software Architect with more than 10 years of experience in software development in France, China and now Australia. 
