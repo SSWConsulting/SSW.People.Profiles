@@ -39,10 +39,10 @@ Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem p
 
 Alternatively, for Heading 1 and Heading 2, an underline-ish style:
 
-Alt-H1
+Alt-Heading 1
 ======
 
-Alt-H2
+Alt-Heading 2
 ------
 ```
 &nbsp;
