@@ -242,16 +242,20 @@ Markdown | Less | Pretty
 1. Ordered List Item 1
 2. Ordered List Item 2
 3. Ordered List Item 3
+
 &nbsp;
 
 * Unordered List Item 1
 * Unordered List Item 2
 * Unordered List Item 3
+
 &nbsp;
 
 1. Ordered List Item  
    * Sub-list Item
       * Sub sub-list item
+
+&nbsp;
 
 * Unordered list can use asterisks
 - Or minuses
