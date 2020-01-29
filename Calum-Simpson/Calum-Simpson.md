@@ -17,7 +17,8 @@ twitter:  ""
 linkedin:  "calum-simpson-2171bb120/"
 skype:  ""
 
-quote:  "\"Developers developers developers!\"  — Steve Ballmer"
+quote:  "Developers developers developers!"
+quote_author: Steve Ballmer
 ---
 
 Calum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, CRM, C# .NET, plus experience in Angular and React. 
