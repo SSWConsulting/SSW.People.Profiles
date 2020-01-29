@@ -29,15 +29,15 @@ Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem p
 
 ## Input:
 ```
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
 
-Alternatively, for H1 and H2, an underline-ish style:
+Alternatively, for Heading 1 and Heading 2, an underline-ish style:
 
 Alt-H1
 ======
@@ -47,17 +47,17 @@ Alt-H2
 ```
 &nbsp;
 ## Output:
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-Alt-H1
+Alt-Heading 1
 ======
 
-Alt-H2
+Alt-Heading 2
 ------
 
 &nbsp;
@@ -308,3 +308,43 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
+
+&nbsp;
+
+# Code and Syntax Highlighting
+---
+
+## Input:
+````
+Inline `code` has `back-ticks around` it.
+
+```csharp
+
+void main(string[] args) 
+{
+     Console.WriteLine("This is a C# code block!");
+}
+
+```
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
+````
+&nbsp;
+## Output:
+Inline `code` has `back-ticks around` it.
+
+```csharp
+
+void main(string[] args) 
+{
+     Console.WriteLine("This is a C# code block!");
+}
+
+```
+
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
