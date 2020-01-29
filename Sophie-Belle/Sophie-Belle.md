@@ -249,9 +249,9 @@ Markdown | Less | Pretty
 * Unordered List Item 3
 &nbsp;
 
-   1. Ordered List Item  
-      * Sub-list Item
-         * Sub sub-list item
+1. Ordered List Item  
+   * Sub-list Item
+      * Sub sub-list item
 
 * Unordered list can use asterisks
 - Or minuses
