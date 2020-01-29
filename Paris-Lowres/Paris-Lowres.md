@@ -1,7 +1,7 @@
 ---
 current_employee: true
 ID: "ParisLowres"
-name: "ParisLowres"
+name: "Paris Lowres"
 nickname: "Paris"
 
 legacy_page_url: "/AboutUs/Employees/Pages/ParisLowres.aspx"
