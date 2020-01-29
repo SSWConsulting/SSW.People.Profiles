@@ -67,23 +67,23 @@ Alt-H2
 
 ## Input:
 ```
-* **bold** or __bold__
+**bold** or __bold__
 
-* *italic* or _italic_
+*italic* or _italic_
 
-* **combined bold and _italic_**
+**combined bold and _italic_**
 
-* ~~strikethrough~~
+~~strikethrough~~
 ```
 &nbsp;
 ## Output:
-* **bold** or __bold__
+**bold** or __bold__
 
-* *italic* or _italic_
+*italic* or _italic_
 
-* **combined bold and _italic_**
+**combined bold and _italic_**
 
-* ~~strikethrough~~
+~~strikethrough~~
 
 &nbsp;
 
@@ -240,18 +240,22 @@ Markdown | Less | Pretty
 &nbsp;
 ## Output:
 1. Ordered List Item 1
-2. Ordered List Item 2
-3. Ordered List Item 3
+1. Ordered List Item 2
+1. Ordered List Item 3
+
 &nbsp;
 
 * Unordered List Item 1
 * Unordered List Item 2
 * Unordered List Item 3
+
 &nbsp;
 
 1. Ordered List Item  
    * Sub-list Item
       * Sub sub-list item
+
+&nbsp;
 
 * Unordered list can use asterisks
 - Or minuses
