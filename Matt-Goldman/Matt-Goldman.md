@@ -17,7 +17,8 @@ twitter:  "MattGoldmanSSW"
 linkedin:  "matt-goldman"
 skype:  "live:.cid.3de3f4b733ade61b"
 
-quote:  "Any technology distinguishable from magic is insufficiently advanced (Gregory Benford)"
+quote:  "Any technology distinguishable from magic is insufficiently advanced."
+quote_author: "Gregory Benford"
 ---
 
 Drawing on a combination of hands-on experience and enterprise governance practices, Matt is able to make connections between business and technology to deliver user and business focused outcomes.
