@@ -6,7 +6,7 @@ nickname: "Andreas"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Andreas-Lengkeek.aspx"
 category: "Developers"
-role:  "Senior Software Developer"
+role:  "Software Architect"
 qualifications:  "Bachelor of Science in IT, Majoring in Enterprise Systems Development"
 location: "Sydney"
 
