@@ -67,23 +67,23 @@ Alt-H2
 
 ## Input:
 ```
-* **bold** or __bold__
+**bold** or __bold__
 
-* *italic* or _italic_
+*italic* or _italic_
 
-* **combined bold and _italic_**
+**combined bold and _italic_**
 
-* ~~strikethrough~~
+~~strikethrough~~
 ```
 &nbsp;
 ## Output:
-* **bold** or __bold__
+**bold** or __bold__
 
-* *italic* or _italic_
+*italic* or _italic_
 
-* **combined bold and _italic_**
+**combined bold and _italic_**
 
-* ~~strikethrough~~
+~~strikethrough~~
 
 &nbsp;
 
