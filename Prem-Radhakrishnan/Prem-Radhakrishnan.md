@@ -1,23 +1,23 @@
 ---
 current_employee: true
-ID: 'Prem'
-name: 'Prem Radhakrishnan'
-nickname: 'Prem'
+ID: "Prem"
+name: "Prem Radhakrishnan"
+nickname: "Prem"
 
-legacy_page_url: '/AboutUs/Employees/Pages/Prem.aspx'
-category: 'Developers'
-role: 'Solution Architect'
-qualifications: 'B.E (Software Engineering), CRISC, CISM'
-location: 'Sydney'
+legacy_page_url: "/AboutUs/Employees/Pages/Prem.aspx"
+category: "Developers"
+role: "Solution Architect"
+qualifications: "B.E (Software Engineering), CRISC, CISM"
+location: "Sydney"
 
-blog: ''
-website: ''
-facebook: ''
-twitter: ''
-linkedin: 'prem-radhakrishnan-641a7214/'
-skype: 'live:premanand.r'
+blog: ""
+website: ""
+facebook: ""
+twitter: ""
+linkedin: "prem-radhakrishnan-641a7214/"
+skype: "live:premanand.r"
 
-quote: 'Programming is definitely not therapeutic however it can definitely be creative.'
+quote: "Programming is definitely not therapeutic however it can definitely be creative."
 ---
 
 [[imgBadge]]

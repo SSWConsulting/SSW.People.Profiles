@@ -1,23 +1,23 @@
 ---
 current_employee: true
-ID: 'JernejKavka'
-name: 'Jernej Kavka'
-nickname: 'Jernej (JK)'
+ID: "JernejKavka"
+name: "Jernej Kavka"
+nickname: "Jernej (JK)"
 
-legacy_page_url: '/AboutUs/Employees/Pages/JK.aspx'
-category: 'Developers'
-role: 'Senior Software Architect'
-qualifications: 'MCSD'
-location: 'SydneyBrisbaneMelbourne'
+legacy_page_url: "/AboutUs/Employees/Pages/JK.aspx"
+category: "Developers"
+role: "Senior Software Architect"
+qualifications: "MCSD"
+location: "SydneyBrisbaneMelbourne"
 
-blog: ''
-website: 'https://jkdev.me'
-facebook: 'jernej.kavka'
-twitter: 'jernej_kavka'
-linkedin: 'jernej-kavka-b002111b'
-skype: 'jernej.kavka'
+blog: ""
+website: "https://jkdev.me"
+facebook: "jernej.kavka"
+twitter: "jernej_kavka"
+linkedin: "jernej-kavka-b002111b"
+skype: "jernej.kavka"
 
-quote: 'Once upon a time, you had to be rich and powerful to change the world. Now you just need to be bold and write code.'
+quote: "Once upon a time, you had to be rich and powerful to change the world. Now you just need to be bold and write code."
 ---
 
 ---

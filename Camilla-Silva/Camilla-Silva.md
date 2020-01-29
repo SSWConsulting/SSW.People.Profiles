@@ -1,23 +1,23 @@
 ---
 current_employee: true
-ID: 'CamillaSilva'
-name: 'Camilla Rosa Silva'
-nickname: 'Camilla'
+ID: "CamillaSilva"
+name: "Camilla Rosa Silva"
+nickname: "Camilla"
 
-legacy_page_url: '/AboutUs/Employees/Pages/CamillaSilva.aspx'
-category: 'Admin'
-role: 'Marketing Coordinator'
-qualifications: 'Bachelor of Business Management, MBA in Business Strategic Management'
-location: 'Sydney'
+legacy_page_url: "/AboutUs/Employees/Pages/CamillaSilva.aspx"
+category: "Admin"
+role: "Marketing Coordinator"
+qualifications: "Bachelor of Business Management, MBA in Business Strategic Management"
+location: "Sydney"
 
-blog: ''
-website: ''
-facebook: ''
-twitter: ''
-linkedin: 'camillarosa'
-skype: 'cammyrs'
+blog: ""
+website: ""
+facebook: ""
+twitter: ""
+linkedin: "camillarosa"
+skype: "cammyrs"
 
-quote: 'You know you are on the road to success if you would do your job, and not be paid for it.  -- Oprah Winfrey'
+quote: "You know you are on the road to success if you would do your job, and not be paid for it.  -- Oprah Winfrey"
 ---
 
 ![google accreditation Camilla.jpg](./Images/Bio/google%20accreditation%20Camilla.jpg)
