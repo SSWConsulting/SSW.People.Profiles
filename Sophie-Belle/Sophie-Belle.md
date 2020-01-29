@@ -29,35 +29,37 @@ Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem p
 
 ## Input:
 ```
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
 
-Alternatively, for H1 and H2, an underline-ish style:
+Alternatively, for Heading 1 and Heading 2, an underline-ish style:
 
-Alt-H1
+Alt-Heading 1
 ======
 
-Alt-H2
+Alt-Heading 2
 ------
 ```
 &nbsp;
 ## Output:
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-Alt-H1
+&nbsp;
+
+Alt-Heading 1
 ======
 
-Alt-H2
+Alt-Heading 2
 ------
 
 &nbsp;
@@ -67,23 +69,23 @@ Alt-H2
 
 ## Input:
 ```
-* **bold** or __bold__
+**bold** or __bold__
 
-* *italic* or _italic_
+*italic* or _italic_
 
-* **combined bold and _italic_**
+**combined bold and _italic_**
 
-* ~~strikethrough~~
+~~strikethrough~~
 ```
 &nbsp;
 ## Output:
-* **bold** or __bold__
+**bold** or __bold__
 
-* *italic* or _italic_
+*italic* or _italic_
 
-* **combined bold and _italic_**
+**combined bold and _italic_**
 
-* ~~strikethrough~~
+~~strikethrough~~
 
 &nbsp;
 
@@ -242,16 +244,20 @@ Markdown | Less | Pretty
 1. Ordered List Item 1
 2. Ordered List Item 2
 3. Ordered List Item 3
+
 &nbsp;
 
 * Unordered List Item 1
 * Unordered List Item 2
 * Unordered List Item 3
+
 &nbsp;
 
 1. Ordered List Item  
    * Sub-list Item
       * Sub sub-list item
+
+&nbsp;
 
 * Unordered list can use asterisks
 - Or minuses
