@@ -1,8 +1,8 @@
 ---
 current_employee: true
-ID: "johndoe"
+ID: "bobnorthwind"
 name: "Bob Northwind"
-nickname: "Bob - Sample"
+nickname: "Bob"
 
 legacy_page_url: ""
 category: "Admin"
@@ -10,7 +10,7 @@ role:  "Work Experience"
 qualifications:  ""
 location: "Sydney"
 
-blog:  ""
+blog:  "bla"
 website:  ""
 facebook:  ""
 twitter:  ""
