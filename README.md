@@ -6,7 +6,18 @@ These markdown files are used by our Gatsby static site generator to generate ht
 
 Gatsby generator project: https://github.com/SSWConsulting/people.ssw.com.au/
 
+Sample Profile: https://www.ssw.com.au/people/bob-northwind
+
 # Instructions 
+
+## How to create a new profile
+
+1. Copy/Paste “Bob Northwind” Profile
+2. Change folder and file names to match user’s “Firstname-Lastname” identifier
+3. Update profile
+4. Submit PR
+
+> Todo: Improve user experience (automation)
 
 ## How to edit your profile
 
