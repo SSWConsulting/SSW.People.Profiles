@@ -41,7 +41,7 @@ quote_author: "Neil Degrasse Tyson"
 
 <br/>
 
-Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NET Core**.
+Jean is a SSW Solution Architect. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NET Core**.
 
 His deep knowledge of **SharePoint's** many capabilities, combined with the **latest technologies (Angular, React, SPFx)**, let him propose **high-quality tailored** SharePoint Applications to clients.
 
