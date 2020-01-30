@@ -11,13 +11,14 @@ qualifications:  ""
 location: "Sydney"
 
 blog:  "bla"
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
+website:  "bla1"
+facebook:  "bla2"
+twitter:  "bla3"
+linkedin:  "bla4"
+skype:  "bla5"
 
 quote:  "Working together to provide solutions to problems proactively every day, for our clients and internally"
+quote-author: "Anonymous"
 ---
 
 Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem persecuti id, his malorum patrioque cu. Vis adhuc adversarium no, id elit nostrum mandamus qui. Eum case ornatus menandri cu, dolore labitur eu usu, eu omnis recteque his. Alii habemus vel te.
