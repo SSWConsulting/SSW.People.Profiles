@@ -14,40 +14,61 @@ Sample Profile: https://www.ssw.com.au/people/bob-northwind
 
 1. Create user profile in CRM or ensure that you user profile is created in CRM - https://live.crm.ssw.com.au/main.aspx#
 
-![Instructions_CRM_Users.png](./.github/instructions/images/Instructions_CRM_Users.png) 
+![Instructions_CRM_Users.png](./.github/instructions/images/Instructions_CRM_Users.png)   
 **Figure: CRM Users List**
 
-![Instructions_Create_User_CRM.png](./.github/instructions/images/Instructions_Create_User_CRM.png) 
+If your name is not in the list click in **+ New**
+
+![Instructions_Create_User_CRM.png](./.github/instructions/images/Instructions_Create_User_CRM.png)   
 **Figure: Creating User in CRM**
 
 2. Fork the repository SSWConsulting/People - Branch: **master**
 
-![Instructions_Fork_Repository.png](./.github/instructions/images/Instructions_Fork_Repository.png) 
+![Instructions_Fork_Repository.png](./.github/instructions/images/Instructions_Fork_Repository.png)   
 **Figure: Forking Repository**
 
 3. Clone your forked repository
 
-![Instructions_Clone_Forked_Repository.png](./.github/instructions/images/Instructions_Clone_Forked_Repository.png) 
+> Hint: You can use [GitHub Desktop] (https://desktop.github.com/)
+
+![Instructions_Clone_Forked_Repository.png](./.github/instructions/images/Instructions_Clone_Forked_Repository.png)   
 **Figure: Cloning the repository**
 
 4. Copy/Paste **"Bob Northwind"** Profile folder using Windows Explorer
 
-![Instructions_Copy_Paste_Folder.png](./.github/instructions/images/Instructions_Copy_Paste_Folder.png) 
+![Instructions_Copy_Paste_Folder.png](./.github/instructions/images/Instructions_Copy_Paste_Folder.png)   
 **Figure: Copying / Pasting the folder using Windows Explorer**
 
 5. Change folder and file names to match user’s **Firstname-Lastname** identifier
-    * **Firstname-Lastname** need to bt identical to CRM data
-    
+    * **Firstname-Lastname** need to be identical to CRM data
+
+![Instructions_Change_Folder_Name.png](./.github/instructions/images/Instructions_Change_Folder_Name.png)     
+**Figure: Changing folder name**
+
+![Instructions_Change_File_Names.png](./.github/instructions/images/Instructions_Change_File_Names.png)   
+**Figure: Changing profile file name**
+
+![Instructions_Change_Image_Name.png](./.github/instructions/images/Instructions_Change_Image_Name.png)   
+**Figure: Replacing images with your company profile images**
+
 6. Open Firstname-Lastname.md file and update profile information
 
-![Instructions_Update_Profile.png](./.github/instructions/images/Instructions_Update_Profile.png) 
+![Instructions_Change_File_Names.png](./.github/instructions/images/Instructions_Change_File_Names.png)   
 **Figure: Opening / Updating profile**
 
-7. Submit PR
+7. Commit your changes
+
+![Instructions_Commit_Push_Changes.png](./.github/instructions/images/Instructions_Commit_Push_Changes.png)   
+**Figure: Committing changes**
+
+8. Click "Create Pull Request"
+
+![Instructions_Create_PR.png](./.github/instructions/images/Instructions_Create_PR.png) 
+**Figure: Creating pull request (PR)**
 
 > Todo: Improve user experience (automation)
 
-## How to edit your profile
+## How to edit your profile on GitHub
 
 1. Find your folder from the root
 2. Navigate to [Firstname]-[Lastname].md
@@ -55,9 +76,7 @@ Sample Profile: https://www.ssw.com.au/people/bob-northwind
 
 > Hint: you can use https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet if you are not familiar with Markdown
 
-> Important: Do not modify your name, it needs to match your name in CRM
-
-## How to add images
+## How to add images on GitHub
 
 1. Navigate to your profile folder
 2. Navigate to /People/[Firstname]-[Lastname]/Images/Bio
