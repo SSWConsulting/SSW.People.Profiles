@@ -40,19 +40,18 @@ If your name is not in the list click in **+ New**
 **Figure: Copying / Pasting the folder using Windows Explorer**
 
 5. Change folder and file names to match user’s **Firstname-Lastname** identifier
-    * **Firstname-Lastname** need to bt identical to CRM data
+    * **Firstname-Lastname** need to be identical to CRM data
 
-![Instructions_Change_Folder_Name.png](./.github/instructions/images/Instructions_Change_Folder_Name.png)   
+![Instructions_Change_Folder_Name.png](./.github/instructions/images/Instructions_Change_Folder_Name.png)     
 **Figure: Changing folder name**
 
 ![Instructions_Change_File_Names.png](./.github/instructions/images/Instructions_Change_File_Names.png)   
 **Figure: Changing profile file name**
 
 ![Instructions_Change_Image_Name.png](./.github/instructions/images/Instructions_Change_Image_Name.png)   
-**Figure: Changing photo names**
+**Figure: Replacing images with your company profile images**
 
 6. Open Firstname-Lastname.md file and update profile information
-> Hint: You can also change your profile images (if you alaredy have them)
 
 ![Instructions_Change_File_Names.png](./.github/instructions/images/Instructions_Change_File_Names.png)   
 **Figure: Opening / Updating profile**
@@ -69,7 +68,7 @@ If your name is not in the list click in **+ New**
 
 > Todo: Improve user experience (automation)
 
-## How to edit your profile
+## How to edit your profile on GitHub
 
 1. Find your folder from the root
 2. Navigate to [Firstname]-[Lastname].md
@@ -77,7 +76,7 @@ If your name is not in the list click in **+ New**
 
 > Hint: you can use https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet if you are not familiar with Markdown
 
-## How to add images
+## How to add images on GitHub
 
 1. Navigate to your profile folder
 2. Navigate to /People/[Firstname]-[Lastname]/Images/Bio
