@@ -17,6 +17,8 @@ Sample Profile: https://www.ssw.com.au/people/bob-northwind
 ![Instructions_CRM_Users.png](./.github/instructions/images/Instructions_CRM_Users.png)   
 **Figure: CRM Users List**
 
+If your name is not in the list click in **+ New**
+
 ![Instructions_Create_User_CRM.png](./.github/instructions/images/Instructions_Create_User_CRM.png)   
 **Figure: Creating User in CRM**
 
@@ -26,6 +28,8 @@ Sample Profile: https://www.ssw.com.au/people/bob-northwind
 **Figure: Forking Repository**
 
 3. Clone your forked repository
+
+> Hint: You can use [GitHub Desktop] (https://desktop.github.com/)
 
 ![Instructions_Clone_Forked_Repository.png](./.github/instructions/images/Instructions_Clone_Forked_Repository.png)   
 **Figure: Cloning the repository**
@@ -37,14 +41,23 @@ Sample Profile: https://www.ssw.com.au/people/bob-northwind
 
 5. Change folder and file names to match user’s **Firstname-Lastname** identifier
     * **Firstname-Lastname** need to bt identical to CRM data
-    
-6. Open Firstname-Lastname.md file and update profile information
 
-![Instructions_Update_Profile.png](./.github/instructions/images/Instructions_Update_Profile.png)   
+![Instructions_Change_Folder_Name.png](./.github/instructions/images/Instructions_Change_Folder_Name.png)   
+**Figure: Changing folder name**
+
+![Instructions_Change_File_Names.png](./.github/instructions/images/Instructions_Change_File_Names.png)   
+**Figure: Changing profile file name**
+
+![Instructions_Change_Image_Name.png](./.github/instructions/images/Instructions_Change_Image_Name.png)   
+**Figure: Changing photo names**
+
+6. Open Firstname-Lastname.md file and update profile information
+> Hint: You can also change your profile images (if you alaredy have them)
+
+![Instructions_Change_File_Names.png](./.github/instructions/images/Instructions_Change_File_Names.png)   
 **Figure: Opening / Updating profile**
 
 7. Commit your changes
-> Hint: use [GitHub Desktop] (https://desktop.github.com/)
 
 ![Instructions_Commit_Push_Changes.png](./.github/instructions/images/Instructions_Commit_Push_Changes.png)   
 **Figure: Committing changes**
