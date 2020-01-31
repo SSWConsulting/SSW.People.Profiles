@@ -27,9 +27,6 @@ quote:  "Learning is a lifetime lesson - keep yourself open to learn something n
 [[imgBadge]]
 | ![angular.png](./Images/Bio/nodejs.png) 
 
-[[imgBadge]]
-| ![angular.png](./Images/Bio/firebase.png) 
-
 <br/>
 
 
