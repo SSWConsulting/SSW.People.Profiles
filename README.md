@@ -86,6 +86,8 @@ If your name is not in the list click in **+ New**
 
 3. Reference the images in your Bio using  ```![XXXX.png](./Images/Bio/XXX.png) ```
 
+> Important: Avoid spaces in filenames, use hyphens instead
+
 ## Set images sizes
 
 Our Markdown processor uses custom Markups to extend markdown capabilities on image styling. Images added to your profile can be defined as :
