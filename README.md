@@ -14,25 +14,25 @@ Sample Profile: https://www.ssw.com.au/people/bob-northwind
 
 1. Create user profile in CRM or ensure that you user profile is created in CRM - https://live.crm.ssw.com.au/main.aspx#
 
-![Instructions_CRM_Users.png](./.github/instructions/images/Instructions_CRM_Users.png) 
+![Instructions_CRM_Users.png](./.github/instructions/images/Instructions_CRM_Users.png)   
 **Figure: CRM Users List**
 
-![Instructions_Create_User_CRM.png](./.github/instructions/images/Instructions_Create_User_CRM.png) 
+![Instructions_Create_User_CRM.png](./.github/instructions/images/Instructions_Create_User_CRM.png)   
 **Figure: Creating User in CRM**
 
 2. Fork the repository SSWConsulting/People - Branch: **master**
 
-![Instructions_Fork_Repository.png](./.github/instructions/images/Instructions_Fork_Repository.png) 
+![Instructions_Fork_Repository.png](./.github/instructions/images/Instructions_Fork_Repository.png)   
 **Figure: Forking Repository**
 
 3. Clone your forked repository
 
-![Instructions_Clone_Forked_Repository.png](./.github/instructions/images/Instructions_Clone_Forked_Repository.png) 
+![Instructions_Clone_Forked_Repository.png](./.github/instructions/images/Instructions_Clone_Forked_Repository.png)   
 **Figure: Cloning the repository**
 
 4. Copy/Paste **"Bob Northwind"** Profile folder using Windows Explorer
 
-![Instructions_Copy_Paste_Folder.png](./.github/instructions/images/Instructions_Copy_Paste_Folder.png) 
+![Instructions_Copy_Paste_Folder.png](./.github/instructions/images/Instructions_Copy_Paste_Folder.png)   
 **Figure: Copying / Pasting the folder using Windows Explorer**
 
 5. Change folder and file names to match user’s **Firstname-Lastname** identifier
@@ -40,10 +40,19 @@ Sample Profile: https://www.ssw.com.au/people/bob-northwind
     
 6. Open Firstname-Lastname.md file and update profile information
 
-![Instructions_Update_Profile.png](./.github/instructions/images/Instructions_Update_Profile.png) 
+![Instructions_Update_Profile.png](./.github/instructions/images/Instructions_Update_Profile.png)   
 **Figure: Opening / Updating profile**
 
-7. Submit PR
+7. Commit your changes
+> Hint: use [GitHub Desktop] (https://desktop.github.com/)
+
+![Instructions_Commit_Push_Changes.png](./.github/instructions/images/Instructions_Commit_Push_Changes.png)   
+**Figure: Committing changes**
+
+8. Click "Create Pull Request"
+
+![Instructions_Create_PR.png](./.github/instructions/images/Instructions_Create_PR.png) 
+**Figure: Creating pull request (PR)**
 
 > Todo: Improve user experience (automation)
 
