@@ -8,13 +8,19 @@ Gatsby generator project: https://github.com/SSWConsulting/people.ssw.com.au/
 
 # Instructions 
 
-## How to edit your profile
+## How to edit your profile (markdown)
 
 1. Find your folder from the root
 2. Navigate to [Firstname]-[Lastname].md
 3. Make your changes
 
 > Hint: you can use https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet if you are not familiar with Markdown
+
+## How to edit your profile (CRM)
+Fields such as Title, Location, Skills etc are stored in Dynamics CRM
+
+1. Dynamics CRM  |  Users  |  Find your name etc...
+2. Then make a change to  your markdown file so the page is regenerated (TODO: Have CRM trigger this rebuild) 
 
 ## How to add images
 
