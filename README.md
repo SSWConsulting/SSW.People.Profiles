@@ -16,6 +16,8 @@ Gatsby generator project: https://github.com/SSWConsulting/people.ssw.com.au/
 
 > Hint: you can use https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet if you are not familiar with Markdown
 
+> Important: Do not modify your name, it needs to match your name in CRM
+
 ## How to add images
 
 1. Navigate to your profile folder
@@ -25,6 +27,8 @@ Gatsby generator project: https://github.com/SSWConsulting/people.ssw.com.au/
 **Figure: Uploading new files**
 
 3. Reference the images in your Bio using  ```![XXXX.png](./Images/Bio/XXX.png) ```
+
+> Important: Avoid spaces in filenames, use hyphens instead
 
 ## Set images sizes
 
