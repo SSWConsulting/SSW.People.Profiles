@@ -5,7 +5,7 @@ name: "Bob Northwind"
 nickname: "Bob Northwind"
 
 legacy_page_url: ""
-category: "Developer"
+category: "Developers"
 role:  "Sample Profile"
 qualifications:  ""
 location: "Sydney"
