@@ -1,20 +1,20 @@
 ---
 current_employee: true
 ID: "TiagoAraujo"
-name: "Tiago Araujo"
+name: "Tiago Araújo"
 nickname: "Tiago"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Tiago.aspx"
 category: "Designers"
 role:  "Senior UI/UX & Graphic Designer"
-qualifications:  "Barchelor of Advertising, Multimedia Diploma, Adobe Web Softwares Certificate, Desktop Publish Certificate, Photography Certificate"
+qualifications:  "Barchelor of Advertising, Applied Web Development Certificate"
 location: "Other"
 
 blog:  ""
 website:  ""
 facebook:  ""
 twitter:  "tiagov8"
-linkedin:  ""
+linkedin:  "tiagov8"
 skype:  "tiagov8"
 
 quote:  "It's not what you look at that matters, it's what you see."
