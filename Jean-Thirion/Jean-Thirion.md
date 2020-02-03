@@ -52,13 +52,13 @@ Jean has been working with **SharePoint** for the past 7 years, in France, Luxem
 **Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**
 
 [[imgLg]]
-| ![Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
+| ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
 
 [[imgMd]]
-| ![Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
+| ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
 
 [[imgSm]]
-| ![Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
+| ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
 
 
 When he is not leveraging this **knowledge** to develop **client applications**, Jean is one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.
