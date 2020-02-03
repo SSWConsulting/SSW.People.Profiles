@@ -17,7 +17,8 @@ twitter:  ""
 linkedin:  "christian-morford-waite-92724983"
 skype:  ""
 
-quote:  "There's a way to do it better - find it. Thomas A. Edison"
+quote:  "There's a way to do it better - find it."
+quote_author: "Thomas A. Edison"
 ---
 
 Christian is a Software Developer with over 5 years of experience working with a wide range of technologies and Azure resources.  

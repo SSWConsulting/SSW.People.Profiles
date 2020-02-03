@@ -1,23 +1,24 @@
 ---
 current_employee: true
-ID: "sophiebelle"
-name: "Sophie Belle"
-nickname: "Sophie"
+ID: "bobnorthwind"
+name: "Bob Northwind"
+nickname: "Bob Northwind"
 
 legacy_page_url: ""
 category: "Admin"
-role:  "Assistant Administrator"
+role:  "Work Experience"
 qualifications:  ""
 location: "Sydney"
 
-blog:  ""
+blog:  "https://www.ssw.com.au"
 website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
+facebook:  "bobnorthwind"
+skype:  "bobnorthwind"
+linkedin:  "bobnorthwind"
+twitter:  "bobnorthwind"
 
-quote:  "random and amazing quote"
+quote:  "Working together to provide solutions to problems proactively every day, for our clients and internally"
+quote_author: "Anonymous"
 ---
 
 Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem persecuti id, his malorum patrioque cu. Vis adhuc adversarium no, id elit nostrum mandamus qui. Eum case ornatus menandri cu, dolore labitur eu usu, eu omnis recteque his. Alii habemus vel te.
@@ -29,35 +30,37 @@ Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem p
 
 ## Input:
 ```
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
 
-Alternatively, for H1 and H2, an underline-ish style:
+Alternatively, for Heading 1 and Heading 2, an underline-ish style:
 
-Alt-H1
+Alt-Heading 1
 ======
 
-Alt-H2
+Alt-Heading 2
 ------
 ```
 &nbsp;
 ## Output:
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-Alt-H1
+&nbsp;
+
+Alt-Heading 1
 ======
 
-Alt-H2
+Alt-Heading 2
 ------
 
 &nbsp;

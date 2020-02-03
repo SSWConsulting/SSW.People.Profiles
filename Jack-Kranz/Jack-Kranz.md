@@ -17,7 +17,8 @@ twitter:  ""
 linkedin:  ""
 skype:  ""
 
-quote:  "“The definition of genius is taking the complex and making it simple.”  ~ Albert Einstein"
+quote:  "The definition of genius is taking the complex and making it simple."
+quote_author: "Albert Einstein"
 ---
 
 Jack is an experienced web/mobile application developer, React trainer and scrum practitioner.  
