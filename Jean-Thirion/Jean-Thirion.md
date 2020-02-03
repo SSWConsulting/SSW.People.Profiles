@@ -48,7 +48,7 @@ His deep knowledge of **SharePoint's** many capabilities, combined with the **la
 Jean has been working with **SharePoint** for the past 7 years, in France, Luxembourg, and now Australia. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.
 
 [[imgMd]]
-| ![60398623_2776967035653247_301891567608659968_n.jpg](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
+| ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
 **Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**
 
 When he is not leveraging this **knowledge** to develop **client applications**, Jean is one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.
