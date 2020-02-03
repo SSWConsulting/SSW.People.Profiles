@@ -5,8 +5,8 @@ name: "Bob Northwind"
 nickname: "Bob Northwind"
 
 legacy_page_url: ""
-category: "Admin"
-role:  "Work Experience"
+category: "Developer"
+role:  "Sample Profile"
 qualifications:  ""
 location: "Sydney"
 
