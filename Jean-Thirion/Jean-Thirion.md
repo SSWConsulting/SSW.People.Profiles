@@ -51,7 +51,13 @@ Jean has been working with **SharePoint** for the past 7 years, in France, Luxem
 | ![ ](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
 **Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**
 
+[[imgLg]]
+| ![Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
+
 [[imgMd]]
+| ![Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
+
+[[imgSm]]
 | ![Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
 
 
