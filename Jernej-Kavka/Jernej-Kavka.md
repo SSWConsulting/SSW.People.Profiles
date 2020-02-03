@@ -73,7 +73,7 @@ You can follow him on [**Twitter,**](https://twitter.com/jernej_kavka), [**his p
 Jernej's client projects include:
 
 [[imgSm]]
-| ![Allianz_logo_logotype.png](./Images/Bio/Allianz_logo_logotype.png)
+| ![](./Images/Bio/Allianz_logo_logotype.png)
 
 **Allianz Australia**  
 The project focus was building a B2B and B2C web application using micro-services, and service buses, using Angular with ngrx and .NET Core.
@@ -85,7 +85,7 @@ Additionally, we were responsible for developing systems for 3rd parties to inte
 ---
 
 [[imgSm]]
-| ![d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg](./Images/Bio/d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg)
+| ![](./Images/Bio/d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg)
 **Banpu**  
 Banpu engaged SSW to develop a PWA application that can be used online and offline in various situations. We have worked with several different teams from different countries and parts of Australia, and the main focus for SSW was delivering micro-services, offline and syncing capabilities of the PWA application, a desktop administration website, the mobile UX animations, and migrating data from Excel spreadsheets. We delivered all of the features with high code coverage with unit and component tests.
 
@@ -94,7 +94,7 @@ Banpu engaged SSW to develop a PWA application that can be used online and offli
 ---
 
 [[imgSm]]
-| ![Long Service Corporation](./Images/Bio/LongServiceCorporation.gif)
+| ![](./Images/Bio/LongServiceCorporation.gif)
 
 **Long Service Corporation**  
 Long Service Corporation engaged SSW to redesign and refactor their Worker Portal application, used by workers to download their statements. This application will be extended to include claims for workers. The new software design of the application includes multiple services that can be shared between projects.
@@ -104,7 +104,7 @@ Long Service Corporation engaged SSW to redesign and refactor their Worker Por
 ---
 
 [[imgSm]]
-| ![Infomedia](./Images/Bio/infomedia-logo.png)
+| ![](./Images/Bio/infomedia-logo.png)
 
 **Infomedia**  
 The project consisted of upgrading applications to a newer version of the Angular framework which resulted in improving the overall application performance for users.
@@ -116,7 +116,7 @@ Jernej's internal projects include:
 ---
 
 [[imgSm]]
-| ![sophie-logo.png](./Images/Bio/sophie-logo.png)
+| ![](./Images/Bio/sophie-logo.png)
 
 **Sophie Bot** is an essential part of SSW smart office solution where employees can check who’s in the office, see others' availability, and many more features.See more information at [sswsophie.com/sophie-bot](https://sswsophie.com/sophie-bot)
 
@@ -133,7 +133,7 @@ Check out [sswsophie.com](https://sswsophie.com/) for more information.
 ---
 
 [[imgSm]]
-| ![TimePRO_logo.png](./Images/Bio/TimePRO_logo.png)
+| ![](./Images/Bio/TimePRO_logo.png)
 
 **SSW Time Pro** - Timesheeting and invoicing application that integrates with CRM and TFS servers.
 
@@ -142,7 +142,7 @@ Check out [sswsophie.com](https://sswsophie.com/) for more information.
 ---
 
 [[imgSm]]
-| ![SugarLearning_Logo.png](./Images/Bio/SugarLearning_Logo.png)
+| ![](./Images/Bio/SugarLearning_Logo.png)
 
 **SugarLearning** is a simple induction training website used to get new employees up to speed and track their progress.
 
