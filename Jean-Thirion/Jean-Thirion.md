@@ -59,7 +59,7 @@ Jean is highly motivated, with strong technical skills, which allows him to unde
 
 - PNP Libraries & provisioning engine
 - SPFX
-- Nintex Workflows / MS Flow
+- Nintex Workflows / MS PowerAutomate
 - AvePoint / ShareGate
 
 **Jean's Internal Projects:**
