@@ -1,7 +1,7 @@
 ---
 current_employee: true
 ID: "TiagoAraujo"
-name: "Tiago Araújo"
+name: "Tiago Araujo"
 nickname: "Tiago"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Tiago.aspx"
