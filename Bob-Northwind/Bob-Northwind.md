@@ -2,7 +2,7 @@
 current_employee: true
 ID: "bobnorthwind"
 name: "Bob Northwind"
-nickname: "Bob Northwind"
+nickname: "Bob"
 
 legacy_page_url: ""
 category: "Developers"
