@@ -26,10 +26,10 @@ quote_author: "Neil Degrasse Tyson"
 <br/>
 
 [[imgBadge]]
-| ![angular.png](./Badges/angular-logo.png)
+| ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![images.png](../Badges/react-logo.png)
+| ![images.png](../badges/react-logo.png)
 
 [[imgBadgex14]]
 | ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png)
