@@ -26,7 +26,7 @@ quote_author: "Neil Degrasse Tyson"
 <br/>
 
 [[imgBadge]]
-| ![angular.png](./Images/Bio/angular-logo.png)
+| ![angular.png](../Badges/angular-logo.png)
 
 [[imgBadge]]
 | ![images.png](./Images/Bio/react-logo.png)
