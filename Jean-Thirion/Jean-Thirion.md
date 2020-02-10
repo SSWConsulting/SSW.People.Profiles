@@ -21,7 +21,7 @@ quoteAuthor: "Neil Degrasse Tyson"
 ---
 
 [[imgBadge]]
-| ![angular.png](../Badges/angular-logo.png)
+| ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
 | ![images.png](./Images/Bio/react-logo.png)
