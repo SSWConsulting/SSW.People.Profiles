@@ -105,7 +105,7 @@ Alt-Heading 2
 | ![](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
-| ![](./Images/Bio/microsoftCertified.jpg )
+| ![](./Images/Bio/microsoftCertified.jpg)
 ```
 &nbsp;
 ## Output:
