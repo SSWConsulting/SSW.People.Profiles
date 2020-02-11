@@ -96,16 +96,16 @@ Alt-Heading 2
 ## Input:
 ```
 [[imgLg]]
-| ![](./Images/Bio/cat_computer.jpg)
+| ![](./Images /Bio /cat_computer.jpg)
 
 [[imgMd]]
-| ![](./Images/Bio/cat_computer.jpg)
+| ![](./Images/ Bio /cat_computer.jpg)
 
 [[imgSm]]
-| ![](./Images/Bio/cat_computer.jpg)
+| ![](./Images /Bio /cat_computer.jpg)
 
 [[imgBadge]]
-| ![](./Images/Bio/microsoftCertified.jpg)  
+| ![](./Images /Bio /microsoftCertified.jpg)  
 ```
 &nbsp;
 ## Output:
