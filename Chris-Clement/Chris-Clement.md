@@ -22,7 +22,7 @@ quote:  "Learning is a lifetime lesson - keep yourself open to learn something n
 <br/>
 
 [[imgBadge]]
-| ![angular.png](./Images/Bio/angular.png) 
+| ![angular.png](../badges/angular-logo.png) 
 
 [[imgBadge]]
 | ![angular.png](./Images/Bio/nodejs.png) 

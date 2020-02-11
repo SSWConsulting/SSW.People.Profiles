@@ -25,7 +25,7 @@ quote:  "Failing is how you learn best. To not to try would be your greatest fal
 <br/>
 
 [[imgBadge]]
-| ![Angular Icon](./Images/angular.svg)
+| ![Angular Icon](../badges/angular-logo.png)
 
 [[imgBadge]]
 | ![Ngrx Icon](./Images/ngrx.svg)

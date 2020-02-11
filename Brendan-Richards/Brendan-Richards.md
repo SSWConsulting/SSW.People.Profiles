@@ -27,7 +27,7 @@ quote:  "Open Source Software is not about the price. Its about the freedom to u
 | ![dotnetcore.png](./Images/Bio/dotnetcore.png) 
 
 [[imgBadge]]
-| ![angular.png](./Images/Bio/angular.png) 
+| ![angular.png](../badges/angular-logo.png) 
 
 [[imgBadge]]
 | ![ngrx.jpg](./Images/Bio/ngrx.jpg) 

@@ -25,7 +25,7 @@ quote:  "A good programmer looks both ways before crossing a one-way street"
 | ![dotnetcore.png](./Images/Bio/dotnetcore.png) 
 
 [[imgBadge]]
-| ![angular.png](./Images/Bio/angular.png) 
+| ![angular.png](../badges/angular-logo.png) 
 
 [[imgBadge]]
 | ![zendesk.png](./Images/Bio/zendesk.png) 

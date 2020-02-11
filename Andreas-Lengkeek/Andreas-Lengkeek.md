@@ -25,7 +25,7 @@ quote_author: "Franklin D. Roosevelt"
 | ![dotnetcore.png](./Images/Bio/dotnetcore.png)
 
 [[imgBadge]]
-| ![angular.png](./Images/Bio/angular.png)
+| ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
 | ![ngrx.jpg](./Images/Bio/ngrx.jpg)
