@@ -28,7 +28,7 @@ quote_author: "Franklin D. Roosevelt"
 | ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![ngrx.jpg](./Images/Bio/ngrx.jpg)
+| ![ngrx.jpg](../badges/ngrx.svg)
 
 Andreas is an experienced Software Developer with a demonstrated history of working in the information technology and services industry.
 
