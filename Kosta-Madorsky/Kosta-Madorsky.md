@@ -6,37 +6,35 @@ nickname: "Kosta"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Kosta.aspx"
 category: "Developers"
-role:  "Senior Software Architect"
-qualifications:  "Bachelor of Computer Science, Certified Base Programmer for SAS 9"
+role: "Senior Software Architect"
+qualifications: "Bachelor of Computer Science, Certified Base Programmer for SAS 9"
 location: "Sydney"
 
-blog:  ""
-website:  ""
-facebook:  "madkonst"
-twitter:  "madkonst"
-linkedin:  "kmadorskiy"
-skype:  "madkonst"
+blog: ""
+website: ""
+facebook: "madkonst"
+twitter: "madkonst"
+linkedin: "kmadorskiy"
+skype: "madkonst"
 
-quote:  "A good programmer looks both ways before crossing a one-way street"
+quote: "A good programmer looks both ways before crossing a one-way street"
 ---
 
+[[imgBadge]]
+| ![dotnetcore.png](../badges/net-core-logo.png)
 
 [[imgBadge]]
-| ![dotnetcore.png](./Images/Bio/dotnetcore.png) 
+| ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![angular.png](../badges/angular-logo.png) 
+| ![zendesk.png](./Images/Bio/zendesk.png)
 
-[[imgBadge]]
-| ![zendesk.png](./Images/Bio/zendesk.png) 
-  
+Kosta is a Senior Software Architect based in SSW's Sydney office. He is passionate about innovations and effective delivery of services.
 
-Kosta is a Senior Software Architect based in SSW's Sydney office. He is passionate about innovations and effective delivery of services.  
+Kosta’s experience covers developing software using several programming languages and technologies, practical data analysis, designing and developing solutions from scratch as well as promptly improving, debugging and optimising clients’ systems.
 
-Kosta’s experience covers developing software using several programming languages and technologies, practical data analysis, designing and developing solutions from scratch as well as promptly improving, debugging and optimising clients’ systems.  
+SSW is a Zendesk Partner and Kosta is one of our Zendesk experts.
 
-SSW is a Zendesk Partner and Kosta is one of our Zendesk experts.  
-
-Kosta's happiest client was the University of Sydney. Check out the BREAST project testimonial video:  
+Kosta's happiest client was the University of Sydney. Check out the BREAST project testimonial video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rf7zzTMeTf4" frameborder="0"></iframe>

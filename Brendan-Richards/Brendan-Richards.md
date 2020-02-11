@@ -24,7 +24,7 @@ quote:  "Open Source Software is not about the price. Its about the freedom to u
 | ![Microsoft Certified Solutions Developer](./Images/Bio/MCSD_2013(rgb)_1477.jpg) 
 
 [[imgBadge]]
-| ![dotnetcore.png](./Images/Bio/dotnetcore.png) 
+| ![dotnetcore.png](../badges/net-core-logo.png) 
 
 [[imgBadge]]
 | ![angular.png](../badges/angular-logo.png) 

@@ -22,7 +22,7 @@ quote_author: "Franklin D. Roosevelt"
 ---
 
 [[imgBadge]]
-| ![dotnetcore.png](./Images/Bio/dotnetcore.png)
+| ![dotnetcore.png](../badges/net-core-logo.png)
 
 [[imgBadge]]
 | ![angular.png](../badges/angular-logo.png)
