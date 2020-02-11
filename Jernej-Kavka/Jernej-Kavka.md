@@ -40,19 +40,19 @@ quote: "Once upon a time, you had to be rich and powerful to change the world. N
 | ![xamarin](../badges/xamarin.svg)
 
 [[imgBadge]]
-| ![dotnetcode](./Images/Bio/dotnetcode.jpg)
+| ![dotnetcode](../badges/net-code-logo.png)
 
 [[imgBadge]]
 | ![docker](../badges/docker.svg)
 
 [[imgBadge]]
-| ![dotnet_foundation_logo.png](./Images/Bio/dotnet_foundation_logo.png)
+| ![dotnet_foundation_logo.png](../badges/NET_Foundation_Logo.svg)
 
 [[imgBadge]]
-| ![ML.NET-logo.png](./Images/Bio/ML.NET-logo.png)
+| ![ML.NET-logo.png](../badges/Mldotnet.svg)
 
 [[imgBadge]]
-| ![Microsoft-Cognitive-Service-Logo.png](./Images/Bio/Microsoft-Cognitive-Service-Logo.png)
+| ![Microsoft-Cognitive-Service-Logo.png](../badges/cognative-services.svg)
 
 ---
 
