@@ -37,13 +37,13 @@ quote: "Once upon a time, you had to be rich and powerful to change the world. N
 | ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![xamarin](./Images/Bio/xamarin.jpg)
+| ![xamarin](../badges/xamarin.svg)
 
 [[imgBadge]]
 | ![dotnetcode](./Images/Bio/dotnetcode.jpg)
 
 [[imgBadge]]
-| ![docker](./Images/Bio/docker.jpg)
+| ![docker](../badges/docker.svg)
 
 [[imgBadge]]
 | ![dotnet_foundation_logo.png](./Images/Bio/dotnet_foundation_logo.png)
