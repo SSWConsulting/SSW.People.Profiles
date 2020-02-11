@@ -32,10 +32,9 @@ quote:  "Talent can fix tricky bugs, but teamwork and brains build great softwar
 [[imgBadge]]
 | ![](./Images/Bio/scrum-badges.jpg) 
 
-
 [[imgBanner]]
 | ![](./Images/Bio/devops.png) 
- 
+
 
 Adam Cogan is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom Azure, Azure DevOps (was TFS), .NET, SharePoint and Business Intelligence solutions. At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, Worley Parsons, and Aurecon.   
 

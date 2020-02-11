@@ -28,7 +28,7 @@ quote: "Once upon a time, you had to be rich and powerful to change the world. N
 | ![](./Images/Bio/MCP.png)
 
 [[imgBadge]]
-| ![azure-logo.png](./Images/Bio/azure-logo.png)
+| ![azure-logo.png](../badges/azure-logo.png)
 
 [[imgBadge]]
 | ![.NET Core](../badges/net-core-logo.png)
