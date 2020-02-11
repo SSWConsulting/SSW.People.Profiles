@@ -26,7 +26,7 @@ quote: ""
 | ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![react.png](./Images/Bio/react.png)
+| ![react.png](../badges/react-logo.png)
 
 Liam is a SSW Solution Architect who builds enterprise applications on the **Azure** platform. He has vast experience with modern enterprise applications and his recent projects use ASP.NET Core Web Api's with frontends on both Angular and React.
 

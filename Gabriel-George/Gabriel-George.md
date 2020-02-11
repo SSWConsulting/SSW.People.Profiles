@@ -34,7 +34,7 @@ quote:  "Failing is how you learn best. To not to try would be your greatest fal
 | ![RxJs Icon](./Images/rxjs.png)
 
 [[imgBadge]]
-| ![React Icon](./Images/react.svg)
+| ![React Icon](../badges/react-logo.png)
 
 [[imgBadge]]
 | ![Vue.Js Icon](./Images/vue.png)
