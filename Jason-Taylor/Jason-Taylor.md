@@ -30,7 +30,7 @@ quote: "Always code as if the guy who ends up maintaining your code will be a vi
 | ![PSDI.png](./Images/Bio/PSDI.png)
 
 [[imgBadge]]
-| ![SAI_BadgeSizes_DigitalBadging_CSM.png](./Images/Bio/SAI_BadgeSizes_DigitalBadging_CSM.png)
+| ![SAI_BadgeSizes_DigitalBadging_CSM.png](../badges/csm-certified-scrum-alliance.png)
 
 ---
 
