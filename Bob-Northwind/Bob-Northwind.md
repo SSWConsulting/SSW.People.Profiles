@@ -16,6 +16,7 @@ facebook:  "bobnorthwind"
 skype:  "bobnorthwind"
 linkedin:  "bobnorthwind"
 twitter:  "bobnorthwind"
+github: "bobnorthwind"
 
 quote:  "Working together to provide solutions to problems proactively every day, for our clients and internally"
 quote_author: "Anonymous"
