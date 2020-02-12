@@ -76,6 +76,8 @@ If your name is not in the list click in **+ New**
 
 > Hint: you can use https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet if you are not familiar with Markdown
 
+> Important: Do not modify your name, it needs to match your name in CRM
+
 ## How to add images on GitHub
 
 1. Navigate to your profile folder

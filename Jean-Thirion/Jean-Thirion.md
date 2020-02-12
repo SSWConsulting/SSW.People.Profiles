@@ -21,17 +21,13 @@ quote: "There is no shame in not knowing. The problem arises when irrational tho
 quote_author: "Neil Degrasse Tyson"
 ---
 
----
-
-<br/>
+[[imgBadge]]
+| ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![angular.png](./Images/Bio/angular.png)
+| ![images.png](../badges/react-logo.png)
 
-[[imgBadge]]
-| ![images.png](./Images/Bio/images.png)
-
-[[imgBadge]]
+[[imgBadgex14]]
 | ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png)
 
 [[imgBadge]]
