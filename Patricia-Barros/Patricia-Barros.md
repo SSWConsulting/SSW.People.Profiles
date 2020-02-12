@@ -16,6 +16,7 @@ facebook:  ""
 twitter:  "@patribarros1"
 linkedin:  "www.linkedin.com/in/barrospatricia"
 skype:  "psbarros@outlook.com"
+github: "patriciabarrosssw"
 
 quote:  "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
 ---
