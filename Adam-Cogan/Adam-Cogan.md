@@ -80,13 +80,13 @@ In 2005 Adam took SSW beyond Australia and opened an SSW branch in China. There 
 Adam loves to spend time working on his Rules pages, and his favourite quote is "There is always free cheese in a mousetrap".
 
 [[imgMd]]
-| ![Figure: Well all rules are meant to be broken :-)](./Images/Bio/figureMouse.jpg)
+| ![Well all rules are meant to be broken :-)](./Images/Bio/figureMouse.jpg)
 
 [[imgMd]]
-| ![Figure: Adam h as spoken at user groups/conferences in these countries](./Images/Bio/figureMap.jpg)
+| ![Adam h as spoken at user groups/conferences in these countries](./Images/Bio/figureMap.jpg)
 
 [[imgMd]]
-| ![Figure: Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!](./Images/Bio/figureIce.jpg)
+| ![Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!](./Images/Bio/figureIce.jpg)
 
 ### What have others said about Adam's speaking?
 
