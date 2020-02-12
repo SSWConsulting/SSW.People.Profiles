@@ -27,7 +27,7 @@ quote_author: "Neil Degrasse Tyson"
 [[imgBadge]]
 | ![images.png](./Images/Bio/react-logo.png)
 
-[[imgBadgex14]]
+[[imgBadge]]
 | ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png)
 
 [[imgBadge]]
