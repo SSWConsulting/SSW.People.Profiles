@@ -21,7 +21,7 @@ quote: "Great spirits have always encountered violent opposition from mediocre m
 ---
 
 [[imgBadge]]
-| ![Certified Scrum Master](./Images/Bio/SAI_BadgeSizes_DigitalBadging_CSM.png)
+| ![Certified Scrum Master](../badges/csm-certified-scrum-alliance.png)
 
 [[imgBadge]]
 | ![Google Ads Fundamental Completion](./Images/Bio/ScreenShot.png)

@@ -28,31 +28,31 @@ quote: "Once upon a time, you had to be rich and powerful to change the world. N
 | ![](./Images/Bio/MCP.png)
 
 [[imgBadge]]
-| ![azure-logo.png](./Images/Bio/azure-logo.png)
+| ![azure-logo.png](../badges/azure-logo.png)
 
 [[imgBadge]]
-| ![.NET Core](./Images/Bio/dotnetcore.png)
+| ![.NET Core](../badges/net-core-logo.png)
 
 [[imgBadge]]
-| ![angular.png](./Images/Bio/angular.png)
+| ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![xamarin](./Images/Bio/xamarin.jpg)
+| ![xamarin](../badges/xamarin.svg)
 
 [[imgBadge]]
-| ![dotnetcode](./Images/Bio/dotnetcode.jpg)
+| ![dotnetcode](../badges/net-code-logo.png)
 
 [[imgBadge]]
-| ![docker](./Images/Bio/docker.jpg)
+| ![docker](../badges/docker.svg)
 
 [[imgBadge]]
-| ![dotnet_foundation_logo.png](./Images/Bio/dotnet_foundation_logo.png)
+| ![dotnet_foundation_logo.png](../badges/NET_Foundation_Logo.svg)
 
 [[imgBadge]]
-| ![ML.NET-logo.png](./Images/Bio/ML.NET-logo.png)
+| ![ML.NET-logo.png](../badges/Mldotnet.svg)
 
 [[imgBadge]]
-| ![Microsoft-Cognitive-Service-Logo.png](./Images/Bio/Microsoft-Cognitive-Service-Logo.png)
+| ![Microsoft-Cognitive-Service-Logo.png](../badges/cognative-services.svg)
 
 ---
 
