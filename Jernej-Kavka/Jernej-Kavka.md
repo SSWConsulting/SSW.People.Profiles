@@ -3,6 +3,7 @@ current_employee: true
 ID: "JernejKavka"
 name: "Jernej Kavka"
 nickname: "JK"
+custom_url: "JK"
 
 legacy_page_url: "/AboutUs/Employees/Pages/JK.aspx"
 category: "Developers"
