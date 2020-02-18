@@ -3,6 +3,7 @@ current_employee: true
 ID: "JeanThirion"
 name: "Jean Thirion"
 nickname: "Jean Thirion"
+custom_url: "jean"
 
 legacy_page_url: "/AboutUs/Employees/Pages/JeanThirion.aspx"
 category: "Developers"
