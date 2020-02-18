@@ -3,6 +3,7 @@ currentEmployee: true
 id: "JernejKavka"
 name: "Jernej Kavka"
 nickname: "JK"
+custom_url: "JK"
 
 category: "Developers"
 role: "Senior Software Architect"
