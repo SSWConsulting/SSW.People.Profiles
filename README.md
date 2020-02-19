@@ -16,12 +16,12 @@ Sample Profile: https://www.ssw.com.au/people/bob-northwind
 1. In CRM, ensure that you have an user profile or create user profile in CRM  - https://live.crm.ssw.com.au/main.aspx#
 
 ![Instructions_CRM_Users.png](./.github/instructions/images/Instructions_CRM_Users.png)  
-**Figure: Find your user profile in CRM **
+**Figure: Find your user profile in CRM**
 
 If your name is not in the list click in **+ New**
 
 ![Instructions_Create_User_CRM.png](./.github/instructions/images/Instructions_Create_User_CRM.png)  
-**Figure: Add New User in CRM**
+**Figure: Add New**
 
 2. Fork the repository SSWConsulting/People - Branch: **master**
 
