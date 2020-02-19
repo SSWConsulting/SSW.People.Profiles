@@ -22,13 +22,13 @@ quote_author: "Franklin D. Roosevelt"
 ---
 
 [[imgBadge]]
-| ![dotnetcore.png](./Images/Bio/dotnetcore.png)
+| ![dotnetcore.png](../badges/net-core-logo.png)
 
 [[imgBadge]]
-| ![angular.png](./Images/Bio/angular.png)
+| ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![ngrx.jpg](./Images/Bio/ngrx.jpg)
+| ![ngrx.jpg](../badges/ngrx.svg)
 
 Andreas is an experienced Software Developer with a demonstrated history of working in the information technology and services industry.
 

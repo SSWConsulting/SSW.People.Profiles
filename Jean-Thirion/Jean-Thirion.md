@@ -21,15 +21,11 @@ quote: "There is no shame in not knowing. The problem arises when irrational tho
 quote_author: "Neil Degrasse Tyson"
 ---
 
----
-
-<br/>
+[[imgBadge]]
+| ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![angular.png](./Images/Bio/angular.png)
-
-[[imgBadge]]
-| ![images.png](./Images/Bio/images.png)
+| ![images.png](../badges/react-logo.png)
 
 [[imgBadge]]
 | ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png)
@@ -48,8 +44,7 @@ His deep knowledge of **SharePoint's** many capabilities, combined with the **la
 Jean has been working with **SharePoint** for the past 7 years, in France, Luxembourg, and now Australia. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.
 
 [[imgMd]]
-| ![60398623_2776967035653247_301891567608659968_n.jpg](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
-**Figure: Jean and Brendan at the Angular Superpowers Tour - Brisbane**
+| ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
 
 When he is not leveraging this **knowledge** to develop **client applications**, Jean is one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.
 
@@ -59,7 +54,7 @@ Jean is highly motivated, with strong technical skills, which allows him to unde
 
 - PNP Libraries & provisioning engine
 - SPFX
-- Nintex Workflows / MS Flow
+- Nintex Workflows / MS PowerAutomate
 - AvePoint / ShareGate
 
 **Jean's Internal Projects:**
