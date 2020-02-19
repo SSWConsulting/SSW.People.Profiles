@@ -40,8 +40,8 @@ If your name is not in the list click in **+ New**
 ![Instructions_Copy_Paste_Folder.png](./.github/instructions/images/Instructions_Copy_Paste_Folder.png)  
 **Figure: Copy & Paste "Bob Northwind" folder**
 
-5. Change folder and file names to match user’s **Firstname-Lastname** identifier
-   - **Firstname-Lastname** must be identical to CRM data
+5. Change folder and file names to match user’s **Firstname-Lastname** identifier  
+    - **Firstname-Lastname** must be identical to CRM data
 
 ![Instructions_Change_Folder_Name.png](./.github/instructions/images/Instructions_Change_Folder_Name.png)  
 **Figure: Change folder's name from "Bob-Northwind" to "Firstname-Lastname"**
@@ -55,18 +55,18 @@ If your name is not in the list click in **+ New**
 6. Open Firstname-Lastname.md file and update profile information
 
 ![Instructions_Change_File_Names.png](./.github/instructions/images/Instructions_Change_File_Names.png)  
-**Figure: Open & Update profile file**
-> If you want to include badges to your profile, first look for the image in the **/badges** folder
+**Figure: Open & Update profile file**  
 
-> If you want to add images or your badge is not in the **/badges** folder, follow the instruction in **[How to add images on GitHub](#how-to-add-images-on-github)** section
+- If you want to include badges to your profile, look for the image in the **/badges** folder  
+- If you want to add images or your badge is not in the **/badges** folder, follow the instruction in **[How to add images on GitHub](#how-to-add-images-on-github)** section
 
 7. Commit your changes
 
 ![Instructions_Commit_Push_Changes.png](./.github/instructions/images/Instructions_Commit_Push_Changes.png)  
 **Figure: Commit your changes**
 
-8. Create Pull Request and you are done
-    - Follow instructions in the **step 5** in **[How to publish your changes](#how-to-publish-your-changes)** section
+8. Create Pull Request and you are done  
+Follow instructions in the **step 5** in **[How to publish your changes](#how-to-publish-your-changes)** section
 
 > TODO: Improve user experience (automation)
 
