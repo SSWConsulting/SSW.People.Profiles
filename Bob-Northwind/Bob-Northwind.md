@@ -112,13 +112,13 @@ _italic_ or _italic_
 
 ```
 [[imgLg]]
-| ![This is a cat with a laptop](./Images/Bio/cat_computer.jpg)
+| ![Large image](./Images/Bio/cat_computer.jpg)
 
 [[imgMd]]
-| ![This is a cat with a laptop](./Images/Bio/cat_computer.jpg)
+| ![Medium image](./Images/Bio/cat_computer.jpg)
 
 [[imgSm]]
-| ![This is a cat with a laptop](./Images/Bio/cat_computer.jpg)
+| ![Small image](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
 | ![Microsoft certification](./Images/Bio/microsoftCertified.jpg)
@@ -129,16 +129,16 @@ _italic_ or _italic_
 ## Output:
 
 [[imgLg]]
-| ![This is a cat with a laptop](./Images/Bio/cat_computer.jpg)
+| ![Large image](./Images/Bio/cat_computer.jpg)
 
 [[imgMd]]
-| ![This is a cat with a laptop](./Images/Bio/cat_computer.jpg)
+| ![Medium image](./Images/Bio/cat_computer.jpg)
 
 [[imgSm]]
-| ![This is a cat with a laptop](./Images/Bio/cat_computer.jpg)
+| ![Small image](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
-| ![Microsoft certification](./Images/Bio/microsoftCertified.jpg)
+| ![Microsoft certification](../badges/microsoft-certified.jpg)
 
 &nbsp;
 
