@@ -13,61 +13,62 @@ Sample Profile: https://www.ssw.com.au/people/bob-northwind
 
 ## How to create a new profile
 
-1. Create user profile in CRM or ensure that you user profile is created in CRM - https://live.crm.ssw.com.au/main.aspx#
+1. In CRM, ensure that you have an user profile or create user profile in CRM  - https://live.crm.ssw.com.au/main.aspx#
 
 ![Instructions_CRM_Users.png](./.github/instructions/images/Instructions_CRM_Users.png)  
-**Figure: CRM Users List**
+**Figure: Find your user profile in CRM **
 
 If your name is not in the list click in **+ New**
 
 ![Instructions_Create_User_CRM.png](./.github/instructions/images/Instructions_Create_User_CRM.png)  
-**Figure: Creating User in CRM**
+**Figure: Add New User in CRM**
 
 2. Fork the repository SSWConsulting/People - Branch: **master**
 
 ![Instructions_Fork_Repository.png](./.github/instructions/images/Instructions_Fork_Repository.png)  
-**Figure: Forking Repository**
+**Figure: Fork the Repository to be able to create a new profile**
 
 3. Clone your forked repository
 
 > Hint: You can use [GitHub Desktop](https://desktop.github.com/)
 
 ![Instructions_Clone_Forked_Repository.png](./.github/instructions/images/Instructions_Clone_Forked_Repository.png)  
-**Figure: Cloning the repository**
+**Figure: Clone the forked repository to start to create a new profile**
 
-4. Copy/Paste **"Bob Northwind"** Profile folder using Windows Explorer
+4. In Windows Explorer, Copy & Paste **"Bob Northwind"** Profile folder
 
 ![Instructions_Copy_Paste_Folder.png](./.github/instructions/images/Instructions_Copy_Paste_Folder.png)  
-**Figure: Copying / Pasting the folder using Windows Explorer**
+**Figure: Copy & Paste "Bob Northwind" folder**
 
 5. Change folder and file names to match user’s **Firstname-Lastname** identifier
-   - **Firstname-Lastname** need to be identical to CRM data
+   - **Firstname-Lastname** must be identical to CRM data
 
 ![Instructions_Change_Folder_Name.png](./.github/instructions/images/Instructions_Change_Folder_Name.png)  
-**Figure: Changing folder name**
+**Figure: Change folder's name from "Bob-Northwind" to "Firstname-Lastname"**
 
 ![Instructions_Change_File_Names.png](./.github/instructions/images/Instructions_Change_File_Names.png)  
-**Figure: Changing profile file name**
+**Figure: Change profile file's name from "Bob-Northwind" to "Firstname-Lastname"**
 
 ![Instructions_Change_Image_Name.png](./.github/instructions/images/Instructions_Change_Image_Name.png)  
-**Figure: Replacing images with your company profile images**
+**Figure: Replace the profile images from "Bob-Northwind" to "Firstname-Lastname"**
 
 6. Open Firstname-Lastname.md file and update profile information
 
 ![Instructions_Change_File_Names.png](./.github/instructions/images/Instructions_Change_File_Names.png)  
-**Figure: Opening / Updating profile**
+**Figure: Open & Update profile file**
+> If you want to include badges to your profile, first look for the image in the **/badges** folder
+
+> If you want to add images or your badge is not in the **/badges** folder, follow the instruction in **[How to add images on GitHub](#how-to-add-images-on-github)** section
 
 7. Commit your changes
 
 ![Instructions_Commit_Push_Changes.png](./.github/instructions/images/Instructions_Commit_Push_Changes.png)  
-**Figure: Committing changes**
+**Figure: Commit your changes**
 
-8. Click "Create Pull Request"
+8. Create Pull Request and you are done
+    - Follow instructions in the **step 5** in **[How to publish your changes](#how-to-publish-your-changes)** section
 
-![Instructions_Create_PR.png](./.github/instructions/images/Instructions_Create_PR.png)
-**Figure: Creating pull request (PR)**
-
-> Todo: Improve user experience (automation)
+> TODO: Improve user experience (automation)
 
 ## How to edit your profile on GitHub
 
