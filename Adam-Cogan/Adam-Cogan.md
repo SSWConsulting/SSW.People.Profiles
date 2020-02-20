@@ -30,7 +30,13 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 | ![](../badges/scrumtrainer.png)
 
 [[imgBadge]]
-| ![](../badges/scrum-badges.jpg)
+| ![](../badges/Scrumorg-PSM-large.png)
+
+[[imgBadge]]
+| ![](../badges/Scrumorg-PSD-large.png)
+
+[[imgBadge]]
+| ![](../badges/Scrumorg-PST-large.png)
 
 [[imgBanner]]
 | ![](./Images/Bio/devops.png)
