@@ -171,7 +171,7 @@ Developed and lectured the UTS .NET Short Course.
 **Related Technology**: .NET Framework, AJAX, Click Once, SQL Server, ADO.NET, Visual Studio Team Suite, Visual Studio Team Foundation Server, Windows Forms, ASP.NET, Web Services  
 
 </td></tr><tr class="ms-rteTableFooterRow-default"><td class="ms-rteTableFooterEvenCol-default" rowspan="1" style="width:7%;text-align:center;"> 
-       ![500px-TransGrid_logo.svg.png](./Images/Bio/500px-TransGrid_logo.svg.png) 
+       ![500px-TransGrid_logo.png](./Images/Bio/500px-TransGrid_logo.png) 
    
 
     </td><td class="ms-rteTableFooterOddCol-default" rowspan="1"> 

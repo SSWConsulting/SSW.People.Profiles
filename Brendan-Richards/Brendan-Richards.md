@@ -30,10 +30,10 @@ quote: "Open Source Software is not about the price. Its about the freedom to us
 | ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![ngrx.jpg](../badges/ngrx.svg)
+| ![ngrx.jpg](../badges/ngrx.png)
 
 [[imgBadge]]
-| ![liinux.jpg](../badges/Tux.svg)
+| ![liinux.jpg](../badges/Tux.png)
 
 ---
 

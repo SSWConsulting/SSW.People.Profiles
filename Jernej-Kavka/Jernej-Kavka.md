@@ -37,22 +37,22 @@ quote: "Once upon a time, you had to be rich and powerful to change the world. N
 | ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![xamarin](../badges/xamarin.svg)
+| ![xamarin](../badges/xamarin.png)
 
 [[imgBadge]]
 | ![dotnetcode](../badges/net-code-logo.png)
 
 [[imgBadge]]
-| ![docker](../badges/docker.svg)
+| ![docker](../badges/docker.png)
 
 [[imgBadge]]
-| ![dotnet_foundation_logo.png](../badges/NET_Foundation_Logo.svg)
+| ![dotnet_foundation_logo.png](../badges/NET_Foundation_Logo.png)
 
 [[imgBadge]]
-| ![ML.NET-logo.png](../badges/Mldotnet.svg)
+| ![ML.NET-logo.png](../badges/MlDotNet.png)
 
 [[imgBadge]]
-| ![Microsoft-Cognitive-Service-Logo.png](../badges/cognative-services.svg)
+| ![Microsoft-Cognitive-Service-Logo.png](../badges/cognitive-services.png)
 
 ---
 
