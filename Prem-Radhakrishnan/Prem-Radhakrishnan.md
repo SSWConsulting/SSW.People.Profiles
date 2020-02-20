@@ -21,10 +21,10 @@ quote: "Programming is definitely not therapeutic however it can definitely be c
 ---
 
 [[imgBadge]]
-| ![CISM.png](./Images/Bio/CISM.png)
+| ![CISM.png](../badges/CISM.png)
 
 [[imgBadge]]
-| ![CRISC.png](./Images/Bio/CRISC.png)
+| ![CRISC.png](../badges/CRISC.png)
 
 ---
 

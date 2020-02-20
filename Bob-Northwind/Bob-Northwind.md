@@ -121,7 +121,7 @@ _italic_ or _italic_
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
-| ![Microsoft certification](./Images/Bio/microsoftCertified.jpg)
+| ![Microsoft certification](../badges/microsoft-Certified.jpg)
 ```
 
 &nbsp;
