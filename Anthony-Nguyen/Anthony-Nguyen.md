@@ -20,13 +20,13 @@ skype:  "nvhoanganh1909"
 quote:  "Do it now, sometimes 'later' becomes 'never'"
 ---
 [[imgBadge]]
-| ![Certified Scrum Master](./Images/Bio/csm.png) 
+| ![Certified Scrum Master](../badges/csm.png) 
 
 [[imgBadge]]
-| ![Microsoft Certified Professional](./Images/Bio/MCP.png) 
+| ![Microsoft Certified Professional](../badges/microsoft-certified.jpg) 
 
 [[imgBadge]]
-| ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
+| ![Sitefinity](../badges/logo_sitefinity.png) 
   
 
 Anthony is the Solution Architect at SSW, a certified Scrum Master with experience delivering various types of Software Development projects ranging from custom ERP, CRM, HR and Payroll, Utilities (Telecom) and recording systems, CMS, Product Transformation and Cloud Transformation.

@@ -3,6 +3,7 @@ current_employee: true
 ID: "JeanThirion"
 name: "Jean Thirion"
 nickname: "Jean Thirion"
+custom_url: "jean"
 
 legacy_page_url: "/AboutUs/Employees/Pages/JeanThirion.aspx"
 category: "Developers"
@@ -28,10 +29,10 @@ quote_author: "Neil Degrasse Tyson"
 | ![images.png](../badges/react-logo.png)
 
 [[imgBadge]]
-| ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png)
+| ![MCSD_ShareApp_Blk.png](../badges/MCSD_ShareApp_Blk.png)
 
 [[imgBadge]]
-| ![MCSD App Builder-logo-Blk.png](./Images/Bio/MCSD_App_Builder-logo-Blk.png)
+| ![MCSD App Builder-logo-Blk.png](../badges/MCSD_App_Builder-logo-Blk.png)
 
 ---
 
