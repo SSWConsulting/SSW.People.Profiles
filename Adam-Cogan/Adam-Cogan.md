@@ -21,16 +21,22 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 ---
 
 [[imgBadge]]
-| ![](./Images/Bio/microsoftCertified.jpg)
+| ![](../badges/microsoft-certified.jpg)
 
 [[imgBadge]]
-| ![](./Images/Bio/Microsoft-Regional-Director-35h.png)
+| ![](../badges/Microsoft-Regional-Director.png)
 
 [[imgBadge]]
-| ![](./Images/Bio/scrumtrainer.png)
+| ![](../badges/scrumtrainer.png)
 
 [[imgBadge]]
-| ![](./Images/Bio/scrum-badges.jpg)
+| ![](../badges/Scrumorg-PSM-large.png)
+
+[[imgBadge]]
+| ![](../badges/Scrumorg-PSD-large.png)
+
+[[imgBadge]]
+| ![](../badges/Scrumorg-PST-large.png)
 
 [[imgBanner]]
 | ![](./Images/Bio/devops.png)
