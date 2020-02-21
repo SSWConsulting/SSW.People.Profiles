@@ -37,7 +37,7 @@ quote: "Failing is how you learn best. To not to try would be your greatest fall
 | ![React Icon](../badges/react-logo.png)
 
 [[imgBadge]]
-| ![Vue.Js Icon](../badges/Vuejs-logo.png)
+| ![Vue.Js Icon](../badges/vuejs-logo.png)
 
 <br/>
 
