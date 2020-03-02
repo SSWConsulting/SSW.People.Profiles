@@ -27,7 +27,7 @@ quote: "A good programmer looks both ways before crossing a one-way street"
 | ![angular.png](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![zendesk.png](../badges/zendesk.svg)
+| ![zendesk.png](../badges/Zendesk.png)
 
 Kosta is a Senior Software Architect based in SSW's Sydney office. He is passionate about innovations and effective delivery of services.
 

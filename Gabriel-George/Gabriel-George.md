@@ -28,16 +28,16 @@ quote: "Failing is how you learn best. To not to try would be your greatest fall
 | ![Angular Icon](../badges/angular-logo.png)
 
 [[imgBadge]]
-| ![Ngrx Icon](../badges/ngrx.svg)
+| ![Ngrx Icon](../badges/ngrx.png)
 
 [[imgBadge]]
-| ![RxJs Icon](../badges/rxjs.svg)
+| ![RxJs Icon](../badges/rxjs.png)
 
 [[imgBadge]]
 | ![React Icon](../badges/react-logo.png)
 
 [[imgBadge]]
-| ![Vue.Js Icon](../badges/Vue.js-logo.svg)
+| ![Vue.Js Icon](../badges/vuejs-logo.png)
 
 <br/>
 

@@ -21,13 +21,13 @@ quote: "Always code as if the guy who ends up maintaining your code will be a vi
 ---
 
 [[imgBadge]]
-| ![MSCProfessional.png](./Images/Bio/MSCProfessional.png)
+| ![MSCProfessional.png](../badges/MSCProfessional.png)
 
 [[imgBadge]]
-| ![MSCWebAp.png](./Images/Bio/MSCWebAp.png)
+| ![MSCWebAp.png](../badges/MCSD_WebApplication.png)
 
 [[imgBadge]]
-| ![PSDI.png](./Images/Bio/PSDI.png)
+| ![PSDI.png](../badges/PSDI.png)
 
 [[imgBadge]]
 | ![SAI_BadgeSizes_DigitalBadging_CSM.png](../badges/csm-certified-scrum-alliance.png)

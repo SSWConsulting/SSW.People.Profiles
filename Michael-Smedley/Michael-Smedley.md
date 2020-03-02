@@ -24,7 +24,7 @@ quote: "Great spirits have always encountered violent opposition from mediocre m
 | ![Certified Scrum Master](../badges/csm-certified-scrum-alliance.png)
 
 [[imgBadge]]
-| ![Google Ads Fundamental Completion](./Images/Bio/ScreenShot.png)
+| ![Google Ads Fundamental Completion](../badges/ScreenShot.png)
 
 Michael is a highly creative and driven person with many “outside the box ideas” and a passion for technology and innovation.
 
