@@ -46,7 +46,7 @@ Matt has had experience with companies ranging from small businesses to large AS
 
 - PABX systems
 
-Matt loves DevOps, DevOps and DevOps. He has experience with Azure DevOps Build and Release and these days prefers it over Octopus and Bamboo. Matt likes clean architecture, using the right tool for the job, seeing developers push changes to production with confidence, Selenium automation, building solutions on Azure and never has to reminisce about Webforms.
+Matt loves DevOps, DevOps and DevOps. These days he prefers Azure DevOps Build Pipelines over Octopus and Bamboo. Matt likes clean architecture, using the right tool for the job, seeing developers push changes to production with confidence, automated tests, building solutions on Azure, and now he never has to reminisce about Webforms.
 
 ## Recent Project Highlights:
 `youtube: esPfjax-G-I`
