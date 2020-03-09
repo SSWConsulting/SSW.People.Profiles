@@ -3,6 +3,7 @@ current_employee: true
 ID: "PatriciaBarros"
 name: "Patricia Barros"
 nickname: "Patricia"
+custom_url: "patricia"
 
 legacy_page_url: "/AboutUs/Employees/Pages/Patricia.aspx"
 category: "Developers"
