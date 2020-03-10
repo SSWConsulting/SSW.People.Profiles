@@ -17,6 +17,7 @@ facebook:  ""
 twitter:  ""
 linkedin:  "s%C3%A9bastien-boissi%C3%A8re-71b76637/?locale=en_US"
 skype:  "live:boissiere.seb"
+github: "SebastienBoissiere"
 
 quote:  "First, solve the problem. Then, write the code."
 quote_author: "John Johnson"
