@@ -4,7 +4,6 @@ ID: "SebastienBoissiere"
 name: "Sebastien Boissiere"
 nickname: "Sebastien"
 custom_url: "seb"
-
 legacy_page_url: "/AboutUs/Employees/Pages/SebastienBoissiere.aspx"
 category: "Developers"
 role:  "Software Architect"
