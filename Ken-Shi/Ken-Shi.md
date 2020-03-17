@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "KenShi"
+current-employee: true
+id: "KenShi"
 name: "Ken Shi"
 nickname: "Ken"
 
-legacy_page_url: "/AboutUs/Employees/Pages/ken.aspx"
 category: "Designers"
 role:  "User Experience Expert"
 qualifications:  "Bachelor of Commerce"

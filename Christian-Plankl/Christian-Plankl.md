@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "ChristianPlankl"
+current-employee: false
+id: "ChristianPlankl"
 name: "Christian Plankl"
 nickname: "Christian"
 
-legacy_page_url: "/AboutUs/Employees/Pages/ChristianPlankl.aspx"
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Computer Science"

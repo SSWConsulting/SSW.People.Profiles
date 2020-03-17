@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DanijelMalik"
+current-employee: false
+id: "DanijelMalik"
 name: "Danijel Malik"
 nickname: "Danijel Malik"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Danijel-Malik.aspx"
 category: "Developers"
 role:  "Solution Architect, Code Auditor Product Owner"
 qualifications:  "MVP, MCSD"

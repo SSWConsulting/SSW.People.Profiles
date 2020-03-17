@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DanZhang"
+current-employee: false
+id: "DanZhang"
 name: "Dan Zhang"
 nickname: "Dan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/DanZhang.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Master of computer"

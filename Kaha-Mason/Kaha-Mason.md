@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "KahaMason"
+current-employee: true
+id: "KahaMason"
 name: "Kaha Mason"
 nickname: "Kaha"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Kaha.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of Information Technology"

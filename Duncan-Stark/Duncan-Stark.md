@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "DuncanStark"
+current-employee: true
+id: "DuncanStark"
 name: "Duncan Stark"
 nickname: "Duncan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Duncan.aspx"
 category: "Admin"
 role:  "Office Manager and PA"
 qualifications:  "Bachelor of Science"

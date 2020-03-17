@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "NickWienholt"
+current-employee: false
+id: "NickWienholt"
 name: "Nick Wienholt"
 nickname: "Nick"
 
-legacy_page_url: "/AboutUs/Employees/Pages/NickW.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "BEng (Hons), MEng"

@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "AdamCogan"
+current-employee: true
+id: "AdamCogan"
 name: "Adam Cogan"
 nickname: "Adam Cogan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Adam.aspx"
 category: "Managers"
 role: "Chief Architect, Microsoft Regional Director"
 qualifications: "Trainer, B Bus, JP, MCP, Microsoft MVP (ALM)"

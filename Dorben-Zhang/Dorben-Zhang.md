@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DorbenZhang"
+current-employee: false
+id: "DorbenZhang"
 name: "Dorben Zhang"
 nickname: "Dorben"
 
-legacy_page_url: "/AboutUs/Employees/Pages/DorbenZhang.aspx"
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Microsoft MCP"

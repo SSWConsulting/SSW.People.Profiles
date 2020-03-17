@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "CameronShaw"
+current-employee: true
+id: "CameronShaw"
 name: "Cameron Shaw"
 nickname: "Cameron"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Cameron.aspx"
 category: "Admin"
 role:  "Project Manager, Strategy"
 qualifications:  "BA LLB (Honours Class I) Grad Dip Ed"

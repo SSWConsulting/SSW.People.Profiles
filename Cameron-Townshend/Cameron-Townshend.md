@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "CameronTownshend"
+current-employee: false
+id: "CameronTownshend"
 name: "Cameron Townshend"
 nickname: "Cameron Townshend"
 
-legacy_page_url: "/AboutUs/Employees/Pages/CameronT.aspx"
 category: "Managers"
 role:  "Senior Software Architect"
 qualifications:  "B Sc (Mathematics), MCP (SQL Server, VB.Net, MS Access, MS Excel, Networking)"

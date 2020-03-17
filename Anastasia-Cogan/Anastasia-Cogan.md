@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "AnastasiaCogan"
+current-employee: true
+id: "AnastasiaCogan"
 name: "Anastasia Cogan"
 nickname: "Anastasia"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Anastasia.aspx"
 category: "Admin"
 role:  "Financial Controller"
 qualifications:  "Bachelor of Business (UTS), CPA"

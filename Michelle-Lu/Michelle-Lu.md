@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MichelleLu"
+current-employee: false
+id: "MichelleLu"
 name: "Michelle Lu"
 nickname: "Michelle"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Michelle.aspx"
 category: "Admin"
 role:  "BJ Accountant"
 qualifications:  ""

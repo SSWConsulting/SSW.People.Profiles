@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "AllanZhou"
+current-employee: false
+id: "AllanZhou"
 name: "Allan Zhou"
 nickname: "Allan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Allan.aspx"
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Bachelor of Computer Science"

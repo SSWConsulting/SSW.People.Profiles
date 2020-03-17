@@ -1,11 +1,10 @@
 ---
-current_employee: true
-ID: "PatriciaBarros"
+current-employee: true
+id: "PatriciaBarros"
 name: "Patricia Barros"
 nickname: "Patricia"
-custom_url: "patricia"
+custom-url: "patricia"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Patricia.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  ""

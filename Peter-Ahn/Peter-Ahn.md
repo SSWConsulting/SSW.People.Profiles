@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "PeterAhn"
+current-employee: false
+id: "PeterAhn"
 name: "Peter Ahn"
 nickname: "Peter Ahn"
 
-legacy_page_url: "/AboutUs/Employees/Pages/PeterA.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Dip IT, MCP"

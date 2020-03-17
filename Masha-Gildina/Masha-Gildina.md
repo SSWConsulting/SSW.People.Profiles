@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MashaGildina"
+current-employee: false
+id: "MashaGildina"
 name: "Masha Gildina"
 nickname: "Masha Gildina"
 
-legacy_page_url: "/AboutUs/Employees/Pages/MashaG.aspx"
 category: "Admin"
 role:  "Personal Assistant/Marketing"
 qualifications:  "B. Commerce"

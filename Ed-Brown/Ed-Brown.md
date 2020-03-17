@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "EdBrown"
+current-employee: false
+id: "EdBrown"
 name: "Ed Brown"
 nickname: "Ed Brown"
 
-legacy_page_url: "/AboutUs/Employees/Pages/EdB.aspx"
 category: "Developers"
 role:  "Senior Software Architect "
 qualifications:  "Assoc. Dip. Computer Applications & Development"

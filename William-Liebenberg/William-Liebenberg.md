@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "WilliamLiebenberg"
+current-employee: true
+id: "WilliamLiebenberg"
 name: "William Liebenberg"
 nickname: "William"
 
-legacy_page_url: "/AboutUs/Employees/Pages/WilliamLiebenberg.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of Information Technology - Software Engineering"

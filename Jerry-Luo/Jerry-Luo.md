@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "JerryLuo"
+current-employee: true
+id: "JerryLuo"
 name: "Jerry Luo"
 nickname: "Jerry"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Jerry.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Bachelor of Software Engineering"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "GhulamMustafa"
+current-employee: false
+id: "GhulamMustafa"
 name: "Ghulam Mustafa"
 nickname: "Ghulam Mustafa"
 
-legacy_page_url: "/AboutUs/Employees/Pages/GhulamM.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Master of Science in Computer Science and Technology "

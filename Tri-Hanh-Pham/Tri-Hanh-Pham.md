@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "TriHanhPham"
+current-employee: false
+id: "TriHanhPham"
 name: "Tri-Hanh Pham"
 nickname: "Tri"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Tri.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Masters in Computer Science, Masters in Project Management"

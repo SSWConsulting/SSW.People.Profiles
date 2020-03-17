@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "ParthoPDas"
+current-employee: false
+id: "ParthoPDas"
 name: "Partho P Das"
 nickname: "Partho"
 
-legacy_page_url: "/AboutUs/Employees/Pages/ParthoPDas.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of Tech. (Computer Sci. & Engg.)"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JustinKing"
+current-employee: false
+id: "JustinKing"
 name: "Justin King"
 nickname: "Justin King"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Justin.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B App Science"

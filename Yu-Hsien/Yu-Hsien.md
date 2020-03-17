@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "YuHsien"
+current-employee: false
+id: "YuHsien"
 name: "Yu-Hsien"
 nickname: "Yu"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Yu-Hsien.aspx"
 category: "Designers"
 role:  "Video Specialist"
 qualifications:  "Master of Interactive and Digital Media"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MichaelDemarco"
+current-employee: false
+id: "MichaelDemarco"
 name: "Michael Demarco"
 nickname: "Michael"
 
-legacy_page_url: "/AboutUs/Employees/Pages/MichaelDemarco.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "BSc Computing and Information Systems"

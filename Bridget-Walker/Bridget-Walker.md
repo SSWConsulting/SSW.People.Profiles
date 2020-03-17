@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "BridgetWalker"
+current-employee: false
+id: "BridgetWalker"
 name: "Bridget Walker"
 nickname: "Bridget"
 
-legacy_page_url: "/AboutUs/Employees/Pages/BridgetWalker.aspx"
 category: "Admin"
 role:  "Personal Assistant to Adam Cogan"
 qualifications:  ""

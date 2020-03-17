@@ -1,11 +1,10 @@
 ---
-current_employee: true
-ID: "MattWicks"
+current-employee: true
+id: "MattWicks"
 name: "Matt Wicks"
 nickname: "Matt"
-custom_url: "matt"
+custom-url: "matt"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Matt.aspx"
 category: "Developers"
 role: "Solution Architect"
 qualifications: "Bachelor of Multimedia Computing, Certified Scrum Master"

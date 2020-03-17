@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "LuZhang"
+current-employee: true
+id: "LuZhang"
 name: "Lu Zhang"
 nickname: "Lu"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Lu.aspx"
 category: "Developers"
 role: "Senior Software Developer"
 qualifications: ""

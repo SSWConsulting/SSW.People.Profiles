@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JackZhou"
+current-employee: false
+id: "JackZhou"
 name: "Jack Zhou"
 nickname: "Jack Zhou"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JackZ.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B.Eng - International Engineering Management, MCP"

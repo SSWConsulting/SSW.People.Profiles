@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JoannaFeely"
+current-employee: false
+id: "JoannaFeely"
 name: "Joanna Feely"
 nickname: "Jo"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JoannaFeely.aspx"
 category: "Admin"
 role:  "Personal Assistant/Office Administrator"
 qualifications:  "B Creative Arts (Creative Writing) "

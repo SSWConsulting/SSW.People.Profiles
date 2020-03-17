@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MartinHinshelwood"
+current-employee: false
+id: "MartinHinshelwood"
 name: "Martin Hinshelwood"
 nickname: "Martin Hinshelwood"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Martin.aspx"
 category: "Developers"
 role:  "Solution Architect, Microsoft Visual Studio ALM MVP & Ranger"
 qualifications:  "BSc Computer Studies, Microsoft Certified Professional, Microsoft Certified Technical Specialist"

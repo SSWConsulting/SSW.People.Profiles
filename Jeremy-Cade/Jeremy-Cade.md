@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JeremyCade"
+current-employee: false
+id: "JeremyCade"
 name: "Jeremy Cade"
 nickname: "Jeremy"
 
-legacy_page_url: "/AboutUs/Employees/Pages/jeremy.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B.InfTech (Accl), M.InfTech"

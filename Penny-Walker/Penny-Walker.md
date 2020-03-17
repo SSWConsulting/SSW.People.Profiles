@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "PennyWalker"
+current-employee: true
+id: "PennyWalker"
 name: "Penny Walker"
 nickname: "Penny"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Penny-Walker.aspx"
 category: "Managers"
 role:  "State Manager - Queensland and International"
 qualifications:  "B Ancient History; MSc Museum Studies"
@@ -18,7 +17,7 @@ linkedin:  "penny-walker-9878b624"
 skype:  "pennywalker82"
 
 quote:  "To improve is to change; to be perfect is to change often."
-quote_author: "Winston Churchill"
+quote-author: "Winston Churchill"
 ---
 
 Penny is the SSW State Manager of Queensland and International clients. Operating from the SSW office in Brisbane CBD, Penny is in charge of looking after SSW's global clients in the US, Europe, Asia, and beyond.

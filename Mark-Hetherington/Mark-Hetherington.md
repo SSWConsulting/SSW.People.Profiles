@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MarkHetherington"
+current-employee: false
+id: "MarkHetherington"
 name: "Mark Hetherington"
 nickname: "Mark H (aka MLH)"
 
-legacy_page_url: "/AboutUs/Employees/Pages/MarkH.aspx"
 category: "Managers"
 role:  "Scrum and Agile Coach"
 qualifications:  "BSc. (Hons) Computer Science, London University"

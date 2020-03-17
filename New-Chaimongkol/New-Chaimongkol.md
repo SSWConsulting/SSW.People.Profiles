@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "NewChaimongkol"
+current-employee: true
+id: "NewChaimongkol"
 name: "New Chaimongkol"
 nickname: "New"
 
-legacy_page_url: "/AboutUs/Employees/Pages/New.aspx"
 category: "Admin"
 role:  "Assistant Financial Controller"
 qualifications:  "B. Science, M. Commerce, M. Economics"

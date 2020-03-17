@@ -1,10 +1,10 @@
 ---
-current_employee: true
-ID: "Wearehiring"
+current-employee: true
+id: "Wearehiring"
 name: "We are hiring"
 nickname: "We are hiring"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JoinOurTeam.aspx"
+alternative-url: "/AboutUs/Employees/Pages/JoinOurTeam.aspx"
 category: "Developers"
 role:  "enthusiastic People"
 qualifications:  "Many"

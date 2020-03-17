@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MeganWeeks"
+current-employee: false
+id: "MeganWeeks"
 name: "Megan Weeks"
 nickname: "Megan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Megan.aspx"
 category: "Admin"
 role:  "Personal Assistant"
 qualifications:  "B"

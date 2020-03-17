@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "GregJoosse"
+current-employee: false
+id: "GregJoosse"
 name: "Greg Joosse"
 nickname: "Greg Joosse"
 
-legacy_page_url: "/AboutUs/Employees/Pages/GregJ.aspx"
 category: "Developers"
 role:  "Network Administrator"
 qualifications:  ""

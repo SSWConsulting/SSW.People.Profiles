@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "KostaMadorsky"
+current-employee: true
+id: "KostaMadorsky"
 name: "Kosta Madorsky"
 nickname: "Kosta"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Kosta.aspx"
 category: "Developers"
 role: "Senior Software Architect"
 qualifications: "Bachelor of Computer Science, Certified Base Programmer for SAS 9"

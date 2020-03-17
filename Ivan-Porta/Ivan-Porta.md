@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "IvanPorta"
+current-employee: false
+id: "IvanPorta"
 name: "Ivan Porta"
 nickname: "Ivan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Ivan.aspx"
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Microsoft Certified Professional"

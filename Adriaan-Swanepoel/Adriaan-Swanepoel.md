@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "AdriaanSwanepoel"
+current-employee: false
+id: "AdriaanSwanepoel"
 name: "Adriaan Swanepoel"
 nickname: "Adriaan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/AdriaanSwanepoel.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Dip Computer Science"

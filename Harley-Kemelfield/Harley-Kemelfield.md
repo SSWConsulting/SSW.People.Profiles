@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "harleykemelfield"
+current-employee: true
+id: "harleykemelfield"
 name: "Harley Kemelfield"
 nickname: "Harley"
 
-legacy_page_url: ""
 category: "Developers"
 role:  "Work Experience"
 location: "Melbourne"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "RobertJia"
+current-employee: false
+id: "RobertJia"
 name: "Robert Jia"
 nickname: "Robert"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Robert.aspx"
 category: "Developers"
 role:  "Software Developer "
 qualifications:  "MCP, Information System Management"

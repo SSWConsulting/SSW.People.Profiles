@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MatthewHodgkins"
+current-employee: false
+id: "MatthewHodgkins"
 name: "Matthew Hodgkins"
 nickname: "Matthew"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Matthew.aspx"
 category: "Developers"
 role:  "Senior Systems Administrator"
 qualifications:  "Diploma Of Network Engineering"

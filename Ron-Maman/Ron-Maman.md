@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "RonMaman"
+current-employee: false
+id: "RonMaman"
 name: "Ron Maman"
 nickname: "Ron Maman"
 
-legacy_page_url: "/AboutUs/Employees/Pages/RonM.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "B. Software Engineering"

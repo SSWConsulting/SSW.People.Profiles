@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JackyZhou"
+current-employee: false
+id: "JackyZhou"
 name: "Jacky Zhou"
 nickname: "Jacky"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Jacky-Zhou.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "MCP, MVP"

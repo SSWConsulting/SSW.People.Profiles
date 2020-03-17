@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "AndreasKraus"
+current-employee: false
+id: "AndreasKraus"
 name: "Andreas Kraus"
 nickname: "Andreas"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Andreas.aspx"
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Computer Science"

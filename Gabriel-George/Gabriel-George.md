@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "GabrielGeorge"
+current-employee: true
+id: "GabrielGeorge"
 name: "Gabriel George"
 nickname: "Gabe"
 
-legacy_page_url: "/AboutUs/Employees/Pages/GabrielGeorge.aspx"
 category: "Developers"
 role: "Senior Software Architect"
 qualifications: "Master of Information Technology (Software Development)"

@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "CalumSimpson"
+current-employee: true
+id: "CalumSimpson"
 name: "Calum Simpson"
 nickname: "Calum"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Calum-Simpson.aspx"
 category: "Developers"
 role:  "Senior Software Architect	"
 qualifications:  "BBA, BIT"
@@ -18,7 +17,7 @@ linkedin:  "calum-simpson-2171bb120/"
 skype:  ""
 
 quote:  "Developers developers developers!"
-quote_author: Steve Ballmer
+quote-author: Steve Ballmer
 ---
 
 Calum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, CRM, C# .NET, plus experience in Angular and React. 

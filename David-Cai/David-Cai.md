@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DavidCai"
+current-employee: false
+id: "DavidCai"
 name: "David Cai"
 nickname: "David Cai"
 
-legacy_page_url: "/AboutUs/Employees/Pages/DavidC.aspx"
 category: "Developers"
 role:  "Senior Database Developer"
 qualifications:  "M Sc MCP "

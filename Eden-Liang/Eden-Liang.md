@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "EdenLiang"
+current-employee: true
+id: "EdenLiang"
 name: "Eden Liang"
 nickname: "Eden"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Eden.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Engineering"

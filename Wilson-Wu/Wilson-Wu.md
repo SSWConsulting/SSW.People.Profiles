@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "WilsonWu"
+current-employee: false
+id: "WilsonWu"
 name: "Wilson Wu"
 nickname: "Wilson"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Wilson.aspx"
 category: "Developers"
 role:  "Testing and Support Engineer"
 qualifications:  "B Eng of Computer Science and Technology"

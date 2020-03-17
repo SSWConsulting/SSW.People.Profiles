@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JasonLien"
+current-employee: false
+id: "JasonLien"
 name: "Jason Lien"
 nickname: "Jason Lien"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JasonL.aspx"
 category: "Developers"
 role:  "Database Developer"
 qualifications:  "B IT"

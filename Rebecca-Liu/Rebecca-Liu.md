@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "RebeccaLiu"
+current-employee: true
+id: "RebeccaLiu"
 name: "Rebecca Liu"
 nickname: "Rebecca"
 
-legacy_page_url: "/AboutUs/Employees/Pages/RebeccaL.aspx"
 category: "Designers"
 role:  "User Experience Expert"
 qualifications:  "Graphic Design and Communication Diploma"

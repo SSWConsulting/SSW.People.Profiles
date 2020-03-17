@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "BrendanRichards"
+current-employee: true
+id: "BrendanRichards"
 name: "Brendan Richards"
 nickname: "Brendan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Brendan.aspx"
 category: "Developers"
 role: "Solution Architect"
 qualifications: "MCSD - Web Applications"

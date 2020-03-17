@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JayLin"
+current-employee: false
+id: "JayLin"
 name: "Jay Lin"
 nickname: "Jay"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Jay.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "B.Eng - Computer Science "

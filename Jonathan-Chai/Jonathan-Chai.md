@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JonathanChai"
+current-employee: false
+id: "JonathanChai"
 name: "Jonathan Chai"
 nickname: "Jonathan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Jonathan.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Bachelor of Commerce"

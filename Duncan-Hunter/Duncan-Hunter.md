@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DuncanHunter"
+current-employee: false
+id: "DuncanHunter"
 name: "Duncan Hunter"
 nickname: "Duncan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/DuncanHunter.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  ""

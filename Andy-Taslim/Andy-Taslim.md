@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "AndyTaslim"
+current-employee: false
+id: "AndyTaslim"
 name: "Andy Taslim"
 nickname: "Andy Taslim"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Andy.aspx"
 category: "Developers"
 role:  "Software Architect "
 qualifications:  "Bachelor of Computer Science (Software Development), Master of Information System "

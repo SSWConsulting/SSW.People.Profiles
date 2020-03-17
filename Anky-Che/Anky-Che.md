@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "AnkyChe"
+current-employee: true
+id: "AnkyChe"
 name: "Anky Che"
 nickname: "Anky"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Anky.aspx"
 category: "Admin"
 role:  "China Office Accountant"
 qualifications:  "Bachelor of Accountant"

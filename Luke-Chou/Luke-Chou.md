@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "LukeChou"
+current-employee: false
+id: "LukeChou"
 name: "Luke Chou"
 nickname: "Luke"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Luke.aspx"
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Master of Computer Science"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "AndrewCampey"
+current-employee: false
+id: "AndrewCampey"
 name: "Andrew Campey"
 nickname: "Andrew"
 
-legacy_page_url: "/AboutUs/Employees/Pages/AndrewCampey.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Bachelor of Computing (Comp Sci/Software Development)"

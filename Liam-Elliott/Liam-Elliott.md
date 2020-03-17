@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "LiamElliott"
+current-employee: false
+id: "LiamElliott"
 name: "Liam Elliott"
 nickname: "Liam"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Liam.aspx"
 category: "Developers"
 role: "Solution Architect"
 qualifications: "Certified Scrum Master"

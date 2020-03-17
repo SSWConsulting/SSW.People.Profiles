@@ -1,11 +1,10 @@
 ---
-current_employee: true
-ID: "JernejKavka"
+current-employee: true
+id: "JernejKavka"
 name: "Jernej Kavka"
 nickname: "Jernej (JK)"
-custom_url: "JK"
+custom-url: "JK"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JK.aspx"
 category: "Developers"
 role: "Senior Software Architect"
 qualifications: "MCSD"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JonnyTrees"
+current-employee: false
+id: "JonnyTrees"
 name: "Jonny Trees"
 nickname: "Jonny Trees"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Jonny.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "BSc Software Engineering"

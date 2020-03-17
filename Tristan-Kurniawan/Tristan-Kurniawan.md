@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "TristanKurniawan"
+current-employee: false
+id: "TristanKurniawan"
 name: "Tristan Kurniawan"
 nickname: "Tristan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Tristan.aspx"
 category: "Designers"
 role:  "Senior Web Designer"
 qualifications:  "Bachelor of Information Technology"

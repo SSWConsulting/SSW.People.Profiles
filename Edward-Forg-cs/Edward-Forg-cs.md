@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "EdwardForgcs"
+current-employee: false
+id: "EdwardForgcs"
 name: "Edward Forg cs"
 nickname: "Edward Forg cs "
 
-legacy_page_url: "/AboutUs/Employees/Pages/EdwardF.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  ""

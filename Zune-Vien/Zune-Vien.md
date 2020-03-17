@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "ZuneVien"
+current-employee: false
+id: "ZuneVien"
 name: "Zune Vien"
 nickname: "Zune"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Zune.aspx"
 category: "Developers"
 role:  "Software Architect (CRM)"
 qualifications:  "B.E. - Software Engineering"

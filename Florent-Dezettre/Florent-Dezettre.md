@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "FlorentDezettre"
+current-employee: false
+id: "FlorentDezettre"
 name: "Florent Dezettre"
 nickname: "Florent"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Florent.aspx"
 category: "Admin"
 role:  "Sales and Marketing Assistant"
 qualifications:  "International Marketing Master's Degree"

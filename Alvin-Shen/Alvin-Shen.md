@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "AlvinShen"
+current-employee: true
+id: "AlvinShen"
 name: "Alvin Shen"
 nickname: "Alvin"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Alvin.aspx"
 category: "Managers"
 role:  "SSW China CEO"
 qualifications:  "B.IT(Software Engineering)@QUT, M. Commerce(Information System)@UNSW, CSPO, MCPD, MCTS"

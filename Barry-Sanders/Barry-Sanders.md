@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "BarrySanders"
+current-employee: false
+id: "BarrySanders"
 name: "Barry Sanders"
 nickname: "Barry"
 
-legacy_page_url: "/AboutUs/Employees/Pages/BarrySanders.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "MSc (Physiology)"

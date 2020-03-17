@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "HelenMoore"
+current-employee: false
+id: "HelenMoore"
 name: "Helen Moore"
 nickname: "Helen Moore"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Helen.aspx"
 category: "Admin"
 role:  "Personal Assistant & Office Manager"
 qualifications:  ""

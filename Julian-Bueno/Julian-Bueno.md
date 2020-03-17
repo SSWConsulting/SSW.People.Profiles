@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JulianBueno"
+current-employee: false
+id: "JulianBueno"
 name: "Julian Bueno"
 nickname: "Julian"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Julian.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Master of Software Engineering UPM Madrid, Spain. MCTS in web and windows"

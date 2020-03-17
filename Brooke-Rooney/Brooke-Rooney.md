@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "BrookeRooney"
+current-employee: false
+id: "BrookeRooney"
 name: "Brooke Rooney"
 nickname: "Brooke"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Brooke.aspx"
 category: "Admin"
 role:  "Personal Assistant / Office Administrator"
 qualifications:  ""

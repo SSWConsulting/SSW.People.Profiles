@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "NeiOliveira"
+current-employee: false
+id: "NeiOliveira"
 name: "Nei Oliveira"
 nickname: "Nei"
 
-legacy_page_url: "/AboutUs/Employees/Pages/NeiOliveira.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Bachelor in Computer Science"

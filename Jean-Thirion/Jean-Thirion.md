@@ -1,11 +1,10 @@
 ---
-current_employee: true
-ID: "JeanThirion"
+current-employee: true
+id: "JeanThirion"
 name: "Jean Thirion"
 nickname: "Jean Thirion"
-custom_url: "jean"
+custom-url: "jean"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JeanThirion.aspx"
 category: "Developers"
 role: "Solution Architect"
 qualifications: "MCSD - SharePoint Applications - App Builder"
@@ -19,7 +18,7 @@ linkedin: "jean-thirion-4b39b560"
 skype: "thirion.jean@outlook.com"
 
 quote: "There is no shame in not knowing. The problem arises when irrational thought and attendant behaviour fill the vacuum left by ignorance."
-quote_author: "Neil Degrasse Tyson"
+quote-author: "Neil Degrasse Tyson"
 ---
 
 [[imgBadge]]

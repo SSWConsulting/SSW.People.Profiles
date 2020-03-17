@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "BillChen"
+current-employee: false
+id: "BillChen"
 name: "Bill Chen"
 nickname: "Bill"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Bill.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B. Bus - Accounting"
