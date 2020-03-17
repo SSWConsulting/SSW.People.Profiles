@@ -1,9 +1,9 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "PatriciaBarros"
 name: "Patricia Barros"
 nickname: "Patricia"
-custom-url: "patricia"
+customUrl: "patricia"
 
 category: "Developers"
 role:  "Senior Software Architect"

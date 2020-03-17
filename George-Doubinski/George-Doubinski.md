@@ -1,5 +1,5 @@
 ---
-current-employee: false
+currentEmployee: false
 id: "GeorgeDoubinski"
 name: "George Doubinski"
 nickname: "George Doubinski"

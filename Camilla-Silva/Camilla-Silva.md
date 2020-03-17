@@ -1,5 +1,5 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "CamillaSilva"
 name: "Camilla Rosa Silva"
 nickname: "Camilla"
@@ -17,7 +17,7 @@ linkedin: "camillarosa"
 skype: "cammyrs"
 
 quote: "You know you are on the road to success if you would do your job, and not be paid for it."
-quote-author: "Oprah Winfrey"
+quoteAuthor: "Oprah Winfrey"
 ---
 
 ![google_accreditation_Camilla.jpg](./Images/Bio/google_accreditation_Camilla.jpg)

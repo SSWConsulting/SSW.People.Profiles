@@ -1,5 +1,5 @@
 ---
-current-employee: false
+currentEmployee: false
 id: "TristanKurniawan"
 name: "Tristan Kurniawan"
 nickname: "Tristan"

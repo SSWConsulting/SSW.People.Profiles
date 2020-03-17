@@ -1,5 +1,5 @@
 ---
-current-employee: false
+currentEmployee: false
 id: "MatthewSampias"
 name: "Matthew Sampias"
 nickname: "Matthew"
@@ -17,7 +17,7 @@ linkedin: "https://www.linkedin.com/in/matthew-sampias/"
 skype: "sswmatthewsampias@outlook.com"
 
 quote: "It's fine to celebrate success but it is more important to heed the lessons of failure."
-quote-author: "Bill Gates"
+quoteAuthor: "Bill Gates"
 ---
 
 Matthew is the SSW General Manager of Queensland and International clients. Operating from the SSW office in Brisbane CBD, Matthew is in charge of looking after SSW's global clients in Europe, Asia, Africa, and beyond.

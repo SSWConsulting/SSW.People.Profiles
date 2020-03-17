@@ -1,5 +1,5 @@
 ---
-current-employee: false
+currentEmployee: false
 id: "BarrySanders"
 name: "Barry Sanders"
 nickname: "Barry"

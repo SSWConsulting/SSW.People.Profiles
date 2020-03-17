@@ -1,5 +1,5 @@
 ---
-current-employee: false
+currentEmployee: false
 id: "MarkHetherington"
 name: "Mark Hetherington"
 nickname: "Mark H (aka MLH)"

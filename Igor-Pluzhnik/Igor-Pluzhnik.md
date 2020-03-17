@@ -1,5 +1,5 @@
 ---
-current-employee: false
+currentEmployee: false
 id: "IgorPluzhnik"
 name: "Igor Pluzhnik"
 nickname: "Igor Pluzhnik"

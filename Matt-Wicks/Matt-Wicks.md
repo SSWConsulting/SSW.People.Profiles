@@ -1,9 +1,9 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "MattWicks"
 name: "Matt Wicks"
 nickname: "Matt"
-custom-url: "matt"
+customUrl: "matt"
 
 category: "Developers"
 role: "Solution Architect"

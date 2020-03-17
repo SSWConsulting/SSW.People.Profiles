@@ -1,5 +1,5 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "ChristianMorfordWaite"
 name: "Christian Morford-Waite"
 nickname: "Christian"
@@ -17,7 +17,7 @@ linkedin:  "christian-morford-waite-92724983"
 skype:  ""
 
 quote:  "There's a way to do it better - find it."
-quote-author: "Thomas A. Edison"
+quoteAuthor: "Thomas A. Edison"
 ---
 
 Christian is a Software Developer with over 5 years of experience working with a wide range of technologies and Azure resources.  

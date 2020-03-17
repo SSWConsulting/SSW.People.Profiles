@@ -1,5 +1,5 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "IsaacLu"
 name: "Isaac Lu"
 nickname: "Isaac"

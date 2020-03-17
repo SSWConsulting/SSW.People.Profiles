@@ -1,5 +1,5 @@
 ---
-current-employee: false
+currentEmployee: false
 id: "ShigemiMatsumoto"
 name: "Shigemi Matsumoto"
 nickname: "Shigemi"

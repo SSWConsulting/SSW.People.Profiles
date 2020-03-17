@@ -1,9 +1,9 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "JernejKavka"
 name: "Jernej Kavka"
 nickname: "Jernej (JK)"
-custom-url: "JK"
+customUrl: "JK"
 
 category: "Developers"
 role: "Senior Software Architect"

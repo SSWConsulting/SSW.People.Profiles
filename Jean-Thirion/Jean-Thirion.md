@@ -1,9 +1,9 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "JeanThirion"
 name: "Jean Thirion"
 nickname: "Jean Thirion"
-custom-url: "jean"
+customUrl: "jean"
 
 category: "Developers"
 role: "Solution Architect"
@@ -18,7 +18,7 @@ linkedin: "jean-thirion-4b39b560"
 skype: "thirion.jean@outlook.com"
 
 quote: "There is no shame in not knowing. The problem arises when irrational thought and attendant behaviour fill the vacuum left by ignorance."
-quote-author: "Neil Degrasse Tyson"
+quoteAuthor: "Neil Degrasse Tyson"
 ---
 
 [[imgBadge]]

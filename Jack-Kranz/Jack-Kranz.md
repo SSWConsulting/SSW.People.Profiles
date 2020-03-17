@@ -1,5 +1,5 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "JackKranz"
 name: "Jack Kranz"
 nickname: "Jack"
@@ -17,7 +17,7 @@ linkedin:  ""
 skype:  ""
 
 quote:  "The definition of genius is taking the complex and making it simple."
-quote-author: "Albert Einstein"
+quoteAuthor: "Albert Einstein"
 ---
 
 Jack is an experienced web/mobile application developer, React trainer and scrum practitioner.  

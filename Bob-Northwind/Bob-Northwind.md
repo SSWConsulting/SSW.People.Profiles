@@ -1,9 +1,9 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "bobnorthwind"
 name: "Bob Northwind"
 nickname: "Bob"
-custom-url: "sample"
+customUrl: "sample"
 
 category: "Developers"
 role: "Sample Profile"
@@ -19,7 +19,7 @@ twitter: "bobnorthwind"
 github: "bobnorthwind"
 
 quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quote-author: "Anonymous"
+quoteAuthor: "Anonymous"
 ---
 
 Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem persecuti id, his malorum patrioque cu. Vis adhuc adversarium no, id elit nostrum mandamus qui. Eum case ornatus menandri cu, dolore labitur eu usu, eu omnis recteque his. Alii habemus vel te.

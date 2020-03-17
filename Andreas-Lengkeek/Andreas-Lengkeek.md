@@ -1,5 +1,5 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "AndreasLengkeek"
 name: "Andreas Lengkeek"
 nickname: "Andreas"
@@ -17,7 +17,7 @@ linkedin: "andreas-lengkeek-11537a102"
 skype: ""
 
 quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."
-quote-author: "Franklin D. Roosevelt"
+quoteAuthor: "Franklin D. Roosevelt"
 ---
 
 [[imgBadge]]

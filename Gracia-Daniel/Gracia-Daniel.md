@@ -1,5 +1,5 @@
 ---
-current-employee: false
+currentEmployee: false
 id: "GraciaDaniel"
 name: "Gracia Daniel"
 nickname: "Gracia Daniel"

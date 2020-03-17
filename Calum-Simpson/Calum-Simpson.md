@@ -1,5 +1,5 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "CalumSimpson"
 name: "Calum Simpson"
 nickname: "Calum"
@@ -17,7 +17,7 @@ linkedin:  "calum-simpson-2171bb120/"
 skype:  ""
 
 quote:  "Developers developers developers!"
-quote-author: Steve Ballmer
+quoteAuthor: Steve Ballmer
 ---
 
 Calum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, CRM, C# .NET, plus experience in Angular and React. 

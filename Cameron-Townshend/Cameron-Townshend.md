@@ -1,5 +1,5 @@
 ---
-current-employee: false
+currentEmployee: false
 id: "CameronTownshend"
 name: "Cameron Townshend"
 nickname: "Cameron Townshend"

@@ -1,5 +1,5 @@
 ---
-current-employee: true
+currentEmployee: true
 id: "MattGoldman"
 name: "Matt Goldman"
 nickname: "Matt"
@@ -17,7 +17,7 @@ linkedin:  "matt-goldman"
 skype:  "live:.cid.3de3f4b733ade61b"
 
 quote:  "Any technology distinguishable from magic is insufficiently advanced."
-quote-author: "Gregory Benford"
+quoteAuthor: "Gregory Benford"
 ---
 
 Drawing on a combination of hands-on experience and enterprise governance practices, Matt is able to make connections between business and technology to deliver user and business focused outcomes.
