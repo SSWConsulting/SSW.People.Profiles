@@ -8,7 +8,7 @@ azdo_pipeline_name=Production
 az extension add -n azure-devops
 
 echo querying GitHub
-branch_list=$(curl -s -X GET https://api.github.com/repos/${github_org_name}/${github_repo_name}/branches\?protected=true) 
+branch_list=$(curl -s -X GET https://api.github.com/repos/${github_org_name}/${github_repo_name}/branches) 
 branch_name=$(jq -r  '[.[].name | select(startswith("release/"))] | sort_by(.) | reverse | .[0]' <<< "${branch_list}") 
 echo latest release branch: ${branch_name}
 
