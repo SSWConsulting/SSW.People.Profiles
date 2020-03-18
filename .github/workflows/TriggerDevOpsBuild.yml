@@ -22,4 +22,4 @@ jobs:
       run: |
         export AZURE_DEVOPS_EXT_PAT=${{ secrets.AZURE_DEVOPS_TOKEN }}
         chmod +x .workflow/build-production.sh
-        sh ./.workflow/build-production.sh
+        bash ./.workflow/build-production.sh

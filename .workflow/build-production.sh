@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 github_org_name=sswconsulting
 github_repo_name=people.ssw.com.au
 azdo_org_name=https://ssw.visualstudio.com
