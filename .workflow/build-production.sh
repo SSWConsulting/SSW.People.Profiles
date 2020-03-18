@@ -5,14 +5,19 @@ azdo_org_name=https://ssw.visualstudio.com
 azdo_project_name=ssw.people
 azdo_pipeline_name=Production
 
+# exit when any command fails
+set -e
+
+# ensure devops extension is available
 az extension add -n azure-devops
 
-echo querying GitHub
+# get latest release branch from other repo
+echo Querying GitHub...
 branch_list=$(curl -s -X GET https://api.github.com/repos/${github_org_name}/${github_repo_name}/branches) 
 branch_name=$(jq -r  '[.[].name | select(startswith("release/"))] | sort_by(.) | reverse | .[0]' <<< "${branch_list}") 
-echo latest release branch: ${branch_name}
+echo Latest release branch: ${branch_name}
 
 echo triggering AzDO build
-az pipelines build queue --project $azdo_project_name --definition-name $azdo_pipeline_name --branch $branch_name
+az pipelines build queue --org $azdo_org_name --project $azdo_project_name --definition-name $azdo_pipeline_name --branch $branch_name
 
 echo done
