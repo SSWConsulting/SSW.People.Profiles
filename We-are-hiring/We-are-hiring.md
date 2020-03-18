@@ -4,7 +4,7 @@ id: "Wearehiring"
 name: "We are hiring"
 nickname: "We are hiring"
 
-alternative-url: "/AboutUs/Employees/Pages/JoinOurTeam.aspx"
+alternativeUrl: "https://www.ssw.com.au/ssw/Employment/default.aspx"
 category: "Developers"
 role:  "enthusiastic People"
 qualifications:  "Many"
