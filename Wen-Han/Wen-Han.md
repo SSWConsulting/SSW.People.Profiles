@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "WenHan"
+currentEmployee: false
+id: "WenHan"
 name: "Wen Han"
 nickname: "Wen"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Wen.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B.IT - Internet Application,  M.IT - Database"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "SumeshGhimire"
+currentEmployee: false
+id: "SumeshGhimire"
 name: "Sumesh Ghimire"
 nickname: "Sumesh Ghimire"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Sumesh.aspx"
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Bachelor of Information Technology"

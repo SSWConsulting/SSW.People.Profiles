@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "KusalWijewantha"
+currentEmployee: false
+id: "KusalWijewantha"
 name: "Kusal Wijewantha"
 nickname: "Kusal Wijewantha"
 
-legacy_page_url: "/AboutUs/Employees/Pages/KusalW.aspx"
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Bachelor of IT, Diploma in IT (Software Development) "

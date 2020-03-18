@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "SteveLeigh"
+currentEmployee: false
+id: "SteveLeigh"
 name: "Steve Leigh"
 nickname: "Steve"
 
-legacy_page_url: "/AboutUs/Employees/Pages/SteveLeigh.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of IT, Bachelor of Mathematics"

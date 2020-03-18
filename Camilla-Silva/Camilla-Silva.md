@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "CamillaSilva"
+currentEmployee: true
+id: "CamillaSilva"
 name: "Camilla Rosa Silva"
 nickname: "Camilla"
 
-legacy_page_url: "/AboutUs/Employees/Pages/CamillaSilva.aspx"
 category: "Admin"
 role: "Marketing Coordinator"
 qualifications: "Bachelor of Business Management, MBA in Business Strategic Management"
@@ -18,7 +17,7 @@ linkedin: "camillarosa"
 skype: "cammyrs"
 
 quote: "You know you are on the road to success if you would do your job, and not be paid for it."
-quote_author: "Oprah Winfrey"
+quoteAuthor: "Oprah Winfrey"
 ---
 
 ![google_accreditation_Camilla.jpg](./Images/Bio/google_accreditation_Camilla.jpg)

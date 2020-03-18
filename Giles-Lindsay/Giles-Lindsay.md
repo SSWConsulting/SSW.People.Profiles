@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "GilesLindsay"
+currentEmployee: false
+id: "GilesLindsay"
 name: "Giles Lindsay"
 nickname: "Giles"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Giles.aspx"
 category: "Developers"
 role:  "Network Administrator"
 qualifications:  "Class of 92' Certificate in Business Computing"

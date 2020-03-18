@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "UlyssesMaclaren"
+currentEmployee: true
+id: "UlyssesMaclaren"
 name: "Ulysses Maclaren"
 nickname: "Ulysses Maclaren"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Uly.aspx"
 category: "Managers"
 role:  "General Manager"
 qualifications:  "B.Eng - Electrical (hons), Certified Scrum Master"

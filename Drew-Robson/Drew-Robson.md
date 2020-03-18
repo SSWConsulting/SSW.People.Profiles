@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DrewRobson"
+currentEmployee: false
+id: "DrewRobson"
 name: "Drew Robson"
 nickname: "Drew"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Drew.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "BInfTech, Certified Scrum Master, MCSD: Web Applications"

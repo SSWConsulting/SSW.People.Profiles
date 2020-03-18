@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "PeterGfader"
+currentEmployee: false
+id: "PeterGfader"
 name: "Peter Gfader"
 nickname: "Peter Gfader"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Peter.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "MSc, Diplom Ingenieur, Dipl.Ing"

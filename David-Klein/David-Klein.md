@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DavidKlein"
+currentEmployee: false
+id: "DavidKlein"
 name: "David Klein"
 nickname: "DDK"
 
-legacy_page_url: "/AboutUs/Employees/Pages/DavidK.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B Com (Information Systems\\HRM with Merit), MCP, MCDBA"

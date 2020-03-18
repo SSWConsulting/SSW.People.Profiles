@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "BriteCheng"
+currentEmployee: false
+id: "BriteCheng"
 name: "Brite Cheng"
 nickname: "Brite"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Brite.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B.Eng - Computer Science"

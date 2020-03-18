@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "EvanLin"
+currentEmployee: false
+id: "EvanLin"
 name: "Evan Lin"
 nickname: "Evan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Evan.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B.Eng - Computer Science"

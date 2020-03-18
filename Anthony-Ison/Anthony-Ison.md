@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "AnthonyIson"
+currentEmployee: true
+id: "AnthonyIson"
 name: "Anthony Ison"
 nickname: "Anthony"
 
-legacy_page_url: "/AboutUs/Employees/Pages/AnthonyIson.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Bachelor of Engineering (Elec-CompSys)"

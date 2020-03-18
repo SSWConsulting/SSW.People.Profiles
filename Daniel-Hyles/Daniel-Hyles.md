@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DanielHyles"
+currentEmployee: false
+id: "DanielHyles"
 name: "Daniel Hyles"
 nickname: "Daniel"
 
-legacy_page_url: "/AboutUs/Employees/Pages/DanielH.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Dip IT MCP"

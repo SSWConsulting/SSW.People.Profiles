@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "EricPhan"
+currentEmployee: false
+id: "EricPhan"
 name: "Eric Phan"
 nickname: "Eric"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Eric.aspx"
 category: "Managers"
 role:  "Chief Architect"
 qualifications:  "B.E. - Software Engineering, Certified Scrum Master"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "ThiagoPassos"
+currentEmployee: false
+id: "ThiagoPassos"
 name: "Thiago Passos"
 nickname: "Thiago"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Thiago.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor in Computer Science, Microsoft Certified Professional Developer, Microsoft Certified Technology Specialist, Microsoft Certified Solutions Developer"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JoeHardy"
+currentEmployee: false
+id: "JoeHardy"
 name: "Joe Hardy"
 nickname: "Joe"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Joe.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  ""

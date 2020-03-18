@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MarkLiu"
+currentEmployee: false
+id: "MarkLiu"
 name: "Mark Liu"
 nickname: "Mark"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Mark.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "B.C.S.T - Computer Science and Technology "

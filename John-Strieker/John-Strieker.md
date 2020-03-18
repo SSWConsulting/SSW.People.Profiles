@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JohnStrieker"
+currentEmployee: false
+id: "JohnStrieker"
 name: "John Strieker"
 nickname: "John"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JohnStrieker.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of Science - Multimedia Engineering"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DavidBian"
+currentEmployee: false
+id: "DavidBian"
 name: "David Bian"
 nickname: "David"
 
-legacy_page_url: "/AboutUs/Employees/Pages/David.aspx"
 category: "Developers"
 role:  "Software Developer "
 qualifications:  "Bachelor of Management (Management Information Systems), MCPD"

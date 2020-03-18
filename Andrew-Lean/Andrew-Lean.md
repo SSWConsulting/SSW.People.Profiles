@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "AndrewLean"
+currentEmployee: false
+id: "AndrewLean"
 name: "Andrew Lean"
 nickname: "Andrew"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Andrew.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of Computer Science & Technology from the University of Sydney"

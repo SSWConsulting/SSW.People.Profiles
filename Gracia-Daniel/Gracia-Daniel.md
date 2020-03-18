@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "GraciaDaniel"
+currentEmployee: false
+id: "GraciaDaniel"
 name: "Gracia Daniel"
 nickname: "Gracia Daniel"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Gracia.aspx"
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "B.E. - Electronics and Communications Engineering"

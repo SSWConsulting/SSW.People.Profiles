@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DamianBrady"
+currentEmployee: false
+id: "DamianBrady"
 name: "Damian Brady"
 nickname: "Damian"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Damian.aspx"
 category: "Managers"
 role:  "Chief Architect and State Manager QLD"
 qualifications:  "B.InfoTech (hons), MBA"

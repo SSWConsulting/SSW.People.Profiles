@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "GregHarris1"
+currentEmployee: false
+id: "GregHarris1"
 name: "Greg Harris 1"
 nickname: "Greg"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Greg.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "B.Sc. Information Systems"

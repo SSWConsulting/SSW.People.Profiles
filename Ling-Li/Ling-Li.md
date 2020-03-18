@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "LingLi"
+currentEmployee: false
+id: "LingLi"
 name: "Ling Li"
 nickname: "Ling"
 
-legacy_page_url: "/AboutUs/Employees/Pages/LingLi.aspx"
 category: "Admin"
 role:  "Operations Manager (Beijing Office)"
 qualifications:  "LL.B. (Bachelor of Laws)"

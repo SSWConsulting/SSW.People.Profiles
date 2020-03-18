@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "TitusMaclaren"
+currentEmployee: false
+id: "TitusMaclaren"
 name: "Titus Maclaren"
 nickname: "Titus"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Titus-Maclaren.aspx"
 category: "Designers"
 role:  "Multimedia Producer"
 qualifications:  "Bachelor of Film & Television"

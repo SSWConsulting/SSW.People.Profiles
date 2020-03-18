@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "PatrickZhao"
+currentEmployee: true
+id: "PatrickZhao"
 name: "Patrick Zhao"
 nickname: "Patrick"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Patrick.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Master of Engineering - Software (University of Melbourne)"

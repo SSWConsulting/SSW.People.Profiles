@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MarlonMarescia"
+currentEmployee: false
+id: "MarlonMarescia"
 name: "Marlon Marescia"
 nickname: "Marlon"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Marlon.aspx"
 category: "Managers"
 role:  "Sales and Marketing Manager"
 qualifications:  ""

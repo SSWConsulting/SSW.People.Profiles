@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "KaiqueBiancatti"
+currentEmployee: true
+id: "KaiqueBiancatti"
 name: "Kaique Biancatti"
 nickname: "Kaique"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Kaique.aspx"
 category: "Developers"
 role:  "Systems Analyst"
 qualifications:  "Bachelor of Computer Science"

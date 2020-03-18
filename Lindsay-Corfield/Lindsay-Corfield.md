@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "LindsayCorfield"
+currentEmployee: false
+id: "LindsayCorfield"
 name: "Lindsay Corfield"
 nickname: "Lindsay"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Lindsay.aspx"
 category: "Managers"
 role:  "General Manager International"
 qualifications:  "MBA (Intl Bus) | JP (Qual) | Certified Scrum Master"

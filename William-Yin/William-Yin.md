@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "WilliamYin"
+currentEmployee: false
+id: "WilliamYin"
 name: "William Yin"
 nickname: "William"
 
-legacy_page_url: "/AboutUs/Employees/Pages/WilliamYin.aspx"
 category: "Developers"
 role: "Senior Software Architect (SharePoint)"
 qualifications: "B.Eng(software engineering), MCPD, MCTS, MCSE, MCDBA"

@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "TobyGoodman"
+currentEmployee: true
+id: "TobyGoodman"
 name: "Toby Goodman"
 nickname: "Toby"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Toby-Goodman.aspx"
 category: "Designers"
 role:  "Video Producer"
 qualifications:  "Batchelor of Media and Communications"

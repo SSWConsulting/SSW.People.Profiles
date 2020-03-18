@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "IgorGoldobin"
+currentEmployee: true
+id: "IgorGoldobin"
 name: "Igor Goldobin"
 nickname: "Igor"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Igor-Goldobin.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B.InfoTech (hons), B.Eng (hons), M.InfoTech, Prince2 Practitioner, MCPD"

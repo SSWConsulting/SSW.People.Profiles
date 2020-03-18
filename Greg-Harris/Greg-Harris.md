@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "GregHarris"
+currentEmployee: true
+id: "GregHarris"
 name: "Greg Harris"
 nickname: "Greg"
 
-legacy_page_url: "/AboutUs/Employees/Pages/GregHarris.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  ""

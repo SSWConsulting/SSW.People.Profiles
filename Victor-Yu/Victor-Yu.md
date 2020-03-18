@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "VictorYu"
+currentEmployee: true
+id: "VictorYu"
 name: "Victor Yu"
 nickname: "Victor"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Victor.aspx"
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Electrical Engineering"

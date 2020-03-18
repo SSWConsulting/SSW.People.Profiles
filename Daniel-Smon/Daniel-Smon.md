@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "DanielSmon"
+currentEmployee: false
+id: "DanielSmon"
 name: "Daniel Smon"
 nickname: "Daniel"
 
-legacy_page_url: "/AboutUs/Employees/Pages/DanielS.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Microsoft Certified Technology Specialist"

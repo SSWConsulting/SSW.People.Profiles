@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JohnLiu"
+currentEmployee: false
+id: "JohnLiu"
 name: "John Liu"
 nickname: "John Liu"
 
-legacy_page_url: "/AboutUs/Employees/Pages/John.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "B CSc, MCP"

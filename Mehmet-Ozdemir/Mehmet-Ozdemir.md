@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "MehmetOzdemir"
+currentEmployee: true
+id: "MehmetOzdemir"
 name: "Mehmet Ozdemir"
 nickname: "Mehmet"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Mehmet.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Dip Computer Technology, MCSD: Application Lifecycle Management"

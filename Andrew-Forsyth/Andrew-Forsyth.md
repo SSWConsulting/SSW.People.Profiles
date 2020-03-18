@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "AndrewForsyth"
+currentEmployee: true
+id: "AndrewForsyth"
 name: "Andrew Forsyth"
 nickname: "Andrew"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Andrew-Forsyth.aspx"
 category: "Designers"
 role:  "Video Producer/ Director/ Editor"
 qualifications:  "MBA, B.Ec."

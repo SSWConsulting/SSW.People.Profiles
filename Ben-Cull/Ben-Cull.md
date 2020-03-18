@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "BenCull"
+currentEmployee: false
+id: "BenCull"
 name: "Ben Cull"
 nickname: "Ben"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Ben.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of IT, MCSD: Web Applications"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "SerenaChen"
+currentEmployee: false
+id: "SerenaChen"
 name: "Serena Chen"
 nickname: "Serena"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Serena.aspx"
 category: "Designers"
 role:  "Web Designer"
 qualifications:  "B. Graphic Design"

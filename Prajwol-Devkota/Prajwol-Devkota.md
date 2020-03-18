@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "PrajwolDevkota"
+currentEmployee: false
+id: "PrajwolDevkota"
 name: "Prajwol Devkota"
 nickname: "Prajwol Devkota"
 
-legacy_page_url: "/AboutUs/Employees/Pages/PrajwolD.aspx"
 category: "Developers"
 role:  "Database Architect"
 qualifications:  "Masters of Computing (Software Engineering) "

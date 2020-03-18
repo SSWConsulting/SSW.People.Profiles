@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MartinLi"
+currentEmployee: false
+id: "MartinLi"
 name: "Martin Li"
 nickname: "Martin"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Martin-Li.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "MCP"

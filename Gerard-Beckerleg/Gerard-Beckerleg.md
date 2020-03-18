@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "GerardBeckerleg"
+currentEmployee: false
+id: "GerardBeckerleg"
 name: "Gerard Beckerleg"
 nickname: "Gerard"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Gerard.aspx"
 category: "Developers"
 role:  "Solution Architect (SharePoint)"
 qualifications:  "BSc (Hons) Business Information Systems, Professional Scrum Developer, Microsoft Certified Technology Specialist"

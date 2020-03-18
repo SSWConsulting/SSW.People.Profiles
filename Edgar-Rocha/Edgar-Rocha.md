@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "EdgarRocha"
+currentEmployee: false
+id: "EdgarRocha"
 name: "Edgar Rocha"
 nickname: "Edgar"
 
-legacy_page_url: "/AboutUs/Employees/Pages/EdgarRocha.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "MCTS - Web Applications"
