@@ -9,7 +9,7 @@ If the image you want to use doesn't exist in the '/badges' folder:
 1. Navigate to your profile folder
 2. Navigate to /People/[Firstname]-[Lastname]/Images/Bio
 
-![Instructions_Upload_Images.jpg](./.github/instructions/images/Instructions_Upload_Images.jpg)
+![Instructions_Upload_Images.jpg](../.github/instructions/images/Instructions_Upload_Images.jpg)
 **Figure: Uploading new files**
 
 3. Reference the images in your Bio using `![The figure caption](./Images/Bio/XXX.png)`
