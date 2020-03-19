@@ -11,13 +11,16 @@ Sample Profile: https://www.ssw.com.au/people/sample
 
 # Instructions
 
-## [How to create a new profile](_docs/Create-New-Profile.md)
+## [Creating a new profile](_docs/Create-New-Profile.md)
 
 
-## [How to edit your profile on GitHub](_docs/Edit-Profile.md)
+## [Editing your profile](_docs/Edit-Profile.md)
 
 
-## [How to add images on GitHub](_docs/Add-Images.md)
+## [Adding images and badges](_docs/Add-Images-Badges.md)
 
 
-## [How to publish your changes](_docs/Publish-Changes.md)
+## [Adding CRM Skills](_docs/Add-CRM-Skills.md)
+
+
+## [Publishing your changes](_docs/Publish-Changes.md)

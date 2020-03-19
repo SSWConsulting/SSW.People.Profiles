@@ -1,6 +1,7 @@
 ## How to create a new profile
 
-1. In CRM, ensure that you have an user profile or create user profile in CRM  - https://live.crm.ssw.com.au/main.aspx#
+1. In CRM, ensure that you have an user profile or create one  - https://live.crm.ssw.com.au/main.aspx#
+> The profile in CRM is important to load your list of skills. See [Adding CRM Skills](Add-CRM-Skills.md)
 
 ![Instructions_CRM_Users.png](../.github/instructions/images/Instructions_CRM_Users.png)  
 **Figure: Find your user profile in CRM**
@@ -10,7 +11,7 @@ If your name is not in the list click in **+ New**
 ![Instructions_Create_User_CRM.png](../.github/instructions/images/Instructions_Create_User_CRM.png)  
 **Figure: Add New**
 
-2. Fork the repository SSWConsulting/People - Branch: **master**
+1. Fork the repository SSWConsulting/People - Branch: **master**
 
 ![Instructions_Fork_Repository.png](../.github/instructions/images/Instructions_Fork_Repository.png)  
 **Figure: Fork the Repository to be able to create a new profile**
