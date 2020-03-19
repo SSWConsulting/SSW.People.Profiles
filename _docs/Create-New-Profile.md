@@ -45,7 +45,7 @@ If your name is not in the list click in **+ New**
 **Figure: Open & Update profile file**  
 
 - If you want to include badges to your profile, look for the image in the **/badges** folder  
-- If you want to add images or your badge is not in the **/badges** folder, follow the instruction in **[How to add images on GitHub](#how-to-add-images-on-github)** section
+- If you want to add images or your badge is not in the **/badges** folder, follow the instruction in **[How to add images on GitHub](Add-Images.md)** section
 
 7. Commit your changes
 
@@ -53,6 +53,6 @@ If your name is not in the list click in **+ New**
 **Figure: Commit your changes**
 
 8. Create Pull Request and you are done  
-Follow instructions in the **step 5** in **[How to publish your changes](#how-to-publish-your-changes)** section
+Follow instructions in the **step 5** in **[How to publish your changes](Publish-Changes.md)** section
 
 > TODO: Improve user experience (automation)
