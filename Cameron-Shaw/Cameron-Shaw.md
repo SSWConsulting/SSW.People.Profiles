@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "CameronShaw"
 name: "Cameron Shaw"
-tileName: "Cameron"
+nickname: "Cameron"
 
 category: "Admin"
 role:  "Project Manager, Strategy"

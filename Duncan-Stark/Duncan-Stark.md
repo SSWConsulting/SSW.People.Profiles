@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "DuncanStark"
 name: "Duncan Stark"
-tileName: "Duncan"
+nickname: "Duncan"
 
 category: "Admin"
 role:  "Office Manager and PA"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "DavidReidy"
 name: "David Reidy"
-tileName: "David Reidy"
+nickname: "David Reidy"
 
 category: "Developers"
 role:  "Senior Database Architect"

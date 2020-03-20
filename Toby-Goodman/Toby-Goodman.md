@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "TobyGoodman"
 name: "Toby Goodman"
-tileName: "Toby"
+nickname: "Toby"
 
 category: "Designers"
 role:  "Video Producer"

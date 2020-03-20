@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "TimFletcher"
 name: "Tim Fletcher"
-tileName: "Tim Fletcher"
+nickname: "Tim Fletcher"
 
 category: "Managers"
 role:  "Project Manager"

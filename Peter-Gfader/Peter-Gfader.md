@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "PeterGfader"
 name: "Peter Gfader"
-tileName: "Peter Gfader"
+nickname: "Peter Gfader"
 
 category: "Developers"
 role:  "Solution Architect"

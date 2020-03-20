@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "BrendanRichards"
 name: "Brendan Richards"
-tileName: "Brendan"
+nickname: "Brendan"
 
 category: "Developers"
 role: "Solution Architect"

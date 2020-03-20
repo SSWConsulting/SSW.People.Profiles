@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "YangShen"
 name: "Yang Shen"
-tileName: "Yang"
+nickname: "Yang"
 
 category: "Admin"
 role:  "China Office Administrator & Senior Marketing Specialist"

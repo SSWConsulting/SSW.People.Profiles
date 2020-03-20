@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "KevinMutlow"
 name: "Kevin Mutlow"
-tileName: "Kevin"
+nickname: "Kevin"
 
 category: "Developers"
 role:  "Solution Architect"

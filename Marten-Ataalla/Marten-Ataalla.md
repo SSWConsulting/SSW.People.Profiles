@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "MartenAtaalla"
 name: "Marten Ataalla"
-tileName: "Marten Ataalla"
+nickname: "Marten Ataalla"
 
 category: "Developers"
 role:  "Senior Software Architect "

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "RossDonald"
 name: "Ross Donald"
-tileName: "Ross Donald"
+nickname: "Ross Donald"
 
 category: "Developers"
 role:  "Senior Software Architect"

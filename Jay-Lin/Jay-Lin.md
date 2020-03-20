@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "JayLin"
 name: "Jay Lin"
-tileName: "Jay"
+nickname: "Jay"
 
 category: "Developers"
 role:  "Software Architect"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "EricPhan"
 name: "Eric Phan"
-tileName: "Eric"
+nickname: "Eric"
 
 category: "Managers"
 role:  "Chief Architect"

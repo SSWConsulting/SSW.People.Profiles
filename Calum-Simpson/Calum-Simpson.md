@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "CalumSimpson"
 name: "Calum Simpson"
-tileName: "Calum"
+nickname: "Calum"
 
 category: "Developers"
 role:  "Senior Software Architect	"

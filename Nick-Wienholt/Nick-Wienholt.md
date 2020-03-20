@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "NickWienholt"
 name: "Nick Wienholt"
-tileName: "Nick"
+nickname: "Nick"
 
 category: "Developers"
 role:  "Solution Architect"

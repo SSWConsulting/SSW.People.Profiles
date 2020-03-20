@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "WilliamLiebenberg"
 name: "William Liebenberg"
-tileName: "William"
+nickname: "William"
 
 category: "Developers"
 role:  "Solution Architect"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "GregJoosse"
 name: "Greg Joosse"
-tileName: "Greg Joosse"
+nickname: "Greg Joosse"
 
 category: "Developers"
 role:  "Network Administrator"

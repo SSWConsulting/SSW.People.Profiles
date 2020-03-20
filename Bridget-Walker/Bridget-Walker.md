@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "BridgetWalker"
 name: "Bridget Walker"
-tileName: "Bridget"
+nickname: "Bridget"
 
 category: "Admin"
 role:  "Personal Assistant to Adam Cogan"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "CindyWang"
 name: "Cindy Wang"
-tileName: "Cindy Wang"
+nickname: "Cindy Wang"
 
 category: "Admin"
 role:  "PA / Office Manager"

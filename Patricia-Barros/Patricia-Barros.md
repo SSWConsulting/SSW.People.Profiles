@@ -2,8 +2,8 @@
 currentEmployee: true
 id: "PatriciaBarros"
 name: "Patricia Barros"
-tileName: "Patricia Barros"
-nickname: "Patricia"
+nickname: "Patricia Barros"
+customUrl: "Patricia"
 
 category: "Developers"
 role:  "Senior Software Architect"

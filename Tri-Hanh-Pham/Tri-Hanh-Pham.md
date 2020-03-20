@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "TriHanhPham"
 name: "Tri-Hanh Pham"
-tileName: "Tri"
+nickname: "Tri"
 
 category: "Developers"
 role:  "Senior Software Architect"

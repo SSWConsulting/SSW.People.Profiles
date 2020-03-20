@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "NewChaimongkol"
 name: "New Chaimongkol"
-tileName: "New"
+nickname: "New"
 
 category: "Admin"
 role:  "Assistant Financial Controller"

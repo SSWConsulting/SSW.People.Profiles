@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "TitusMaclaren"
 name: "Titus Maclaren"
-tileName: "Titus"
+nickname: "Titus"
 
 category: "Designers"
 role:  "Multimedia Producer"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "GordonHartley"
 name: "Gordon Hartley"
-tileName: "Gordon Hartley"
+nickname: "Gordon Hartley"
 
 category: "Developers"
 role:  "Senior Software Developer "

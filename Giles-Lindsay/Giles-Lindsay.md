@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "GilesLindsay"
 name: "Giles Lindsay"
-tileName: "Giles"
+nickname: "Giles"
 
 category: "Developers"
 role:  "Network Administrator"

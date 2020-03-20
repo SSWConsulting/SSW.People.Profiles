@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "DavidKlein"
 name: "David Klein"
-tileName: "DDK"
+nickname: "DDK"
 
 category: "Developers"
 role:  "Senior Software Architect"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "TristanKurniawan"
 name: "Tristan Kurniawan"
-tileName: "Tristan"
+nickname: "Tristan"
 
 category: "Designers"
 role:  "Senior Web Designer"

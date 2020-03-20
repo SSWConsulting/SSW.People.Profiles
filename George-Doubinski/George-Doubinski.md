@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "GeorgeDoubinski"
 name: "George Doubinski"
-tileName: "George Doubinski"
+nickname: "George Doubinski"
 
 category: "Developers"
 role:  "Architectural Consultant"

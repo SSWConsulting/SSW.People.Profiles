@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "MatthewSampias"
 name: "Matthew Sampias"
-tileName: "Matthew"
+nickname: "Matthew"
 
 category: "Managers"
 role: "General Manager - Queensland and International"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "DuncanHunter"
 name: "Duncan Hunter"
-tileName: "Duncan"
+nickname: "Duncan"
 
 category: "Developers"
 role:  "Software Architect"

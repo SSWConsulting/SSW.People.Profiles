@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "AlvinShen"
 name: "Alvin Shen"
-tileName: "Alvin"
+nickname: "Alvin"
 
 category: "Managers"
 role:  "SSW China CEO"

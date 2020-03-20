@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "GhulamMustafa"
 name: "Ghulam Mustafa"
-tileName: "Ghulam Mustafa"
+nickname: "Ghulam Mustafa"
 
 category: "Developers"
 role:  "Software Architect"

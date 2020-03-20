@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "ParisLowres"
 name: "Paris Lowres"
-tileName: "Paris"
+nickname: "Paris"
 
 category: "Admin"
 role: "Victorian Office Assistant"

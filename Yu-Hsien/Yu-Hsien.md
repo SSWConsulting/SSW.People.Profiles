@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "YuHsien"
 name: "Yu-Hsien"
-tileName: "Yu"
+nickname: "Yu"
 
 category: "Designers"
 role:  "Video Specialist"

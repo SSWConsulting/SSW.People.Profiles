@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "KostaMadorsky"
 name: "Kosta Madorsky"
-tileName: "Kosta"
+nickname: "Kosta"
 
 category: "Developers"
 role: "Senior Software Architect"

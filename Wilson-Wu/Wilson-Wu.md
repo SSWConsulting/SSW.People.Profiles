@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "WilsonWu"
 name: "Wilson Wu"
-tileName: "Wilson"
+nickname: "Wilson"
 
 category: "Developers"
 role:  "Testing and Support Engineer"

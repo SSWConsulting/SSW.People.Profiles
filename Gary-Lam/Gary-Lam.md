@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "GaryLam"
 name: "Gary Lam"
-tileName: "Gary Lam"
+nickname: "Gary Lam"
 
 category: "Developers"
 role:  "Senior Software Developer"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "BillChen"
 name: "Bill Chen"
-tileName: "Bill"
+nickname: "Bill"
 
 category: "Developers"
 role:  "Senior Software Developer"

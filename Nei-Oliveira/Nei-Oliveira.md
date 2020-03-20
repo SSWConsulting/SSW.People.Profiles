@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "NeiOliveira"
 name: "Nei Oliveira"
-tileName: "Nei"
+nickname: "Nei"
 
 category: "Developers"
 role:  "Senior Software Architect"

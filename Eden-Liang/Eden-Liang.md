@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "EdenLiang"
 name: "Eden Liang"
-tileName: "Eden"
+nickname: "Eden"
 
 category: "Developers"
 role:  "Software Architect"

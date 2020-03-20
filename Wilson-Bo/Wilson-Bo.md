@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "WilsonBo"
 name: "Wilson Bo"
-tileName: "Wilson"
+nickname: "Wilson"
 
 category: "Developers"
 role:  "Senior Consultant"

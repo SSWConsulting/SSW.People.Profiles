@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "AdriaanSwanepoel"
 name: "Adriaan Swanepoel"
-tileName: "Adriaan"
+nickname: "Adriaan"
 
 category: "Developers"
 role:  "Senior Software Architect"

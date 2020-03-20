@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "harleykemelfield"
 name: "Harley Kemelfield"
-tileName: "Harley"
+nickname: "Harley"
 
 category: "Developers"
 role:  "Work Experience"

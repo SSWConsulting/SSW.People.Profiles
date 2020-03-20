@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "IvanTyapkin"
 name: "Ivan Tyapkin"
-tileName: "Ivan"
+nickname: "Ivan"
 
 category: "Developers"
 role:  "Senior Software Architect"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "BriteCheng"
 name: "Brite Cheng"
-tileName: "Brite"
+nickname: "Brite"
 
 category: "Developers"
 role:  "Senior Software Developer"

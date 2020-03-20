@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "FlorentDezettre"
 name: "Florent Dezettre"
-tileName: "Florent"
+nickname: "Florent"
 
 category: "Admin"
 role:  "Sales and Marketing Assistant"

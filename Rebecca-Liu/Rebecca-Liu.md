@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "RebeccaLiu"
 name: "Rebecca Liu"
-tileName: "Rebecca"
+nickname: "Rebecca"
 
 category: "Designers"
 role:  "User Experience Expert"
