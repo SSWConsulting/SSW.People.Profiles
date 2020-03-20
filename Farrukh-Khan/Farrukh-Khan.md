@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "FarrukhKhan"
 name: "Farrukh Khan"
-nickname: "Farrukh"
+nickname: ""
 
 category: "Designers"
 role:  "Senior Web Designer "

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "PaulNeumeyer"
 name: "Paul Neumeyer"
-nickname: "Paul Neumeyer"
+nickname: ""
 
 category: "Developers"
 role:  "Project Manager and Solution Architect"

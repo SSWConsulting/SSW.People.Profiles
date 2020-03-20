@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "GregHarris1"
 name: "Greg Harris 1"
-nickname: "Greg"
+nickname: ""
 
 category: "Developers"
 role:  "Solution Architect"

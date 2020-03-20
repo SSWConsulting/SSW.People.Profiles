@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "UlyssesMaclaren"
 name: "Ulysses Maclaren"
-nickname: "Ulysses Maclaren"
+nickname: "Uly"
 
 category: "Managers"
 role:  "General Manager"

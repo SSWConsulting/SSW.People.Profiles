@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "AdamCogan"
 name: "Adam Cogan"
-nickname: "Adam Cogan"
+nickname: ""
 
 category: "Managers"
 role: "Chief Architect, Microsoft Regional Director"

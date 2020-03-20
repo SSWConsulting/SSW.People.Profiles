@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "SergeiTchernykhov"
 name: "Sergei Tchernykhov"
-nickname: "Sergei"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"

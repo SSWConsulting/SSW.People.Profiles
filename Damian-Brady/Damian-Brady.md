@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "DamianBrady"
 name: "Damian Brady"
-nickname: "Damian"
+nickname: ""
 
 category: "Managers"
 role:  "Chief Architect and State Manager QLD"

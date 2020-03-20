@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "StevenAndrews"
 name: "Steven Andrews"
-nickname: "Steven"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Network Engineer"

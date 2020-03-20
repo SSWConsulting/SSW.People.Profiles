@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "MichelleLu"
 name: "Michelle Lu"
-nickname: "Michelle"
+nickname: ""
 
 category: "Admin"
 role:  "BJ Accountant"

@@ -3,7 +3,6 @@ currentEmployee: true
 id: "GabrielGeorge"
 name: "Gabriel George"
 nickname: "Gabe"
-customUrl: "Gabe"
 
 category: "Developers"
 role: "Senior Software Architect"

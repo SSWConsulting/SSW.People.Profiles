@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "MichaelDemarco"
 name: "Michael Demarco"
-nickname: "Michael"
+nickname: ""
 
 category: "Developers"
 role:  "Software Architect"

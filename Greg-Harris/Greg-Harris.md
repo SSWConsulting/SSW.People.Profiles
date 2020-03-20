@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "GregHarris"
 name: "Greg Harris"
-nickname: "Greg"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"

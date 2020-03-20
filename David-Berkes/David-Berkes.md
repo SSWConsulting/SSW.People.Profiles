@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "DavidBerkes"
 name: "David Berkes"
-nickname: "David"
+nickname: ""
 
 category: "Designers"
 role: "Senior Product Designer (UI, UX)"

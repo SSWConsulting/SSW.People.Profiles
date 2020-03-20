@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "ThiagoPassos"
 name: "Thiago Passos"
-nickname: "Thiago"
+nickname: ""
 
 category: "Developers"
 role:  "Solution Architect"

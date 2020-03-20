@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "RajDhatt"
 name: "Raj Dhatt"
-nickname: "Raj"
+nickname: ""
 
 category: "Designers"
 role:  "Multimedia Producer"

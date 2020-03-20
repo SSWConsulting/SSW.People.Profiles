@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "IgorPluzhnik"
 name: "Igor Pluzhnik"
-nickname: "Igor Pluzhnik"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Network Administrator"

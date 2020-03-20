@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "LingLi"
 name: "Ling Li"
-nickname: "Ling"
+nickname: ""
 
 category: "Admin"
 role:  "Operations Manager (Beijing Office)"
