@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "MattGoldman"
 name: "Matt Goldman"
-nickname: "Matt"
+nickname: ""
 
 category: "Developers"
 role:  "Software Architect"

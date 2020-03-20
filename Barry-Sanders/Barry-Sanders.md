@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "BarrySanders"
 name: "Barry Sanders"
-nickname: "Barry"
+nickname: ""
 
 category: "Developers"
 role:  "Software Architect"

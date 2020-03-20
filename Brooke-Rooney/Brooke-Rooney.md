@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "BrookeRooney"
 name: "Brooke Rooney"
-nickname: "Brooke"
+nickname: ""
 
 category: "Admin"
 role:  "Personal Assistant / Office Administrator"

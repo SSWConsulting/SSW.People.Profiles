@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "AdelHelal"
 name: "Adel Helal"
-nickname: "Adel Helal"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"

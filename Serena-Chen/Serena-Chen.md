@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "SerenaChen"
 name: "Serena Chen"
-nickname: "Serena"
+nickname: ""
 
 category: "Designers"
 role:  "Web Designer"

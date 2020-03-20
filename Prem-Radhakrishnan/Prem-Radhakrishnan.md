@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "Prem"
 name: "Prem Radhakrishnan"
-nickname: "Prem"
+nickname: ""
 
 category: "Developers"
 role: "Solution Architect"

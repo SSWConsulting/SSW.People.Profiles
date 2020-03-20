@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "JohnLiu"
 name: "John Liu"
-nickname: "John Liu"
+nickname: ""
 
 category: "Developers"
 role:  "Solution Architect"

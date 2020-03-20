@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "JatinValabjee"
 name: "Jatin Valabjee"
-nickname: "Jatin Valabjee"
+nickname: ""
 
 category: "Developers"
 role:  "Design Production Manager"

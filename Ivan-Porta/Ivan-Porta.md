@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "IvanPorta"
 name: "Ivan Porta"
-nickname: "Ivan"
+nickname: ""
 
 category: "Developers"
 role:  "Software Developer"

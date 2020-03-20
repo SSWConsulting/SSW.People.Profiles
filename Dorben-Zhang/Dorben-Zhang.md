@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "DorbenZhang"
 name: "Dorben Zhang"
-nickname: "Dorben"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer "

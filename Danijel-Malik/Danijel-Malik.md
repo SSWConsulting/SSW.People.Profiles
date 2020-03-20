@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "DanijelMalik"
 name: "Danijel Malik"
-nickname: "Danijel Malik"
+nickname: ""
 
 category: "Developers"
 role:  "Solution Architect, Code Auditor Product Owner"

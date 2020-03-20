@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "JulianBueno"
 name: "Julian Bueno"
-nickname: "Julian"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer"

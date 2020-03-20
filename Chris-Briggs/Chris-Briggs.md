@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "ChrisBriggs"
 name: "Chris Briggs"
-nickname: "Chris"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer"

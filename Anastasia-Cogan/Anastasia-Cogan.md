@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "AnastasiaCogan"
 name: "Anastasia Cogan"
-nickname: "Anastasia"
+nickname: ""
 
 category: "Admin"
 role:  "Financial Controller"

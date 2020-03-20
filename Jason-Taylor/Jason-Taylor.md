@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "JasonTaylor"
 name: "Jason Taylor"
-nickname: "Jason"
+nickname: ""
 
 category: "Developers"
 role: "Solution Architect"

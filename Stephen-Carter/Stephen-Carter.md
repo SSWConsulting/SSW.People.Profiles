@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "StephenCarter"
 name: "Stephen Carter"
-nickname: "Stephen"
+nickname: ""
 
 category: "Managers"
 role:  "Senior Software Architect, VIC State Manager"
