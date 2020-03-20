@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "AnkyChe"
 name: "Anky Che"
-nickname: "Anky"
+tileName: "Anky"
 
 category: "Admin"
 role:  "China Office Accountant"

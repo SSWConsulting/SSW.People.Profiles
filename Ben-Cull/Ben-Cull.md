@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "BenCull"
 name: "Ben Cull"
-nickname: "Ben"
+tileName: "Ben"
 
 category: "Developers"
 role:  "Solution Architect"

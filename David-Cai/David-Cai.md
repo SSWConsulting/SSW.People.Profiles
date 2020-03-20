@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "DavidCai"
 name: "David Cai"
-nickname: "David Cai"
+tileName: "David Cai"
 
 category: "Developers"
 role:  "Senior Database Developer"

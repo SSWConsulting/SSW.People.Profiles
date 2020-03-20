@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "MartinHinshelwood"
 name: "Martin Hinshelwood"
-nickname: "Martin Hinshelwood"
+tileName: "Martin Hinshelwood"
 
 category: "Developers"
 role:  "Solution Architect, Microsoft Visual Studio ALM MVP & Ranger"

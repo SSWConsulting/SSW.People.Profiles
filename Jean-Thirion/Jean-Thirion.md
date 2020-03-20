@@ -2,8 +2,8 @@
 currentEmployee: true
 id: "JeanThirion"
 name: "Jean Thirion"
-nickname: "Jean Thirion"
-customUrl: "jean"
+tileName: "Jean Thirion"
+nickname: "Jean"
 
 category: "Developers"
 role: "Solution Architect"

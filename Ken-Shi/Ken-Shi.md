@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "KenShi"
 name: "Ken Shi"
-nickname: "Ken"
+tileName: "Ken"
 
 category: "Designers"
 role:  "User Experience Expert"

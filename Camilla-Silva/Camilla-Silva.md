@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "CamillaSilva"
 name: "Camilla Rosa Silva"
-nickname: "Camilla"
+tileName: "Camilla"
 
 category: "Admin"
 role: "Marketing Coordinator"

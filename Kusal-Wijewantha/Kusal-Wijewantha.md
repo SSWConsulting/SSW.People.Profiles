@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "KusalWijewantha"
 name: "Kusal Wijewantha"
-nickname: "Kusal Wijewantha"
+tileName: "Kusal Wijewantha"
 
 category: "Developers"
 role:  "Senior Software Developer "

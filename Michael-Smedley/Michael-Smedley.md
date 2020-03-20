@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "MichaelSmedley"
 name: "Michael Smedley"
-nickname: "Mike"
+tileName: "Mike"
 
 category: "Managers"
 role: "Victorian State Manager"

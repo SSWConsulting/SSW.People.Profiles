@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "MehmetOzdemir"
 name: "Mehmet Ozdemir"
-nickname: "Mehmet"
+tileName: "Mehmet"
 
 category: "Developers"
 role:  "Solution Architect"

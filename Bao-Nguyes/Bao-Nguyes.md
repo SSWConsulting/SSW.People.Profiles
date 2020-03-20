@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "BaoNguyes"
 name: "Bao Nguyes"
-nickname: "Bao"
+tileName: "Bao"
 
 category: "Admin"
 role:  "Office Maintenance"

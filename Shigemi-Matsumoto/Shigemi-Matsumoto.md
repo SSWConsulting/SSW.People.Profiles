@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "ShigemiMatsumoto"
 name: "Shigemi Matsumoto"
-nickname: "Shigemi"
+tileName: "Shigemi"
 
 category: "Developers"
 role:  "Developer"

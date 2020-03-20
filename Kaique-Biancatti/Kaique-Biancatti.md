@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "KaiqueBiancatti"
 name: "Kaique Biancatti"
-nickname: "Kaique"
+tileName: "Kaique"
 
 category: "Developers"
 role:  "Systems Analyst"

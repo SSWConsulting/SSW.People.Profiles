@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "ChrisClement"
 name: "Chris Clement"
-nickname: "Chris"
+tileName: "Chris"
 
 category: "Developers"
 role: "Software Architect & Embedded Software Engineer"

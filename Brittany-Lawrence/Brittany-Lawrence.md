@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "BrittanyLawrence"
 name: "Brittany Lawrence"
-nickname: "Brittany"
+tileName: "Brittany"
 
 category: "Admin"
 role:  "Marketing Coordinator"

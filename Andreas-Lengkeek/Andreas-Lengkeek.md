@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "AndreasLengkeek"
 name: "Andreas Lengkeek"
-nickname: "Andreas"
+tileName: "Andreas"
 
 category: "Developers"
 role: "Software Architect"

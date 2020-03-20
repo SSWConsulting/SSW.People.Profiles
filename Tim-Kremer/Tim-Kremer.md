@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "TimKremer"
 name: "Tim Kremer"
-nickname: "Tim Kremer"
+tileName: "Tim Kremer"
 
 category: "Managers"
 role:  "Consulting Director"

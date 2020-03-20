@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "MarlonMarescia"
 name: "Marlon Marescia"
-nickname: "Marlon"
+tileName: "Marlon"
 
 category: "Managers"
 role:  "Sales and Marketing Manager"

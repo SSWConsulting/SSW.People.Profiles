@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "WilliamYin"
 name: "William Yin"
-nickname: "William"
+tileName: "William"
 
 category: "Developers"
 role: "Senior Software Architect (SharePoint)"

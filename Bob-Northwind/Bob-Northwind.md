@@ -2,8 +2,8 @@
 currentEmployee: true
 id: "bobnorthwind"
 name: "Bob Northwind"
-nickname: "Bob"
-customUrl: "sample"
+tileName: "Bob"
+nickname: "Sample"
 
 category: "Developers"
 role: "Sample Profile"

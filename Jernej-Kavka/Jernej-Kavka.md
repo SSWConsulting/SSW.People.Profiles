@@ -2,8 +2,8 @@
 currentEmployee: true
 id: "JernejKavka"
 name: "Jernej Kavka"
-nickname: "Jernej (JK)"
-customUrl: "JK"
+tileName: "Jernej (JK)"
+nickname: "JK"
 
 category: "Developers"
 role: "Senior Software Architect"

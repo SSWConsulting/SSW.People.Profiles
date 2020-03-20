@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "ChristianPlankl"
 name: "Christian Plankl"
-nickname: "Christian"
+tileName: "Christian"
 
 category: "Developers"
 role:  "Software Developer"

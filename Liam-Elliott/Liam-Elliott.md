@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "LiamElliott"
 name: "Liam Elliott"
-nickname: "Liam"
+tileName: "Liam"
 
 category: "Developers"
 role: "Solution Architect"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "JohnPrince"
 name: "John Prince"
-nickname: "John Prince"
+tileName: "John Prince"
 
 category: "Developers"
 role:  "Database Developer"

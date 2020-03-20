@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "ChristianMorfordWaite"
 name: "Christian Morford-Waite"
-nickname: "Christian"
+tileName: "Christian"
 
 category: "Developers"
 role:  "Software Architect"

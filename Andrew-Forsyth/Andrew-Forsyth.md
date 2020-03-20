@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "AndrewForsyth"
 name: "Andrew Forsyth"
-nickname: "Andrew"
+tileName: "Andrew"
 
 category: "Designers"
 role:  "Video Producer/ Director/ Editor"

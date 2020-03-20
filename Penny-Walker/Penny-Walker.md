@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "PennyWalker"
 name: "Penny Walker"
-nickname: "Penny"
+tileName: "Penny"
 
 category: "Managers"
 role:  "State Manager - Queensland and International"

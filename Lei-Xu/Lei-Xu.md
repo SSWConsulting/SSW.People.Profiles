@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "LeiXu"
 name: "Lei Xu"
-nickname: "Lei"
+tileName: "Lei"
 
 category: "Managers"
 role:  "Solution Architect and General Manager (Beijing)"

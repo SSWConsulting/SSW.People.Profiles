@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "AdamStephensen"
 name: "Adam Stephensen"
-nickname: "Adam"
+tileName: "Adam"
 
 category: "Managers"
 role:  "Solution Architect, State Manager QLD"

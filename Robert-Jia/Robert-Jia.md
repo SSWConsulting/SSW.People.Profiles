@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "RobertJia"
 name: "Robert Jia"
-nickname: "Robert"
+tileName: "Robert"
 
 category: "Developers"
 role:  "Software Developer "

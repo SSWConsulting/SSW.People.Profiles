@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "DanZhang"
 name: "Dan Zhang"
-nickname: "Dan"
+tileName: "Dan"
 
 category: "Developers"
 role:  "Senior Software Architect"

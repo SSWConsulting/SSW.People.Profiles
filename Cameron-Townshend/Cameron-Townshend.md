@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "CameronTownshend"
 name: "Cameron Townshend"
-nickname: "Cameron Townshend"
+tileName: "Cameron Townshend"
 
 category: "Managers"
 role:  "Senior Software Architect"

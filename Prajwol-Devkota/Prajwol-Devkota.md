@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "PrajwolDevkota"
 name: "Prajwol Devkota"
-nickname: "Prajwol Devkota"
+tileName: "Prajwol Devkota"
 
 category: "Developers"
 role:  "Database Architect"

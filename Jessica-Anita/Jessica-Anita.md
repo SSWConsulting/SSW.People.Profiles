@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "JessicaAnita"
 name: "Jessica Anita"
-nickname: "Jessica Anita"
+tileName: "Jessica Anita"
 
 category: "Developers"
 role:  "Developer - Work Experience"

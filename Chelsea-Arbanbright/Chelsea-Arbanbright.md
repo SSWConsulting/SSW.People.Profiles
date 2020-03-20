@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "ChelseaArbanbright"
 name: "Chelsea Arbanbright"
-nickname: "Chelsea"
+tileName: "Chelsea"
 
 category: "Admin"
 role:  "Personal Assistant & Office Administrator"

@@ -2,8 +2,8 @@
 currentEmployee: true
 id: "SebastienBoissiere"
 name: "Sebastien Boissiere"
-nickname: "Sebastien"
-customUrl: "seb"
+tileName: "Sebastien"
+nickname: "Seb"
 
 category: "Developers"
 role:  "Software Architect"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "GerardBeckerleg"
 name: "Gerard Beckerleg"
-nickname: "Gerard"
+tileName: "Gerard"
 
 category: "Developers"
 role:  "Solution Architect (SharePoint)"
