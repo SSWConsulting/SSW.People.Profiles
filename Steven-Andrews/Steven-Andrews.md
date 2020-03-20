@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "StevenAndrews"
+currentEmployee: true
+id: "StevenAndrews"
 name: "Steven Andrews"
 nickname: "Steven"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Steven.aspx"
 category: "Developers"
 role:  "Senior Network Engineer"
 qualifications:  "CCNP + CCDP"

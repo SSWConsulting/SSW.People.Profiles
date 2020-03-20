@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "MichaelSmedley"
+currentEmployee: true
+id: "MichaelSmedley"
 name: "Michael Smedley"
 nickname: "Mike"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Mike.aspx"
 category: "Managers"
 role: "Victorian State Manager"
 qualifications: "Certified Scrum Master"

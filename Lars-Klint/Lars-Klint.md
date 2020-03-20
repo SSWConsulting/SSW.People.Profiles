@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "LarsKlint"
+currentEmployee: false
+id: "LarsKlint"
 name: "Lars Klint"
 nickname: "Lars"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Lars.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "BCompSc"

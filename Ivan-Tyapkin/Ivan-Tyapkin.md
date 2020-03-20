@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "IvanTyapkin"
+currentEmployee: false
+id: "IvanTyapkin"
 name: "Ivan Tyapkin"
 nickname: "Ivan"
 
-legacy_page_url: "/AboutUs/Employees/Pages/IvanTyapkin.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B.Tech., Dipl.-Ing., MCSD"

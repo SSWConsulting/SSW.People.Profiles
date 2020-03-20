@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "BrittanyLawrence"
+currentEmployee: false
+id: "BrittanyLawrence"
 name: "Brittany Lawrence"
 nickname: "Brittany"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Brittany.aspx"
 category: "Admin"
 role:  "Marketing Coordinator"
 qualifications:  "B Business (Marketing)"

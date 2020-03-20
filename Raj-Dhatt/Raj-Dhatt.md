@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "RajDhatt"
+currentEmployee: true
+id: "RajDhatt"
 name: "Raj Dhatt"
 nickname: "Raj"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Raj.aspx"
 category: "Designers"
 role:  "Multimedia Producer"
 qualifications:  "BA (Hons): TV Production"

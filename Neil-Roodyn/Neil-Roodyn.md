@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "NeilRoodyn"
+currentEmployee: false
+id: "NeilRoodyn"
 name: "Neil Roodyn"
 nickname: "Neil Roodyn"
 
-legacy_page_url: "/AboutUs/Employees/Pages/NeilR.aspx"
 category: "Managers"
 role:  "Associate and Trainer"
 qualifications:  "PhD"

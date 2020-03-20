@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "ChelseaArbanbright"
+currentEmployee: false
+id: "ChelseaArbanbright"
 name: "Chelsea Arbanbright"
 nickname: "Chelsea"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Chelsea.aspx"
 category: "Admin"
 role:  "Personal Assistant & Office Administrator"
 qualifications:  "Office management and executive level assisting"

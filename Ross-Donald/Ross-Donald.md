@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "RossDonald"
+currentEmployee: false
+id: "RossDonald"
 name: "Ross Donald"
 nickname: "Ross Donald"
 
-legacy_page_url: "/AboutUs/Employees/Pages/RossD.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Dip IT, MCP"

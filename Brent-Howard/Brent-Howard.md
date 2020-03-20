@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "BrentHoward"
+currentEmployee: false
+id: "BrentHoward"
 name: "Brent Howard"
 nickname: "Brent"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Brent.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  ""

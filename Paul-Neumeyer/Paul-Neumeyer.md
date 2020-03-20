@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "PaulNeumeyer"
+currentEmployee: false
+id: "PaulNeumeyer"
 name: "Paul Neumeyer"
 nickname: "Paul Neumeyer"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Paul.aspx"
 category: "Developers"
 role:  "Project Manager and Solution Architect"
 qualifications:  "Ph.D., B.E. Computer Systems Engineering (Hons),  Cert. Scrum Master"

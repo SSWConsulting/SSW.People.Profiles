@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "TiagoAraujo"
+currentEmployee: true
+id: "TiagoAraujo"
 name: "Tiago Araujo"
 nickname: "Tiago"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Tiago.aspx"
 category: "Designers"
 role:  "Senior UI/UX & Graphic Designer"
 qualifications:  "Barchelor of Advertising, Applied Web Development Certificate"

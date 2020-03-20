@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "JamesZhou"
+currentEmployee: false
+id: "JamesZhou"
 name: "James Zhou"
 nickname: "James"
 
-legacy_page_url: "/AboutUs/Employees/Pages/James.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "B. Eng - Information System Management, MCAD, PMP"

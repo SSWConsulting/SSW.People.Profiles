@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "ShigemiMatsumoto"
+currentEmployee: false
+id: "ShigemiMatsumoto"
 name: "Shigemi Matsumoto"
 nickname: "Shigemi"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Shigemi.aspx"
 category: "Developers"
 role:  "Developer"
 qualifications:  ""

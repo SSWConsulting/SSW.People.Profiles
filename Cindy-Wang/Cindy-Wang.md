@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "CindyWang"
+currentEmployee: false
+id: "CindyWang"
 name: "Cindy Wang"
 nickname: "Cindy Wang"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Cindy.aspx"
 category: "Admin"
 role:  "PA / Office Manager"
 qualifications:  "B.Eco - International Economics & Trade"

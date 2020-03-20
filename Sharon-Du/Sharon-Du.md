@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "SharonDu"
+currentEmployee: true
+id: "SharonDu"
 name: "Sharon Du"
 nickname: "Sharon"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Sharon.aspx"
 category: "Admin"
 role:  "China Office Administrator"
 qualifications:  "Bachelor Degree in English"

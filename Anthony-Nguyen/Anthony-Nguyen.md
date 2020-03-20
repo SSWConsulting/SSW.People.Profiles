@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "AnthonyNguyen"
+currentEmployee: true
+id: "AnthonyNguyen"
 name: "Anthony Nguyen"
 nickname: "Anthony"
 
-legacy_page_url: "/AboutUs/Employees/Pages/AnthonyNguyen.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "BEng (Hons) IT&T, Certified Scrum Master, Master of Project Mgnt"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MichaelMileos"
+currentEmployee: false
+id: "MichaelMileos"
 name: "Michael Mileos"
 nickname: "Michael Mileos"
 
-legacy_page_url: "/AboutUs/Employees/Pages/MichaelM.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of Science in Computer Science (Honours) - City Universtiy of New York (CUNY)"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "WilsonBo"
+currentEmployee: false
+id: "WilsonBo"
 name: "Wilson Bo"
 nickname: "Wilson"
 
-legacy_page_url: "/AboutUs/Employees/Pages/WilsonBo.aspx"
 category: "Developers"
 role:  "Senior Consultant"
 qualifications:  "MCP"

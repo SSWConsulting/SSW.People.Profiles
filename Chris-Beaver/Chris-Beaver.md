@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "ChrisBeaver"
+currentEmployee: false
+id: "ChrisBeaver"
 name: "Chris Beaver"
 nickname: "Chris"
 
-legacy_page_url: "/AboutUs/Employees/Pages/ChrisBeaver.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Information Technology"

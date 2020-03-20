@@ -1,11 +1,10 @@
 ---
-current_employee: true
-ID: "SebastienBoissiere"
+currentEmployee: true
+id: "SebastienBoissiere"
 name: "Sebastien Boissiere"
 nickname: "Sebastien"
-custom_url: "seb"
+customUrl: "seb"
 
-legacy_page_url: "/AboutUs/Employees/Pages/SebastienBoissiere.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  ""
@@ -20,7 +19,7 @@ skype:  "live:boissiere.seb"
 github: "SebastienBoissiere"
 
 quote:  "First, solve the problem. Then, write the code."
-quote_author: "John Johnson"
+quoteAuthor: "John Johnson"
 ---
 
 Sebastien is a Software Architect with more than 10 years of experience in software development in France, China and now Australia. 

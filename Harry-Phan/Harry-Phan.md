@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "HarryPhan"
+currentEmployee: true
+id: "HarryPhan"
 name: "Harry Phan"
 nickname: "Harry"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Harry.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of Computer Science (Honours); ITIL Service Management"

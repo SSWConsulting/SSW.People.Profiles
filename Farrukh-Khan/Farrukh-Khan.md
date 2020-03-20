@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "FarrukhKhan"
+currentEmployee: false
+id: "FarrukhKhan"
 name: "Farrukh Khan"
 nickname: "Farrukh"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Farrukh.aspx"
 category: "Designers"
 role:  "Senior Web Designer "
 qualifications:  "B.Sc - Computer Science, M.Sc - Information Technology"

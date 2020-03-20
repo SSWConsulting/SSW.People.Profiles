@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "YangShen"
+currentEmployee: true
+id: "YangShen"
 name: "Yang Shen"
 nickname: "Yang"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Yang.aspx"
 category: "Admin"
 role:  "China Office Administrator & Senior Marketing Specialist"
 qualifications:  "B English; MBA"

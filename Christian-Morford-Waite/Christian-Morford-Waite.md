@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "ChristianMorfordWaite"
+currentEmployee: true
+id: "ChristianMorfordWaite"
 name: "Christian Morford-Waite"
 nickname: "Christian"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Christian.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Computing"
@@ -18,7 +17,7 @@ linkedin:  "christian-morford-waite-92724983"
 skype:  ""
 
 quote:  "There's a way to do it better - find it."
-quote_author: "Thomas A. Edison"
+quoteAuthor: "Thomas A. Edison"
 ---
 
 Christian is a Software Developer with over 5 years of experience working with a wide range of technologies and Azure resources.  

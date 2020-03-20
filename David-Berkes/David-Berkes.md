@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "DavidBerkes"
+currentEmployee: true
+id: "DavidBerkes"
 name: "David Berkes"
 nickname: "David"
 
-legacy_page_url: "/AboutUs/Employees/Pages/DavidBerkes.aspx"
 category: "Designers"
 role: "Senior Product Designer (UI, UX)"
 qualifications: "BA - Digital Design | Cinema Studies"

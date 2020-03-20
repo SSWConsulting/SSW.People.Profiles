@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "Prem"
+currentEmployee: true
+id: "Prem"
 name: "Prem Radhakrishnan"
 nickname: "Prem"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Prem.aspx"
 category: "Developers"
 role: "Solution Architect"
 qualifications: "B.E (Software Engineering), CRISC, CISM"

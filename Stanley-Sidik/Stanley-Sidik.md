@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "StanleySidik"
+currentEmployee: false
+id: "StanleySidik"
 name: "Stanley Sidik"
 nickname: "Stanley"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Stanley.aspx"
 category: "Developers"
 role:  "System Administrator"
 qualifications:  "Bachelor of Information Systems"

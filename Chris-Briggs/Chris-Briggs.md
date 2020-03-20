@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "ChrisBriggs"
+currentEmployee: false
+id: "ChrisBriggs"
 name: "Chris Briggs"
 nickname: "Chris"
 
-legacy_page_url: "/AboutUs/Employees/Pages/ChrisBriggs.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of Information Technology"

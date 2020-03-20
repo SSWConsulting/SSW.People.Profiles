@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "AlexBreskin"
+currentEmployee: true
+id: "AlexBreskin"
 name: "Alex Breskin"
 nickname: "Alex"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Alex.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Information Technology Systems"

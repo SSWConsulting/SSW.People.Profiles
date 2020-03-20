@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "EricFang"
+currentEmployee: false
+id: "EricFang"
 name: "Eric Fang"
 nickname: "Eric Fang"
 
-legacy_page_url: "/AboutUs/Employees/Pages/EricF.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of IT (Software Development), MCSD, MCDBA, MCSE"

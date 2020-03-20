@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "StephenCarter"
+currentEmployee: false
+id: "StephenCarter"
 name: "Stephen Carter"
 nickname: "Stephen"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Stephen.aspx"
 category: "Managers"
 role:  "Senior Software Architect, VIC State Manager"
 qualifications:  "Professional Scrum Master"

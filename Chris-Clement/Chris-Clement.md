@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "ChrisClement"
+currentEmployee: true
+id: "ChrisClement"
 name: "Chris Clement"
 nickname: "Chris"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Chris.aspx"
 category: "Developers"
 role: "Software Architect & Embedded Software Engineer"
 qualifications: "Master of Engineering Science"

@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "MartenAtaalla"
+currentEmployee: false
+id: "MartenAtaalla"
 name: "Marten Ataalla"
 nickname: "Marten Ataalla"
 
-legacy_page_url: "/AboutUs/Employees/Pages/MartenA.aspx"
 category: "Developers"
 role:  "Senior Software Architect "
 qualifications:  "B.Eng (Software) Hons. Sydney University"

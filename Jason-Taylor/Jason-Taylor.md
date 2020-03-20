@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "JasonTaylor"
+currentEmployee: true
+id: "JasonTaylor"
 name: "Jason Taylor"
 nickname: "Jason"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JasonTaylor.aspx"
 category: "Developers"
 role: "Solution Architect"
 qualifications: "Master or IT (Software Architecture), MCSD"

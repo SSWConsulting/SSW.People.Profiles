@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "IsaacLu"
+currentEmployee: true
+id: "IsaacLu"
 name: "Isaac Lu"
 nickname: "Isaac"
 
-legacy_page_url: "/AboutUs/Employees/Pages/IsaacLu.aspx"
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Information Network Engineering"

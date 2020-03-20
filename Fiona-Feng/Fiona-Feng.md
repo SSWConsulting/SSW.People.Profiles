@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "FionaFeng"
+currentEmployee: false
+id: "FionaFeng"
 name: "Fiona Feng"
 nickname: "Fiona"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Fiona.aspx"
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Engineering"

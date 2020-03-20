@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "SergeiTchernykhov"
+currentEmployee: false
+id: "SergeiTchernykhov"
 name: "Sergei Tchernykhov"
 nickname: "Sergei"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Sergei.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Master of Science, MCITP, MCTS, MCDBA, MCNPS, MCPS"

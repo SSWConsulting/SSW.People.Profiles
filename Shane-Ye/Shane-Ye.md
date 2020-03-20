@@ -1,10 +1,9 @@
 ---
-current_employee: true
-ID: "ShaneYe"
+currentEmployee: true
+id: "ShaneYe"
 name: "Shane Ye"
 nickname: "Shane"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Shane.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Computer Science"

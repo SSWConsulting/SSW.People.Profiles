@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "TimKremer"
+currentEmployee: false
+id: "TimKremer"
 name: "Tim Kremer"
 nickname: "Tim Kremer"
 
-legacy_page_url: "/AboutUs/Employees/Pages/TimK.aspx"
 category: "Managers"
 role:  "Consulting Director"
 qualifications:  "B.Eng (Software)"

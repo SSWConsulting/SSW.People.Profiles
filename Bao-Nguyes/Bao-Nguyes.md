@@ -1,10 +1,9 @@
 ---
-current_employee: false
-ID: "BaoNguyes"
+currentEmployee: false
+id: "BaoNguyes"
 name: "Bao Nguyes"
 nickname: "Bao"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Bao.aspx"
 category: "Admin"
 role:  "Office Maintenance"
 qualifications:  "Diploma in Accounting (NTU)"
