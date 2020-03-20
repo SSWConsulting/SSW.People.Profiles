@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "Wearehiring"
 name: "We are hiring"
-nickname: ""
+nickname: "We are hiring"
 
 alternativeUrl: "https://www.ssw.com.au/ssw/Employment/default.aspx"
 category: "Developers"
