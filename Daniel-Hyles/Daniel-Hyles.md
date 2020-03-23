@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "DanielHyles"
 name: "Daniel Hyles"
-nickname: "Daniel"
+nickname: ""
 
 category: "Developers"
 role:  "Solution Architect"

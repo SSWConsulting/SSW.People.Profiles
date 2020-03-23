@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "TiagoAraujo"
 name: "Tiago Araujo"
-nickname: "Tiago"
+nickname: ""
 
 category: "Designers"
 role:  "Senior UI/UX & Graphic Designer"

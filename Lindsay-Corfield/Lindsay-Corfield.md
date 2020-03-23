@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "LindsayCorfield"
 name: "Lindsay Corfield"
-nickname: "Lindsay"
+nickname: ""
 
 category: "Managers"
 role:  "General Manager International"

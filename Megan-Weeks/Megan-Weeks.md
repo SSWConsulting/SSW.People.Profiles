@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "MeganWeeks"
 name: "Megan Weeks"
-nickname: "Megan"
+nickname: ""
 
 category: "Admin"
 role:  "Personal Assistant"

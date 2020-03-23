@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "MashaGildina"
 name: "Masha Gildina"
-nickname: "Masha Gildina"
+nickname: ""
 
 category: "Admin"
 role:  "Personal Assistant/Marketing"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "JohnStrieker"
 name: "John Strieker"
-nickname: "John"
+nickname: ""
 
 category: "Developers"
 role:  "Solution Architect"

@@ -2,7 +2,7 @@
 currentEmployee: true
 id: "PatrickZhao"
 name: "Patrick Zhao"
-nickname: "Patrick"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"

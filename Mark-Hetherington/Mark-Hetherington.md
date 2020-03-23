@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "MarkHetherington"
 name: "Mark Hetherington"
-nickname: "Mark H (aka MLH)"
+nickname: ""
 
 category: "Managers"
 role:  "Scrum and Agile Coach"

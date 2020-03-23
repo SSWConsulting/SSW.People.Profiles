@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "ZuneVien"
 name: "Zune Vien"
-nickname: "Zune"
+nickname: ""
 
 category: "Developers"
 role:  "Software Architect (CRM)"

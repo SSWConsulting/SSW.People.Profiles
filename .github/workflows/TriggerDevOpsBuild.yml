@@ -3,6 +3,8 @@ on:
   push:
     branches:
     - master
+  schedule:
+    - cron: '0 14 * * *' # UTC so should be 0000/0100 for Sydney
 
 jobs:
   build:

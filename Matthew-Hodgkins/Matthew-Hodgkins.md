@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "MatthewHodgkins"
 name: "Matthew Hodgkins"
-nickname: "Matthew"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Systems Administrator"

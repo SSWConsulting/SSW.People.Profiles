@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "GraciaDaniel"
 name: "Gracia Daniel"
-nickname: "Gracia Daniel"
+nickname: ""
 
 category: "Developers"
 role:  "Software Developer"

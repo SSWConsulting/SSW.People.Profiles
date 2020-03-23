@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "SumeshGhimire"
 name: "Sumesh Ghimire"
-nickname: "Sumesh Ghimire"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer "

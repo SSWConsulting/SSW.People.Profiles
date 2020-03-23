@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "GeoffOrr"
 name: "Geoff Orr"
-nickname: "Geoff Orr"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"

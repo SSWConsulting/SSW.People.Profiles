@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "EdgarRocha"
 name: "Edgar Rocha"
-nickname: "Edgar"
+nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"

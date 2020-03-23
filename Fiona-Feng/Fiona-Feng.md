@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "FionaFeng"
 name: "Fiona Feng"
-nickname: "Fiona"
+nickname: ""
 
 category: "Developers"
 role:  "Software Developer"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "StanleySidik"
 name: "Stanley Sidik"
-nickname: "Stanley"
+nickname: ""
 
 category: "Developers"
 role:  "System Administrator"

@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "NeilRoodyn"
 name: "Neil Roodyn"
-nickname: "Neil Roodyn"
+nickname: ""
 
 category: "Managers"
 role:  "Associate and Trainer"

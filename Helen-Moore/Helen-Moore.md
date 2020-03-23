@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "HelenMoore"
 name: "Helen Moore"
-nickname: "Helen Moore"
+nickname: ""
 
 category: "Admin"
 role:  "Personal Assistant & Office Manager"

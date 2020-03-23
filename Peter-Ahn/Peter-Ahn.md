@@ -2,7 +2,7 @@
 currentEmployee: false
 id: "PeterAhn"
 name: "Peter Ahn"
-nickname: "Peter Ahn"
+nickname: ""
 
 category: "Developers"
 role:  "Software Architect"
