@@ -1,6 +1,6 @@
 ## How to create a new profile
 
-1. In CRM, ensure that you have an user profile or create one  - https://live.crm.ssw.com.au/main.aspx#
+1. In CRM, ensure that you have a user profile or create one  - https://live.crm.ssw.com.au/main.aspx#
 > The profile in CRM is important to load your list of skills. See [Adding CRM Skills](Add-CRM-Skills.md)
 
 ![Instructions_CRM_Users.png](../.github/instructions/images/Instructions_CRM_Users.png)  
