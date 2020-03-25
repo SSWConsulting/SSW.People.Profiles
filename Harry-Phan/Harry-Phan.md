@@ -5,7 +5,7 @@ name: "Harry Phan"
 nickname: ""
 
 category: "Developers"
-role:  "Senior Software Developer"
+role:  "Software Architect"
 qualifications:  "Bachelor of Computer Science (Honours); ITIL Service Management"
 location: "Melbourne"
 
