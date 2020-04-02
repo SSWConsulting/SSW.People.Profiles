@@ -9,18 +9,4 @@ Gatsby generator project: https://github.com/SSWConsulting/people.ssw.com.au/
 
 Sample Profile: https://www.ssw.com.au/people/sample
 
-# Instructions
-
-## [Creating a new profile](_docs/Create-New-Profile.md)
-
-
-## [Editing your profile](_docs/Edit-Profile.md)
-
-
-## [Adding images and badges](_docs/Add-Images-Badges.md)
-
-
-## [Adding CRM Skills](_docs/Add-CRM-Skills.md)
-
-
-## [Publishing your changes](_docs/Publish-Changes.md)
+## Instructions here: https://github.com/SSWConsulting/People/wiki
