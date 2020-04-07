@@ -18,6 +18,7 @@ github: "https://github.com/william-liebenberg"
 skype:  ""
 
 quote:  "Make a plan! Make it happen!"
+
 ---
 [[imgBadge]]
 | ![azure-logo.png](../badges/azure-logo.png)
@@ -97,26 +98,26 @@ Relevant technologies: Azure Functions, Azure Bots, Google DialogFlow Firebase,A
 
 William is a trainer on the [SSW TV Azure Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Azure-Superpowers-Tour.aspx) at major cities around Australia and Online, and has received top evaluation scores!
 
-[[imgMd]] |
-![SSW TV Azure Superpowers Tour](./Images/Bio/AzureSuperpowersProfile-William.jpg)
+[[imgMd]]
+| ![SSW TV Azure Superpowers Tour](./Images/Bio/AzureSuperpowersProfile-William.jpg)
 
 ## Public Speaking
 
 William has spoken at conferences such as [NDC Sydney](https://ndcsydney.com/speaker/william-liebenberg/) and [DDD Brisbane](https://dddbrisbane.com/agenda/2019).
 
-[[imgMd]] |
-![NDC Sydney 2019](./Images/Bio/NDC-Sydney-Speaker.png)
+[[imgMd]]
+| ![NDC Sydney 2019](./Images/Bio/NDC-Sydney-Speaker.png)
 
-[[imgMd]] |
-![NDCSydney2019SpendOps](./Images/Bio/spendops.jpg)
+[[imgMd]]
+| ![NDC Sydney 2019 SpendOps](./Images/Bio/SpendOps.jpg)
 
 `youtube: zxSlKiWOOzw`
 
-[[imgSm]] |
-![DDD Brisbane 2019](./Images/Bio/dddbrisbane.png)
+[[imgSm]]
+| ![DDD Brisbane 2019](../badges/DDDBrisbane.png)
 
-[[imgMd]] |
-![DDDBrisbane2019Talk2](./Images/Bio/dddbrisbane-2019-william-2.jpg)
+[[imgMd]]
+| ![DDDBrisbane2019Talk2](./Images/Bio/dddbrisbane-2019-william-2.jpg)
 
 ## Community Events
 
@@ -124,18 +125,19 @@ Being an active member of the local development community is very important to W
 
 He is President of the [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/) hosted at [SSW Melbourne](https://www.ssw.com.au/ssw/NETUG/Melbourne.aspx).
 
-[[imgSm]] | ![MelbourneNetUg](./Images/Bio/melbourne-ug.jpg)
+[[imgSm]]
+| ![Melbourne .Net User group](../badges/melbourne-ug.jpg)
 
 In 2020 William also helped launch the new [AI Hack Day](https://aihackday.com) free community event. He also took on the role of Mentor and Presenter to help get the attendees started with building Bots.
 
-![AIHackDay](./Images/Bio/ai-hackday2x.png)
+![AI Hack Day](../badges/ai-hackday2x.png)
 
 William has also presented and mentored at the following Hack Day events:
 
 * [Xamarin Hack Day - Melbourne 2019](https://xamarinhackday.com)
 
-![XamarinHackDay](./Images/Bio/xamarin-logo-retina.png)
+![Xamarin Hack Day](../badges/xamarin-HackDay.png)
 
 * [Angular Hack Day - Melbourne 2019](https://angularhackday.com/)
 
-![AngularHackDay](./Images/Bio/Angular-HD-logo-lg.png)
+![Angular Hack Day](../badges/Angular-HackDay-logo-lg.png)
