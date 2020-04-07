@@ -105,7 +105,7 @@ William is a trainer on the [SSW TV Azure Superpowers Tour](https://www.ssw.com
 
 William has spoken at conferences such as [NDC Sydney](https://ndcsydney.com/speaker/william-liebenberg/) and [DDD Brisbane](https://dddbrisbane.com/agenda/2019).
 
-[[imgSm]]
+[[imgMd]]
 | ![Speaker at NDC Sydney 2019](./Images/Bio/NDC-Sydney-Speaker.png)
 
 [[imgMd]]
