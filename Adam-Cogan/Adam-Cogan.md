@@ -9,7 +9,7 @@ role: "Chief Architect, Microsoft Regional Director"
 qualifications: "Trainer, B Bus, JP, MCP, Microsoft MVP (ALM)"
 location: "Sydney"
 
-blog: ""
+blog: "https://adamcogan.com"
 website: ""
 facebook: "adamcogan"
 twitter: "adamcogan"
