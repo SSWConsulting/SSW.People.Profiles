@@ -14,7 +14,7 @@ website:  "https://azuregems.io"
 facebook:  ""
 twitter:  "William_DotNet"
 linkedin:  "william-liebenberg/"
-github: "https://github.com/william-liebenberg"
+github: "william-liedenberg"
 skype:  ""
 
 quote:  "Make a plan! Make it happen!"
