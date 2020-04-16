@@ -13,7 +13,7 @@ blog: ""
 website: ""
 facebook: ""
 twitter: "matteightyate"
-linkedin: "mattswicks"
+linkedin: "matt-wicks"
 skype: ""
 
 quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace them"
