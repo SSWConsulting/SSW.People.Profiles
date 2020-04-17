@@ -11,7 +11,7 @@ location: "Sydney"
 
 blog: ""
 website: ""
-facebook: "madkonst"
+facebook: "KostaMadorsky"
 twitter: "madkonst"
 linkedin: "kmadorskiy"
 skype: "madkonst"
