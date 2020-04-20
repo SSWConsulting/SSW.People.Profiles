@@ -14,6 +14,7 @@ website: ""
 facebook: ""
 twitter: "matteightyate"
 linkedin: "matt-wicks"
+github: "wicksipedia"
 skype: ""
 
 quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace them"
