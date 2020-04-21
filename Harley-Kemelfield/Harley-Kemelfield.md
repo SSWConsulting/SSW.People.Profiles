@@ -9,7 +9,7 @@ role:  "Work Experience"
 location: "Melbourne"
 
 email: "harleykemelfield@ssw.com.au"
-linkedin:  "https://www.linkedin.com/in/harley-kemelfield-8560b7153/?originalSubdomain=au"
+linkedin:  "harley-kemelfield-8560b7153"
 
 quote:  "Programming is about bringing your ideas to life. It is also a direct application of Murphy's law."
 ---
