@@ -1,3 +1,5 @@
+[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
+
 ---
 currentEmployee: true
 id: "bobnorthwind"
