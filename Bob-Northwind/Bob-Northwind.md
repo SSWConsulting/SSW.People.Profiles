@@ -1,5 +1,3 @@
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
-
 ---
 currentEmployee: true
 id: "bobnorthwind"
@@ -24,6 +22,8 @@ quoteAuthor: "Anonymous"
 
 youtubePlayListId: "PLpiOR7CBNvlpBS1S_OiECOhN-vSSU-COK"
 ---
+
+[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem persecuti id, his malorum patrioque cu. Vis adhuc adversarium no, id elit nostrum mandamus qui. Eum case ornatus menandri cu, dolore labitur eu usu, eu omnis recteque his. Alii habemus vel te.
 
