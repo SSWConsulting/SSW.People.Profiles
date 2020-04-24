@@ -1,11 +1,20 @@
 ---
+currentEmployee: true
 id: "b86a67e8-f459-dd11-b3a3-00155d012206"
+name: "Alvin Shen"
+nickname: "Alvin"
+
 category: "Managers"
 role:  "SSW China CEO"
 qualifications:  "B.IT(Software Engineering)@QUT, M. Commerce(Information System)@UNSW, CSPO, MCPD, MCTS"
+location: "Other"
 
+blog:  ""
+website:  ""
+facebook:  ""
+twitter:  ""
 linkedin:  "alvin-shen"
-nickname: ""
+skype:  ""
 
 quote:  "Storms make trees take deeper roots"
 ---

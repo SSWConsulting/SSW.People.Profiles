@@ -1,16 +1,22 @@
 ---
+currentEmployee: true
 id: "7e785899-f459-dd11-b3a3-00155d012206"
+name: "Adam Cogan"
+nickname: ""
+
 category: "Managers"
 role: "Chief Architect, Microsoft Regional Director"
 qualifications: "Trainer, B Bus, JP, MCP, Microsoft MVP (ALM)"
-quote: "Talent can fix tricky bugs, but teamwork and brains build great software. "
+location: "Sydney"
 
 blog: "https://adamcogan.com"
+website: ""
 facebook: "adamcogan"
 twitter: "adamcogan"
 linkedin: "adamcogan"
 skype: "adamcogan"
-nickname: ""
+
+quote: "Talent can fix tricky bugs, but teamwork and brains build great software. "
 ---
 
 [[imgBadge]]

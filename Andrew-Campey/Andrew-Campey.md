@@ -1,11 +1,22 @@
 ---
+currentEmployee: false
 id: "ce1712e5-79ee-e611-80d4-00155d01225d"
+name: "Andrew Campey"
+nickname: ""
+
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Bachelor of Computing (Comp Sci/Software Development)"
-quote:  "Excuses are a roadblock designed to prevent us from fixing the underlying issue"
+location: "Melbourne"
 
-nickname: ""
+blog:  ""
+website:  ""
+facebook:  ""
+twitter:  "andrewcampey"
+linkedin:  "andrew-campey-0b33b35b"
+skype:  "andrew.campey"
+
+quote:  "Excuses are a roadblock designed to prevent us from fixing the underlying issue"
 ---
 
 Andrew is a Senior Software Architect based in SSW's Melbourne office.  He's an engaging consultant who loves helping clients reach new heights. He is energised by taking products and pushing them to greater heights.  

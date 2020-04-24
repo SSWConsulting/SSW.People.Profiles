@@ -1,11 +1,22 @@
 ---
+currentEmployee: true
 id: "b5d6c018-4c50-e911-820e-00155d012c5a"
+name: "Andrew Forsyth"
+nickname: ""
+
 category: "Designers"
 role:  "Video Producer/ Director/ Editor"
 qualifications:  "MBA, B.Ec."
-quote:  "A picture is worth a thousand words!"
+location: "Sydney"
 
-nickname: ""
+blog:  ""
+website:  ""
+facebook:  ""
+twitter:  ""
+linkedin:  ""
+skype:  ""
+
+quote:  "A picture is worth a thousand words!"
 ---
 
 Andrew has ten+ years experience creating video content for the web, mobile devices, sales engagements and events. Prior to that he held senior positions in sales & marketing roles with Microsoft and Canon in Australia, USA and Singapore.   

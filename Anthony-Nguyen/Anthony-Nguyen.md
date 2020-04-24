@@ -1,13 +1,20 @@
 ---
+currentEmployee: true
 id: "a1a778e7-265d-e611-80d2-00155d01ee33"
+name: "Anthony Nguyen"
+nickname: ""
+
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "BEng (Hons) IT&T, Certified Scrum Master, Master of Project Mgnt"
+location: "Melbourne"
 
+blog:  ""
+website:  ""
+facebook:  ""
 twitter:  "anguyen1909"
 linkedin:  "anthonynguyen1909"
 skype:  "nvhoanganh1909"
-nickname: ""
 
 quote:  "Do it now, sometimes 'later' becomes 'never'"
 ---

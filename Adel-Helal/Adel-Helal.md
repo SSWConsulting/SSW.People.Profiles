@@ -1,11 +1,22 @@
 ---
-id: ""
+currentEmployee: false
+id: "AdelHelal"
+name: "Adel Helal"
+nickname: ""
+
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B of Computer Science (Software Engineering), Diploma in Electrical Engineering - Electrical Technology"
-quote:  ""
+location: ""
 
-nickname: ""
+blog:  ""
+website:  ""
+facebook:  ""
+twitter:  ""
+linkedin:  ""
+skype:  ""
+
+quote:  ""
 ---
 
 Adel Helal has been working with SSW for over two years and since that time has worked on some exciting projects.

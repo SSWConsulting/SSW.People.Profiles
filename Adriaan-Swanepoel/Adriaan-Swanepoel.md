@@ -1,11 +1,22 @@
 ---
+currentEmployee: false
 id: "f4a04bbd-cadc-e411-aeb0-00783af55a15"
+name: "Adriaan Swanepoel"
+nickname: ""
+
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Dip Computer Science"
-quote:  " Nothing is too complex to do, usually different people have already solved the parts, you just need to glue their solutions into one."
+location: "Sydney"
 
-nickname: ""
+blog:  ""
+website:  ""
+facebook:  ""
+twitter:  ""
+linkedin:  ""
+skype:  ""
+
+quote:  " Nothing is too complex to do, usually different people have already solved the parts, you just need to glue their solutions into one."
 ---
 
 ![FireBootCamp-Logo.png](./Images/Bio/FireBootCamp-Logo.png) 
