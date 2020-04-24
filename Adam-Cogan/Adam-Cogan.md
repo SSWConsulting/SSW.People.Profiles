@@ -11,6 +11,7 @@ facebook: "adamcogan"
 twitter: "adamcogan"
 linkedin: "adamcogan"
 skype: "adamcogan"
+nickname: ""
 ---
 
 [[imgBadge]]
