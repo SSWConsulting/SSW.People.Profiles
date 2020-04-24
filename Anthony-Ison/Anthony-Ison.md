@@ -9,6 +9,7 @@ blog:  "https://anthonyison.com"
 twitter:  "isonaj"
 linkedin:  "anthony-ison-4a759a28"
 skype:  "isonaj"
+nickname: ""
 
 quote:  "Everything should be made as simple as possible, but not simpler."
 ---

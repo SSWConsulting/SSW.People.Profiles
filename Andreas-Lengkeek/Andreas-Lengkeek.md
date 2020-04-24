@@ -7,6 +7,7 @@ qualifications: "Bachelor of Science in IT, Majoring in Enterprise Systems Devel
 
 twitter: "AndreasLengkeek"
 linkedin: "andreas-lengkeek-11537a102"
+nickname: ""
 
 quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."
 quoteAuthor: "Franklin D. Roosevelt"

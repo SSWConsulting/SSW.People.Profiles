@@ -5,6 +5,8 @@ category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Bachelor of Computer Science"
 quote:  "I believe concentration and exertion makes perfection."
+
+nickname: ""
 ---
 
  **Background  

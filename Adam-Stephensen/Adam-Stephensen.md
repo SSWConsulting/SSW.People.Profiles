@@ -6,6 +6,8 @@ role:  "Solution Architect, State Manager QLD"
 qualifications:  "Master of Software Development "
 
 quote:  "'fail fast', inspect, adapt, have a lot of fun.  "
+
+nickname: ""
 ---
 
  [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/AdamStephensen) 

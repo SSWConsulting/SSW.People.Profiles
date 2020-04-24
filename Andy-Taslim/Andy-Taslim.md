@@ -5,6 +5,9 @@ category: "Developers"
 role:  "Software Architect "
 qualifications:  "Bachelor of Computer Science (Software Development), Master of Information System "
 quote:  "If you ask Him for happiness, He will not give you happiness. What He will give you is, the opportunities to be happy."
+
+
+nickname: ""
 ---
 
 Andy is a Software Architect at SSW. He specializes in developing solutions with .NET Framework 3.5, C#, VB.NET, ASP.NET, Web Services / WCF, LINQ, SQL Server, Reporting Services and MS Access.  

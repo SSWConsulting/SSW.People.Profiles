@@ -8,6 +8,7 @@ qualifications:  "BEng (Hons) IT&T, Certified Scrum Master, Master of Project Mg
 twitter:  "anguyen1909"
 linkedin:  "anthonynguyen1909"
 skype:  "nvhoanganh1909"
+nickname: ""
 
 quote:  "Do it now, sometimes 'later' becomes 'never'"
 ---

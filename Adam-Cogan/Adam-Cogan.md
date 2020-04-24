@@ -6,6 +6,7 @@ role: "Chief Architect, Microsoft Regional Director"
 qualifications: "Trainer, B Bus, JP, MCP, Microsoft MVP (ALM)"
 quote: "Talent can fix tricky bugs, but teamwork and brains build great software. "
 
+nickname: ""
 blog: "https://adamcogan.com"
 facebook: "adamcogan"
 twitter: "adamcogan"

@@ -6,6 +6,7 @@ role:  "SSW China CEO"
 qualifications:  "B.IT(Software Engineering)@QUT, M. Commerce(Information System)@UNSW, CSPO, MCPD, MCTS"
 
 linkedin:  "alvin-shen"
+nickname: ""
 
 quote:  "Storms make trees take deeper roots"
 ---

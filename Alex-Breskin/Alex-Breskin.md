@@ -7,6 +7,7 @@ qualifications:  "Bachelor of Information Technology Systems"
 
 linkedin:  "https://au.linkedin.com/in/alex-breskin-4a822880"
 skype:  "live:alexbreskin"
+nickname: ""
 
 quote:  "You know what they say, one person's code is another person's legacy? Let's try to avoid that"
 ---

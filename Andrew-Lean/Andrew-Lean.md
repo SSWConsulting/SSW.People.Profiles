@@ -6,6 +6,8 @@ category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of Computer Science & Technology from the University of Sydney"
 quote:  "Solve the problem first, then write the code."
+
+nickname: ""
 ---
 
 ## About Me:  

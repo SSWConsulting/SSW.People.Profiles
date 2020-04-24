@@ -5,6 +5,8 @@ category: "Designers"
 role:  "Video Producer/ Director/ Editor"
 qualifications:  "MBA, B.Ec."
 quote:  "A picture is worth a thousand words!"
+
+nickname: ""
 ---
 
 Andrew has ten+ years experience creating video content for the web, mobile devices, sales engagements and events. Prior to that he held senior positions in sales & marketing roles with Microsoft and Canon in Australia, USA and Singapore.   

@@ -5,6 +5,8 @@ category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Computer Science"
 quote:  "Practice makes perfect."
+
+nickname: ""
 ---
 
 Andreas is currently doing work experience at SSW. He is doing a Masters of Computer Science in Germany but decided to go abroad and gain additional experience before finishing his studies.   
