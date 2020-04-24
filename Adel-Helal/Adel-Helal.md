@@ -1,21 +1,9 @@
 ---
-currentEmployee: false
-id: "AdelHelal"
-name: "Adel Helal"
-nickname: ""
-
+[//]: # (Don't change ID value)
+id: ""
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B of Computer Science (Software Engineering), Diploma in Electrical Engineering - Electrical Technology"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
-
 quote:  ""
 ---
 

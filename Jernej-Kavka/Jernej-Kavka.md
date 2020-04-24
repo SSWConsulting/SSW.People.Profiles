@@ -1,5 +1,6 @@
 ---
 currentEmployee: true
+[//]: # (Don't change ID value)
 id: "JernejKavka"
 name: "Jernej Kavka"
 nickname: "JK"
@@ -18,7 +19,8 @@ skype: "jernej.kavka"
 
 quote: "Once upon a time, you had to be rich and powerful to change the world. Now you just need to be bold and write code."
 
-youtubePlayListId: "PLpiOR7CBNvlpPcWulwaiUEcFRenpirRpI"
+youtubePlayList[//]: # (Don't change ID value)
+id: "PLpiOR7CBNvlpPcWulwaiUEcFRenpirRpI"
 ---
 
 ---

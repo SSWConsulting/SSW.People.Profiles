@@ -1,21 +1,9 @@
 ---
-currentEmployee: false
-id: "AdrianFoyn"
-name: "Adrian Foyn"
-nickname: ""
-
+[//]: # (Don't change ID value)
+id: ""
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Nat Dip Information Technology, MCP VB.NET"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
-
 quote:  ""
 ---
 

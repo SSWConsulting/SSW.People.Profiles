@@ -1,20 +1,11 @@
 ---
-currentEmployee: true
-id: "AlvinShen"
-name: "Alvin Shen"
-nickname: "Alvin"
-
+[//]: # (Don't change ID value)
+id: "b86a67e8-f459-dd11-b3a3-00155d012206"
 category: "Managers"
 role:  "SSW China CEO"
 qualifications:  "B.IT(Software Engineering)@QUT, M. Commerce(Information System)@UNSW, CSPO, MCPD, MCTS"
-location: "Other"
 
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
 linkedin:  "alvin-shen"
-skype:  ""
 
 quote:  "Storms make trees take deeper roots"
 ---
