@@ -1,6 +1,5 @@
 ---
 currentEmployee: true
-[//]: # (Don't change ID value)
 id: "TiagoAraujo"
 name: "Tiago Araujo"
 nickname: ""
@@ -20,8 +19,7 @@ skype:  "tiagov8"
 quote:  "It's not what you look at that matters, it's what you see."
 ---  
 
-Tiago is our favourite creative genius. When he told us he was moving from Australia, we sa[//]: # (Don't change ID value)
-id: "OK, but you're still working remotely for us". We couldn't let him go. After a few years in Brazil, he now lives and works in Canada.  
+Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: "OK, but you're still working remotely for us". We couldn't let him go. After a few years in Brazil, he now lives and works in Canada.  
 
 Tiago is a creative individual who enjoys a challenge. He has 10+ years experience working as a designer for both print and web projects. He also loves spending time playing with Sketch and creating WordPress websites while listening to old songs. Here are some of his skills:
 

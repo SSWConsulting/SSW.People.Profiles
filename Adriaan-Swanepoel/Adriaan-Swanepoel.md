@@ -1,5 +1,4 @@
 ---
-[//]: # (Don't change ID value)
 id: "f4a04bbd-cadc-e411-aeb0-00783af55a15"
 category: "Developers"
 role:  "Senior Software Architect"

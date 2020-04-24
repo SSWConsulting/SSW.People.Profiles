@@ -1,5 +1,4 @@
 ---
-[//]: # (Don't change ID value)
 id: "9194ace0-bb81-e011-8227-00155d012144"
 category: "Managers"
 role:  "Solution Architect, State Manager QLD"

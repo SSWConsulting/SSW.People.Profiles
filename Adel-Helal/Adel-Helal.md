@@ -1,5 +1,4 @@
 ---
-[//]: # (Don't change ID value)
 id: ""
 category: "Developers"
 role:  "Senior Software Architect"

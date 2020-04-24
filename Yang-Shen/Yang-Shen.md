@@ -1,6 +1,5 @@
 ---
 currentEmployee: true
-[//]: # (Don't change ID value)
 id: "YangShen"
 name: "Yang Shen"
 nickname: ""

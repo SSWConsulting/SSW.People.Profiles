@@ -1,5 +1,4 @@
 ---
-[//]: # (Don't change ID value)
 id: "7e785899-f459-dd11-b3a3-00155d012206"
 category: "Managers"
 role: "Chief Architect, Microsoft Regional Director"
