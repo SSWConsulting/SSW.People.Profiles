@@ -1,6 +1,6 @@
 ---
 currentEmployee: false
-id: "KusalWijewantha"
+id: ""
 name: "Kusal Wijewantha"
 nickname: ""
 

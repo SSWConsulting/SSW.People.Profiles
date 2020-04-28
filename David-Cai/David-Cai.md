@@ -1,6 +1,6 @@
 ---
 currentEmployee: false
-id: "DavidCai"
+id: ""
 name: "David Cai"
 nickname: ""
 

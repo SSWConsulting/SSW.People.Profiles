@@ -1,6 +1,6 @@
 ---
 currentEmployee: false
-id: "GhulamMustafa"
+id: ""
 name: "Ghulam Mustafa"
 nickname: ""
 

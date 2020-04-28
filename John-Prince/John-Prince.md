@@ -1,6 +1,6 @@
 ---
 currentEmployee: false
-id: "JohnPrince"
+id: ""
 name: "John Prince"
 nickname: ""
 

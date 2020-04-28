@@ -1,6 +1,6 @@
 ---
 currentEmployee: false
-id: "IgorPluzhnik"
+id: ""
 name: "Igor Pluzhnik"
 nickname: ""
 
