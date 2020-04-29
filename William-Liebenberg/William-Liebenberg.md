@@ -1,20 +1,9 @@
 ---
 id: "687efe24-b7a1-e811-812d-00155d01ef11"
-name: "William Liebenberg"
-nickname: "Will"
 
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of Information Technology - Software Engineering"
-location: "Melbourne"
-
-blog:  "https://azuregems.io"
-website:  "https://azuregems.io"
-facebook:  ""
-twitter:  "William_DotNet"
-linkedin:  "william-liebenberg/"
-github: "william-liebenberg"
-skype:  ""
 
 quote:  "Make a plan! Make it happen!"
 

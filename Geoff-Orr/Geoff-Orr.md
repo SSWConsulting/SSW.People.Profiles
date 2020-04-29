@@ -1,19 +1,10 @@
 ---
 id: ""
 name: "Geoff Orr"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B App Sc (Computer Science), MCAD"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

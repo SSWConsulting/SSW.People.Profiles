@@ -1,19 +1,9 @@
 ---
 id: "47b22f32-00c0-dd11-8569-00155d01221b"
-name: "Masha Gildina"
-nickname: ""
 
 category: "Admin"
 role:  "Personal Assistant/Marketing"
 qualifications:  "B. Commerce"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

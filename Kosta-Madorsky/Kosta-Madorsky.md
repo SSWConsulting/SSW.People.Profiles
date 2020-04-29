@@ -1,19 +1,9 @@
 ---
 id: "31ff5976-8a0f-e811-80f7-00155d01227e"
-name: "Kosta Madorsky"
-nickname: ""
 
 category: "Developers"
 role: "Senior Software Architect"
 qualifications: "Bachelor of Computer Science, Certified Base Programmer for SAS 9"
-location: "Sydney"
-
-blog: ""
-website: ""
-facebook: "KostaMadorsky"
-twitter: "madkonst"
-linkedin: "kmadorskiy"
-skype: "madkonst"
 
 quote: "A good programmer looks both ways before crossing a one-way street"
 ---

@@ -1,19 +1,9 @@
 ---
 id: "48e16736-ba8b-e811-810f-00155d012c11"
-name: "Isaac Lu"
-nickname: ""
 
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Information Network Engineering"
-location: "Hangzhou China"
-
-blog:  ""
-website:  ""
-facebook:  "13655781687"
-twitter:  "lurenjie2018@outlook.com"
-linkedin:  "lurenjie2018@outlook.com"
-skype:  ""
 
 quote:  "Writing code for the better life~"
 ---

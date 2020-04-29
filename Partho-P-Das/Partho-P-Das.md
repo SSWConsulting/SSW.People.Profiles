@@ -1,19 +1,9 @@
 ---
 id: "1bdaa77e-53aa-e711-80e4-00155d012c44"
-name: "Partho P Das"
-nickname: ""
 
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of Tech. (Computer Sci. & Engg.)"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "parthopdas"
-linkedin:  "parthopdas"
-skype:  "parthopdas"
 
 quote:  "Long Live SSW!"
 ---

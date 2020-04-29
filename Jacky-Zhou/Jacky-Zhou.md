@@ -1,19 +1,9 @@
 ---
 id: "c63e15ee-21f7-e111-88ff-00783af55a15"
-name: "Jacky Zhou"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "MCP, MVP"
-location: "Beijing"
-
-blog:  ""
-website:  ""
-facebook:  "jackyzhou@ssw.com.au"
-twitter:  ""
-linkedin:  ""
-skype:  "jackyzhou-ssw"
 
 quote:  "Nothing Is Impossible"
 ---

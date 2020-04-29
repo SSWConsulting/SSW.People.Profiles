@@ -1,19 +1,9 @@
 ---
 id: "fe350325-1c41-df11-8b63-00155d01211a"
-name: "Julian Bueno"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Master of Software Engineering UPM Madrid, Spain. MCTS in web and windows"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "A well-spent day brings happy sleep. Leonardo Da Vinci"
 ---

@@ -1,19 +1,9 @@
 ---
 id: "ce1712e5-79ee-e611-80d4-00155d01225d"
-name: "Andrew Campey"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Bachelor of Computing (Comp Sci/Software Development)"
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "andrewcampey"
-linkedin:  "andrew-campey-0b33b35b"
-skype:  "andrew.campey"
 
 quote:  "Excuses are a roadblock designed to prevent us from fixing the underlying issue"
 ---

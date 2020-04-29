@@ -1,19 +1,9 @@
 ---
 id: "60933847-a81e-e311-8151-00783af55a15"
-name: "Dorben Zhang"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Microsoft MCP"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Work hard leads to decent living"
 ---

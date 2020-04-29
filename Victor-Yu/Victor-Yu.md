@@ -1,19 +1,9 @@
 ---
 id: "e32ffbd4-b9fd-e811-81ac-00155d012b39"
-name: "Victor Yu"
-nickname: ""
 
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Electrical Engineering"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "ymhvic@outlook.com"
-linkedin:  "ymhvic@outlook.com"
-skype:  "ymhvic@outlook.com"
 
 quote:  "Code can talk"
 ---

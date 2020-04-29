@@ -1,19 +1,10 @@
 ---
 id: ""
 name: "Eric Fang"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of IT (Software Development), MCSD, MCDBA, MCSE"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

@@ -1,19 +1,9 @@
 ---
 id: "3608c21c-7a38-e411-877e-00783af55a15"
-name: "Thiago Passos"
-nickname: ""
 
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor in Computer Science, Microsoft Certified Professional Developer, Microsoft Certified Technology Specialist, Microsoft Certified Solutions Developer"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  "thiagospassos"
 
 quote:  "Never give not having time as an excuse not to do something. Set your priorities and goals and you'll find out that a day may have 48 hours"
 ---

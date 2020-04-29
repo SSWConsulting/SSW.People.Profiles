@@ -1,19 +1,10 @@
 ---
 id: ""
 name: "Jason Lien"
-nickname: ""
 
 category: "Developers"
 role:  "Database Developer"
 qualifications:  "B IT"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

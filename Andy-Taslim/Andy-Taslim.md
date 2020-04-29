@@ -1,19 +1,9 @@
 ---
 id: "bc6a67e8-f459-dd11-b3a3-00155d012206"
-name: "Andy Taslim"
-nickname: ""
 
 category: "Developers"
 role:  "Software Architect "
 qualifications:  "Bachelor of Computer Science (Software Development), Master of Information System "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "If you ask Him for happiness, He will not give you happiness. What He will give you is, the opportunities to be happy."
 ---

@@ -1,19 +1,9 @@
 ---
 id: "8a3121f4-c249-e411-a323-00783af55a15"
-name: "Duncan Hunter"
-nickname: ""
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  ""
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "“So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.”  ― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship"
 ---

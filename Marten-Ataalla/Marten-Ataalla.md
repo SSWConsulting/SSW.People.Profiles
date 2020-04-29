@@ -1,19 +1,9 @@
 ---
 id: "e9b2ee52-7630-dd11-bbde-00155d012229"
-name: "Marten Ataalla"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect "
 qualifications:  "B.Eng (Software) Hons. Sydney University"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

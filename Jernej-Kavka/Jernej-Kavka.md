@@ -1,25 +1,11 @@
 ---
 id: "bb6a7007-95b2-e511-80c4-00155d012c15"
-name: "Jernej Kavka"
-nickname: "JK"
 
 category: "Developers"
 role: "Senior Software Architect"
 qualifications: "MCSD"
-location: "SydneyBrisbaneMelbourne"
-
-blog: "https://jkdev.me"
-website: ""
-facebook: "jernej.kavka"
-twitter: "jernej_kavka"
-linkedin: "jernej-kavka-b002111b"
-skype: "jernej.kavka"
 
 quote: "Once upon a time, you had to be rich and powerful to change the world. Now you just need to be bold and write code."
-
-youtubePlayListId: "PLpiOR7CBNvlpPcWulwaiUEcFRenpirRpI"
----
-
 ---
 
 <br/>

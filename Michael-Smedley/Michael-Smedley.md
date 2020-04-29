@@ -1,19 +1,9 @@
 ---
 id: "b71a58fa-dc57-e811-8102-00155d012c01"
-name: "Michael Smedley"
-nickname: "Mike"
 
 category: "Managers"
 role: "Victorian State Manager"
 qualifications: "Certified Scrum Master"
-location: "Melbourne"
-
-blog: ""
-website: ""
-facebook: "https://www.facebook.com/michael.smedley"
-twitter: "@michaelsmedley"
-linkedin: "https://www.linkedin.com/in/michaelsmedley/"
-skype: "miichael.smedley"
 
 quote: "Great spirits have always encountered violent opposition from mediocre minds."
 ---

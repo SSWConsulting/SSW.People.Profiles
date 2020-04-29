@@ -6,15 +6,7 @@ nickname: "We are hiring"
 alternativeUrl: "https://www.ssw.com.au/ssw/Employment/default.aspx"
 category: "Developers"
 role:  "enthusiastic People"
-qualifications:  "Many"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
+qualifications:  ""
 
 quote:  ""
 ---

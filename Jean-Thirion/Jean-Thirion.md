@@ -1,19 +1,9 @@
 ---
 id: "f61d7496-feb2-e711-80eb-00155d012275"
-name: "Jean Thirion"
-nickname: ""
 
 category: "Developers"
 role: "Solution Architect"
 qualifications: "MCSD - SharePoint Applications - App Builder"
-location: "Sydney"
-
-blog: ""
-website: ""
-facebook: ""
-twitter: "Jean_SSW"
-linkedin: "jean-thirion-4b39b560"
-skype: "thirion.jean@outlook.com"
 
 quote: "There is no shame in not knowing. The problem arises when irrational thought and attendant behaviour fill the vacuum left by ignorance."
 quoteAuthor: "Neil Degrasse Tyson"

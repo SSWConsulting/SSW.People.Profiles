@@ -1,19 +1,9 @@
 ---
 id: "e5620025-97ae-e911-8279-00155d01267c"
-name: "Duncan Stark"
-nickname: ""
 
 category: "Admin"
 role:  "Office Manager and PA"
 qualifications:  "Bachelor of Science"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  "sydneyzouk"
-twitter:  ""
-linkedin:  "duncan-stark-65b27516"
-skype:  ""
 
 quote:  "Point your toes!!!"
 ---

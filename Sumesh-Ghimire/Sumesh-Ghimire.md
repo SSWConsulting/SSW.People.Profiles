@@ -1,19 +1,9 @@
 ---
 id: "bef0a6b9-0add-dd11-92eb-00155d01221b"
-name: "Sumesh Ghimire"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Bachelor of Information Technology"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "In the confrontation between the stream and the rock, the stream always wins - not through strength, but through persistence. - Budda"
 ---

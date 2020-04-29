@@ -1,19 +1,9 @@
 ---
 id: "018dedfd-7ba2-e711-80e4-00155d012c44"
-name: "Edgar Rocha"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "MCTS - Web Applications"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "edgarsenrarocha"
-skype:  "edgarsenrarocha@outlook.com"
 
 quote:  "I'd love to change the world, but they didn't give me the source code"
 ---

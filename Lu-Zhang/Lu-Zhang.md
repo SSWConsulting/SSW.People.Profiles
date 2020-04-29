@@ -1,19 +1,9 @@
 ---
 id: "b6df4bbd-9fb2-e011-836a-00155d012914"
-name: "Lu Zhang"
-nickname: ""
 
 category: "Developers"
 role: "Senior Software Developer"
 qualifications: ""
-location: "Beijing"
-
-blog: ""
-website: ""
-facebook: ""
-twitter: ""
-linkedin: ""
-skype: ""
 
 quote: "Think before acting."
 ---

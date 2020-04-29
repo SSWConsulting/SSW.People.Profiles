@@ -1,19 +1,9 @@
 ---
 id: "94d2b781-9f6e-e811-8107-00155d012b0a"
-name: "Harry Phan"
-nickname: ""
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Computer Science (Honours); ITIL Service Management"
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "HarryPhan10"
-linkedin:  "harry-phan-a30300151"
-skype:  "hoangphan84"
 
 quote:  "Life is 10% what happens to you and 90% how you react to it."
 ---

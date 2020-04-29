@@ -1,19 +1,9 @@
 ---
 id: "cdc67524-c518-e711-80d4-00155d01225d"
-name: "Andreas Kraus"
-nickname: ""
 
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Computer Science"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "https://twitter.com/Andreas_ssw"
-linkedin:  "https://www.linkedin.com/in/andreas-kraus-9360a911b/"
-skype:  "raym4n1"
 
 quote:  "Practice makes perfect."
 ---

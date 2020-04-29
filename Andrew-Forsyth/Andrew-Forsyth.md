@@ -1,19 +1,9 @@
 ---
 id: "b5d6c018-4c50-e911-820e-00155d012c5a"
-name: "Andrew Forsyth"
-nickname: ""
 
 category: "Designers"
 role:  "Video Producer/ Director/ Editor"
 qualifications:  "MBA, B.Ec."
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "A picture is worth a thousand words!"
 ---

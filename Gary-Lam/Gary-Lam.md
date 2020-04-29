@@ -1,19 +1,10 @@
 ---
 id: ""
 name: "Gary Lam"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B Sc (UNSW) , MCAD"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

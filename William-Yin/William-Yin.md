@@ -1,19 +1,9 @@
 ---
 id: "5d9f1750-0b74-dd11-a88b-00155d012206"
-name: "William Yin"
-nickname: ""
 
 category: "Developers"
 role: "Senior Software Architect (SharePoint)"
 qualifications: "B.Eng(software engineering), MCPD, MCTS, MCSE, MCDBA"
-location: ""
-
-blog: ""
-website: ""
-facebook: ""
-twitter: "William_Yin"
-linkedin: "williamyinssw"
-skype: "williamyin-ssw"
 
 quote: "I believe positive mental attitude leads to excellence."
 ---

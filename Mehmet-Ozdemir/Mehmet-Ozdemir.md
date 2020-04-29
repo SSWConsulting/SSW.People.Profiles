@@ -1,19 +1,9 @@
 ---
 id: "977b53a0-0285-e011-8227-00155d012144"
-name: "Mehmet Ozdemir"
-nickname: ""
 
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Dip Computer Technology, MCSD: Application Lifecycle Management"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "@mozdemir_au"
-linkedin:  ""
-skype:  "mehmet.ozdemir.ssw"
 
 quote:  "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"
 ---

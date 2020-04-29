@@ -1,19 +1,9 @@
 ---
 id: "ea73c1dd-b7dd-e911-9673-00155d012c95"
-name: "Matt Goldman"
-nickname: ""
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  ""
-location: "Sydney"
-
-blog:  "https://goforgoldman.com"
-website:  ""
-facebook:  ""
-twitter:  "MattGoldmanSSW"
-linkedin:  "matt-goldman"
-skype:  "live:.cid.3de3f4b733ade61b"
 
 quote:  "Any technology distinguishable from magic is insufficiently advanced."
 quoteAuthor: "Gregory Benford"

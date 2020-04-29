@@ -1,14 +1,8 @@
 ---
 id: "30ba4c53-3f3b-ea11-9678-00155d0126af"
-name: "Harley Kemelfield"
-nickname: ""
 
 category: "Developers"
 role:  "Work Experience"
-location: "Melbourne"
-
-email: "harleykemelfield@ssw.com.au"
-linkedin:  "harley-kemelfield-8560b7153"
 
 quote:  "Programming is about bringing your ideas to life. It is also a direct application of Murphy's law."
 ---

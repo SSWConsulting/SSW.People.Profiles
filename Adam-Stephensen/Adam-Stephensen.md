@@ -1,19 +1,9 @@
 ---
 id: "9194ace0-bb81-e011-8227-00155d012144"
-name: "Adam Stephensen"
-nickname: "Stevo"
 
 category: "Managers"
 role:  "Solution Architect, State Manager QLD"
 qualifications:  "Master of Software Development "
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "adamstephensen"
-linkedin:  ""
-skype:  "astephensen"
 
 quote:  "'fail fast', inspect, adapt, have a lot of fun.  "
 ---

@@ -1,19 +1,9 @@
 ---
 id: "085c015e-de5f-e811-8102-00155d012c01"
-name: "Anky Che"
-nickname: ""
 
 category: "Admin"
 role:  "China Office Accountant"
 qualifications:  "Bachelor of Accountant"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "The best preparation for tomorrow is doing your best today."
 ---

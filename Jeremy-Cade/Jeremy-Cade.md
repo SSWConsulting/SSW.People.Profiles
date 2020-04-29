@@ -1,19 +1,9 @@
 ---
 id: "2b1a5dbc-f107-e511-94df-00783af55a15"
-name: "Jeremy Cade"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B.InfTech (Accl), M.InfTech"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "jcade83"
-linkedin:  ""
-skype:  "JeremyCade"
 
 quote:  "Strong Opinions, Weakly Held."
 ---

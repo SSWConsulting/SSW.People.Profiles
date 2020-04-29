@@ -1,19 +1,9 @@
 ---
 id: "0f429458-ac49-e811-8102-00155d012c01"
-name: "Nei Oliveira"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Bachelor in Computer Science"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  "asoliveira@hotmail.com"
 
 quote:  "The best preparation for tomorrow is doing your best today."
 ---

@@ -1,19 +1,10 @@
 ---
 id: ""
 name: "Yu-Hsien"
-nickname: ""
 
 category: "Designers"
 role:  "Video Specialist"
 qualifications:  "Master of Interactive and Digital Media"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "knowing you don't know is the most essential step of knowing"
 ---

@@ -1,19 +1,10 @@
 ---
 id: ""
 name: "Tim Fletcher"
-nickname: ""
 
 category: "Managers"
 role:  "Project Manager"
 qualifications:  "BSc (Pure Math)"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

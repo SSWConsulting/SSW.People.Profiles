@@ -1,19 +1,9 @@
 ---
 id: "88785899-f459-dd11-b3a3-00155d012206"
-name: "Justin King"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B App Science"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "List<ScottGu> throws an exception - there is only one ScottGu!"
 ---

@@ -1,19 +1,9 @@
 ---
 id: "19c5781c-7f60-de11-a8d4-00155d01ec01"
-name: "Luke Chou"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Master of Computer Science"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Do it, take it."
 ---

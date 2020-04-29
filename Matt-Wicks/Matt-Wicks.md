@@ -1,20 +1,9 @@
 ---
 id: "a539c002-af8b-e811-810f-00155d012c11"
-name: "Matt Wicks"
-nickname: ""
 
 category: "Developers"
 role: "Solution Architect"
 qualifications: "Bachelor of Multimedia Computing, Certified Scrum Master"
-location: "Sydney"
-
-blog: ""
-website: ""
-facebook: ""
-twitter: "matteightyate"
-linkedin: "matt-wicks"
-github: "wicksipedia"
-skype: ""
 
 quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace them"
 ---

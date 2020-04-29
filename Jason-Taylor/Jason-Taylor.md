@@ -1,19 +1,9 @@
 ---
 id: "8ac82c73-303c-e611-80d1-00155d01ee33"
-name: "Jason Taylor"
-nickname: ""
 
 category: "Developers"
 role: "Solution Architect"
 qualifications: "Master or IT (Software Architecture), MCSD"
-location: "Brisbane"
-
-blog: ""
-website: ""
-facebook: ""
-twitter: "@jasongtau"
-linkedin: "jasongtau"
-skype: "jasongtau"
 
 quote: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
 ---

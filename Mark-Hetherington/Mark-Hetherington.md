@@ -1,19 +1,9 @@
 ---
 id: "f26057ee-4759-de11-b918-00155d01ec01"
-name: "Mark Hetherington"
-nickname: ""
 
 category: "Managers"
 role:  "Scrum and Agile Coach"
 qualifications:  "BSc. (Hons) Computer Science, London University"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "\"We work efficiently on the right things in a visible way\".  If you really do this properly, your customers, whether internal or external, will have no reason to ever complain."
 ---

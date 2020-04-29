@@ -1,19 +1,9 @@
 ---
 id: "9a8d1f03-d7d3-e711-80f2-00155d012275"
-name: "Lindsay Corfield"
-nickname: ""
 
 category: "Managers"
 role:  "General Manager International"
 qualifications:  "MBA (Intl Bus) | JP (Qual) | Certified Scrum Master"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "lindsaycorfield"
-skype:  ""
 
 quote:  "The greatest thing in this world is not so much where we stand as in what direction we are moving - Goethe"
 ---

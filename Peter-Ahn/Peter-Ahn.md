@@ -1,19 +1,10 @@
 ---
 id: ""
 name: "Peter Ahn"
-nickname: ""
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Dip IT, MCP"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

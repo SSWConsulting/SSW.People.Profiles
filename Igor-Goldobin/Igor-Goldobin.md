@@ -1,19 +1,9 @@
 ---
 id: "9ca6edaf-6697-e311-aeb2-00783af55a15"
-name: "Igor Goldobin"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B.InfoTech (hons), B.Eng (hons), M.InfoTech, Prince2 Practitioner, MCPD"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Without requirements or design, programming is the art of adding bugs to an empty text file."
 ---

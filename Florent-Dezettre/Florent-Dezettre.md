@@ -1,19 +1,9 @@
 ---
 id: "996f12a9-ec32-e811-80fc-00155d012c01"
-name: "Florent Dezettre"
-nickname: ""
 
 category: "Admin"
 role:  "Sales and Marketing Assistant"
 qualifications:  "International Marketing Master's Degree"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "https://www.linkedin.com/in/florentdezettre/"
-skype:  ""
 
 quote:  "It is not a matter of luck, it is a matter of time."
 ---

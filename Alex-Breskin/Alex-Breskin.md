@@ -1,19 +1,9 @@
 ---
 id: "90d1e088-58bd-e911-966f-00155d012c95"
-name: "Alex Breskin"
-nickname: ""
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Information Technology Systems"
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "https://au.linkedin.com/in/alex-breskin-4a822880"
-skype:  "live:alexbreskin"
 
 quote:  "You know what they say, one person's code is another person's legacy? Let's try to avoid that"
 ---

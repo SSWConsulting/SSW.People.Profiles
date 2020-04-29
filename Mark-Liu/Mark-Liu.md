@@ -1,19 +1,9 @@
 ---
 id: "b06a67e8-f459-dd11-b3a3-00155d012206"
-name: "Mark Liu"
-nickname: ""
 
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "B.C.S.T - Computer Science and Technology "
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Excellence is not a skill, it's an attitude."
 ---

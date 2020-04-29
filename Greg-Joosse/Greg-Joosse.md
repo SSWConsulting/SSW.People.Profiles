@@ -1,19 +1,9 @@
 ---
 id: "beead0a9-fdbf-dd11-8569-00155d01221b"
-name: "Greg Joosse"
-nickname: ""
 
 category: "Developers"
 role:  "Network Administrator"
 qualifications:  ""
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

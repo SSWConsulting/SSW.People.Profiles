@@ -1,20 +1,9 @@
 ---
 id: "10c4ce88-10c8-e711-80f1-00155d012275"
-name: "Patricia Barros"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  ""
-location: "Brisbane"
-
-blog:  "https://patriciabarros.azurewebsites.net/"
-website:  ""
-facebook:  ""
-twitter:  "@patribarros1"
-linkedin:  "www.linkedin.com/in/barrospatricia"
-skype:  "psbarros@outlook.com"
-github: "patriciabarrosssw"
 
 quote:  "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
 ---

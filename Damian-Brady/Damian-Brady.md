@@ -1,19 +1,9 @@
 ---
 id: "fd41919f-3c6a-e011-823c-00155d012016"
-name: "Damian Brady"
-nickname: ""
 
 category: "Managers"
 role:  "Chief Architect and State Manager QLD"
 qualifications:  "B.InfoTech (hons), MBA"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "If you look at something you did a year ago and can't think of a better way to do it, it's not a sign you did it perfectly the first time, it's a sign you're not learning."
 ---

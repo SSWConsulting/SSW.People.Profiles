@@ -1,19 +1,9 @@
 ---
 id: "8f98bd24-439d-e011-86d6-00155d012203"
-name: "Raj Dhatt"
-nickname: ""
 
 category: "Designers"
 role:  "Multimedia Producer"
 qualifications:  "BA (Hons): TV Production"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "If you do something cool, I'm there to film it. Secretly."
 ---

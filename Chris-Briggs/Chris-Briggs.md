@@ -1,19 +1,9 @@
 ---
 id: "84568c4d-3a53-e411-a323-00783af55a15"
-name: "Chris Briggs"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of Information Technology"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "You don't find buried treasure by sitting down."
 ---

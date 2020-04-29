@@ -1,19 +1,9 @@
 ---
 id: "a4a414fd-29ea-e911-9674-00155d012c95"
-name: "Toby Goodman"
-nickname: ""
 
 category: "Designers"
 role:  "Video Producer"
 qualifications:  "Batchelor of Media and Communications"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "\"There can be many answers to a question but you will need to ask Adam how it is formatted\""
 ---
