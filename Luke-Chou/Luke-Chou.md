@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "19c5781c-7f60-de11-a8d4-00155d01ec01"
 name: "Luke Chou"
 nickname: ""

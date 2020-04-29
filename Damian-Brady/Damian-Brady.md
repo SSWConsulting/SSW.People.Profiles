@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "fd41919f-3c6a-e011-823c-00155d012016"
 name: "Damian Brady"
 nickname: ""

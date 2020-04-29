@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "4a359ff1-33d6-e711-80f2-00155d012275"
 name: "Gabriel George"
 nickname: "Gabe"

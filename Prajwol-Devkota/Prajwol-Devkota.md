@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "559b559d-01c0-dd11-8569-00155d01221b"
 name: "Prajwol Devkota"
 nickname: ""

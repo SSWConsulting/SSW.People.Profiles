@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "977b53a0-0285-e011-8227-00155d012144"
 name: "Mehmet Ozdemir"
 nickname: ""

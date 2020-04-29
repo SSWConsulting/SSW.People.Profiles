@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "085c015e-de5f-e811-8102-00155d012c01"
 name: "Anky Che"
 nickname: ""

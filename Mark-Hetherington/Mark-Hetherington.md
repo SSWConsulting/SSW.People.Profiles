@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "f26057ee-4759-de11-b918-00155d01ec01"
 name: "Mark Hetherington"
 nickname: ""

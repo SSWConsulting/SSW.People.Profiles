@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "10c4ce88-10c8-e711-80f1-00155d012275"
 name: "Patricia Barros"
 nickname: ""

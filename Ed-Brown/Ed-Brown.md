@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "c1b2ee52-7630-dd11-bbde-00155d012229"
 name: "Ed Brown"
 nickname: ""

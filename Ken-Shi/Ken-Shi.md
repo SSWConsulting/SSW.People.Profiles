@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "ce34d74e-c08f-e811-8115-00155d01261e"
 name: "Ken Shi"
 nickname: ""

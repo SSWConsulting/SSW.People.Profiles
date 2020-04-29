@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "56229cee-f459-dd11-b3a3-00155d012206"
 name: "Gordon Hartley"
 nickname: ""

@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "c63e15ee-21f7-e111-88ff-00783af55a15"
 name: "Jacky Zhou"
 nickname: ""

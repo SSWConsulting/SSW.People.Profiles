@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "139634be-27cb-e711-80f1-00155d012275"
 name: "Barry Sanders"
 nickname: ""

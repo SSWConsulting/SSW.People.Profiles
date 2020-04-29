@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "2dc43c27-5ec9-e111-bd77-00783af55a15"
 name: "Drew Robson"
 nickname: ""

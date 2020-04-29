@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "ce1712e5-79ee-e611-80d4-00155d01225d"
 name: "Andrew Campey"
 nickname: ""

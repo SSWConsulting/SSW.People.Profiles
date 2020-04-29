@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "d8035948-c744-e611-80d1-00155d01ee33"
 name: "Stephen Carter"
 nickname: ""

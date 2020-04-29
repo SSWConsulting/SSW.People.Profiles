@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "c1abafee-f604-e611-80cc-00155d01ee33"
 name: "Tri-Hanh Pham"
 nickname: ""

@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "3af35e26-64a4-e911-826a-00155d012263"
 name: "Kaha Mason"
 nickname: ""

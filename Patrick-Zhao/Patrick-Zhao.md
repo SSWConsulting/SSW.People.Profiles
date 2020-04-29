@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "802a63dc-3480-e911-823b-00155d01ef64"
 name: "Patrick Zhao"
 nickname: ""

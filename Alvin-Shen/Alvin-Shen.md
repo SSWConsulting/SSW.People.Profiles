@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "b86a67e8-f459-dd11-b3a3-00155d012206"
 name: "Alvin Shen"
 nickname: "Alvin"

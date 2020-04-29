@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "b71a58fa-dc57-e811-8102-00155d012c01"
 name: "Michael Smedley"
 nickname: "Mike"

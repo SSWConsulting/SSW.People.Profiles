@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "b5d6c018-4c50-e911-820e-00155d012c5a"
 name: "Andrew Forsyth"
 nickname: ""

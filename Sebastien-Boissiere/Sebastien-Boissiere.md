@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "72fa4ce2-7170-e911-8226-00155d01ef64"
 name: "Sebastien Boissiere"
 nickname: "Seb"

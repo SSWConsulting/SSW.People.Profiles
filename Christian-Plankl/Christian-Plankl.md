@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "36d35ef3-c418-e711-80d4-00155d01225d"
 name: "Christian Plankl"
 nickname: ""

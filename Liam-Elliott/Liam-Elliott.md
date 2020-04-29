@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "3124783f-484a-e711-80dc-00155d012c3d"
 name: "Liam Elliott"
 nickname: ""

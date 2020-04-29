@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "fe0b5b92-f8aa-dd11-a7e0-00155d01221b"
 name: "Tiago Araujo"
 nickname: ""

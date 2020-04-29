@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "4c14ec3a-d55a-e311-9ab5-00783af55a15"
 name: "David Berkes"
 nickname: ""

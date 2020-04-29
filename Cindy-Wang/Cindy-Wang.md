@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "4f4696fe-dfa3-dd11-b942-00155d01221b"
 name: "Cindy Wang"
 nickname: ""

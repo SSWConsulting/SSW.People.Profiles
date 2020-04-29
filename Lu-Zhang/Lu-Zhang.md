@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "b6df4bbd-9fb2-e011-836a-00155d012914"
 name: "Lu Zhang"
 nickname: ""

@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "87437bbd-75fe-e811-81ad-00155d012b39"
 name: "Sharon Du"
 nickname: ""

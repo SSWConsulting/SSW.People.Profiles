@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "1a90550d-5677-e311-8103-00783af55a15"
 name: "Michelle Lu"
 nickname: ""

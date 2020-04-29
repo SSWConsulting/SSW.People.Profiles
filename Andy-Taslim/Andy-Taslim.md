@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "bc6a67e8-f459-dd11-b3a3-00155d012206"
 name: "Andy Taslim"
 nickname: ""

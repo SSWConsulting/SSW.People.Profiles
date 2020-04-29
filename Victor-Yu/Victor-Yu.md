@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "e32ffbd4-b9fd-e811-81ac-00155d012b39"
 name: "Victor Yu"
 nickname: ""

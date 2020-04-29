@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "2b1a5dbc-f107-e511-94df-00783af55a15"
 name: "Jeremy Cade"
 nickname: ""

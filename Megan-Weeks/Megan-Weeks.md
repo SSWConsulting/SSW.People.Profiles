@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "122ce668-e30c-e111-a590-00155d012914"
 name: "Megan Weeks"
 nickname: ""

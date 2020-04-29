@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "a7e7a4d2-6923-e911-81e4-00155d012b45"
 name: "Andreas Lengkeek"
 nickname: ""

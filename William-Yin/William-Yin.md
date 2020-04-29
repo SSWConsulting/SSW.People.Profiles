@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "5d9f1750-0b74-dd11-a88b-00155d012206"
 name: "William Yin"
 nickname: ""

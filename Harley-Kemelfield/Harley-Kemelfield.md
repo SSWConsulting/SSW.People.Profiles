@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "30ba4c53-3f3b-ea11-9678-00155d0126af"
 name: "Harley Kemelfield"
 nickname: ""

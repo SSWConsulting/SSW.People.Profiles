@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "e21464fb-8fb1-e811-8141-00155d01ef11"
 name: "Shane Ye"
 nickname: ""

@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "8e785899-f459-dd11-b3a3-00155d012206"
 name: "Ulysses Maclaren"
 nickname: "Uly"

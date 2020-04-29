@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "5f303680-4e87-e911-8244-00155d01ef64"
 name: "Matthew Sampias"
 nickname: ""

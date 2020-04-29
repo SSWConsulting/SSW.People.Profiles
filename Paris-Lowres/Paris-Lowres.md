@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "303aae5f-18eb-e911-9674-00155d012c95"
 name: "Paris Lowres"
 nickname: ""

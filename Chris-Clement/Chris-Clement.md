@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "6f6cf6a2-7518-e911-81d2-00155d012b45"
 name: "Chris Clement"
 nickname: ""

@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "3aa77fd7-26f6-e111-88ff-00783af55a15"
 name: "Brendan Richards"
 nickname: ""

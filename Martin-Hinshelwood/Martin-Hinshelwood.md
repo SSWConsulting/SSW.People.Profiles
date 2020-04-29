@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "c6e6dfba-39d2-de11-bc73-00155d01ec01"
 name: "Martin Hinshelwood"
 nickname: ""

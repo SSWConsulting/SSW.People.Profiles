@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "fe350325-1c41-df11-8b63-00155d01211a"
 name: "Julian Bueno"
 nickname: ""

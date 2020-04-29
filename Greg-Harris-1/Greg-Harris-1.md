@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: ""
 name: "Greg Harris 1"
 nickname: ""

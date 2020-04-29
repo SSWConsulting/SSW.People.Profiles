@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "cdc67524-c518-e711-80d4-00155d01225d"
 name: "Andreas Kraus"
 nickname: ""

@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "34e4d606-2c18-e811-80fb-00155d012c01"
 name: "Chris Beaver"
 nickname: ""

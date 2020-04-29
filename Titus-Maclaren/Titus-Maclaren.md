@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "108b04d6-55c1-e011-836a-00155d012914"
 name: "Titus Maclaren"
 nickname: ""

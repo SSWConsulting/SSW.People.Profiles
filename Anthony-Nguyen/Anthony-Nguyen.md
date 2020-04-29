@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "a1a778e7-265d-e611-80d2-00155d01ee33"
 name: "Anthony Nguyen"
 nickname: ""

@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "ae908bc5-f6d5-e611-80d4-00155d01225d"
 name: "Penny Walker"
 nickname: "Penny"

@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "018dedfd-7ba2-e711-80e4-00155d012c44"
 name: "Edgar Rocha"
 nickname: ""

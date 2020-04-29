@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "f2eadf45-3387-e511-80c4-00155d012c15"
 name: "Farrukh Khan"
 nickname: ""

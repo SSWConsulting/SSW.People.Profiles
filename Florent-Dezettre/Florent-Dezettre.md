@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "996f12a9-ec32-e811-80fc-00155d012c01"
 name: "Florent Dezettre"
 nickname: ""

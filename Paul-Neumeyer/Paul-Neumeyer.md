@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "010b3117-fd88-dd11-ac40-00155d01221b"
 name: "Paul Neumeyer"
 nickname: ""

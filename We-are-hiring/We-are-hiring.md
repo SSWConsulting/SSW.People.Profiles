@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: ""
 name: "We are hiring"
 nickname: "We are hiring"

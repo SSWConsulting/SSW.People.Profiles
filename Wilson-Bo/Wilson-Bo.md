@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "7af9b2ef-4138-e211-a564-00783af55a15"
 name: "Wilson Bo"
 nickname: ""

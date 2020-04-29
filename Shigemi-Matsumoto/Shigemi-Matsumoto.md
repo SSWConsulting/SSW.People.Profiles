@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "6e601c0e-7ece-e311-bd7f-00783af55a15"
 name: "Shigemi Matsumoto"
 nickname: ""

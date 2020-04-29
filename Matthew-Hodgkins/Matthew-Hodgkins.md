@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "ef23051c-dfc1-de11-996b-00155d01ec01"
 name: "Matthew Hodgkins"
 nickname: ""

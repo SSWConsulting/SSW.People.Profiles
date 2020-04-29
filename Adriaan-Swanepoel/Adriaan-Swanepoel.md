@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "f4a04bbd-cadc-e411-aeb0-00783af55a15"
 name: "Adriaan Swanepoel"
 nickname: ""

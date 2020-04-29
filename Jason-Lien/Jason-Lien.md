@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: ""
 name: "Jason Lien"
 nickname: ""

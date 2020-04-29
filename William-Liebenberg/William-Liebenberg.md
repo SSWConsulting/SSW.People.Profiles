@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "687efe24-b7a1-e811-812d-00155d01ef11"
 name: "William Liebenberg"
 nickname: "Will"

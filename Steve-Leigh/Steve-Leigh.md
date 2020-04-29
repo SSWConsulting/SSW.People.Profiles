@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "e084023e-11b4-e511-80c4-00155d012c15"
 name: "Steve Leigh"
 nickname: ""

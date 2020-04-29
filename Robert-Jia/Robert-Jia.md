@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "a6b85481-0d6e-e311-8103-00783af55a15"
 name: "Robert Jia"
 nickname: ""

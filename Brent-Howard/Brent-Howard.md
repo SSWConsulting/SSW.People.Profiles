@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "74ba192f-1b23-e811-80fb-00155d012c01"
 name: "Brent Howard"
 nickname: ""

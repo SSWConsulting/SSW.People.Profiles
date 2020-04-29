@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
 name: "Bob Northwind"
 nickname: "Sample"

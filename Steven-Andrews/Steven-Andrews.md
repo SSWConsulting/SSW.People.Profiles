@@ -1,5 +1,4 @@
 ---
-currentEmployee: true
 id: "1da8ec11-b56a-e711-80df-00155d012c3d"
 name: "Steven Andrews"
 nickname: ""

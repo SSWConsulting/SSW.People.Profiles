@@ -1,5 +1,4 @@
 ---
-currentEmployee: false
 id: "6bcc8a1f-de89-dd11-ac40-00155d01221b"
 name: "Giles Lindsay"
 nickname: ""
