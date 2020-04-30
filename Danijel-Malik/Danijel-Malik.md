@@ -21,11 +21,10 @@ quote:  "Software is like music. Easy to use but hard to write."
 
 [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/DanijelMalik) 
    
- ![MVP_FullLogo.png](./Images/Bio/MVP_FullLogo.png) 
- ![](./Images/Bio/MCSD_2013(rgb) 
-_1477.jpg) ![MCTS_2013(rgb)_NETFX.jpg](./Images/Bio/MCTS_2013(rgb) 
-_NETFX.jpg) ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
-   
+[[imgBadge]]| ![MVP](../badges/Certification-microsoft-mvp.png)
+![MCTS_2013(rgb)_NETFX.jpg](./Images/Bio/MCTS_2013(rgb) _NETFX.jpg) 
+[[imgBadge]]| ![Web App](../badges/Certification-microsoft-developer-webapps.png)
+[[imgBadge]]| ![Sitefinity](../badges/Developer-sitefinity.png)
 
  Danijel is a DevOps mastermind who can make your DevOps cycle run like a well-oiled machine. With a wide range of technical skills and a deep desire to understand the client's business first, Danijel is the person you can always rely on to get the best solution.
 

@@ -18,9 +18,9 @@ skype:  ""
 
 quote:  "Nothing in this world can take the place of persistence."
 ---
-
-![jackyzhou_mcp.jpg](./Images/Bio/jackyzhou_mcp.jpg) 
  
+[[imgBadge]]
+| ![MCP](../badges/Certification-microsoft-professional.jpg) 
 
 **Background:** 
 

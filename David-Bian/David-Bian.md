@@ -21,6 +21,7 @@ quote:  "I'm always trying to be more professional."
 
 ![MCPD](./Images/Bio/MCPD_WebDev2.0.jpg) 
   
+[[imgBadge]]| ![Microsoft Professional Developer](../badges/Certification-microsoft-professional.jpg)
 
 **Background:**  
 
