@@ -21,31 +21,31 @@ quote:  "Make a plan! Make it happen!"
 
 ---
 [[imgBadge]]
-| ![azure-logo.png](../badges/azure-logo.png)
+| ![azure-logo.png](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
-| ![azure-function-logo.png](../badges/azure-function-logo.png)
+| ![azure-function-logo.png](../badges/Developer-azure-function.png)
 
 [[imgBadge]]
-| ![azure-logo.png](../badges/azure-devops-logo.png)
+| ![azure-logo.png](../badges/Business-microsoft-azure-devops.png)
 
 [[imgBadge]]
-| ![devops-logo.png](../badges/devops-logo.png)
+| ![devops-logo.png](../badges/Developer-devops.png)
 
 [[imgBadge]]
-| ![.NET Core](../badges/net-core-logo.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![angular-logo.png](../badges/angular-logo.png)
+| ![angular-logo.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![blazor-logo.png](../badges/blazor-logo.png)
+| ![blazor-logo.png](../badges/Developer-blazor.png)
 
 [[imgBadge]]
-| ![Microsoft-Cognitive-Service-Logo.png](../badges/cognitive-services.png)
+| ![Microsoft-Cognitive-Service-Logo.png](../badges/Developer-cognitive-services.png)
 
 [[imgBadge]]
-| ![docker](../badges/docker.png)
+| ![docker](../badges/Developer-docker.png)
 
 ---
 

@@ -20,16 +20,16 @@ quote: "Always code as if the guy who ends up maintaining your code will be a vi
 ---
 
 [[imgBadge]]
-| ![MSCProfessional.png](../badges/MSCProfessional.png)
+| ![MSCProfessional.png](../badges/Certification-microsoft-professional.jpg)
 
 [[imgBadge]]
-| ![MSCWebAp.png](../badges/MCSD_WebApplication.png)
+| ![MSCWebAp.png](../badges/Certification-microsoft-developer-webapps.png)
 
 [[imgBadge]]
-| ![PSDI.png](../badges/PSDI.png)
+| ![PSDI.png](../badges/Certification-scrumalliance-developer-1.png)
 
 [[imgBadge]]
-| ![SAI_BadgeSizes_DigitalBadging_CSM.png](../badges/csm-certified-scrum-alliance.png)
+| ![SAI_BadgeSizes_DigitalBadging_CSM.png](../badges/Certification-scrumalliance-master.png)
 
 ---
 

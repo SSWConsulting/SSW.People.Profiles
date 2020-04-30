@@ -20,19 +20,19 @@ quote: "Open Source Software is not about the price. Its about the freedom to us
 ---
 
 [[imgBadge]]
-| ![Microsoft Certified Solutions Developer](../badges/MCSD_WebApplication.png)
+| ![Microsoft Certified Solutions Developer](../badges/Certification-microsoft-developer-webapps.png)
 
 [[imgBadge]]
-| ![dotnetcore.png](../badges/net-core-logo.png)
+| ![dotnetcore.png](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![angular.png](../badges/angular-logo.png)
+| ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![ngrx.jpg](../badges/ngrx.png)
+| ![ngrx.jpg](../badges/Developer-ngrx.png)
 
 [[imgBadge]]
-| ![liinux.jpg](../badges/Tux.png)
+| ![liinux.jpg](../badges/Developer-linux.png)
 
 ---
 
