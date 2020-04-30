@@ -20,7 +20,7 @@ quote:  "Nothing in life is impossible. The biggest hurdles to success in life a
 ---
 
 [[imgBadge]]
-| ![Certified Scrum Master](../badges/csm.png) 
+| ![Certified Scrum Master](../badges/Certification-scrumorg-master-1.png) 
    
 Ulysses is the General Manager of SSW and has been managing the team since 2006.   
 
@@ -30,4 +30,4 @@ Ulysses is the Scrum Master for internal development teams, the design, video, a
 
    <iframe width="800" height="450" src="https://www.youtube.com/embed/Y4tvF0DWEec" frameborder="0"></iframe> 
 
- In his spare time, he is one of Australia's top Salsa teachers and is the 10 times Australian Salsa Champion, 5 times Australian Bachata Champion, and part of the Bachata World Champion team, Modus Vivendi. You can see more about this part of his life on his [Salsa Blog](http://salsaulysses.wordpress.com/).
+ In his spare time, he is one of Australia's top Salsa teachers and is the 10 times Australian Salsa Champion, 5 times Australian Bachata Champion, and part of the Bachata World Champion team, Modus Vivendi. You can see more about this part of his life on his [Salsa Blog](https://salsaulysses.com/).

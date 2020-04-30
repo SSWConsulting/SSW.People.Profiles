@@ -11,7 +11,7 @@ location: "Sydney"
 
 blog: "https://www.ssw.com.au"
 website: ""
-facebook: "bobnorthwind"
+facebook: ""
 skype: "bobnorthwind"
 linkedin: "bobnorthwind"
 twitter: "bobnorthwind"
@@ -22,6 +22,8 @@ quoteAuthor: "Anonymous"
 
 youtubePlayListId: "PLpiOR7CBNvlpBS1S_OiECOhN-vSSU-COK"
 ---
+
+[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 Lorem ipsum dolor sit amet, et per salutandi definitiones, nam utinam verterem persecuti id, his malorum patrioque cu. Vis adhuc adversarium no, id elit nostrum mandamus qui. Eum case ornatus menandri cu, dolore labitur eu usu, eu omnis recteque his. Alii habemus vel te.
 
@@ -122,7 +124,7 @@ _italic_ or _italic_
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
-| ![Microsoft certification](../badges/microsoft-Certified.jpg)
+| ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
 ```
 
 &nbsp;
@@ -139,7 +141,7 @@ _italic_ or _italic_
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
-| ![Microsoft certification](../badges/microsoft-certified.jpg)
+| ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
 
 &nbsp;
 
@@ -328,8 +330,6 @@ Markdown | Less | Pretty
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
 [You can use numbers for reference-style link definitions][1]
 
 Or leave it empty and use the [link text itself].
@@ -353,8 +353,6 @@ Some text to show that the reference links can follow later.
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 [I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
 
 [You can use numbers for reference-style link definitions][1]
 

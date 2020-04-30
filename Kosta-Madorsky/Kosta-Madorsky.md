@@ -11,7 +11,7 @@ location: "Sydney"
 
 blog: ""
 website: ""
-facebook: "madkonst"
+facebook: "KostaMadorsky"
 twitter: "madkonst"
 linkedin: "kmadorskiy"
 skype: "madkonst"
@@ -20,13 +20,13 @@ quote: "A good programmer looks both ways before crossing a one-way street"
 ---
 
 [[imgBadge]]
-| ![dotnetcore.png](../badges/net-core-logo.png)
+| ![dotnetcore.png](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![angular.png](../badges/angular-logo.png)
+| ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![zendesk.png](../badges/Zendesk.png)
+| ![zendesk.png](../badges/Business-zendesk.png)
 
 Kosta is a Senior Software Architect based in SSW's Sydney office. He is passionate about innovations and effective delivery of services.
 

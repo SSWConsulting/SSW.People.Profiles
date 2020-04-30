@@ -14,38 +14,38 @@ website:  "https://azuregems.io"
 facebook:  ""
 twitter:  "William_DotNet"
 linkedin:  "william-liebenberg/"
-github: "https://github.com/william-liebenberg"
+github: "william-liebenberg"
 skype:  ""
 
 quote:  "Make a plan! Make it happen!"
 
 ---
 [[imgBadge]]
-| ![azure-logo.png](../badges/azure-logo.png)
+| ![azure-logo.png](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
-| ![azure-function-logo.png](../badges/azure-function-logo.png)
+| ![azure-function-logo.png](../badges/Developer-azure-function.png)
 
 [[imgBadge]]
-| ![azure-logo.png](../badges/azure-devops-logo.png)
+| ![azure-logo.png](../badges/Business-microsoft-azure-devops.png)
 
 [[imgBadge]]
-| ![devops-logo.png](../badges/devops-logo.png)
+| ![devops-logo.png](../badges/Developer-devops.png)
 
 [[imgBadge]]
-| ![.NET Core](../badges/net-core-logo.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![angular-logo.png](../badges/angular-logo.png)
+| ![angular-logo.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![blazor-logo.png](../badges/blazor-logo.png)
+| ![blazor-logo.png](../badges/Developer-blazor.png)
 
 [[imgBadge]]
-| ![Microsoft-Cognitive-Service-Logo.png](../badges/cognitive-services.png)
+| ![Microsoft-Cognitive-Service-Logo.png](../badges/Developer-cognitive-services.png)
 
 [[imgBadge]]
-| ![docker](../badges/docker.png)
+| ![docker](../badges/Developer-docker.png)
 
 ---
 
@@ -99,25 +99,23 @@ Relevant technologies: Azure Functions, Azure Bots, Google DialogFlow Firebase,A
 William is a trainer on the [SSW TV Azure Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Azure-Superpowers-Tour.aspx) at major cities around Australia and Online, and has received top evaluation scores!
 
 [[imgMd]]
-| ![SSW TV Azure Superpowers Tour](./Images/Bio/AzureSuperpowersProfile-William.jpg)
+| ![SSW TV Azure Superpowers Tour](./Images/Bio/azure-superpowers-profile-william-no-cape.jpg)
 
 ## Public Speaking
 
 William has spoken at conferences such as [NDC Sydney](https://ndcsydney.com/speaker/william-liebenberg/) and [DDD Brisbane](https://dddbrisbane.com/agenda/2019).
 
 [[imgMd]]
-| ![NDC Sydney 2019](./Images/Bio/NDC-Sydney-Speaker.png)
+| ![Speaker at NDC Sydney 2019](./Images/Bio/NDC-Sydney-Speaker.png)
 
-[[imgMd]]
-| ![NDC Sydney 2019 SpendOps](./Images/Bio/SpendOps.jpg)
+[[imgBadge]]
+| ![Speaker at DDD Brisbane 2019](../badges/Event-DDD-Brisbane.png)
 
 `youtube: zxSlKiWOOzw`
-
-[[imgSm]]
-| ![DDD Brisbane 2019](../badges/DDDBrisbane.png)
+Figure: Azure SpendOps – The Art of Effectively Managing Azure Costs - William Liebenberg
 
 [[imgMd]]
-| ![DDDBrisbane2019Talk2](./Images/Bio/dddbrisbane-2019-william-2.jpg)
+| ![DDD Brisbane - Clean-code with Azure Functions and Cosmos DB](./Images/Bio/dddbrisbane-2019-william-2.jpg)
 
 ## Community Events
 
@@ -125,19 +123,22 @@ Being an active member of the local development community is very important to W
 
 He is President of the [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/) hosted at [SSW Melbourne](https://www.ssw.com.au/ssw/NETUG/Melbourne.aspx).
 
-[[imgSm]]
-| ![Melbourne .Net User group](../badges/melbourne-ug.jpg)
+[[imgBadge]]
+| ![Melbourne .Net User group](../badges/Event-ug-melbourne.png)
 
-In 2020 William also helped launch the new [AI Hack Day](https://aihackday.com) free community event. He also took on the role of Mentor and Presenter to help get the attendees started with building Bots.
+In 2020 William helped launching the new [AI Hack Day](https://aihackday.com) free community event. He also took on the role of Mentor and Presenter to help get the attendees started with building Bots.
 
-![AI Hack Day](../badges/ai-hackday2x.png)
+[[imgBadge]
+| ![AI Hack Day](../badges/Event-hackday-ai.png)
 
 William has also presented and mentored at the following Hack Day events:
 
 * [Xamarin Hack Day - Melbourne 2019](https://xamarinhackday.com)
 
-![Xamarin Hack Day](../badges/xamarin-HackDay.png)
+[[imgBadge]]
+| ![Xamarin Hack Day](../badges/Event-hackday-xamarin.png)
 
 * [Angular Hack Day - Melbourne 2019](https://angularhackday.com/)
 
-![Angular Hack Day](../badges/Angular-HackDay-logo-lg.png)
+[[imgBadge]]
+| ![Angular Hack Day](../badges/Event-hackday-angular.png)

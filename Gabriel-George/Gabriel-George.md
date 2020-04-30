@@ -24,19 +24,19 @@ quote: "Failing is how you learn best. To not to try would be your greatest fall
 <br/>
 
 [[imgBadge]]
-| ![Angular Icon](../badges/angular-logo.png)
+| ![Angular Icon](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![Ngrx Icon](../badges/ngrx.png)
+| ![Ngrx Icon](../badges/Developer-ngrx.png)
 
 [[imgBadge]]
-| ![RxJs Icon](../badges/rxjs.png)
+| ![RxJs Icon](../badges/Developer-rxjs.png)
 
 [[imgBadge]]
-| ![React Icon](../badges/react-logo.png)
+| ![React Icon](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![Vue.Js Icon](../badges/vuejs-logo.png)
+| ![Vue.Js Icon](../badges/Developer-vuejs.png)
 
 <br/>
 

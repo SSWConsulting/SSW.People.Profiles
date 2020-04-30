@@ -13,17 +13,18 @@ blog: ""
 website: ""
 facebook: ""
 twitter: "matteightyate"
-linkedin: "mattswicks"
+linkedin: "matt-wicks"
+github: "wicksipedia"
 skype: ""
 
 quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace them"
 ---
 
 [[imgBadge]]
-| ![CSM Certified](../badges/csm-certified-scrum-alliance.png)
+| ![CSM Certified](../badges/Certification-scrumalliance-master.png)
 
 [[imgBanner]]
-| ![devops.png](./Images/Bio/devops.png)
+| ![devops](../badges/Business-microsoft-azure-devops-banner.png)
 
 Matt is an SSW Solution Architect, Certified ScrumMaster and one of four Microsoft certified DevOps fast track partner consultants in Australia.  
 He has been developing solutions using the full Microsoft stack since .NET 2 was in beta.
