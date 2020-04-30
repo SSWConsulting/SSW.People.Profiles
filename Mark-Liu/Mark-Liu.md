@@ -12,8 +12,8 @@ quote:  "Excellence is not a skill, it's an attitude."
   
 
 ##  
-   ![](./Images/Bio/scrumtrainer.png) 
- 
+[[imgBadge]]
+| ![CST](../badges/Certification-scrumorg-trainer.png) 
 
 As one of the smartest guys at SSW, Mark is the man to go to for any .NET related issue. He's the one that others come to when they get stuck.  
 

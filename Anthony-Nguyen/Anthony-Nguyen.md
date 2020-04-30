@@ -8,13 +8,13 @@ qualifications:  "BEng (Hons) IT&T, Certified Scrum Master, Master of Project Mg
 quote:  "Do it now, sometimes 'later' becomes 'never'"
 ---
 [[imgBadge]]
-| ![Certified Scrum Master](../badges/csm.png) 
+| ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png) 
 
 [[imgBadge]]
-| ![Microsoft Certified Professional](../badges/microsoft-certified.jpg) 
+| ![Microsoft Certified Professional](../badges/Certification-microsoft-professional.jpg) 
 
 [[imgBadge]]
-| ![Sitefinity](../badges/logo_sitefinity.png) 
+| ![Sitefinity](../badges/Developer-sitefinity.png) 
   
 
 Anthony is the Solution Architect at SSW, a certified Scrum Master with experience delivering various types of Software Development projects ranging from custom ERP, CRM, HR and Payroll, Utilities (Telecom) and recording systems, CMS, Product Transformation and Cloud Transformation.

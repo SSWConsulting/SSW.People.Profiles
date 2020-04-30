@@ -9,7 +9,7 @@ quote:  "Nothing in life is impossible. The biggest hurdles to success in life a
 ---
 
 [[imgBadge]]
-| ![Certified Scrum Master](../badges/csm.png) 
+| ![Certified Scrum Master](../badges/Certification-scrumorg-master-1.png) 
    
 Ulysses is the General Manager of SSW and has been managing the team since 2006.   
 

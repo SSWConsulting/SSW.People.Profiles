@@ -8,8 +8,8 @@ qualifications:  "MBA (Intl Bus) | JP (Qual) | Certified Scrum Master"
 quote:  "The greatest thing in this world is not so much where we stand as in what direction we are moving - Goethe"
 ---
 
-![Certified Scrum Master](./Images/Bio/ScrumMasterCertification.jpg) 
-   
+[[imgBadge]]
+| ![CSM](../badges/Certification-scrumalliance-master.png)
 
 Lindsay has worked with many organizations from tech start-ups to multi-nationals to help them achieve their growth ambitions and empowers SSW customers to continue their growth stories both in Australia and internationally.  
 

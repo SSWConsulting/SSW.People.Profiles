@@ -8,8 +8,8 @@ qualifications:  "BCompSc"
 quote:  "Whether you think you can, or can't, you're right - Henry Ford "
 ---
 
-![](./Images/Bio/Microsoft_MVP_Logo.png) 
- 
+ [[imgBadge]]
+| ![MVP](../badges/Certification-microsoft-mvp.png)
 
 Lars is a Solution Architect and Windows Platform Development MVP. 
 

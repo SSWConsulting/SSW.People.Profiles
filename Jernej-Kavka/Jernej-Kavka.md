@@ -11,34 +11,34 @@ quote: "Once upon a time, you had to be rich and powerful to change the world. N
 <br/>
 
 [[imgBadge]]
-| ![](./Images/Bio/MCP.png)
+| ![](../badges/Certification-microsoft-professional.jpg)
 
 [[imgBadge]]
-| ![azure-logo.png](../badges/azure-logo.png)
+| ![azure-logo.png](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
-| ![.NET Core](../badges/net-core-logo.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![angular.png](../badges/angular-logo.png)
+| ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![xamarin](../badges/xamarin.png)
+| ![xamarin](../badges/Developer-xamarin.png)
 
 [[imgBadge]]
-| ![dotnetcode](../badges/net-code-logo.png)
+| ![dotnetcode](../badges/Developer-dotnet-code.png)
 
 [[imgBadge]]
-| ![docker](../badges/docker.png)
+| ![docker](../badges/Developer-docker.png)
 
 [[imgBadge]]
-| ![dotnet_foundation_logo.png](../badges/NET_Foundation_Logo.png)
+| ![dotnet_foundation_logo.png](../badges/Developer-dotnet-foundation.png)
 
 [[imgBadge]]
-| ![ML.NET-logo.png](../badges/MlDotNet.png)
+| ![ML.NET-logo.png](../badges/Developer-dotnet-machine-learning.png)
 
 [[imgBadge]]
-| ![Microsoft-Cognitive-Service-Logo.png](../badges/cognitive-services.png)
+| ![Microsoft-Cognitive-Service-Logo.png](../badges/Developer-cognitive-services.png)
 
 ---
 
@@ -106,7 +106,7 @@ Jernej's internal projects include:
 [[imgSm]]
 | ![](./Images/Bio/sophie-logo.png)
 
-**Sophie Bot** is an essential part of SSW smart office solution where employees can check who’s in the office, see others' availability, and many more features.See more information at [sswsophie.com/sophie-bot](https://sswsophie.com/sophie-bot)
+**Sophie Bot** is an essential part of SSW smart office solution where employees can check who’s in the office, see others' availability, and many more features.See more information at [sswsophie.com/sophiebot](https://sswsophie.com/sophiebot)
 
 **Related Technology**: React, .NET Core, SignalR, Cognitive Services, Azure Bots, Azure Functions
 

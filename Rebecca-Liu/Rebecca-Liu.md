@@ -10,10 +10,10 @@ quote:  "I am not really a cat."
   
 
 [[imgBadge]]
-| ![Photoshop](../badges/photoshop-logo.png)
+| ![Photoshop](../badges/Designer-adobe-photoshop.png)
 
 [[imgBadge]]
-| ![UX/UI](../badges/ux-logo.png)
+| ![UX/UI](../badges/Designer-web-uiux.png)
 
 ---
 Rebecca is an UX/UI expert at SSW. She loves typography, bold colors and attention to minutiae. She believes strongly in the marriage of form *and* function that composes the entirety of Design. She sees UX as an extension of psychology. The best Web designs are reflections of existing human interactions – so we use terms like “Shopping Cart” and not made-up words like Gizzleborp.

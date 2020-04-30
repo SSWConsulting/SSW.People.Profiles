@@ -9,10 +9,10 @@ quote: "Programming is definitely not therapeutic however it can definitely be c
 ---
 
 [[imgBadge]]
-| ![CISM.png](../badges/CISM.png)
+| ![CISM.png](../badges/SysAdmin-CISM.png)
 
 [[imgBadge]]
-| ![CRISC.png](../badges/CRISC.png)
+| ![CRISC.png](../badges/SysAdmin-CRISC.png)
 
 ---
 

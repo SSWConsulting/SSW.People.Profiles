@@ -110,7 +110,7 @@ _italic_ or _italic_
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
-| ![Microsoft certification](../badges/microsoft-Certified.jpg)
+| ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
 ```
 
 &nbsp;
@@ -127,7 +127,7 @@ _italic_ or _italic_
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
-| ![Microsoft certification](../badges/microsoft-certified.jpg)
+| ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
 
 &nbsp;
 

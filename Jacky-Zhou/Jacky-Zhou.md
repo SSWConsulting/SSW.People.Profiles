@@ -10,9 +10,7 @@ quote:  "Nothing Is Impossible"
 
 [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/JackyZhou) 
   
-
-![MVPLOGO.png](./Images/Bio/MVPLOGO.png) 
-
+[[imgBadge]]| ![Microsoft MVP](../badges/Certification-microsoft-mvp.png)
 
  **Background:**  
 Jacky is a Senior Software Developer at SSW Beijing Office.

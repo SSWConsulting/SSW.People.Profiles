@@ -10,16 +10,16 @@ quoteAuthor: "Neil Degrasse Tyson"
 ---
 
 [[imgBadge]]
-| ![angular.png](../badges/angular-logo.png)
+| ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![images.png](../badges/react-logo.png)
+| ![images.png](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![MCSD_ShareApp_Blk.png](../badges/MCSD_ShareApp_Blk.png)
+| ![MCSD_ShareApp_Blk.png](../badges/Certification-microsoft-developer-sharepoint.png)
 
 [[imgBadge]]
-| ![MCSD App Builder-logo-Blk.png](../badges/MCSD_App_Builder-logo-Blk.png)
+| ![MCSD App Builder-logo-Blk.png](../badges/Certification-microsoft-developer-app-builder.png)
 
 ---
 

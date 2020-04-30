@@ -10,9 +10,8 @@ quote:  "Share your knowledge. It's the way to achieve immortality"
 
  [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/DanielHyles) 
  
-
-![Sitefinity](./Images/Bio/logo_sitefinity.png) 
-   
+[[imgBadge]]
+| ![Sitefinity](../badges/Developer-sitefinity.png)
 
 Daniel H is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in SQL Server .NET Solutions. Although specialising in Web E-commerce solutions, Daniel has extensive experience in Microsoft both pre and post .NET and loves working with C#, VB .NET, SQL Server and applications for PDA's/smartphones.
 

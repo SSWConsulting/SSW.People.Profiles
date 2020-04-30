@@ -14,5 +14,4 @@ Ivan is a **Certified Microsoft Professional** with experience in developing var
 
 He loves to be constantly updated about new technologies and spending his free time attending to upgrade courses, playing video games and developing the strangest applications. 
 
-![](./Images/Bio/MCP_2013(rgb) 
-.png)  
+[[imgBadge]]| ![Microsoft Certified Professional](../badges/Certification-microsoft-professional.jpg)

@@ -35,6 +35,8 @@ I also have a beer brewing channel on youtube: [Mash Hacks](https://www.youtube.
 
 Specialties: Web Development, Cloud Applications, Payments, Startups 
 
-![](./Images/Bio/MCSD_2013(rgb) 
-_1477.jpg) ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
-   
+[[imgBadge]]
+| ![Sitefinity](../badges/Certification-microsoft-developer-webapps.png) 
+
+[[imgBadge]]
+| ![Sitefinity](../badges/Developer-sitefinity.png) 

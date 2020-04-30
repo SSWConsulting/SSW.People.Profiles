@@ -11,10 +11,10 @@ quote: "Learning is a lifetime lesson - keep yourself open to learn something ne
 <br/>
 
 [[imgBadge]]
-| ![angular.png](../badges/angular-logo.png)
+| ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![angular.png](../badges/node-js-logo.png)
+| ![node js](../badges/Developer-node-js.png)
 
 <br/>
 
