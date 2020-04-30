@@ -1,7 +1,6 @@
 ---
 id: ""
 name: "We are hiring"
-nickname: "We are hiring"
 
 alternativeUrl: "https://www.ssw.com.au/ssw/Employment/default.aspx"
 category: "Developers"
