@@ -108,8 +108,8 @@ William has spoken at conferences such as [NDC Sydney](https://ndcsydney.com/spe
 [[imgMd]]
 | ![Speaker at NDC Sydney 2019](./Images/Bio/NDC-Sydney-Speaker.png)
 
-[[imgMd]]
-| ![Speaker at DDD Brisbane 2019](../badges/DDDBrisbane.png)
+[[imgBadge]]
+| ![Speaker at DDD Brisbane 2019](../badges/Event-DDD-Brisbane.png)
 
 `youtube: zxSlKiWOOzw`
 Figure: Azure SpendOps – The Art of Effectively Managing Azure Costs - William Liebenberg
@@ -123,22 +123,22 @@ Being an active member of the local development community is very important to W
 
 He is President of the [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/) hosted at [SSW Melbourne](https://www.ssw.com.au/ssw/NETUG/Melbourne.aspx).
 
-[[imgSm]]
-| ![Melbourne .Net User group](../badges/melbourne-ug.jpg)
+[[imgBadge]]
+| ![Melbourne .Net User group](../badges/Event-ug-melbourne.png)
 
 In 2020 William helped launching the new [AI Hack Day](https://aihackday.com) free community event. He also took on the role of Mentor and Presenter to help get the attendees started with building Bots.
 
-[[imgMd]]
-| ![AI Hack Day](../badges/ai-hackday2x.png)
+[[imgBadge]
+| ![AI Hack Day](../badges/Event-hackday-ai.png)
 
 William has also presented and mentored at the following Hack Day events:
 
 * [Xamarin Hack Day - Melbourne 2019](https://xamarinhackday.com)
 
-[[imgMd]]
-| ![Xamarin Hack Day](../badges/xamarin-HackDay.png)
+[[imgBadge]]
+| ![Xamarin Hack Day](../badges/Event-hackday-xamarin.png)
 
 * [Angular Hack Day - Melbourne 2019](https://angularhackday.com/)
 
-[[imgMd]]
-| ![Angular Hack Day](../badges/Angular-HackDay-logo-lg.png)
+[[imgBadge]]
+| ![Angular Hack Day](../badges/Event-hackday-angular.png)
