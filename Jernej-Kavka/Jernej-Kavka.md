@@ -121,7 +121,7 @@ Jernej's internal projects include:
 [[imgSm]]
 | ![](./Images/Bio/sophie-logo.png)
 
-**Sophie Bot** is an essential part of SSW smart office solution where employees can check who’s in the office, see others' availability, and many more features.See more information at [sswsophie.com/sophie-bot](https://sswsophie.com/sophie-bot)
+**Sophie Bot** is an essential part of SSW smart office solution where employees can check who’s in the office, see others' availability, and many more features.See more information at [sswsophie.com/sophiebot](https://sswsophie.com/sophiebot)
 
 **Related Technology**: React, .NET Core, SignalR, Cognitive Services, Azure Bots, Azure Functions
 
