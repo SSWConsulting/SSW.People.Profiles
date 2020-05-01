@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "WenHan"
-name: "Wen Han"
-nickname: ""
+id: "7f34ba74-8af9-de11-a523-00155d011611"
 
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B.IT - Internet Application,  M.IT - Database"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Limits, like fears, are often just an illusion "
 ---

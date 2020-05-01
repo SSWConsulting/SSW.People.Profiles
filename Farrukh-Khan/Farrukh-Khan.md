@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "FarrukhKhan"
-name: "Farrukh Khan"
-nickname: ""
+id: "f2eadf45-3387-e511-80c4-00155d012c15"
 
 category: "Designers"
 role:  "Senior Web Designer "
 qualifications:  "B.Sc - Computer Science, M.Sc - Information Technology"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Logic will get you from  A to Z; imagination will get you everywhere"
 ---

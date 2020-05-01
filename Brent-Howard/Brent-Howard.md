@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "BrentHoward"
-name: "Brent Howard"
-nickname: ""
+id: "74ba192f-1b23-e811-80fb-00155d012c01"
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  ""
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "@Brent_Howard"
-linkedin:  ""
-skype:  ""
 
 quote:  "Anything is possible, it just needs time and persistence"
 ---

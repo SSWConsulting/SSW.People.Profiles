@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "EdBrown"
-name: "Ed Brown"
-nickname: ""
+id: "c1b2ee52-7630-dd11-bbde-00155d012229"
 
 category: "Developers"
 role:  "Senior Software Architect "
 qualifications:  "Assoc. Dip. Computer Applications & Development"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

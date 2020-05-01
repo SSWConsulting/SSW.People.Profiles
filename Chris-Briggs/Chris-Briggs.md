@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "ChrisBriggs"
-name: "Chris Briggs"
-nickname: ""
+id: "84568c4d-3a53-e411-a323-00783af55a15"
 
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of Information Technology"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "You don't find buried treasure by sitting down."
 ---

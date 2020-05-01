@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "NewChaimongkol"
-name: "New Chaimongkol"
-nickname: ""
+id: "6a229cee-f459-dd11-b3a3-00155d012206"
 
 category: "Admin"
 role:  "Assistant Financial Controller"
 qualifications:  "B. Science, M. Commerce, M. Economics"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "If it does not kill you, it will make you stronger."
 ---

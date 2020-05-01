@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "KahaMason"
-name: "Kaha Mason"
-nickname: ""
+id: "3af35e26-64a4-e911-826a-00155d012263"
 
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of Information Technology"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "kahasmason"
-linkedin:  "kahamason"
-skype:  ""
 
 quote:  "Coding is like artwork and as developers we should always strive to be better artists."
 ---

@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "DavidBerkes"
-name: "David Berkes"
-nickname: ""
+id: "4c14ec3a-d55a-e311-9ab5-00783af55a15"
 
 category: "Designers"
 role: "Senior Product Designer (UI, UX)"
 qualifications: "BA - Digital Design | Cinema Studies"
-location: "Sydney"
-
-blog: ""
-website: ""
-facebook: ""
-twitter: ""
-linkedin: ""
-skype: ""
 
 quote: "Function without Design is like a car without a steering wheel"
 ---

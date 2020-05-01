@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "IvanTyapkin"
-name: "Ivan Tyapkin"
-nickname: ""
+id: "e10885cb-139a-e511-80c4-00155d012c15"
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B.Tech., Dipl.-Ing., MCSD"
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  "ityapkin"
 
 quote:  "Failing to plan is planning to fail, but responding to change over following a plan"
 ---

@@ -1,20 +1,10 @@
 ---
-currentEmployee: false
 id: "NeilRoodyn"
 name: "Neil Roodyn"
-nickname: ""
 
 category: "Managers"
 role:  "Associate and Trainer"
 qualifications:  "PhD"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

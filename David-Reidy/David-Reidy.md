@@ -1,20 +1,10 @@
 ---
-currentEmployee: false
 id: "DavidReidy"
 name: "David Reidy"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Database Architect"
 qualifications:  "B.Sc.(Hons); Dip.Ed; MCP "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

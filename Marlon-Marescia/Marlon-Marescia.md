@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "MarlonMarescia"
-name: "Marlon Marescia"
-nickname: ""
+id: "24a29405-7630-dd11-bbde-00155d012229"
 
 category: "Managers"
 role:  "Sales and Marketing Manager"
 qualifications:  ""
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "MarlonMarescia"
-linkedin:  "marlonmarescia"
-skype:  "marlon.ssw"
 
 quote:  "Enjoy the journey because the destination might not be all it's cracked up to be."
 ---

@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "BrendanRichards"
-name: "Brendan Richards"
-nickname: ""
+id: "3aa77fd7-26f6-e111-88ff-00783af55a15"
 
 category: "Developers"
 role: "Solution Architect"
 qualifications: "MCSD - Web Applications"
-location: "Brisbane"
-
-blog: ""
-website: ""
-facebook: ""
-twitter: "@brendanssw"
-linkedin: ""
-skype: ""
 
 quote: "Open Source Software is not about the price. Its about the freedom to use and improve your tools."
 ---

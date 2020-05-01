@@ -1,20 +1,10 @@
 ---
-currentEmployee: false
 id: "DavidKlein"
 name: "David Klein"
-nickname: "DDK"
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B Com (Information Systems\\HRM with Merit), MCP, MCDBA"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

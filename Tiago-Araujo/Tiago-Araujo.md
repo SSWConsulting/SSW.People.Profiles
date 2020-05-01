@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "TiagoAraujo"
-name: "Tiago Araujo"
-nickname: ""
+id: "fe0b5b92-f8aa-dd11-a7e0-00155d01221b"
 
 category: "Designers"
 role:  "Senior UI/UX & Graphic Designer"
 qualifications:  "Barchelor of Advertising, Applied Web Development Certificate"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "tiagov8"
-linkedin:  "tiagov8"
-skype:  "tiagov8"
 
 quote:  "It's not what you look at that matters, it's what you see."
 quoteAuthor: "Henry David Thoreau"

@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "GeorgeDoubinski"
-name: "George Doubinski"
-nickname: ""
+id: "d46a67e8-f459-dd11-b3a3-00155d012206"
 
 category: "Developers"
 role:  "Architectural Consultant"
 qualifications:  "Masters of Science"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

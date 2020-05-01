@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "DanielHyles"
-name: "Daniel Hyles"
-nickname: ""
+id: "c86a67e8-f459-dd11-b3a3-00155d012206"
 
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Dip IT MCP"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Share your knowledge. It's the way to achieve immortality"
 ---

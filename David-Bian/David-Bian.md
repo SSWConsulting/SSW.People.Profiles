@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "DavidBian"
-name: "David Bian"
-nickname: ""
+id: "c871bbf4-f459-dd11-b3a3-00155d012206"
 
 category: "Developers"
 role:  "Software Developer "
 qualifications:  "Bachelor of Management (Management Information Systems), MCPD"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "I'm always trying to be more professional."
 ---

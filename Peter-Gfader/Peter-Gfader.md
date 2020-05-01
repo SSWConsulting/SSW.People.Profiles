@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "PeterGfader"
-name: "Peter Gfader"
-nickname: ""
+id: "2c2b817b-8da4-dd11-b942-00155d01221b"
 
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "MSc, Diplom Ingenieur, Dipl.Ing"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Carpe diem, et noctem."
 ---

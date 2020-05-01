@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "AndreasLengkeek"
-name: "Andreas Lengkeek"
-nickname: ""
+id: "a7e7a4d2-6923-e911-81e4-00155d012b45"
 
 category: "Developers"
 role: "Software Architect"
 qualifications: "Bachelor of Science in IT, Majoring in Enterprise Systems Development"
-location: "Sydney"
-
-blog: ""
-website: ""
-facebook: ""
-twitter: "AndreasLengkeek"
-linkedin: "andreas-lengkeek-11537a102"
-skype: ""
 
 quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."
 quoteAuthor: "Franklin D. Roosevelt"

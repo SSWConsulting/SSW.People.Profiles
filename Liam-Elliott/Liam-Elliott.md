@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "LiamElliott"
-name: "Liam Elliott"
-nickname: ""
+id: "3124783f-484a-e711-80dc-00155d012c3d"
 
 category: "Developers"
 role: "Solution Architect"
 qualifications: "Certified Scrum Master"
-location: "Sydney"
-
-blog: "https://liamelliott.me"
-website: ""
-facebook: ""
-twitter: "liamelliott_au"
-linkedin: "https://www.linkedin.com/in/liamelliott/"
-skype: "liam.sswsyd@gmail.com"
 
 quote: ""
 ---

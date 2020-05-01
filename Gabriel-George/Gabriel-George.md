@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "GabrielGeorge"
-name: "Gabriel George"
-nickname: "Gabe"
+id: "4a359ff1-33d6-e711-80f2-00155d012275"
 
 category: "Developers"
 role: "Senior Software Architect"
 qualifications: "Master of Information Technology (Software Development)"
-location: "Melbourne"
-
-blog: "https://devzilla.io"
-website: ""
-facebook: ""
-twitter: "geo_ge"
-linkedin: "gabriel-george"
-skype: ""
 
 quote: "Failing is how you learn best. To not to try would be your greatest fall."
 ---

@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "MichaelDemarco"
-name: "Michael Demarco"
-nickname: ""
+id: "e858a296-a243-e411-877f-00783af55a15"
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "BSc Computing and Information Systems"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "“Truth can only be found in one place: the code.” "
 ---

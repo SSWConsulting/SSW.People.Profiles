@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "MartinLi"
-name: "Martin Li"
-nickname: ""
+id: "231b4f91-48fe-e211-aa04-00783af55a15"
 
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "MCP"
-location: "Beijing"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Nothing in this world can take the place of persistence."
 ---

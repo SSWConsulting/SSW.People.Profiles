@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "PennyWalker"
-name: "Penny Walker"
-nickname: "Penny"
+id: "ae908bc5-f6d5-e611-80d4-00155d01225d"
 
 category: "Managers"
 role:  "State Manager - Queensland and International"
 qualifications:  "B Ancient History; MSc Museum Studies"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "@PennyWalker_SSW"
-linkedin:  "penny-walker-9878b624"
-skype:  "pennywalker82"
 
 quote:  "To improve is to change; to be perfect is to change often."
 quoteAuthor: "Winston Churchill"

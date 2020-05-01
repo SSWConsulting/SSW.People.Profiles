@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "ParisLowres"
-name: "Paris Lowres"
-nickname: ""
+id: "303aae5f-18eb-e911-9674-00155d012c95"
 
 category: "Admin"
 role: "Victorian Office Assistant"
 qualifications: "Bachelor of Arts"
-location: "Melbourne"
-
-blog: ""
-website: ""
-facebook: ""
-twitter: ""
-linkedin: ""
-skype: ""
 
 quote: "Words are, in my not so humble opinion, our most inexhaustible source of magic, capable of both influencing injury, and remedying it."
 quoteAuthor: "Albus Dumbledore"

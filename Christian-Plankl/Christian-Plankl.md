@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "ChristianPlankl"
-name: "Christian Plankl"
-nickname: ""
+id: "36d35ef3-c418-e711-80d4-00155d01225d"
 
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Computer Science"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "https://www.linkedin.com/in/christian-plankl-83bb3011a/"
-skype:  "chrplankl@live.de"
 
 quote:  "if you can't explain it simply, you don't understand it well enough"
 ---

@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "MeganWeeks"
-name: "Megan Weeks"
-nickname: ""
+id: "122ce668-e30c-e111-a590-00155d012914"
 
 category: "Admin"
 role:  "Personal Assistant"
 qualifications:  "B"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Sod"
 ---

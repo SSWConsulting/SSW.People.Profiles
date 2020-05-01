@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "CamillaSilva"
-name: "Camilla Rosa Silva"
-nickname: ""
+id: "921759b8-e2ed-e811-8192-00155d01222b"
 
 category: "Admin"
 role: "Marketing Coordinator"
 qualifications: "Bachelor of Business Management, MBA in Business Strategic Management"
-location: "Sydney"
-
-blog: ""
-website: ""
-facebook: ""
-twitter: ""
-linkedin: "camillarosa"
-skype: "cammyrs"
 
 quote: "You know you are on the road to success if you would do your job, and not be paid for it."
 quoteAuthor: "Oprah Winfrey"

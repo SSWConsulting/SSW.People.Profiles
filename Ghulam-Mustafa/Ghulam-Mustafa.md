@@ -1,20 +1,10 @@
 ---
-currentEmployee: false
 id: "GhulamMustafa"
 name: "Ghulam Mustafa"
-nickname: ""
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Master of Science in Computer Science and Technology "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

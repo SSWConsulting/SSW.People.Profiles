@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "KenShi"
-name: "Ken Shi"
-nickname: ""
+id: "ce34d74e-c08f-e811-8115-00155d01261e"
 
 category: "Designers"
 role:  "User Experience Expert"
 qualifications:  "Bachelor of Commerce"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  "jian.shi.10"
-twitter:  "talentJ"
-linkedin:  "jikenan"
-skype:  "hveraus"
 
 quote:  "You gotta see the world before you can change it."
 ---

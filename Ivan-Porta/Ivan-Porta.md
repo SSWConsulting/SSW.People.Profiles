@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "IvanPorta"
-name: "Ivan Porta"
-nickname: ""
+id: "d008b6ac-3620-e811-80fb-00155d012c01"
 
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Microsoft Certified Professional"
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "https://twitter.com/GTRekter"
-linkedin:  "https://www.linkedin.com/in/ivanporta/"
-skype:  "ivan.porta.web_1"
 
 quote:  "It's not a bug, It's an undocumented feature! "
 ---

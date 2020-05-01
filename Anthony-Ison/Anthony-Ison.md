@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "AnthonyIson"
-name: "Anthony Ison"
-nickname: ""
+id: "ed352a15-a74a-e911-8206-00155d01ef52"
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Bachelor of Engineering (Elec-CompSys)"
-location: "Brisbane"
-
-blog:  "https://anthonyison.com"
-website:  ""
-facebook:  ""
-twitter:  "isonaj"
-linkedin:  "anthony-ison-4a759a28"
-skype:  "isonaj"
 
 quote:  "Everything should be made as simple as possible, but not simpler."
 ---

@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "EdenLiang"
-name: "Eden Liang"
-nickname: ""
+id: "ceb0a5cd-eede-e711-80f2-00155d012275"
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Engineering"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  "liang.eden.31"
-twitter:  "EdenLiang4"
-linkedin:  "eden-liang-6b34b1a6"
-skype:  ""
 
 quote:  "Actions speak louder than words"
 ---

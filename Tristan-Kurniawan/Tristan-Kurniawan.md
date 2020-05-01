@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "TristanKurniawan"
-name: "Tristan Kurniawan"
-nickname: ""
+id: "7e229cee-f459-dd11-b3a3-00155d012206"
 
 category: "Designers"
 role:  "Senior Web Designer"
 qualifications:  "Bachelor of Information Technology"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Give the user what they want, not what they say they want."
 ---

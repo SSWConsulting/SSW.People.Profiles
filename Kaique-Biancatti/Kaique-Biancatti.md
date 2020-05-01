@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "KaiqueBiancatti"
-name: "Kaique Biancatti"
-nickname: "Kiki"
+id: "99176cc0-b930-e811-80fb-00155d012c01"
 
 category: "Developers"
 role:  "Systems Analyst"
 qualifications:  "Bachelor of Computer Science"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  "kikibianc"
-twitter:  ""
-linkedin:  "kikibianc"
-skype:  "kikibianc"
 
 quote:  "Until you're ready to look foolish, you'll never have the possibility of being great."
 ---

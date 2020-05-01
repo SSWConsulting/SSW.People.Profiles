@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "EdwardForgcs"
-name: "Edward Forg cs"
-nickname: ""
+id: "c80430e6-fcbf-dd11-8569-00155d01221b"
 
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  ""
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

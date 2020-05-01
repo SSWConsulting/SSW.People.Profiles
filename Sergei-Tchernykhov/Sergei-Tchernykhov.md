@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "SergeiTchernykhov"
-name: "Sergei Tchernykhov"
-nickname: ""
+id: "ac6a67e8-f459-dd11-b3a3-00155d012206"
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Master of Science, MCITP, MCTS, MCDBA, MCNPS, MCPS"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "There is always room at the top"
 ---

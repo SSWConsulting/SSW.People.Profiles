@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "FionaFeng"
-name: "Fiona Feng"
-nickname: ""
+id: "de916261-29fb-e711-80f6-00155d01ee57"
 
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Engineering"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  "1153531620@qq.com"
 
 quote:  "Better late than never."
 ---

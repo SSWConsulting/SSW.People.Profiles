@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "RonMaman"
-name: "Ron Maman"
-nickname: ""
+id: "edd12bd3-099c-dd11-bc80-00155d01221b"
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "B. Software Engineering"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

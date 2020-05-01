@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "ChrisBeaver"
-name: "Chris Beaver"
-nickname: ""
+id: "34e4d606-2c18-e811-80fb-00155d012c01"
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Information Technology"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "christopherwbeaver"
-skype:  ""
 
 quote:  "The best teams make their members feel safe to take risks, ask questions and to be themselves. "
 ---

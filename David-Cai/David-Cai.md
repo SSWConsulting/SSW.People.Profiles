@@ -1,20 +1,10 @@
 ---
-currentEmployee: false
 id: "DavidCai"
 name: "David Cai"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Database Developer"
 qualifications:  "M Sc MCP "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

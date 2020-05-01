@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "BenCull"
-name: "Ben Cull"
-nickname: ""
+id: "3f5c2414-a42f-e311-80a2-00783af55a15"
 
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of IT, MCSD: Web Applications"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "​​I build web applications that are lightning fast and dressed to impress."
 ---

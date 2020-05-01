@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "Prem"
-name: "Prem Radhakrishnan"
-nickname: ""
+id: "6e12afca-bc14-ea11-9677-00155d0126af"
 
 category: "Developers"
 role: "Solution Architect"
 qualifications: "B.E (Software Engineering), CRISC, CISM"
-location: "Sydney"
-
-blog: ""
-website: ""
-facebook: ""
-twitter: ""
-linkedin: "prem-radhakrishnan-641a7214/"
-skype: "live:premanand.r"
 
 quote: "Programming is definitely not therapeutic however it can definitely be creative."
 ---

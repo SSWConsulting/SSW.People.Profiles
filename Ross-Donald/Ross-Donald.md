@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "RossDonald"
-name: "Ross Donald"
-nickname: ""
+id: "c1b6fcc5-01c0-dd11-8569-00155d01221b"
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Dip IT, MCP"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

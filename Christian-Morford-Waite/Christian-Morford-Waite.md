@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "ChristianMorfordWaite"
-name: "Christian Morford-Waite"
-nickname: ""
+id: "a77dd9ef-ebe3-e911-9674-00155d012c95"
 
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Computing"
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "christian-morford-waite-92724983"
-skype:  ""
 
 quote:  "There's a way to do it better - find it."
 quoteAuthor: "Thomas A. Edison"

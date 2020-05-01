@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "JoannaFeely"
-name: "Joanna Feely"
-nickname: "Jo"
+id: "217c9631-2de2-e211-aa04-00783af55a15"
 
 category: "Admin"
 role:  "Personal Assistant/Office Administrator"
 qualifications:  "B Creative Arts (Creative Writing) "
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "JoannaFeely"
-linkedin:  ""
-skype:  ""
 
 quote:  "Perfect is the enemy of good (Aphorism)"
 ---

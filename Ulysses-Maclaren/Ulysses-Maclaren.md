@@ -1,20 +1,9 @@
 ---
-currentEmployee: true
-id: "UlyssesMaclaren"
-name: "Ulysses Maclaren"
-nickname: "Uly"
+id: "8e785899-f459-dd11-b3a3-00155d012206"
 
 category: "Managers"
 role:  "General Manager"
 qualifications:  "B.Eng - Electrical (hons), Certified Scrum Master"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "ulyssesmac"
-linkedin:  ""
-skype:  "ulyssesmaclaren"
 
 quote:  "Nothing in life is impossible. The biggest hurdles to success in life are inaction and fear of failure."
 ---

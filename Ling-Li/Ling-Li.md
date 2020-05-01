@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "LingLi"
-name: "Ling Li"
-nickname: ""
+id: "bc29b183-a13e-e211-a564-00783af55a15"
 
 category: "Admin"
 role:  "Operations Manager (Beijing Office)"
 qualifications:  "LL.B. (Bachelor of Laws)"
-location: "Beijing"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Not trying, means failing by default."
 ---

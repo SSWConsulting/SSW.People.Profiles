@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "EricPhan"
-name: "Eric Phan"
-nickname: ""
+id: "cc6a67e8-f459-dd11-b3a3-00155d012206"
 
 category: "Managers"
 role:  "Chief Architect"
 qualifications:  "B.E. - Software Engineering, Certified Scrum Master"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "ericphan"
-linkedin:  "ephan"
-skype:  ""
 
 quote:  "There are 10 types of people in the world. Ones that understand binary and ones that don't."
 ---

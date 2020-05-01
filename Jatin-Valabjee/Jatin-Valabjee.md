@@ -1,20 +1,10 @@
 ---
-currentEmployee: false
 id: "JatinValabjee"
 name: "Jatin Valabjee"
-nickname: ""
 
 category: "Developers"
 role:  "Design Production Manager"
 qualifications:  "B.Sc.(Comp)"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

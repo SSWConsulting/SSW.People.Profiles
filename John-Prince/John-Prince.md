@@ -1,20 +1,10 @@
 ---
-currentEmployee: false
 id: "JohnPrince"
 name: "John Prince"
-nickname: ""
 
 category: "Developers"
 role:  "Database Developer"
 qualifications:  "Dip IT"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

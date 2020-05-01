@@ -1,20 +1,10 @@
 ---
-currentEmployee: false
 id: "KusalWijewantha"
 name: "Kusal Wijewantha"
-nickname: ""
 
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Bachelor of IT, Diploma in IT (Software Development) "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

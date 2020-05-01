@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "DanijelMalik"
-name: "Danijel Malik"
-nickname: ""
+id: "018305de-311f-e211-a0de-00783af55a15"
 
 category: "Developers"
 role:  "Solution Architect, Code Auditor Product Owner"
 qualifications:  "MVP, MCSD"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "@DanijelMalik"
-linkedin:  ""
-skype:  ""
 
 quote:  "Software is like music. Easy to use but hard to write."
 ---

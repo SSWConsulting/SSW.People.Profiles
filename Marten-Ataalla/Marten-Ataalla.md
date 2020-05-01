@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "MartenAtaalla"
-name: "Marten Ataalla"
-nickname: ""
+id: "e9b2ee52-7630-dd11-bbde-00155d012229"
 
 category: "Developers"
 role:  "Senior Software Architect "
 qualifications:  "B.Eng (Software) Hons. Sydney University"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

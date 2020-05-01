@@ -1,26 +1,12 @@
 ---
-currentEmployee: true
-id: "bobnorthwind"
-name: "Bob Northwind"
-nickname: "Sample"
+id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
 
 category: "Developers"
 role: "Sample Profile"
 qualifications: ""
-location: "Sydney"
-
-blog: "https://www.ssw.com.au"
-website: ""
-facebook: ""
-skype: "bobnorthwind"
-linkedin: "bobnorthwind"
-twitter: "bobnorthwind"
-github: "bobnorthwind"
 
 quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
 quoteAuthor: "Anonymous"
-
-youtubePlayListId: "PLpiOR7CBNvlpBS1S_OiECOhN-vSSU-COK"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile

@@ -1,20 +1,9 @@
 ---
-currentEmployee: false
-id: "AdriaanSwanepoel"
-name: "Adriaan Swanepoel"
-nickname: ""
+id: "f4a04bbd-cadc-e411-aeb0-00783af55a15"
 
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Dip Computer Science"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  " Nothing is too complex to do, usually different people have already solved the parts, you just need to glue their solutions into one."
 ---
