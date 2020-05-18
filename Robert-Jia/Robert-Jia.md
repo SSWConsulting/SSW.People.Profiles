@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "RobertJia"
-name: "Robert Jia"
-nickname: "Robert"
+id: "a6b85481-0d6e-e311-8103-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Robert.aspx"
 category: "Developers"
-role:  "Software Developer "
+role:  "Software Developer"
 qualifications:  "MCP, Information System Management"
-location: "Beijing"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "The future belongs to those who believe in the beauty of their dreams."
 ---

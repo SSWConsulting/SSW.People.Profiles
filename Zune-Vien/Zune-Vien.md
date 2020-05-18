@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "ZuneVien"
-name: "Zune Vien"
-nickname: "Zune"
+id: "de6bc392-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Zune.aspx"
 category: "Developers"
 role:  "Software Architect (CRM)"
 qualifications:  "B.E. - Software Engineering"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
 ---

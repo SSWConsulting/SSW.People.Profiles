@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "BrittanyLawrence"
-name: "Brittany Lawrence"
-nickname: "Brittany"
+id: "9f913f0c-35d4-e411-8fff-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Brittany.aspx"
 category: "Admin"
 role:  "Marketing Coordinator"
 qualifications:  "B Business (Marketing)"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Don't stop when you're tired. Stop when you're done."
 ---

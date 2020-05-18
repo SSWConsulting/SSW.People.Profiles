@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "AdrianFoyn"
+id: "AdrianFoyn"
 name: "Adrian Foyn"
-nickname: "Adrian Foyn"
 
-legacy_page_url: "/AboutUs/Employees/Pages/AdrianF.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Nat Dip Information Technology, MCP VB.NET"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

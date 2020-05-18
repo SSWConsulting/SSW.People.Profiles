@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "DuncanStark"
-name: "Duncan Stark"
-nickname: "Duncan"
+id: "e5620025-97ae-e911-8279-00155d01267c"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Duncan.aspx"
 category: "Admin"
 role:  "Office Manager and PA"
 qualifications:  "Bachelor of Science"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  "sydneyzouk"
-twitter:  ""
-linkedin:  "duncan-stark-65b27516"
-skype:  ""
 
 quote:  "Point your toes!!!"
 ---

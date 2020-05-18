@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "AdelHelal"
+id: "AdelHelal"
 name: "Adel Helal"
-nickname: "Adel Helal"
 
-legacy_page_url: "/AboutUs/Employees/Pages/AdelH.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B of Computer Science (Software Engineering), Diploma in Electrical Engineering - Electrical Technology"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

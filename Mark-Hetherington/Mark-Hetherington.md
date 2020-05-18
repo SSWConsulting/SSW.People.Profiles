@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "MarkHetherington"
-name: "Mark Hetherington"
-nickname: "Mark H (aka MLH)"
+id: "f26057ee-4759-de11-b918-00155d01ec01"
 
-legacy_page_url: "/AboutUs/Employees/Pages/MarkH.aspx"
 category: "Managers"
 role:  "Scrum and Agile Coach"
 qualifications:  "BSc. (Hons) Computer Science, London University"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "\"We work efficiently on the right things in a visible way\".  If you really do this properly, your customers, whether internal or external, will have no reason to ever complain."
 ---

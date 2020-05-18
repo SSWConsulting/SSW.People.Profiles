@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "MashaGildina"
-name: "Masha Gildina"
-nickname: "Masha Gildina"
+id: "47b22f32-00c0-dd11-8569-00155d01221b"
 
-legacy_page_url: "/AboutUs/Employees/Pages/MashaG.aspx"
 category: "Admin"
 role:  "Personal Assistant/Marketing"
 qualifications:  "B. Commerce"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

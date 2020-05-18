@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "AnastasiaCogan"
-name: "Anastasia Cogan"
-nickname: "Anastasia"
+id: "a66a67e8-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Anastasia.aspx"
 category: "Admin"
 role:  "Financial Controller"
 qualifications:  "Bachelor of Business (UTS), CPA"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Life is not measured by the number of breaths we take, but by the moments that take our breath away."
 ---

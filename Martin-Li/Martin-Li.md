@@ -1,27 +1,15 @@
 ---
-current_employee: false
-ID: "MartinLi"
-name: "Martin Li"
-nickname: "Martin"
+id: "231b4f91-48fe-e211-aa04-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Martin-Li.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "MCP"
-location: "Beijing"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Nothing in this world can take the place of persistence."
 ---
-
-![jackyzhou_mcp.jpg](./Images/Bio/jackyzhou_mcp.jpg) 
  
+[[imgBadge]]
+| ![MCP](../badges/Certification-microsoft-professional.jpg) 
 
 **Background:** 
 

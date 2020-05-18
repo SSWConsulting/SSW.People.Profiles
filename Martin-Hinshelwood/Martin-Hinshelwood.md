@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "MartinHinshelwood"
-name: "Martin Hinshelwood"
-nickname: "Martin Hinshelwood"
+id: "c6e6dfba-39d2-de11-bc73-00155d01ec01"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Martin.aspx"
 category: "Developers"
 role:  "Solution Architect, Microsoft Visual Studio ALM MVP & Ranger"
 qualifications:  "BSc Computer Studies, Microsoft Certified Professional, Microsoft Certified Technical Specialist"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "“Program testing can be used to show the presence of bugs, but never to show their absence!”"
 ---

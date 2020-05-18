@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "TitusMaclaren"
-name: "Titus Maclaren"
-nickname: "Titus"
+id: "108b04d6-55c1-e011-836a-00155d012914"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Titus-Maclaren.aspx"
 category: "Designers"
 role:  "Multimedia Producer"
 qualifications:  "Bachelor of Film & Television"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "\"An effective video combined with a well structured marketing strategy can not only create brand awareness on a whole new level, but can have the power to change the world\""
 ---

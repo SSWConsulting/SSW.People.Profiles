@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "EvanLin"
-name: "Evan Lin"
-nickname: "Evan"
+id: "ca71bbf4-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Evan.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B.Eng - Computer Science"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "I believe that progress is made day by day."
 ---

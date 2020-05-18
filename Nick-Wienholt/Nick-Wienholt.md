@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "NickWienholt"
-name: "Nick Wienholt"
-nickname: "Nick"
+id: "76c5267f-f552-e611-80d2-00155d01ee33"
 
-legacy_page_url: "/AboutUs/Employees/Pages/NickW.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "BEng (Hons), MEng"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "nick-wienholt-160b7b40"
-skype:  "nick.wienholt"
 
 quote:  "To forget one's purpose is the commonest form of stupidity. Friedrich Nietzsche"
 ---

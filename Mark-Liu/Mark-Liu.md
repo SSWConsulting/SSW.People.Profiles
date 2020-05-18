@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "MarkLiu"
-name: "Mark Liu"
-nickname: "Mark"
+id: "b06a67e8-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Mark.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "B.C.S.T - Computer Science and Technology "
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Excellence is not a skill, it's an attitude."
 ---
@@ -24,8 +12,8 @@ quote:  "Excellence is not a skill, it's an attitude."
   
 
 ##  
-   ![](./Images/Bio/scrumtrainer.png) 
- 
+[[imgBadge]]
+| ![CST](../badges/Certification-scrumorg-trainer.png) 
 
 As one of the smartest guys at SSW, Mark is the man to go to for any .NET related issue. He's the one that others come to when they get stuck.  
 

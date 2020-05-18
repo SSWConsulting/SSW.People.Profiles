@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "JohnLiu"
-name: "John Liu"
-nickname: "John Liu"
+id: "c86bc392-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/John.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "B CSc, MCP"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "I believe that there are always more than one point of view and I listen and learn everyday."
 ---

@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "VictorYu"
-name: "Victor Yu"
-nickname: "Victor"
+id: "e32ffbd4-b9fd-e811-81ac-00155d012b39"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Victor.aspx"
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Electrical Engineering"
-location: "Other"
-
-blog:  "V1cotorYu.com"
-website:  "V1cotorYu.com"
-facebook:  "ymhvic@outlook.com"
-twitter:  "ymhvic@outlook.com"
-linkedin:  "ymhvic@outlook.com"
-skype:  "ymhvic@outlook.com"
 
 quote:  "Code can talk"
 ---

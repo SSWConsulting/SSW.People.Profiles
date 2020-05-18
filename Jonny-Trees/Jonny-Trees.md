@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "JonnyTrees"
-name: "Jonny Trees"
-nickname: "Jonny Trees"
+id: "d86bc392-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Jonny.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "BSc Software Engineering"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Perpetual optimism is a force multiplier."
 ---

@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "StephenCarter"
-name: "Stephen Carter"
-nickname: "Stephen"
+id: "d8035948-c744-e611-80d1-00155d01ee33"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Stephen.aspx"
 category: "Managers"
 role:  "Senior Software Architect, VIC State Manager"
 qualifications:  "Professional Scrum Master"
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "stavrosthegeek"
-linkedin:  "stephenmarkcarter"
-skype:  "stephen.carter.melb"
 
 quote:  "Whether you think you can or think you can't, you're right."
 ---

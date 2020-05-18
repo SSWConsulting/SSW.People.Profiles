@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "BridgetWalker"
-name: "Bridget Walker"
-nickname: "Bridget"
+id: "23b9e62f-1c0c-e611-80cc-00155d01ee33"
 
-legacy_page_url: "/AboutUs/Employees/Pages/BridgetWalker.aspx"
 category: "Admin"
 role:  "Personal Assistant to Adam Cogan"
 qualifications:  ""
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  "bridget.e.walker"
-twitter:  ""
-linkedin:  "bridgetwalker"
-skype:  "facebook:bridget.e.walker"
 
 quote:  ""
 ---

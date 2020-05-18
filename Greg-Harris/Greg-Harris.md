@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "GregHarris"
-name: "Greg Harris"
-nickname: "Greg"
+id: "0203b167-f986-e711-80e0-00155d012c3d"
 
-legacy_page_url: "/AboutUs/Employees/Pages/GregHarris.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  ""
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "GregHarrisSSW"
-linkedin:  ""
-skype:  "gregharris.net"
 
 quote:  "The 2010s were ruled by Melbourne and the Roosters, the 2020s will be Parramatta’s decade of dominance."
 ---

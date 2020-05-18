@@ -1,23 +1,12 @@
 ---
-current_employee: true
-ID: "SebastienBoissiere"
-name: "Sebastien Boissiere"
-nickname: "Sebastien"
+id: "72fa4ce2-7170-e911-8226-00155d01ef64"
 
-legacy_page_url: "/AboutUs/Employees/Pages/SebastienBoissiere.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  ""
-location: "Melbourne"
 
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "s%C3%A9bastien-boissi%C3%A8re-71b76637/?locale=en_US"
-skype:  "live:boissiere.seb"
-
-quote:  "First, solve the problem. Then, write the code. – John Johnson"
+quote:  "First, solve the problem. Then, write the code."
+quoteAuthor: "John Johnson"
 ---
 
 Sebastien is a Software Architect with more than 10 years of experience in software development in France, China and now Australia. 

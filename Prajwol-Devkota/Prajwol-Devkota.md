@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "PrajwolDevkota"
-name: "Prajwol Devkota"
-nickname: "Prajwol Devkota"
+id: "559b559d-01c0-dd11-8569-00155d01221b"
 
-legacy_page_url: "/AboutUs/Employees/Pages/PrajwolD.aspx"
 category: "Developers"
 role:  "Database Architect"
 qualifications:  "Masters of Computing (Software Engineering) "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

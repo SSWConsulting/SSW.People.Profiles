@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "BriteCheng"
-name: "Brite Cheng"
-nickname: "Brite"
+id: "92229cee-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Brite.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B.Eng - Computer Science"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "I believe every work which seems impossible will become noble if you have passion and faith. "
 ---

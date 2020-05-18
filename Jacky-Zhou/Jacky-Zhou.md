@@ -1,30 +1,16 @@
 ---
-current_employee: false
-ID: "JackyZhou"
-name: "Jacky Zhou"
-nickname: "Jacky"
+id: "c63e15ee-21f7-e111-88ff-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Jacky-Zhou.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "MCP, MVP"
-location: "Beijing"
-
-blog:  ""
-website:  ""
-facebook:  "jackyzhou@ssw.com.au"
-twitter:  ""
-linkedin:  ""
-skype:  "jackyzhou-ssw"
 
 quote:  "Nothing Is Impossible"
 ---
 
 [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/JackyZhou) 
   
-
-![MVPLOGO.png](./Images/Bio/MVPLOGO.png) 
-
+[[imgBadge]]| ![Microsoft MVP](../badges/Certification-microsoft-mvp.png)
 
  **Background:**  
 Jacky is a Senior Software Developer at SSW Beijing Office.

@@ -1,23 +1,12 @@
 ---
-current_employee: true
-ID: "JackKranz"
-name: "Jack Kranz"
-nickname: "Jack"
+id: "5b25aecc-4599-e811-8122-00155d01261e"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JackKranz.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of IT: Enterprise Systems Development  |   Bachelor of Business: Management"
-location: "Sydney"
 
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
-
-quote:  "“The definition of genius is taking the complex and making it simple.”  ~ Albert Einstein"
+quote:  "The definition of genius is taking the complex and making it simple."
+quoteAuthor: "Albert Einstein"
 ---
 
 Jack is an experienced web/mobile application developer, React trainer and scrum practitioner.  

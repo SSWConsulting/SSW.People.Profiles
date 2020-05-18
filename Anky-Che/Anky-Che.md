@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "AnkyChe"
-name: "Anky Che"
-nickname: "Anky"
+id: "085c015e-de5f-e811-8102-00155d012c01"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Anky.aspx"
 category: "Admin"
 role:  "China Office Accountant"
 qualifications:  "Bachelor of Accountant"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "The best preparation for tomorrow is doing your best today."
 ---

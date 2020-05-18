@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "FlorentDezettre"
-name: "Florent Dezettre"
-nickname: "Florent"
+id: "996f12a9-ec32-e811-80fc-00155d012c01"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Florent.aspx"
 category: "Admin"
 role:  "Sales and Marketing Assistant"
 qualifications:  "International Marketing Master's Degree"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "https://www.linkedin.com/in/florentdezettre/"
-skype:  ""
 
 quote:  "It is not a matter of luck, it is a matter of time."
 ---

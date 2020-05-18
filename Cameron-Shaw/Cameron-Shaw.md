@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "CameronShaw"
-name: "Cameron Shaw"
-nickname: "Cameron"
+id: "82785899-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Cameron.aspx"
 category: "Admin"
 role:  "Project Manager, Strategy"
 qualifications:  "BA LLB (Honours Class I) Grad Dip Ed"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

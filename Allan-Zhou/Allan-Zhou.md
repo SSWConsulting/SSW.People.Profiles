@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "AllanZhou"
-name: "Allan Zhou"
-nickname: "Allan"
+id: "aa6a67e8-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Allan.aspx"
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Bachelor of Computer Science"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "I believe concentration and exertion makes perfection."
 ---

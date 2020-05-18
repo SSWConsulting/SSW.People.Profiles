@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "GregHarris1"
+id: "GregHarris1"
 name: "Greg Harris 1"
-nickname: "Greg"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Greg.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "B.Sc. Information Systems"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Great software systems need great people"
 ---

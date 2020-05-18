@@ -1,27 +1,15 @@
 ---
-current_employee: false
-ID: "LarsKlint"
-name: "Lars Klint"
-nickname: "Lars"
+id: "084f5d06-8873-e411-a323-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Lars.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "BCompSc"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Whether you think you can, or can't, you're right - Henry Ford "
 ---
 
-![](./Images/Bio/Microsoft_MVP_Logo.png) 
- 
+ [[imgBadge]]
+| ![MVP](../badges/Certification-microsoft-mvp.png)
 
 Lars is a Solution Architect and Windows Platform Development MVP. 
 

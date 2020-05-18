@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "StanleySidik"
-name: "Stanley Sidik"
-nickname: "Stanley"
+id: "e21e6cdc-5844-e411-877f-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Stanley.aspx"
 category: "Developers"
 role:  "System Administrator"
 qualifications:  "Bachelor of Information Systems"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Have you switched it off and on again?"
 ---

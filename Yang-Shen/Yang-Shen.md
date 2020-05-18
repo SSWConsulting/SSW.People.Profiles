@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "YangShen"
-name: "Yang Shen"
-nickname: "Yang"
+id: "981f74cf-dfdb-e711-80f2-00155d012275"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Yang.aspx"
 category: "Admin"
 role:  "China Office Administrator & Senior Marketing Specialist"
 qualifications:  "B English; MBA"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Live long and prosper"
 ---

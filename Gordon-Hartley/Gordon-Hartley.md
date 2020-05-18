@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "GordonHartley"
-name: "Gordon Hartley"
-nickname: "Gordon Hartley"
+id: "56229cee-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/GordonH.aspx"
 category: "Developers"
 role:  "Senior Software Developer "
 qualifications:  "Diploma in Financial Markets (SIA) "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

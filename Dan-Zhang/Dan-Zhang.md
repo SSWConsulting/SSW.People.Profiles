@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "DanZhang"
-name: "Dan Zhang"
-nickname: "Dan"
+id: "67ad5163-f5fa-e111-88ff-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/DanZhang.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Master of computer"
-location: "Beijing"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  "danzhang-ssw"
 
 quote:  "You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted."
 ---

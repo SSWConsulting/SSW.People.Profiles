@@ -1,23 +1,11 @@
 ---
-current_employee: true
-ID: "GabrielGeorge"
-name: "Gabriel George"
-nickname: "Gabe"
+id: "4a359ff1-33d6-e711-80f2-00155d012275"
 
-legacy_page_url: "/AboutUs/Employees/Pages/GabrielGeorge.aspx"
 category: "Developers"
-role:  "Senior Software Architect"
-qualifications:  "Master of Information Technology (Software Development)"
-location: "Melbourne"
+role: "Senior Software Architect"
+qualifications: "Master of Information Technology (Software Development)"
 
-blog:  "https://devzilla.io"
-website:  ""
-facebook:  ""
-twitter:  "geo_ge"
-linkedin:  "gabriel-george"
-skype:  ""
-
-quote:  "Failing is how you learn best. To not to try would be your greatest fall."
+quote: "Failing is how you learn best. To not to try would be your greatest fall."
 ---
 
 ---
@@ -25,19 +13,19 @@ quote:  "Failing is how you learn best. To not to try would be your greatest fal
 <br/>
 
 [[imgBadge]]
-| ![Angular Icon](./Images/angular.svg)
+| ![Angular Icon](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![Ngrx Icon](./Images/ngrx.svg)
+| ![Ngrx Icon](../badges/Developer-ngrx.png)
 
 [[imgBadge]]
-| ![RxJs Icon](./Images/rxjs.png)
+| ![RxJs Icon](../badges/Developer-rxjs.png)
 
 [[imgBadge]]
-| ![React Icon](./Images/react.svg)
+| ![React Icon](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![Vue.Js Icon](./Images/vue.png)
+| ![Vue.Js Icon](../badges/Developer-vuejs.png)
 
 <br/>
 

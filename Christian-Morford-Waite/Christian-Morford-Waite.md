@@ -1,23 +1,12 @@
 ---
-current_employee: true
-ID: "ChristianMorfordWaite"
-name: "Christian Morford-Waite"
-nickname: "Christian"
+id: "a77dd9ef-ebe3-e911-9674-00155d012c95"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Christian.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Computing"
-location: "Melbourne"
 
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "christian-morford-waite-92724983"
-skype:  ""
-
-quote:  "There's a way to do it better - find it. Thomas A. Edison"
+quote:  "There's a way to do it better - find it."
+quoteAuthor: "Thomas A. Edison"
 ---
 
 Christian is a Software Developer with over 5 years of experience working with a wide range of technologies and Azure resources.  
@@ -29,5 +18,5 @@ He is familiar with many of Azure Services offered by Microsoft including workin
 In addition, Christian is Certified in ITIL Foundations Service Management and has experience working across all levels of support.  
 
 [[imgBadge]]
-| ![ITIL.png](./Images/Bio/ITIL.png) 
+| ![ITIL.png](../badges/Business-itil.png) 
   

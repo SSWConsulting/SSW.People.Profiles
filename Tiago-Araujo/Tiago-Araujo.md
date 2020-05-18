@@ -1,23 +1,12 @@
 ---
-current_employee: true
-ID: "TiagoAraujo"
-name: "Tiago Araujo"
-nickname: "Tiago"
+id: "fe0b5b92-f8aa-dd11-a7e0-00155d01221b"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Tiago.aspx"
 category: "Designers"
 role:  "Senior UI/UX & Graphic Designer"
-qualifications:  "Barchelor of Advertising, Multimedia Diploma, Adobe Web Softwares Certificate, Desktop Publish Certificate, Photography Certificate"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "tiagov8"
-linkedin:  ""
-skype:  "tiagov8"
+qualifications:  "Barchelor of Advertising, Applied Web Development Certificate"
 
 quote:  "It's not what you look at that matters, it's what you see."
+quoteAuthor: "Henry David Thoreau"
 ---  
 
 Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: "OK, but you're still working remotely for us". We couldn't let him go. After a few years in Brazil, he now lives and works in Canada.  

@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "MatthewHodgkins"
-name: "Matthew Hodgkins"
-nickname: "Matthew"
+id: "ef23051c-dfc1-de11-996b-00155d01ec01"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Matthew.aspx"
 category: "Developers"
 role:  "Senior Systems Administrator"
 qualifications:  "Diploma Of Network Engineering"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Give a person a fish and you feed them for a day; teach that person to use the Internet and they won't bother you for weeks."
 ---

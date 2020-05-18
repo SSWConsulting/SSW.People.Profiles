@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "GregJoosse"
-name: "Greg Joosse"
-nickname: "Greg Joosse"
+id: "beead0a9-fdbf-dd11-8569-00155d01221b"
 
-legacy_page_url: "/AboutUs/Employees/Pages/GregJ.aspx"
 category: "Developers"
 role:  "Network Administrator"
 qualifications:  ""
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

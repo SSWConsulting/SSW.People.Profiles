@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "EdwardForgcs"
-name: "Edward Forg cs"
-nickname: "Edward Forg cs "
+id: "c80430e6-fcbf-dd11-8569-00155d01221b"
 
-legacy_page_url: "/AboutUs/Employees/Pages/EdwardF.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  ""
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

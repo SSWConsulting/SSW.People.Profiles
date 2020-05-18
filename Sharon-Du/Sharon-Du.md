@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "SharonDu"
-name: "Sharon Du"
-nickname: "Sharon"
+id: "87437bbd-75fe-e811-81ad-00155d012b39"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Sharon.aspx"
 category: "Admin"
 role:  "China Office Administrator"
 qualifications:  "Bachelor Degree in English"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "For man is man and master of his fate."
 ---

@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "BillChen"
-name: "Bill Chen"
-nickname: "Bill"
+id: "8e229cee-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Bill.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B. Bus - Accounting"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "I believe in sincerity and understanding which helps me make excellent software."
 ---

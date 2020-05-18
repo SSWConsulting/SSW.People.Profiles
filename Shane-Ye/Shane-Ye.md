@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "ShaneYe"
-name: "Shane Ye"
-nickname: "Shane"
+id: "e21464fb-8fb1-e811-8141-00155d01ef11"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Shane.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "Bachelor of Computer Science"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  "yesihao"
-twitter:  "yesihao"
-linkedin:  "shane-ye"
-skype:  "shanerocks117"
 
 quote:  "The difference between a pebble and a mountain lies in whom you ask to move it."
 ---

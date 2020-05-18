@@ -1,27 +1,15 @@
 ---
-current_employee: true
-ID: "AlvinShen"
-name: "Alvin Shen"
-nickname: "Alvin"
+id: "b86a67e8-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Alvin.aspx"
 category: "Managers"
 role:  "SSW China CEO"
 qualifications:  "B.IT(Software Engineering)@QUT, M. Commerce(Information System)@UNSW, CSPO, MCPD, MCTS"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "alvin-shen"
-skype:  ""
 
 quote:  "Storms make trees take deeper roots"
 ---
 
 [[imgBadge]]
-| ![CSPO_medallion_200.png](./Images/Bio/CSPO_medallion_200.png) 
+| ![](../badges/Certification-scrumalliance-owner-1.png) 
   
 
 Alvin Shen is the CEO of SSW China managing SSW Beijing and SSW Hangzhou Office.  

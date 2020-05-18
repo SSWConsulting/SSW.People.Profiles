@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "JatinValabjee"
+id: "JatinValabjee"
 name: "Jatin Valabjee"
-nickname: "Jatin Valabjee"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JatinV.aspx"
 category: "Developers"
 role:  "Design Production Manager"
 qualifications:  "B.Sc.(Comp)"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "BenCull"
-name: "Ben Cull"
-nickname: "Ben"
+id: "3f5c2414-a42f-e311-80a2-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Ben.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of IT, MCSD: Web Applications"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "​​I build web applications that are lightning fast and dressed to impress."
 ---
@@ -47,6 +35,8 @@ I also have a beer brewing channel on youtube: [Mash Hacks](https://www.youtube.
 
 Specialties: Web Development, Cloud Applications, Payments, Startups 
 
-![](./Images/Bio/MCSD_2013(rgb) 
-_1477.jpg) ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
-   
+[[imgBadge]]
+| ![Sitefinity](../badges/Certification-microsoft-developer-webapps.png) 
+
+[[imgBadge]]
+| ![Sitefinity](../badges/Developer-sitefinity.png) 

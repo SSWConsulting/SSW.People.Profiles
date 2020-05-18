@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "JohnPrince"
+id: "JohnPrince"
 name: "John Prince"
-nickname: "John Prince"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JohnP.aspx"
 category: "Developers"
 role:  "Database Developer"
 qualifications:  "Dip IT"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "GerardBeckerleg"
-name: "Gerard Beckerleg"
-nickname: "Gerard"
+id: "35805538-f604-e111-a590-00155d012914"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Gerard.aspx"
 category: "Developers"
 role:  "Solution Architect (SharePoint)"
 qualifications:  "BSc (Hons) Business Information Systems, Professional Scrum Developer, Microsoft Certified Technology Specialist"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "You can have good, fast, or cheap.  But you can only pick two."
 ---

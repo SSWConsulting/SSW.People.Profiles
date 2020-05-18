@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "ChelseaArbanbright"
-name: "Chelsea Arbanbright"
-nickname: "Chelsea"
+id: "7138843c-cc6f-e911-8225-00155d01ef64"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Chelsea.aspx"
 category: "Admin"
 role:  "Personal Assistant & Office Administrator"
 qualifications:  "Office management and executive level assisting"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success - John D Rockefeller"
 ---
