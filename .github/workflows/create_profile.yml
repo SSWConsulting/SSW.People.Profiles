@@ -1,0 +1,74 @@
+# This is a Workflow to generate new employee profiles on SSW People
+name: Create New Employee Profile
+
+# Controls when the action will run. Triggers the workflow on a POST Request
+on: 
+  repository_dispatch:
+    types: [create-profile]
+        
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+ 
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+
+    # Build the new profile
+    - name: Create the Profile
+      run: |
+        git config --global user.email "ChristianMWaite@ssw.com.au"
+        git config --global user.name "Christian Morford-Waite"
+        git checkout -b add-profile-$first_name-$last_name
+        
+        mkdir $first_name-$last_name
+        cat >$first_name-$last_name/$first_name-$last_name.md <<EOL
+        ---
+        id: "$crm_id"
+         
+        category: "$category"
+        role: "$job_title"
+        qualifications: ""
+        
+        quote: ""
+        quoteAuthor: ""
+        ---
+       
+        [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
+        EOL
+        mkdir $first_name-$last_name/Images       
+      env:
+        first_name: ${{ github.event.client_payload.first_name }}
+        last_name: ${{ github.event.client_payload.last_name }}
+        crm_id: ${{ github.event.client_payload.crm_id }}
+        category: ${{ github.event.client_payload.category }}
+        job_title: ${{ github.event.client_payload.job_title }}
+            
+    - name: Download profile images - Profile
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: ${{ secrets.SSW_PHOTO_PROFILE_URL }}
+        file-name: "${{ github.event.client_payload.first_name }}-${{ github.event.client_payload.last_name }}-Profile.jpg"
+        location: "./${{ github.event.client_payload.first_name }}-${{ github.event.client_payload.last_name }}/Images"
+        
+    - name: Download profile images - Sketch
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: ${{ secrets.SSW_PHOTO_SKETCH_URL }}
+        file-name: "${{ github.event.client_payload.first_name }}-${{ github.event.client_payload.last_name }}-Sketch.jpg"
+        location: "./${{ github.event.client_payload.first_name }}-${{ github.event.client_payload.last_name }}/Images"
+      
+    - name: Create the Pull Request
+      run: |
+        git add $first_name-$last_name/*
+        git add $first_name-$last_name/Images/*
+        git commit -m "Created new markdown profile for $first_name $last_name"
+        git push --set-upstream origin add-profile-$first_name-$last_name
+        hub pull-request --no-edit
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        first_name: ${{ github.event.client_payload.first_name }}
+        last_name: ${{ github.event.client_payload.last_name }}
