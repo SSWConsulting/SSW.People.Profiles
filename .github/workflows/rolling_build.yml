@@ -2,11 +2,11 @@
 
 name: Rolling Production Build
 
-# The workflow runs every 30 mins
+# The workflow runs every 15 mins
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '*/30 * * * *'
+    - cron:  '*/15 * * * *'
 
 jobs:
   # This workflow contains a single job called "build"
