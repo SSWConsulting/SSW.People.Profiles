@@ -8,7 +8,7 @@ qualifications:  "CCNP + CCDP"
 quote:  "Going with the cheapest option may seem like a good idea, but it generally leads to a more expensive and time consuming job to resolve a poor design."
 ---
 
-Steven's technical background is in Network Engineering, this involves the design and implementation of network solutions, including completely new networks as well as add ons/upgrades to existing networks, providing the network and infrastructure for your servers and applications to communicate.  
+Steven's technical background is in Network Engineering, this involves the design and implementation of network solutions, including completely new networks, as well as add ons/upgrades to existing networks, providing the infrastructure for your servers and applications to communicate.  
 
 Steven has been working in the IT industry for 10+ years. He has experience with Routing, Switching, Firewalling and Wireless with Cisco, HP, Unifi and Aruba devices as well as ExpressRoute to Azure.  
 
