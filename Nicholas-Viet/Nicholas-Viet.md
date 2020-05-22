@@ -1,19 +1,25 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+currentEmployee: true
+id: "nicholasviet"
+name: "Nicholas Viet"
+nickname: "Nick"
 
-category: "Developers"
-role: "Sample Profile"
-qualifications: ""
+category: "Accounting"
+role: "Accountant"
+qualifications: "Accounting"
+location: "Sydney"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
+
+
+quote: "Working together to provide solutions to problems every day"
 quoteAuthor: "Anonymous"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Mr Bob Northwind is the owner of Northwind Traders Limited. 
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
+Nick is the accountant at SSW .
+Nick has two pet cats. 
+Nick loves to play all sports. 
 
 [Design Guidelines](https://www.ssw.com.au/ssw/logo/ssw/)
 
