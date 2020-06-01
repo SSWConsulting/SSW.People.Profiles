@@ -3,9 +3,9 @@ id: "8ac82c73-303c-e611-80d1-00155d01ee33"
 
 category: "Developers"
 role: "Solution Architect"
-qualifications: "Master or IT (Software Architecture), MCSD"
+qualifications: "Master of IT (Software Architecture), MCSD"
 
-quote: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+quote: "Make everything as simple as possible, but not simpler. -Albert Einstein"
 ---
 
 [[imgBadge]]
