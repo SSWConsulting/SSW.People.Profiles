@@ -31,8 +31,18 @@ quote: "Make everything as simple as possible, but not simpler.
 
 Jason Taylor is a passionate developer, architect, trainer and mentor with 20 years of professional experience. He has worked with .NET since 2001, and currently specializes in developing enterprise applications utilizing .NET Core, ASP.NET Core, EF Core, Angular, Vue, and Azure. Jason is an expert on Clean Architecture with .NET Core, and has one of the most sought after GitHub repos containing an awesome template for using Clean Architecture. Jason loves a challenge and is skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_lwCVE_XgqI?controls=0" frameborder="0"></iframe>
+Since joining SSW in 2016, Jason has worked with many clients to deliver successful solutions using the .NET stack. He has also shared his knowledge and experience with the wider developer community by:
 
-Jason loves public speaking and has run the .NET Core Superpowers to sold out audiences in Sydney, Brisbane and Melbourne.
+* Speaking at conferences around the world including DDD, NDC and GOTO
+* Speaking at .NET User Groups
+* Delivering training on .NET Core and Clean Architecture:
+  * .NET Core Dev Superpowers
+  * Clean Architecture Dev Superpowers
+* Getting involved in community events including:
+  * Angular Hackday
+  * Hack4Good
+  * DDD Brisbane
+
+Jason loves public speaking and has run the Dev Superpowers to sold out audiences in Sydney, Brisbane and Melbourne.
 
 [Click here](http://www.codingflow.net/speaking/) to view upcoming and past speaking events.
