@@ -9,10 +9,19 @@ quote: "Make everything as simple as possible, but not simpler. -Albert Einstein
 ---
 
 [[imgBadge]]
-| ![MSCProfessional.png](../badges/Certification-microsoft-professional.jpg)
+| ![MSCProfessional.png](../badges/MicrosoftCertifiedProfessional-Alt.png)
 
 [[imgBadge]]
 | ![MSCWebAp.png](../badges/Certification-microsoft-developer-webapps.png)
+
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![angular.png](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![vue.png](../badges/Developer-Vue.png)
 
 [[imgBadge]]
 | ![PSDI.png](../badges/Certification-scrumorg-developer.png)
