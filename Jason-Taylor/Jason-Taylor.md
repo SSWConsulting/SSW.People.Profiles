@@ -29,7 +29,7 @@ quote: "Make everything as simple as possible, but not simpler.
 
 ---
 
-Jason Taylor is a solution architect, trainer, mentor, and full stack developer with 20 years professional experience. Currently specializing in teaching and building enterprise applications utilizing .NET Core, Angular, Vue, and Azure. Jason loves a challenge and is skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
+Jason Taylor is a passionate developer, architect, trainer and mentor with 20 years of professional experience. He has worked with .NET since 2001, and currently specializes in developing enterprise applications utilizing .NET Core, ASP.NET Core, EF Core, Angular, Vue, and Azure. Jason is an expert on Clean Architecture with .NET Core, and has one of the most sought after GitHub repos containing an awesome template for using Clean Architecture. Jason loves a challenge and is skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_lwCVE_XgqI?controls=0" frameborder="0"></iframe>
 
