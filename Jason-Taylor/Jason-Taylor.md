@@ -9,10 +9,16 @@ quote: "Make everything as simple as possible, but not simpler. -Albert Einstein
 ---
 
 [[imgBadge]]
-| ![MSCProfessional.png](../badges/MicrosoftCertifiedProfessional-Alt.png)
+| ![mcp.png](../badges/MicrosoftCertifiedProfessional-Alt.png)
 
 [[imgBadge]]
-| ![MSCWebAp.png](../badges/Certification-microsoft-developer-webapps.png)
+| ![mcsd.png](../badges/Certification-microsoft-developer-webapps.png)
+
+[[imgBadge]]
+| ![scrum-dev.png](../badges/Certification-scrumorg-developer.png)
+
+[[imgBadge]]
+| ![scrum-master.png](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
 | ![dotnetcore.png](../badges/Developer-dotnet-core.png)
@@ -22,12 +28,6 @@ quote: "Make everything as simple as possible, but not simpler. -Albert Einstein
 
 [[imgBadge]]
 | ![vue.png](../badges/Developer-Vue.png)
-
-[[imgBadge]]
-| ![PSDI.png](../badges/Certification-scrumorg-developer.png)
-
-[[imgBadge]]
-| ![SAI_BadgeSizes_DigitalBadging_CSM.png](../badges/Certification-scrumalliance-master.png)
 
 ---
 
