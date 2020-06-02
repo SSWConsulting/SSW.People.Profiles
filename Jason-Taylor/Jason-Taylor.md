@@ -45,4 +45,9 @@ Since joining SSW in 2016, Jason has worked with many clients to deliver success
 
 Jason loves public speaking and has run the Dev Superpowers to sold out audiences in Sydney, Brisbane and Melbourne.
 
-[Click here](http://www.codingflow.net/speaking/) to view upcoming and past speaking events.
+He also runs two very successful open source projects:
+
+* Clean Architecture Solution Template ![GitHub stars](https://img.shields.io/github/stars/jasontaylordev/cleanarchitecture?style=social)
+* Northwind Traders ![GitHub stars](https://img.shields.io/github/stars/jasontaylordev/northwindtraders?style=social)
+
+[Click here](https://jasontaylor.dev/speaking/) to view upcoming and past speaking events.
