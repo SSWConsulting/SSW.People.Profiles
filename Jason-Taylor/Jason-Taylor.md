@@ -3,7 +3,7 @@ id: "8ac82c73-303c-e611-80d1-00155d01ee33"
 
 category: "Developers"
 role: "Solution Architect"
-qualifications: "Master of IT (Software Architecture), MCSD"
+qualifications: "Master of IT (Software Architecture), Grad Cert of Applied Science (IT), MCSD: Web Applications"
 
 quote: "Make everything as simple as possible, but not simpler. -Albert Einstein"
 ---
@@ -15,7 +15,7 @@ quote: "Make everything as simple as possible, but not simpler. -Albert Einstein
 | ![MSCWebAp.png](../badges/Certification-microsoft-developer-webapps.png)
 
 [[imgBadge]]
-| ![PSDI.png](../badges/Certification-scrumalliance-developer-1.png)
+| ![PSDI.png](../badges/Certification-scrumorg-developer.png)
 
 [[imgBadge]]
 | ![SAI_BadgeSizes_DigitalBadging_CSM.png](../badges/Certification-scrumalliance-master.png)
