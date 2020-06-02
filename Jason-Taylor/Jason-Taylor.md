@@ -48,7 +48,7 @@ Jason loves public speaking and has run the Dev Superpowers to sold out audience
 
 He also runs two very successful open source projects:
 
-* [Clean Architecture Solution Template](https://github.com/jasontaylordev/cleanarchitecture) ![GitHub stars](https://img.shields.io/github/stars/jasontaylordev/cleanarchitecture?style=flat)
-* [Northwind Traders](https://github.com/jasontaylordev/northwindtraders) ![GitHub stars](https://img.shields.io/github/stars/jasontaylordev/northwindtraders?style=flat)
+* [Clean Architecture Solution Template](https://github.com/jasontaylordev/cleanarchitecture) <img src="https://img.shields.io/github/stars/jasontaylordev/cleanarchitecture?style=flat">
+* [Northwind Traders](https://github.com/jasontaylordev/northwindtraders) <img src="https://img.shields.io/github/stars/jasontaylordev/northwindtraders?style=flat" />
 
 [Click here](https://jasontaylor.dev/speaking/) to view upcoming and past speaking events.
