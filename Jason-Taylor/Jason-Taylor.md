@@ -5,8 +5,8 @@ category: "Developers"
 role: "Solution Architect"
 qualifications: "Master of IT (Software Architecture), Grad Cert of Applied Science (IT), MCSD: App Builder"
 
-quote: "Make everything as simple as possible, but not simpler.
-    - Albert Einstein"
+quote: "Make everything as simple as possible, but not simpler."
+quoteAuthor: "Einstein"
 ---
 
 [[imgBadge]]
