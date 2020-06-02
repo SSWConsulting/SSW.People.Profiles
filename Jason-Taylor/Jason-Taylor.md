@@ -36,18 +36,19 @@ Since joining SSW in 2016, Jason has worked with many clients to deliver success
 * Speaking at conferences around the world including DDD, NDC and GOTO
 * Speaking at .NET User Groups
 * Delivering training on .NET Core and Clean Architecture:
-  * .NET Core Dev Superpowers
-  * Clean Architecture Dev Superpowers
+  * [.NET Core Dev Superpowers](https://www.ssw.com.au/ssw/Events/Training/NET-Core-Superpowers-Tour.aspx)
+  * [Clean Architecture Dev Superpowers](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx)
+  * [Clean Architecture 2-day Workshop](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Workshop.aspx)
 * Getting involved in community events including:
-  * Angular Hackday
-  * Hack4Good
-  * DDD Brisbane
+  * [Angular Hackday](https://angularhackday.com)
+  * [DDD Brisbane](https://dddbrisbane.com)
+  * [Hack4Good](https://www.youtube.com/watch?v=6B7SywxEiMk)
 
 Jason loves public speaking and has run the Dev Superpowers to sold out audiences in Sydney, Brisbane and Melbourne.
 
 He also runs two very successful open source projects:
 
-* Clean Architecture Solution Template ![GitHub stars](https://img.shields.io/github/stars/jasontaylordev/cleanarchitecture?style=social)
-* Northwind Traders ![GitHub stars](https://img.shields.io/github/stars/jasontaylordev/northwindtraders?style=social)
+* Clean Architecture Solution Template ![GitHub stars](https://img.shields.io/github/stars/jasontaylordev/cleanarchitecture?style=flat)
+* Northwind Traders ![GitHub stars](https://img.shields.io/github/stars/jasontaylordev/northwindtraders?style=flat)
 
 [Click here](https://jasontaylor.dev/speaking/) to view upcoming and past speaking events.
