@@ -35,6 +35,21 @@ quote:  "Make a plan! Make it happen!"
 [[imgBadge]]
 | ![docker](../badges/Developer-docker.png)
 
+[[imgBadge]]
+| ![Melbourne .Net User group](../badges/Event-ug-melbourne.png)
+
+[[imgBadge]]
+| ![AI Hack Day](../badges/Event-hackday-ai.png)
+
+[[imgBadge]]
+| ![Xamarin Hack Day](../badges/Event-hackday-xamarin.png)
+
+[[imgBadge]]
+| ![Angular Hack Day](../badges/Event-hackday-angular.png)
+
+[[imgBadge]]
+| ![Speaker at DDD Brisbane 2019](../badges/Event-DDD-Brisbane.png)
+
 ---
 
 William is a **Solution Architect** with over 16 years of professional experience spanning multiple industries such as Heavy Engineering, Mining, 3D Graphics, Education and Finance.
@@ -74,59 +89,35 @@ Development and DevOps aren't his only strong points. He is a highly motivated
 
 William lead a team to build a smart office bot that integrates with Microsoft Teams, Skype and Google Assistant.
 
-One major use case for **SophieBot** is to help our SSW State Managers and Clients to find the right Developer for any project simply by talking to a Bot with natural human language. SophieBot can determine which developers in any of our offices have the right skills for a project and even if they are available to be booked for this project. All the information required to answer this simple query can be spread across multiple systems such as Dynamics CRM, TimePro, LinkedIn, SalesForce, Delve, and more. SophieBot has integrations that can collect all the relevant information and fulfill the seemingly simple query:
-
-> "Who has Angular skills available next week for 4 days?"
-
-`youtube: dgXCgljyGGo`
+One major use case for **SophieBot** is to help our SSW State Managers and Clients to find the right developer for any project simply by talking to a Bot with natural human language. SophieBot can determine which developers in any of our offices have the right skills for a project and even if they are available to be booked for this project. All the information required to answer this simple query can be spread across multiple systems such as Dynamics CRM, TimePro, LinkedIn, SalesForce, Delve, and more. SophieBot has integrations that can collect all the relevant information and fulfill the seemingly simple query:
 
 Relevant technologies: Azure Functions, Azure Bots, Google DialogFlow Firebase,Azure Table Storage, Azure Cosmos DB, Docker, NodeJS, Dynamics 365.
 
 ## Training
 
-William is a trainer on the [SSW TV Azure Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Azure-Superpowers-Tour.aspx) at major cities around Australia and Online, and has received top evaluation scores!
+William is a trainer on the [SSW Azure Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Azure-Superpowers-Tour.aspx) at major cities around Australia and Online, and has received top evaluation scores!
 
 [[imgMd]]
-| ![SSW TV Azure Superpowers Tour](./Images/Bio/azure-superpowers-profile-william-no-cape.jpg)
+| ![SSW Azure Superpowers Tour](./Images/Bio/azure-superpowers-banner.png)
 
 ## Public Speaking
 
-William has spoken at conferences such as [NDC Sydney](https://ndcsydney.com/speaker/william-liebenberg/) and [DDD Brisbane](https://dddbrisbane.com/agenda/2019).
+William has spoken at conferences such as:
 
-[[imgMd]]
-| ![Speaker at NDC Sydney 2019](./Images/Bio/NDC-Sydney-Speaker.png)
-
-[[imgBadge]]
-| ![Speaker at DDD Brisbane 2019](../badges/Event-DDD-Brisbane.png)
-
-`youtube: zxSlKiWOOzw`
-Figure: Azure SpendOps – The Art of Effectively Managing Azure Costs - William Liebenberg
-
-[[imgMd]]
-| ![DDD Brisbane - Clean-code with Azure Functions and Cosmos DB](./Images/Bio/dddbrisbane-2019-william-2.jpg)
+* [NDC Sydney](https://ndcsydney.com/speaker/william-liebenberg/)
+* [DDD Brisbane](https://dddbrisbane.com/agenda/2019)
+* [Global AI on Tour - Melbourne](https://globalai.community/global-ai-on-tour/australia-melbourne-1)
 
 ## Community Events
 
 Being an active member of the local development community is very important to William. He attends as many meetups and workshops as he can.
 
-He is President of the [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/) hosted at [SSW Melbourne](https://www.ssw.com.au/ssw/NETUG/Melbourne.aspx).
+William is President of the [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/) hosted at [SSW Melbourne](https://www.ssw.com.au/ssw/NETUG/Melbourne.aspx).
 
-[[imgBadge]]
-| ![Melbourne .Net User group](../badges/Event-ug-melbourne.png)
+In 2020 William launched the [AI Hack Day](https://aihackday.com) free community event. As an event Host, Mentor and Presenter he helps attendees to build applications that utilize Azure Cognitive Services and Machine Learning.
 
-In 2020 William helped launching the new [AI Hack Day](https://aihackday.com) free community event. He also took on the role of Mentor and Presenter to help get the attendees started with building Bots.
+He has also presented and mentored at the following Hack Day events:
 
-[[imgBadge]
-| ![AI Hack Day](../badges/Event-hackday-ai.png)
-
-William has also presented and mentored at the following Hack Day events:
-
+* [AI Hack Day - Melbourne 2020](https://aihackday.com)
 * [Xamarin Hack Day - Melbourne 2019](https://xamarinhackday.com)
-
-[[imgBadge]]
-| ![Xamarin Hack Day](../badges/Event-hackday-xamarin.png)
-
 * [Angular Hack Day - Melbourne 2019](https://angularhackday.com/)
-
-[[imgBadge]]
-| ![Angular Hack Day](../badges/Event-hackday-angular.png)
