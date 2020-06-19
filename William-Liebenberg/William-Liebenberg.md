@@ -33,19 +33,19 @@ quote:  "Make a plan! Make it happen!"
 | ![docker](../badges/Developer-docker.png)
 
 [[imgBadge]]
-| ![Melbourne .Net User group](../badges/Event-ug-melbourne.png)
+| [![Melbourne .Net User group](../badges/Event-ug-melbourne.png)](https://www.ssw.com.au/ssw/NETUG/Melbourne.aspx)
 
 [[imgBadge]]
-| ![AI Hack Day](../badges/Event-hackday-ai.png)
+| [![AI Hack Day](../badges/Event-hackday-ai.png)](https://aihackday.com)
 
 [[imgBadge]]
-| ![Xamarin Hack Day](../badges/Event-hackday-xamarin.png)
+| [![Xamarin Hack Day](../badges/Event-hackday-xamarin.png)](https://xamarinhackday.com)
 
 [[imgBadge]]
-| ![Angular Hack Day](../badges/Event-hackday-angular.png)
+| [![Angular Hack Day](../badges/Event-hackday-angular.png)](https://angularhackday.com/)
 
 [[imgBadge]]
-| ![Speaker at DDD Brisbane 2019](../badges/Event-DDD-Brisbane.png)
+| [![Speaker at DDD Brisbane 2019](../badges/Event-DDD-Brisbane.png)](https://dddbrisbane.com)
 
 [[imgBanner]]
 | ![Azure DevOps](../badges/Business-microsoft-azure-devops-banner.png)
