@@ -15,9 +15,6 @@ quote:  "Make a plan! Make it happen!"
 | ![azure-function-logo.png](../badges/Developer-azure-function.png)
 
 [[imgBadge]]
-| ![azure-logo.png](../badges/Business-microsoft-azure-devops.png)
-
-[[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
