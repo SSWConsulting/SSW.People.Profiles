@@ -18,9 +18,6 @@ quote:  "Make a plan! Make it happen!"
 | ![azure-logo.png](../badges/Business-microsoft-azure-devops.png)
 
 [[imgBadge]]
-| ![devops-logo.png](../badges/Developer-devops.png)
-
-[[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
@@ -49,6 +46,9 @@ quote:  "Make a plan! Make it happen!"
 
 [[imgBadge]]
 | ![Speaker at DDD Brisbane 2019](../badges/Event-DDD-Brisbane.png)
+
+[[imgBanner]]
+| ![Azure DevOps](../badges/Business-microsoft-azure-devops-banner.png)
 
 ---
 
