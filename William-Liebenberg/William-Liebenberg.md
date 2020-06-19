@@ -97,7 +97,7 @@ Relevant technologies: Azure Functions, Azure Bots, Google DialogFlow Firebase,A
 
 William is a trainer on the [SSW Azure Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Azure-Superpowers-Tour.aspx) at major cities around Australia and Online, and has received top evaluation scores!
 
-[[imgMd]]
+[[imgLg]]
 | ![SSW Azure Superpowers Tour](./Images/Bio/azure-superpowers-banner.png)
 
 ## Public Speaking
