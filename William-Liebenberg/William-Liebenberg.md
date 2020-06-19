@@ -89,7 +89,7 @@ Development and DevOps aren't his only strong points. He is a highly motivated
 
 William lead a team to build a smart office bot that integrates with Microsoft Teams, Skype and Google Assistant.
 
-One major use case for **SophieBot** is to help our SSW State Managers and Clients to find the right developer for any project simply by talking to a Bot with natural human language. SophieBot can determine which developers in any of our offices have the right skills for a project and even if they are available to be booked for this project. All the information required to answer this simple query can be spread across multiple systems such as Dynamics CRM, TimePro, LinkedIn, SalesForce, Delve, and more. SophieBot has integrations that can collect all the relevant information and fulfill the seemingly simple query:
+One major use case for **SophieBot** is to help our SSW State Managers and Clients to find the right developer for any project simply by talking to a Bot using natural human language. SophieBot can determine which developers from any of our offices have the right skills for a project and if they are available to be booked for this project. All the information required to answer this simple query can be spread across multiple systems such as Dynamics CRM, TimePro, LinkedIn, SalesForce, Delve, and more. SophieBot has integrations that can collect all the relevant information and fulfill the seemingly simple query and save the SSW State Managers a lot of time and effort.
 
 Relevant technologies: Azure Functions, Azure Bots, Google DialogFlow Firebase,Azure Table Storage, Azure Cosmos DB, Docker, NodeJS, Dynamics 365.
 
