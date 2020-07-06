@@ -1,6 +1,6 @@
 #! /bin/bash
 github_org_name=sswconsulting
-github_repo_name=people.ssw.com.au
+github_repo_name=SSW.People
 azdo_org_name=https://ssw.visualstudio.com
 azdo_project_name=ssw.people
 azdo_pipeline_name=Production
