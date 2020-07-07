@@ -14,6 +14,10 @@ quote: "Great spirits have always encountered violent opposition from mediocre m
 [[imgBadge]]
 | ![Google Ads Fundamental Completion](../badges/Certification-google-award-ads-fundamentals.png)
 
+[[imgBadge]]
+| ![Adobe Premiere](../badges/Designer-adobe-premiere.png)
+
+
 Michael is a highly creative and driven person with many “outside the box ideas” and a passion for technology and innovation.
 
 He has worked with many organizations, from tech start-ups to multi-nationals, to help them build businesses that are profitable and he empowers SSW customers to continue their growth stories in Melbourne (I'm a Richmond supporter).
