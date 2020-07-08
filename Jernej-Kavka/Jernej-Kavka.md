@@ -104,13 +104,16 @@ Jernej's internal projects include:
 ---
 
 [[imgSm]]
-| ![](./Images/Bio/sophie-logo.png)
+| ![](./Images/Bio/SophieBot_logo.png)
 
 **Sophie Bot** is an essential part of SSW smart office solution where employees can check who’s in the office, see others' availability, and many more features.See more information at [sswsophie.com/sophiebot](https://sswsophie.com/sophiebot)
 
 **Related Technology**: React, .NET Core, SignalR, Cognitive Services, Azure Bots, Azure Functions
 
 ---
+
+[[imgSm]]
+| ![](./Images/Bio/SophieHub_logo.png)
 
 **Sophie Hub** is a smart receptionist that recognizes incoming guests and lets them know about their agenda and information relevant to them. In the future, Sophie will be used as a full smart office solution.
 
@@ -121,7 +124,7 @@ Check out [sswsophie.com](https://sswsophie.com/) for more information.
 ---
 
 [[imgSm]]
-| ![](./Images/Bio/TimePRO_logo.png)
+| ![](./Images/Bio/TimePro_logo2.png)
 
 **SSW Time Pro** - Timesheeting and invoicing application that integrates with CRM and TFS servers.
 
@@ -130,7 +133,7 @@ Check out [sswsophie.com](https://sswsophie.com/) for more information.
 ---
 
 [[imgSm]]
-| ![](./Images/Bio/SugarLearning_Logo.png)
+| ![](./Images/Bio/SugarLearning_logo2.png)
 
 **SugarLearning** is a simple induction training website used to get new employees up to speed and track their progress.
 
