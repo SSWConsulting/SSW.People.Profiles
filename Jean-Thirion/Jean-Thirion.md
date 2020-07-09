@@ -27,14 +27,14 @@ quoteAuthor: "Neil Degrasse Tyson"
 
 Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePoint Applications**, **Angular, React** and **.NET Core**.
 
-His deep knowledge of **SharePoint's** many capabilities, combined with the **latest technologies (Angular, React, SPFx)**, let him propose **high-quality tailored** SharePoint Applications to clients.
+His deep knowledge of SharePoint's many capabilities, combined with the latest technologies (Angular, React, SPFx), let him propose high-quality tailored SharePoint Applications to clients.
 
-Jean has been working with **SharePoint** for the past 7 years, in France, Luxembourg, and now Australia. He has been involved with a wide variety of projects, from **small companies** to **international firms**, in both private and public sectors.
+Jean has been working with **SharePoint** for the past 7 years, in France, Luxembourg, and now Australia. He has been involved with a wide variety of projects, from small companies to international firms, in both private and public sectors.
 
 [[imgLg]]
 | ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
 
-When he is not leveraging this **knowledge** to develop **client applications**, Jean is one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.
+When he is not leveraging this knowledge to develop client applications, Jean is one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.
 
 Jean is highly motivated, with strong technical skills, which allows him to understand and convert complex business requirements into software solutions. He is also able to use his expertise and experience to suggest best practices applicable for any given scenario.
 
