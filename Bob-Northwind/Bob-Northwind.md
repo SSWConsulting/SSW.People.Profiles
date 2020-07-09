@@ -9,7 +9,7 @@ quote: "Working together to provide solutions to problems proactively every day,
 quoteAuthor: "Anonymous"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
+[Editing your profile]: https://github.com/SSWConsulting/SSW.People.Profiles/wiki/3.-Editing-your-profile
 
 Mr Bob Northwind is the owner of Northwind Traders Limited. 
 This is an example account to show you what is possible for a profile page. 
