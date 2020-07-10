@@ -18,7 +18,7 @@ Mehmet also helps many clients and SSW with infrastructure-related tasks.
 #### Some recent clients
 
 * **[Screen Producers](https://www.screenproducers.org.au/)**  
-Mehmet worked with fellow SSW develop Greg to implement Dynamics 365 as the membership and event management system for Screen Producers Australia. Dynamics 365 was customised with additional entities to support SPA's membership levels and event management. Kentico cloud was used as the public front end to display Event data to the public, with SPA's members receiving discounted pricing.  
+Mehmet worked with fellow SSW developer Greg to implement Dynamics 365 as the membership and event management system for Screen Producers Australia. Dynamics 365 was customised with additional entities to support SPA's membership levels and event management. Kentico Cloud was used as the public front end to display Event data to the public, with SPA members receiving discounted pricing.  
     *Related Technologies: Dynamics 365, Kentico Cloud*
 
 * **[Multigate Medical](https://multigate.com.au/)**  
