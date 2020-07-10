@@ -14,4 +14,4 @@ Sample Profile: https://www.ssw.com.au/people/sample
 ## (Developer Information) for Customizing, Re-branding and Deploying
 Example: https://www.northwind365.com/people
 
-Instructions: https://github.com/SSWConsulting/SSW.People/wiki/Deploy-and-customize-SSW.People
+Instructions: https://github.com/SSWConsulting/SSW.People/wiki/Customizing,-Re-branding-and-Deploying-SSW.People
