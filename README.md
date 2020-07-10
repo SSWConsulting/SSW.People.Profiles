@@ -9,9 +9,9 @@ Gatsby generator project: https://github.com/SSWConsulting/SSW.People/
 
 Sample Profile: https://www.ssw.com.au/people/sample
 
-## Instructions here: https://github.com/SSWConsulting/People/wiki
+## Instructions here on the ![Wiki](https://github.com/SSWConsulting/SSW.People.Profiles/wiki) 
 
-## Customize and Deploy
+## (Developer Information) for Customizing, Re-branding and Deploying
 Example: https://www.northwind365.com/people
 
 Instructions: https://github.com/SSWConsulting/SSW.People/wiki/Deploy-and-customize-SSW.People
