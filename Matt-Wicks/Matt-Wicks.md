@@ -14,7 +14,7 @@ quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace th
 [[imgBanner]]
 | ![devops](../badges/Business-microsoft-azure-devops-banner.png)
 
-Matt is an SSW Solution Architect, Certified ScrumMaster and one of four Microsoft certified DevOps fast track partner consultants in Australia.  
+Matt is an SSW Solution Architect, Certified Scrum Master and one of four Microsoft certified DevOps fast track partner consultants in Australia.  
 He has been developing solutions using the full Microsoft stack since .NET 2 was in beta.
 
 Matt has had experience with companies ranging from small businesses to large ASX listed companies in the finance, engineering and HR sectors, helping them with:
@@ -25,7 +25,7 @@ Matt has had experience with companies ranging from small businesses to large AS
 
 - Process automation
 
-- Dynamics CRM
+- Dynamics 365 CRM
 
 - B2B integrations (integrating with Banks and Multinational Petrol companies)
 
