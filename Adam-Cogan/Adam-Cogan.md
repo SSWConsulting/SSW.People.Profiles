@@ -5,7 +5,7 @@ category: "Managers"
 role: "Chief Architect, Microsoft Regional Director"
 qualifications: "Trainer, B Bus, JP, MCP, Microsoft MVP (ALM)"
 
-quote: "Talent can fix tricky bugs, but teamwork and brains build great software. "
+quote: "Talent can fix tricky bugs, but teamwork and brains build great software."
 ---
 
 [[imgBadge]]
