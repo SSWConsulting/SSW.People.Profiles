@@ -5,7 +5,7 @@ category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Dip Computer Technology, MCSD: Application Lifecycle Management"
 
-quote:  "I like the simplicity of the satellites 'Beep, beep, beep.' - Sputnik"
+quote:  "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"
 ---
 
 [[imgBadge]]
