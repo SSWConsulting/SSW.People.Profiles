@@ -8,7 +8,7 @@ qualifications:  "Bachelor of Information Technology Systems"
 quote:  "You know what they say, one person's code is another person's legacy? Let's try to avoid that"
 ---
 
-Alex is an **SSW Software Architect**. His main fields are in **.NET Core**, **Power BI** and **Angular** 
+Alex is an **SSW Software Architect**. His main fields are in **.NET Core**, **Power BI** and **Angular**.
 
 Alex is a .NET Developer with over 5 years of experience consulting on a variety of companies that specialized in  to name a few. Always interested in an opportunity to hone his skills, Alex is always up to try new and exciting technologies and challenges to be on the cutting edge, and to help others along the way.  
 
