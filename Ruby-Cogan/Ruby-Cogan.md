@@ -1,19 +1,14 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "05daa2a9-8768-446e-b9d3-580c8a6f9b8b"
 
-category: "Developers"
-role: "Sample Profile"
-qualifications: ""
+category: "Admin"
+role: "Reception and administration"
+qualifications: " "
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "We are changing the world with Technology  "
+quoteAuthor: "Bill Gates"
 ---
-
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
-
-Mr Bob Northwind is the owner of Northwind Traders Limited. 
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
+Hey it's Ruby! 
 
 [Design Guidelines](https://www.ssw.com.au/ssw/logo/ssw/)
 
