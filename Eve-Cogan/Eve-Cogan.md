@@ -14,7 +14,8 @@ quoteAuthor: "Thich Nhat Hanh"
 Eve Cogan is a university student and part-time employee at SSW.
 She helps with all things media and writing-related, as well as admin work.
 
-[Design Guidelines](https://www.ssw.com.au/ssw/logo/ssw/)
+![Microsoft certification](../badges/Business-microsoft-office365.png)
+![Microsoft certification](../badges/Business-microsoft-office365-teams.png)
 
 &nbsp;
 
@@ -111,9 +112,6 @@ _italic_ or _italic_
 
 [[imgSm]]
 | ![Small image](./Images/Bio/cat_computer.jpg)
-
-[[imgBadge]]
-| ![Microsoft certification](../badges/Business-microsoft-office365.png)
 
 ```
 
