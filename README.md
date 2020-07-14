@@ -15,3 +15,7 @@ Sample Profile: https://www.ssw.com.au/people/sample
 Example: https://www.northwind365.com/people
 
 Instructions: https://github.com/SSWConsulting/SSW.People/wiki/Customizing,-Re-branding-and-Deploying-SSW.People
+
+<img align="left" width="32" height="22" src="https://raw.githubusercontent.com/SSWConsulting/SSW.People.Profiles/main/_docs/images/youtube_social_icon_red.png">
+
+[SSW.People YouTube Channel](https://www.youtube.com/channel/UCrr5pDDM5Fnvgk4fCXfsX-A)
