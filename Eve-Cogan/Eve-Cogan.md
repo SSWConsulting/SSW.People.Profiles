@@ -1,19 +1,18 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "05daa2a9-8768-446e-b9d3-580c8a6f9b8b"
 
-category: "Developers"
-role: "Sample Profile"
-qualifications: ""
+category: "Admin"
+role: "Multimedia Assistant"
+qualifications: "UTS Bachelor of Communication (Media Arts and Production) Bachelor of Creative Intelligence and Innovation"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "The most precious gift we can offer anyone or anything is our attention."
+quoteAuthor: "Thich Nhat Hanh"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Mr Bob Northwind is the owner of Northwind Traders Limited. 
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
+Eve Cogan is a university student and part-time employee at SSW.
+She helps with all things media and writing-related, as well as admin work.
 
 [Design Guidelines](https://www.ssw.com.au/ssw/logo/ssw/)
 
