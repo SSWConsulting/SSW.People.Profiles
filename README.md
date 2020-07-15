@@ -1,3 +1,5 @@
+<img src="https://github.com/SSWConsulting/SSW.People.Profiles/raw/main/_wiki/images/ssw-banner.png">
+
 # People
 
 Welcome to People.SSW !
@@ -15,6 +17,8 @@ Sample Profile: https://www.ssw.com.au/people/sample
 Example: https://www.northwind365.com/people
 
 Instructions: https://github.com/SSWConsulting/SSW.People/wiki/Customizing,-Re-branding-and-Deploying-SSW.People
+
+[Next Step: Wiki >](https://github.com/SSWConsulting/SSW.People.Profiles/wiki)
 
 ---
 <img align="left" width="32" height="22" src="https://raw.githubusercontent.com/SSWConsulting/SSW.People.Profiles/main/_docs/images/youtube_social_icon_red.png">
