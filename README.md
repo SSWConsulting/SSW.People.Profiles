@@ -1,4 +1,4 @@
-<img src="https://github.com/SSWConsulting/SSW.People.Profiles/raw/main/_wiki/images/ssw-banner.png">
+<img src="https://raw.githubusercontent.com/SSWConsulting/SSW.People.Profiles/main/_docs/images/ssw-banner.png">
 
 # People
 
