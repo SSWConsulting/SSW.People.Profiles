@@ -16,7 +16,7 @@ Tiago is a creative individual who enjoys a challenge. He has 10+ years experien
 * Specialized in Web UI Design; including websites, apps, blog templates, banner ads and social media assets
 * User Experience; including research, testing and prototyping
 * Graphic Design; including visual identity and marketing materials
-* Semantic HTML, CSS, and JavaScript/JS frameworks – focused on accessible, reusable and clean code. He has
+* Semantic HTML, CSS, Markdown, and JavaScript/JS frameworks – focused on accessible, reusable and clean code. He has
 developed responsive websites and apps; ranging from concept, layout, mark-up, implementation, testing
 and maintenance
 * Photography; including production, editing, manipulation, and optimization
