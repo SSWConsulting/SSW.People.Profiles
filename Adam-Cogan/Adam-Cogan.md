@@ -41,18 +41,17 @@ At SSW, Adam enjoys working with the teams, improving their usage of Scrum and T
 
 Some of Adam's project highlights have been:
 
-- Adam lead the SSW-Telerik Event Cinema website redesign using Scrum
-- Being lead developer on Australia's first live ASP.NET site - using a version that was pre Beta 1.
-- Developing the SQL Reporting Services and Exchange Server samples for Microsoft that turned into a hugely popular Exchange Reporting Tool. Giving the first BI solutions on Exchange Server Data.
-- Being the Chief Architect on the SharePoint site for Worley Parsons which was the largest public facing site at the time (it used the built in Web Content Management features, proving the SharePoint Platform for all companies).
-- Being the Product Owner for SSW's SharePoint implementation.
-- Being the TFS MVP of the year, proving his leadership in demonstrating the value of the ALM tools.
-- His dual role as mentor and "Bob the Product Owner" at the first ever FireBootCamp
+- Leading the SSW-Telerik Event Cinema website redesign using Scrum
+- Being lead developer on Australia's first live ASP.NET site - using a version that was pre Beta 1
+- Developing the SQL Reporting Services and Exchange Server samples for Microsoft that turned into a hugely popular Exchange Reporting Tool. Giving the first BI solutions on Exchange Server Data
+- Being the Chief Architect on the SharePoint site for Worley Parsons which was the largest public facing site at the time (it used the built in Web Content Management features, proving the SharePoint Platform for all companies)
+- Being the Product Owner for SSW's SharePoint implementation
+- Being the TFS MVP of the year, proving his leadership in demonstrating the value of the ALM tools
+- Having a dual role as "mentor" and "Bob the Product Owner" at the first ever FireBootCamp
 
 In addition Adam is a regular speaker at the SSW User Group and conferences, including:
 
-- Adam has spoken at NDC Olso and NDC Sydney and was the #2 speaker of the conference (after Troy Hunt)
-
+- NDC Olso and NDC Sydney as the #2 speaker of the conference (after Troy Hunt)
 - Microsoft Tech Ed in USA (including a highly rated joint session with Billy Hollis), Malaysia, New Zealand and Australia (recently ranked in top 4 of 90 speakers in NZ)
 - Microsoft Roadshows
 - SSW's BrainQuest: TFS and SharePoint
