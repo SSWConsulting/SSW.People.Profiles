@@ -8,8 +8,8 @@ qualifications:  "Bachelor of Computer Science"
 quote:  "The difference between a pebble and a mountain lies in whom you ask to move it."
 ---
 
-Shane is a software architect with extensive background working with web application development.   
+Shane is a Senior Software Architect with an extensive background working with web application development, especially React and Angular.
 
-He is passionate about the technologies he works with on a daily basis, knowledgeable of all the development cycle stages and has a good command of coding languages. Has much experience in teamwork and excellent problem-solving skills.  
+Shane is passionate about the technologies, knowledgeable of all the development cycle stages and has a good command of coding. He also follows web development trends and other latest technologies.
 
-In his spare time, Shane loves playing basketball and enjoys reading.
+Shane is always open to feedback and desires to create the best solutions to fulfill business needs.
