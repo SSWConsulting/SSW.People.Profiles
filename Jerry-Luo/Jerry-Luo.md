@@ -15,4 +15,4 @@ With 10 years working experience in software industry, Jerry is a developer, tec
 
 Jerry has worked for several different types of IT companies. He has experience in many challenging projects like **Knowledge Sharing**, **IM**, **Logistics Supply Chain**. Jerry likes learning new technologies and helping business to succesfully achieve their goals through tech.  
 
-In addition, Jerry has the experience of leading teams with more than 10 developers teams along with very complex requirements.  
+In addition, Jerry has the experience of leading teams with more than 10 developers teams along with very complex requirements. He has also been worked in Australia and Netherland during his professional career.   
