@@ -8,9 +8,9 @@ qualifications: "Master of Information Technology (Software Development)"
 quote: "Failing is how you learn best. To not to try would be your greatest fall."
 ---
 
----
-
 <br/>
+
+## Technologies
 
 [[imgBadge]]
 | ![Angular Icon](../badges/Developer-angular.png)
@@ -26,6 +26,25 @@ quote: "Failing is how you learn best. To not to try would be your greatest fall
 
 [[imgBadge]]
 | ![Vue.Js Icon](../badges/Developer-vuejs.png)
+
+[[imgBadge]]
+| ![CSS3 Icon](../badges/Designer-web-css3.png)
+
+[[imgBadge]]
+| ![HTML5 Icon](../badges/Designer-web-html5.png)
+
+[[imgBadge]]
+| ![Adobe Photoshop Icon](../badges/Designer-adobe-photoshop.png)
+
+<br/>
+
+## Events
+
+[[imgBadge]]
+| ![Angular Hackday Icon](../badges/Event-hackday-angular.png)
+
+[[imgBadge]]
+| ![dotNet UserGroup Melbourne Icon](../badges/Event-ug-melbourne.png)
 
 <br/>
 
