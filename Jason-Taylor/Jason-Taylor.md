@@ -27,6 +27,12 @@ quoteAuthor: "Einstein"
 [[imgBadge]]
 | ![vue.png](../badges/Developer-Vue.png)
 
+[[imgBadge]]
+| [![Angular Hack Day](../badges/Event-hackday-angular.png)](https://angularhackday.com/)
+
+[[imgBadge]]
+| [![Speaker at DDD Brisbane 2019](../badges/Event-DDD-Brisbane.png)](https://dddbrisbane.com)
+
 ---
 
 Jason Taylor is a passionate developer, architect, trainer and mentor with 20 years of professional experience. He has worked with .NET since 2001, and currently specializes in developing enterprise applications utilizing .NET Core, ASP.NET Core, EF Core, Angular, Vue, and Azure. Jason is an expert on Clean Architecture with .NET Core, and has one of the most sought after GitHub repos containing an awesome template for using Clean Architecture. Jason loves a challenge and is skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
