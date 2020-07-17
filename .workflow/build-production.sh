@@ -4,7 +4,7 @@ github_repo_name=SSW.People
 azdo_org_name=https://ssw.visualstudio.com
 azdo_project_name=ssw.people
 azdo_pipeline_name=Production
-azdo_pipeline_name_cn="Production China"
+azdo_pipeline_name_cn='Production China'
 
 # exit when any command fails
 set -e
@@ -20,6 +20,6 @@ echo Latest release branch: ${branch_name}
 
 echo triggering AzDO build
 az pipelines build queue --org $azdo_org_name --project $azdo_project_name --definition-name $azdo_pipeline_name --branch $branch_name
-az pipelines build queue --org $azdo_org_name --project $azdo_project_name --definition-name $azdo_pipeline_name_cn --branch $branch_name
+az pipelines build queue --org $azdo_org_name --project $azdo_project_name --definition-name "$azdo_pipeline_name_cn" --branch $branch_name
 
 echo done
