@@ -42,17 +42,17 @@ At SSW, Adam enjoys working with the teams, improving their usage of Scrum and T
 Some of Adam's project highlights have been:
 
 - Leading the SSW-Telerik Event Cinema website redesign using Scrum
-- Being lead developer on Australia's first live ASP.NET site - using a version that was pre Beta 1
+- Being the lead developer on Australia's first live ASP.NET site - using a version that was pre Beta 1
 - Developing the SQL Reporting Services and Exchange Server samples for Microsoft that turned into a hugely popular Exchange Reporting Tool. Giving the first BI solutions on Exchange Server Data
-- Being the Chief Architect on the SharePoint site for Worley Parsons which was the largest public facing site at the time (it used the built in Web Content Management features, proving the SharePoint Platform for all companies)
+- Being the Chief Architect on the SharePoint site for Worley Parsons which was the largest public-facing site at the time (it used the built-in Web Content Management features, proving the SharePoint Platform for all companies)
 - Being the Product Owner for SSW's SharePoint implementation
 - Being the TFS MVP of the year, proving his leadership in demonstrating the value of the ALM tools
-- Having a dual role as "mentor" and "Bob the Product Owner" at the first ever FireBootCamp
+- Having a dual role as "mentor" and "Bob the Product Owner" at the first-ever FireBootCamp
 
-In addition Adam is a regular speaker at the SSW User Group and conferences, including:
+In addition, Adam is a regular speaker at the SSW User Group and conferences, including:
 
 - NDC Olso and NDC Sydney as the #2 speaker of the conference (after Troy Hunt)
-- Microsoft Tech Ed in USA (including a highly rated joint session with Billy Hollis), Malaysia, New Zealand and Australia (recently ranked in top 4 of 90 speakers in NZ)
+- Microsoft Tech Ed in the USA (including a highly rated joint session with Billy Hollis), Malaysia, New Zealand and Australia (recently ranked in top 4 of 90 speakers in NZ)
 - Microsoft Roadshows
 - SSW's BrainQuest: TFS and SharePoint
 - Dev Days Australia wide
@@ -62,13 +62,13 @@ In addition Adam is a regular speaker at the SSW User Group and conferences, inc
 - SQL Code Camp Australia and New Zealand
 - Lecturer at University of Technology, Sydney
 
-Adam is also the president of the Microsoft .NET User Groups in Sydney and Canberra, and is also the chair of the Speaker Bureau of the APAC INETA organization.
+Adam is also the president of the Microsoft .NET User Groups in Sydney and Canberra and is also the chair of the Speaker Bureau of the APAC INETA organization.
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/0gSgpzmbrBM" frameborder="0"></iframe> 
 
 ### Made in Australia, China and beyond
 
-In 2005 Adam took SSW beyond Australia and opened an SSW branch in China. There are now also SSW branches in 3 locations within Australia – Brisbane, Melbourne and the Sydney headquarters - as well as a satellite branch in Europe. Today all SSW developers work closely together to develop high quality software with high performing teams for the US, Australian and international markets.
+In 2005 Adam took SSW beyond Australia and opened an SSW branch in China. There are now also SSW branches in 3 locations within Australia – Brisbane, Melbourne and the Sydney headquarters - as well as a satellite branch in Europe. Today all SSW developers work closely together to develop high-quality software with high performing teams for the US, Australian and international markets.
 
 Adam loves to spend time working on his Rules pages, and his favourite quote is "There is always free cheese in a mousetrap".
 
