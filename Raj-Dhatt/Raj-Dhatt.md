@@ -14,6 +14,6 @@ As a member of the SSW TV team, Raj, UK born and currently living in Australia,
 Key Skills:  
 
 *   Post Production, including colour grading  
-*   Cinimetography (filming and lighting)
+*   Cinematography (filming and lighting)
 *   Photography
 *   Live streaming events with multi-cam systems
