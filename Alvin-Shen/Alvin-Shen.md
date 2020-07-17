@@ -18,3 +18,5 @@ Alvin has been working in the development realm for more than 13 years, both in
 Because of his business experience both in China and in Australia, he understands the differences between the way the East and the West do business and can bridge the two to ensure symbiotic communication and satisfactory outcomes for all sides. Alvin could provide valuable insights into the trends, desires, and realities of the Chinese market, and the challenges faced by companies both in and outside of China who wish to do business together.   
 
 His primary areas of expertise cover Chinafy, Scrum and agile development and cloud technologies, especially Microsoft Azure, and the leading Chinese cloud, Alibaba cloud, and he continues to remain abreast of the latest developments in .NET.  
+
+He also runs a famous technical user group (Fire User Group) in China for many years. He is very passionate about organizing it, investing resources to expand its influence, and working very hard to give back to the local technology community as well.
