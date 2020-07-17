@@ -13,7 +13,7 @@ quoteAuthor: "Nick"
 
 Nick is the resident accountant at SSW Australia. Boasting 7 years of accounting experience already in his short career and a fully qualified Chartered Accountant, he strongly represents the changes that is affecting the accounting industry in an optimistic and forward thinking manner. 
 
-With varying experience between accounting firms and private businesses, Nick aims to continue to provide his expertise across all accounting areas, especially with small businesses and Xero. Nick's experiences goes into far reaching sectors, including those of established businesses and that of start-ups, especially research and development projects.
+With varying experience between accounting firms and private businesses, Nick aims to continue to provide his innovative expertise across all accounting areas, especially with small businesses and Xero. Nick's experiences goes into far reaching sectors, including those of established businesses and that of start-ups, especially research and development projects.
 
 With a bright and optimistic career ahead, Nick aims to align the goals of SSW with the technological and software changes affecting the accounting industry and that of all businesses and their accountancy.
 
