@@ -26,3 +26,4 @@ Some of Anthony's recent career highlights:
 *   Leading a team of up to 15 developers transforming a legacy client-server business guidance application into a cloud based solution. 
 *   Leading delivery of an in-house developed web-based ERP system of a 500 seats contact center.
 *   Developed custom integrations for CRM, VOIP Recording, IVR and  IP PBX system
+*   Has advised many Fintech companies on thier applications and continues to be a highly respected consultant
