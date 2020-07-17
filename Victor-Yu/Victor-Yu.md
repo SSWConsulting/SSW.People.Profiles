@@ -5,7 +5,7 @@ category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Electrical Engineering"
 
-quote:  "Focus on evrything"
+quote:  "Focus on everything"
 ---
 
 [[imgBadge]]
