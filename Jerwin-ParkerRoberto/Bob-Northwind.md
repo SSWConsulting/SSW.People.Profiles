@@ -1,9 +1,9 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "05daa2a9-8768-446e-b9d3-580c8a6f9b8b"
 
-category: "Developers"
-role: "Sample Profile"
-qualifications: ""
+category: "Manager"
+role: "Marketing and Social Networking Manager"
+qualifications: "Bachelor of Business (Marketing/Management), Bachelor of Creative Intelligence and Innovation, Bachelor of Entrepreneurship (Honours)"
 
 quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
 quoteAuthor: "Anonymous"
