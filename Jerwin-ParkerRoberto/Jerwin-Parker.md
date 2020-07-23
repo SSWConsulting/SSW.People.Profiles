@@ -35,8 +35,6 @@ Email Marketing (MailChimp and SendGrid)
 Data Analysis.
 Growth Marketing 
 
-This rich background makes her a creative and resourceful member of the team.
-
 [Design Guidelines](https://www.ssw.com.au/ssw/logo/ssw/)
 
 &nbsp;
