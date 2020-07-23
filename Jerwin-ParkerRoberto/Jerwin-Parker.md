@@ -1,7 +1,7 @@
 ---
 id: "05daa2a9-8768-446e-b9d3-580c8a6f9b8b"
 
-category: "Manager"
+category: "Admin"
 role: "Marketing and Social Networking Manager"
 qualifications: "Bachelor of Business (Marketing/Management), Bachelor of Creative Intelligence and Innovation, Bachelor of Entrepreneurship (Honours)"
 
