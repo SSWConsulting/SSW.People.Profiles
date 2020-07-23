@@ -33,7 +33,7 @@ Content Marketing & Strategy
 Marketing Automation.
 Email Marketing (MailChimp and SendGrid)
 Data Analysis.
-Growth Marketing 
+Growth Marketing. 
 
 [Design Guidelines](https://www.ssw.com.au/ssw/logo/ssw/)
 
