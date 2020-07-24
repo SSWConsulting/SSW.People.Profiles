@@ -5,7 +5,7 @@ category: "Admin"
 role: "Marketing and Social Networking Manager"
 qualifications: "Bachelor of Business (Marketing/Management), Bachelor of Creative Intelligence and Innovation, Bachelor of Entrepreneurship (Honours)"
 
-quote: ""As you think, so shall you become.""
+quote: "As you think, so shall you become."
 quoteAuthor: "Bruce Lee"
 ---
 
