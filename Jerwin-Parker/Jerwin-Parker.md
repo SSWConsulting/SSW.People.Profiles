@@ -5,8 +5,8 @@ category: "Admin"
 role: "Marketing and Social Networking Manager"
 qualifications: "Bachelor of Business (Marketing/Management), Bachelor of Creative Intelligence and Innovation, Bachelor of Entrepreneurship (Honours)"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: ""As you think, so shall you become.""
+quoteAuthor: "Bruce Lee"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
@@ -22,15 +22,15 @@ From working as an Evangelist at the Microsoft ANZ (Consumer Device and Sales) t
 Jerwin has now joined the SSW team to help drive the marketing generation and support; to let people know of the awesome projects that SSW is working on, help support and learn from the SSW TV team and help promote the latest technologies from SSW's leading developers. 
 
 Jerwin's specialities are:
-Public Speaking
-Event Marketing
-Design thinking
-Lead Generation
-SEO - Google Rankings
-SEM - Paid Advertising
-Social Media (Facebook, Instagram, Youtube, Twitter and LinkedIn)
-Content Marketing & Strategy
-Marketing Automation.
-Email Marketing (MailChimp and SendGrid)
-Data Analysis.
-Growth Marketing. 
+* Public Speaking
+* Event Marketing
+* Design thinking
+* Lead Generation
+* SEO - Google Rankings
+* SEM - Paid Advertising
+* Social Media (Facebook, Instagram, Youtube, Twitter and LinkedIn)
+* Content Marketing & Strategy
+* Marketing Automation.
+* Email Marketing (MailChimp and SendGrid)
+* Data Analysis.
+* Growth Marketing. 
