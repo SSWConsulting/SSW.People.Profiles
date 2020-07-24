@@ -11,7 +11,7 @@ quoteAuthor: "Bruce Lee"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Jerwin is the champion of SSW Digital and can be described as Jack of All Trades - Master of None. He brings with him an extensive background in Marketing, Design thinking and Innovation, as well as a passion for Fitness and Technology. Jerwin completed and was one of the first ever to complete a triple degree in less than 5 years, obtaining the Bachelor of Business (Marketing/Management), Bachelor of Creative Intelligence and Innovation, and Bachelor of Entrepreneurship (Honours). 
+Jerwin is the champion of SSW Digital. He brings with him an extensive background in Marketing, design thinking and innovation, as well as a passion for Fitness and Technology. Jerwin completed and was one of the first ever to complete a triple degree in less than 5 years, obtaining the Bachelor of Business (Marketing/Management), Bachelor of Creative Intelligence and Innovation, and Bachelor of Entrepreneurship (Honours). 
 
 Jerwin finished within the top 10 of his Marketing capstone cohort, Creative Intelligence and Innovation cohort and Entrepreneurship (Honours) cohort.  With a strong sense in public speaking, Jerwin has presented numerous projects to several crowds, being selected to present to Dyson Australia in implementing an Innovative Marketing campaign, speaking to 1500 Global Youth delegates at the University Scholars Leadership Symposium, and much more. 
 
