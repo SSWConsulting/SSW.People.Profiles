@@ -9,6 +9,24 @@ quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace th
 ---
 
 [[imgBadge]]
+| ![azure-logo.png](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![azure-function-logo.png](../badges/Developer-azure-function.png)
+
+[[imgBadge]]
+| ![.NET Core](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![angular-logo.png](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![blazor-logo.png](../badges/Developer-blazor.png)
+
+[[imgBadge]]
+| [![Angular Hack Day](../badges/Event-hackday-angular.png)](https://angularhackday.com/)
+
+[[imgBadge]]
 | ![CSM Certified](../badges/Certification-scrumalliance-master.png)
 
 [[imgBanner]]
