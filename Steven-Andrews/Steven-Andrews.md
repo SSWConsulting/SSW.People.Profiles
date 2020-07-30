@@ -14,7 +14,7 @@ Steven has been working in the IT industry for 10+ years. He has experience with
 
 Steven moved into the System Administration space 3+ years ago to get a better understanding of the end to end communication required between servers and applications, this has given him a wholistic overview for design considerations when implementing new infrastructure.   
 
-An outgoing, self motivated person who is currently working towards improving his programming skills to assist in automating Networking and System Administration processes.   
+An outgoing, self motivated person who is currently working towards improving his programming skills to assist in automating Networking and SysAdmin processes.    
 
 Currently Certified with:
 
