@@ -30,7 +30,7 @@ quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace th
 | ![CSM Certified](../badges/Certification-scrumalliance-master.png)
 
 [[imgBanner]]
-| ![devops](../badges/Business-microsoft-azure-devops-banner.png)
+| ![devops](../badges/Business-microsoft-azure-devops.png)
 
 Matt is an SSW Solution Architect, Certified Scrum Master and one of four Microsoft certified DevOps fast track partner consultants in Australia.  
 He has been developing solutions using the full Microsoft stack since .NET 2 was in beta.
