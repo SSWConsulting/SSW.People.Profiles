@@ -44,7 +44,7 @@ quote:  "Make a plan! Make it happen!"
 [[imgBadge]]
 | [![Speaker at DDD Brisbane 2019](../badges/Event-DDD-Brisbane.png)](https://dddbrisbane.com)
 
-[[imgBanner]]
+[[imgBadge]]
 | ![Azure DevOps](../badges/Business-microsoft-azure-devops.png)
 
 ---
