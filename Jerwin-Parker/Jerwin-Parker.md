@@ -11,7 +11,7 @@ quoteAuthor: "Bruce Lee"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Jerwin is the champion of SSW Digital. He brings with him an extensive background in marketing, design thinking and innovation, with as a passion for Fitness, Wellness and Technology. Jerwind was one of the first ever to complete a triple degree (Business, Creative Intelligence Innovation, and Entrepreneurship (Honours) in less than 5 years.
+Jerwin is the champion of SSW Digital. He brings with him an extensive background in marketing, design thinking and innovation, with as a passion for Fitness, Wellness and Technology. Jerwin was one of the first ever to complete a triple degree (Business, Creative Intelligence Innovation, and Entrepreneurship (Honours) in less than 5 years.
 
 But his feats are not just his ability to obtain his triple degree - on top of his studies, he's worked for an array of organisations building upon his skills in marketing, leadership, innovation and strategy. These organisations include the likes of Microsoft, Aurecon, UTS: Innovation and Entepreneurship Unit, and more. 
 
