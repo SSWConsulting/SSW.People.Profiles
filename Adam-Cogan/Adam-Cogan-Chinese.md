@@ -3,7 +3,7 @@ id: "7e785899-f459-dd11-b3a3-00155d012206"
 
 category: "Managers"
 role: "首席架构师, 微软区域总监"
-qualifications: "Trainer, B Bus, JP, MCP, Microsoft MVP (ALM)"
+qualifications: "培训师, 太平绅士, MCP, 微软 MVP (ALM)"
 
 quote: "天才可以解决棘手的错误，但团队合作和智慧才能创造伟大的软件 "
 ---
@@ -73,13 +73,13 @@ Adam同时也是悉尼、堪培拉的微软.Net技术用户组主席，亚太地
 Adam热衷于他的Rules页面，他最喜欢的名言是 “捕鼠器里总有免费的奶酪” 。
 
 [[imgMd]]
-| ![Well all rules are meant to be broken :-)](./Images/Bio/figureMouse.jpg)
+| ![所有的规则都是用来打破的 :-)](./Images/Bio/figureMouse.jpg)
 
 [[imgMd]]
-| ![Adam h as spoken at user groups/conferences in these countries](./Images/Bio/figureMap.jpg)
+| ![标红的国家/地区都是Adam曾经做过演讲的地方](./Images/Bio/figureMap.jpg)
 
 [[imgMd]]
-| ![Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!](./Images/Bio/figureIce.jpg)
+| ![冬季的每个周日都是Adam的邦迪海滩狂欢日，风雨无阻!](./Images/Bio/figureIce.jpg)
 
 ### 关于Adam的演讲，他们说…
 
