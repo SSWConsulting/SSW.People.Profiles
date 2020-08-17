@@ -1,0 +1,39 @@
+# This is a Workflow to update the configuration file for the auto-assign.yml workflow
+name: Update-Auto-Assign-Config
+
+# Controls when the action will run. Triggers the workflow on a POST Request
+on: 
+  repository_dispatch:
+    types: [update-auto-assign-config]
+        
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+ 
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+
+    # Update the config
+    - name: Update the config
+      run: |
+        git config --global user.email "ChristianMWaite@ssw.com.au"
+        git config --global user.name "Christian Morford-Waite"
+            
+    - name: Download the updated configuration file
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: ${{ secrets.SSW_ASSIGN_BY_FILES_URL }}
+        file-name: "assign-by-files.yml"
+        location: "./.github"
+              
+    - name: Commit to the main branch
+      run: |
+        git add .github/assign-by-files.yml
+        git commit -m "Updated Auto add PR reviewer config"
+        git push --set-upstream origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

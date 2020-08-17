@@ -1,0 +1,13 @@
+# When an Employee profile is modified the Employee will be added automatically to the PR as a reviewer.
+name: "Auto Assign PR"
+on:
+  - pull_request
+
+jobs:
+  assign_reviewer:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: shufo/auto-assign-reviewer-by-files@ab8886e
+      with:
+        config: '.github/assign-by-files.yml'
+        token: ${{ secrets.GITHUB_TOKEN }}
