@@ -15,7 +15,7 @@ jobs:
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "${{ secrets.ADO_ORGANIZATION }}"
           ado_project: "${{ secrets.ADO_PROJECT }}"
-          ado_wit: "GitHub Issue"
+          ado_wit: "Product Backlog Item"
           ado_new_state: "New"
           ado_close_state: "Closed"
           ado_bypassrules: true
