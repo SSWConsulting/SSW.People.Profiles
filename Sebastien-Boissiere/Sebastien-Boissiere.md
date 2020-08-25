@@ -5,7 +5,7 @@ category: "Developers"
 role:  "Software Architect"
 qualifications:  ""
 
-quote:  "First, solve the problem. Then, write the code."
+quote:  "First, solve the problem. Then, write the code. "
 quoteAuthor: "John Johnson"
 ---
 
