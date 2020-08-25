@@ -22,6 +22,7 @@ jobs:
       run: |
         git config --global user.email "ChristianMWaite@ssw.com.au"
         git config --global user.name "Christian Morford-Waite"
+        git checkout -b update-assign-by-files-config
             
     - name: Download the updated configuration file
       uses: carlosperate/download-file-action@v1.0.3
@@ -30,10 +31,11 @@ jobs:
         file-name: "assign-by-files.yml"
         location: "./.github"
               
-    - name: Commit to the main branch
+    - name: Create the Pull Request
       run: |
         git add .github/assign-by-files.yml
         git commit -m "Updated Auto add PR reviewer config"
-        git push --set-upstream origin main
+        git push --set-upstream origin update-assign-by-files-config
+        hub pull-request --no-edit
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
