@@ -5,8 +5,8 @@ on:
     - main
     paths-ignore:
     - '.github/assign-by-files.yml'
-  schedule:
-    - cron: '0 14 * * *' # UTC so should be 0000/0100 for Sydney
+  #schedule:
+  #  - cron: '0 14 * * *' # UTC so should be 0000/0100 for Sydney
 
 jobs:
   build:
