@@ -12,14 +12,15 @@ quote:  "I believe that there are always more than one point of view and I liste
 
 **Background** 
 
-John Liu is a Solution Architect at SSW, a Microsoft Certified Partner specialising in .NET and SharePoint solutions. 
+John Liu was a Solution Architect for nearly a decade from 2001 to 2011 at SSW, a Microsoft Certified Partner specialising in .NET and SharePoint solutions. 
+
+John continues to blog on https://johnliu.net   
 
 John is responsible for developing and maintaining SharePoint, ASP.NET and Silverlight applications using C# and SQL Server. 
 
-**![](./Images/Bio/MCTS-MOSS2007-Config.gif) 
-  
+![](./Images/Bio/MCTS-MOSS2007-Config.gif) 
 
- Work**
+**Work**
 
 His major clients over the past years have been:
 
@@ -37,7 +38,7 @@ His major clients over the past years have been:
 *   Scolari ClubsInc (C# windows application with Access) 
 *   Project manager and lead developer on SSW's internal and public SharePoint development - SSW Rules 
 
-**Future **
+**Future**
 
 *   Show the world the best content-driven SharePoint site - SSW Rules 
 *   Share the best tips on SharePoint with the world - via our [rules to better SharePoint](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/Pages/Default.aspx "Rules to Better SharePoint") 
