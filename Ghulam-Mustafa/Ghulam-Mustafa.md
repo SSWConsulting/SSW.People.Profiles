@@ -3,7 +3,7 @@ id: "GhulamMustafa"
 name: "Ghulam Mustafa"
 
 category: "Developers"
-jobtitle:  "Software Architect"
+jobTitle:  "Software Architect"
 qualifications:  "Master of Science in Computer Science and Technology "
 
 quote:  ""

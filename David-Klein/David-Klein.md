@@ -3,7 +3,7 @@ id: "DavidKlein"
 name: "David Klein"
 
 category: "Developers"
-jobtitle:  "Senior Software Architect"
+jobTitle:  "Senior Software Architect"
 qualifications:  "B Com (Information Systems\\HRM with Merit), MCP, MCDBA"
 
 quote:  ""

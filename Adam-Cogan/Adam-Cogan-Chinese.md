@@ -2,7 +2,7 @@
 id: "7e785899-f459-dd11-b3a3-00155d012206"
 
 category: "Managers"
-jobtitle: "首席架构师, 微软区域总监"
+jobTitle: "首席架构师, 微软区域总监"
 qualifications: "培训师, 太平绅士, MCP, 微软 MVP (ALM)"
 
 quote: "天才可以解决棘手的错误，但团队合作和智慧才能创造伟大的软件 "

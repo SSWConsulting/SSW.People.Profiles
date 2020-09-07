@@ -3,7 +3,7 @@ id: "KusalWijewantha"
 name: "Kusal Wijewantha"
 
 category: "Developers"
-jobtitle:  "Senior Software Developer "
+jobTitle:  "Senior Software Developer "
 qualifications:  "Bachelor of IT, Diploma in IT (Software Development) "
 
 quote:  ""

@@ -3,7 +3,7 @@ id: "PeterAhn"
 name: "Peter Ahn"
 
 category: "Developers"
-jobtitle:  "Software Architect"
+jobTitle:  "Software Architect"
 qualifications:  "Dip IT, MCP"
 
 quote:  ""

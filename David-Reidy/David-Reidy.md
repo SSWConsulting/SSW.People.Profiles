@@ -3,7 +3,7 @@ id: "DavidReidy"
 name: "David Reidy"
 
 category: "Developers"
-jobtitle:  "Senior Database Architect"
+jobTitle:  "Senior Database Architect"
 qualifications:  "B.Sc.(Hons); Dip.Ed; MCP "
 
 quote:  ""

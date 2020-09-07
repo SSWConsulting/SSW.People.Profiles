@@ -3,7 +3,7 @@ id: "TimFletcher"
 name: "Tim Fletcher"
 
 category: "Managers"
-jobtitle:  "Project Manager"
+jobTitle:  "Project Manager"
 qualifications:  "BSc (Pure Math)"
 
 quote:  ""

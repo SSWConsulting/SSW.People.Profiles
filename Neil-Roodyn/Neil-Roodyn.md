@@ -3,7 +3,7 @@ id: "NeilRoodyn"
 name: "Neil Roodyn"
 
 category: "Managers"
-jobtitle:  "Associate and Trainer"
+jobTitle:  "Associate and Trainer"
 qualifications:  "PhD"
 
 quote:  ""

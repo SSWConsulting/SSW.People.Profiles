@@ -4,7 +4,7 @@ name: "We are hiring"
 
 alternativeUrl: "https://www.ssw.com.au/ssw/Employment/default.aspx"
 category: "Developers"
-jobtitle:  "enthusiastic People"
+jobTitle:  "enthusiastic People"
 qualifications:  ""
 
 quote:  ""

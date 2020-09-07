@@ -3,7 +3,7 @@ id: "DavidCai"
 name: "David Cai"
 
 category: "Developers"
-jobtitle:  "Senior Database Developer"
+jobTitle:  "Senior Database Developer"
 qualifications:  "M Sc MCP "
 
 quote:  ""

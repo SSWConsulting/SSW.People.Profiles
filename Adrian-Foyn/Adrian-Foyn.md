@@ -3,7 +3,7 @@ id: "AdrianFoyn"
 name: "Adrian Foyn"
 
 category: "Developers"
-jobtitle:  "Senior Software Developer"
+jobTitle:  "Senior Software Developer"
 qualifications:  "Nat Dip Information Technology, MCP VB.NET"
 
 quote:  ""
