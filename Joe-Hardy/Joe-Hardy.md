@@ -1,8 +1,6 @@
 ---
 id: "66229cee-f459-dd11-b3a3-00155d012206"
 
-category: "Developers"
-role:  "Solution Architect"
 qualifications:  ""
 
 quote:  "I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord (Philippians 3:8)"

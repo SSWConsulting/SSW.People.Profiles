@@ -1,8 +1,6 @@
 ---
 id: "92229cee-f459-dd11-b3a3-00155d012206"
 
-category: "Developers"
-role:  "Senior Software Developer"
 qualifications:  "B.Eng - Computer Science"
 
 quote:  "I believe every work which seems impossible will become noble if you have passion and faith. "

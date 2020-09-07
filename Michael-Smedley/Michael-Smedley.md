@@ -1,8 +1,6 @@
 ---
 id: "b71a58fa-dc57-e811-8102-00155d012c01"
 
-category: "Managers"
-role: "Victorian State Manager"
 qualifications: "Certified Scrum Master"
 
 quote: "Great spirits have always encountered violent opposition from mediocre minds."

@@ -1,15 +1,10 @@
 ---
 id: "7af9b2ef-4138-e211-a564-00783af55a15"
 
-category: "Developers"
-role:  "Senior Consultant"
 qualifications:  "MCP"
 
 quote:  "TFS + .NET"
 ---
-
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/WilsonBo) 
-  
 
 ** Background**:
 

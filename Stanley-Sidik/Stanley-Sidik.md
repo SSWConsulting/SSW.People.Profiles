@@ -1,15 +1,10 @@
 ---
 id: "e21e6cdc-5844-e411-877f-00783af55a15"
 
-category: "Developers"
-role:  "System Administrator"
 qualifications:  "Bachelor of Information Systems"
 
 quote:  "Have you switched it off and on again?"
 ---
-
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/StanleySidik) 
-  
 
 Stanley is an IT professional with over ten years industry experience, a graduate of Macquarie University in B. Information Systems. His field of expertise is design, implementation and management of IT Infrastructure and network. A strong believer of continuous IT improvement to remain aligned with business objectives, through new technology and business process re-engineering. 
 

@@ -1,8 +1,6 @@
 ---
 id: "c45e684f-09a2-ea11-a812-000d3a799c9d"
 
-category: "Developers"
-role: "Solution Architect"
 qualifications: "B.E (Software Engineering), CRISC, CISM"
 
 quote: "Programming is definitely not therapeutic however it can definitely be creative."

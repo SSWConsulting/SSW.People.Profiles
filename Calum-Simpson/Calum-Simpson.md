@@ -1,8 +1,6 @@
 ---
 id: "6e4242c5-6414-e911-81cd-00155d012c51"
 
-category: "Developers"
-role:  "Senior Software Architect"
 qualifications:  "BBA, BIT"
 
 quote:  "Developers developers developers!"

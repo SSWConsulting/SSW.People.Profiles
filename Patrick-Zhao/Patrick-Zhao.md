@@ -1,8 +1,6 @@
 ---
 id: "802a63dc-3480-e911-823b-00155d01ef64"
 
-category: "Developers"
-role:  "Senior Software Architect"
 qualifications:  "Master of Engineering - Software (University of Melbourne)"
 
 quote:  "There is always a solution to every problem."

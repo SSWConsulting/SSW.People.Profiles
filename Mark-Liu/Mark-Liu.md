@@ -1,15 +1,10 @@
 ---
 id: "b06a67e8-f459-dd11-b3a3-00155d012206"
 
-category: "Developers"
-role:  "Solution Architect"
 qualifications:  "B.C.S.T - Computer Science and Technology "
 
 quote:  "Excellence is not a skill, it's an attitude."
 ---
-
- [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/MarkLiu) 
-  
 
 ##  
 [[imgBadge]]

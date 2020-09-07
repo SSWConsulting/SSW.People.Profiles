@@ -3,7 +3,7 @@ id: "GeoffOrr"
 name: "Geoff Orr"
 
 category: "Developers"
-role:  "Senior Software Architect"
+jobtitle:  "Senior Software Architect"
 qualifications:  "B App Sc (Computer Science), MCAD"
 
 quote:  ""

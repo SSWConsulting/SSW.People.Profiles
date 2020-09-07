@@ -1,8 +1,6 @@
 ---
 id: "bef0a6b9-0add-dd11-92eb-00155d01221b"
 
-category: "Developers"
-role:  "Senior Software Developer "
 qualifications:  "Bachelor of Information Technology"
 
 quote:  "In the confrontation between the stream and the rock, the stream always wins - not through strength, but through persistence. - Budda"

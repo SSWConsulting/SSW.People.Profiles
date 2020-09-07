@@ -1,14 +1,11 @@
 ---
 id: "3f5c2414-a42f-e311-80a2-00783af55a15"
 
-category: "Developers"
-role:  "Solution Architect"
+
 qualifications:  "Bachelor of IT, MCSD: Web Applications"
 
 quote:  "​​I build web applications that are lightning fast and dressed to impress."
 ---
-
- [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/BenCull) 
  
 
  I'm a full stack web developer with extensive experience developing enterprise software in ASP.NET MVC and SQL Server.

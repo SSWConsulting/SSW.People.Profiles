@@ -1,8 +1,6 @@
 ---
 id: "ceb0a5cd-eede-e711-80f2-00155d012275"
 
-category: "Developers"
-role:  "Software Architect"
 qualifications:  "Bachelor of Engineering"
 
 quote:  "Actions speak louder than words"

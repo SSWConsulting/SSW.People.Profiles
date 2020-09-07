@@ -1,8 +1,6 @@
 ---
 id: "ae908bc5-f6d5-e611-80d4-00155d01225d"
 
-category: "Managers"
-role:  "State Manager - Queensland and International"
 qualifications:  "B Ancient History; MSc Museum Studies"
 
 quote:  "To improve is to change; to be perfect is to change often."

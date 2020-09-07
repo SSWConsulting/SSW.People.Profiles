@@ -3,7 +3,7 @@ id: "JatinValabjee"
 name: "Jatin Valabjee"
 
 category: "Developers"
-role:  "Design Production Manager"
+jobtitle:  "Design Production Manager"
 qualifications:  "B.Sc.(Comp)"
 
 quote:  ""

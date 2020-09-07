@@ -3,7 +3,7 @@ id: "GaryLam"
 name: "Gary Lam"
 
 category: "Developers"
-role:  "Senior Software Developer"
+jobtitle:  "Senior Software Developer"
 qualifications:  "B Sc (UNSW) , MCAD"
 
 quote:  ""

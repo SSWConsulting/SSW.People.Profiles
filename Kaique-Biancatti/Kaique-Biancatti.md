@@ -1,8 +1,6 @@
 ---
 id: "99176cc0-b930-e811-80fb-00155d012c01"
 
-category: "Developers"
-role:  "Systems Analyst"
 qualifications:  "Bachelor of Computer Science"
 
 quote:  "Until you're ready to look foolish, you'll never have the possibility of being great."

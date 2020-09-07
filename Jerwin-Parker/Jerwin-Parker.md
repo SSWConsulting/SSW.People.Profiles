@@ -1,8 +1,6 @@
 ---
 id: "fb730c74-a0b9-ea11-a812-000d3a799676"
 
-category: "Admin"
-role: "Marketing and Social Media Manager"
 qualifications: "UTS Bachelor of Business (Marketing/Management), Bachelor of Creative Intelligence and Innovation, Bachelor of Entrepreneurship (Honours)"
 
 quote: "As you think, so shall you become."

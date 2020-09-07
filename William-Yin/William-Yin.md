@@ -1,14 +1,10 @@
 ---
 id: "5d9f1750-0b74-dd11-a88b-00155d012206"
 
-category: "Developers"
-role: "Senior Software Architect (SharePoint)"
 qualifications: "B.Eng(software engineering), MCPD, MCTS, MCSE, MCDBA"
 
 quote: "I believe positive mental attitude leads to excellence."
 ---
-
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/WilliamYin)
   
  ![MCSE_SharePoint_Blk.png](./Images/Bio/MCSE_SharePoint_Blk.png)
 ![MCSA_Office365_Blk.png](./Images/Bio/MCSA_Office365_Blk.png)

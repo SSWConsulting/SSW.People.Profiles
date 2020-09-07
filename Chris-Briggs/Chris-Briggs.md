@@ -1,14 +1,10 @@
 ---
 id: "84568c4d-3a53-e411-a323-00783af55a15"
 
-category: "Developers"
-role:  "Senior Software Developer"
 qualifications:  "Bachelor of Information Technology"
 
 quote:  "You don't find buried treasure by sitting down."
 ---
-
- [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/ChrisBriggs) 
 
 
 Chris is a Senior Software Developer, who heads up IoT at SSW . Based in Brisbane , he's passionate about IoT, Scrum, Security, Windows Universal Apps and Xamarin. All the Devs at SSW have been asking Chris, what he thinks the Internet of Things will mean for their day to day lives? It ranges from the impossible to the improbable, from automating their coffee breaks, to telling them exactly when the next bus will arrive!

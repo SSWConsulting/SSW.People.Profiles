@@ -1,8 +1,6 @@
 ---
 id: "7e74afb4-6380-ea11-a813-000d3a79964c"
 
-category: "Admin"
-role: "Accountant"
 qualifications: "Accounting"
 
 quote: "Working together to provide solutions to problems every day"

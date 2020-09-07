@@ -1,8 +1,6 @@
 ---
 id: "e5620025-97ae-e911-8279-00155d01267c"
 
-category: "Admin"
-role:  "Office Manager and PA"
 qualifications:  "Bachelor of Science"
 
 quote:  "Point your toes!!!"

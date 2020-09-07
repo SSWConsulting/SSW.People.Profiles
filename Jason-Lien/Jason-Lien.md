@@ -3,7 +3,7 @@ id: "JasonLien"
 name: "Jason Lien"
 
 category: "Developers"
-role:  "Database Developer"
+jobtitle:  "Database Developer"
 qualifications:  "B IT"
 
 quote:  ""

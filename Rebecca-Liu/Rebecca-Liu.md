@@ -1,8 +1,6 @@
 ---
 id: "8f4438e9-01c0-dd11-8569-00155d01221b"
 
-category: "Designers"
-role:  "User Experience Expert"
 qualifications:  "Graphic Design and Communication Diploma"
 
 quote:  "I am not really a cat."

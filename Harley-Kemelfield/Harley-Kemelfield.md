@@ -1,8 +1,6 @@
 ---
 id: "30ba4c53-3f3b-ea11-9678-00155d0126af"
 
-category: "Developers"
-role:  "Work Experience"
 
 quote:  "Programming is about bringing your ideas to life. It is also a direct application of Murphy's law."
 ---

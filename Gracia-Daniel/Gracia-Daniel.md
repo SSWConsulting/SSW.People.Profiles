@@ -1,8 +1,6 @@
 ---
 id: "5a229cee-f459-dd11-b3a3-00155d012206"
 
-category: "Developers"
-role:  "Software Developer"
 qualifications:  "B.E. - Electronics and Communications Engineering"
 
 quote:  "Even if you're on the right track, you'll get run over if you just sit there."

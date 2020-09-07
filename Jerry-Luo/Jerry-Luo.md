@@ -1,8 +1,6 @@
 ---
 id: "950984da-26fb-e711-80f6-00155d01ee57"
 
-category: "Developers"
-role:  "Senior Software Architect"
 qualifications:  "Bachelor of Software Engineering"
 
 quote:  "The best preparation for tomorrow is doing your best today."

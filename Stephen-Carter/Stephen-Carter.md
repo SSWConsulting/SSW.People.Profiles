@@ -1,8 +1,6 @@
 ---
 id: "d8035948-c744-e611-80d1-00155d01ee33"
 
-category: "Managers"
-role:  "Senior Software Architect, VIC State Manager"
 qualifications:  "Professional Scrum Master"
 
 quote:  "Whether you think you can or think you can't, you're right."

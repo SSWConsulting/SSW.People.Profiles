@@ -1,8 +1,6 @@
 ---
 id: "e21464fb-8fb1-e811-8141-00155d01ef11"
 
-category: "Developers"
-role:  "Software Architect"
 qualifications:  "Bachelor of Computer Science"
 
 quote:  "The difference between a pebble and a mountain lies in whom you ask to move it."

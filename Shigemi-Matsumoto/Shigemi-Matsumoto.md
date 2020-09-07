@@ -1,15 +1,10 @@
 ---
 id: "6e601c0e-7ece-e311-bd7f-00783af55a15"
 
-category: "Developers"
-role:  "Developer"
 qualifications:  ""
 
 quote:  "There is no substitute for hard work"
 ---
-
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/Shigemi) 
-  
 
 #### W[eb Developer](https://www.linkedin.com/title/web-developer?trk=mprofile_title "Learn more about this title")
 

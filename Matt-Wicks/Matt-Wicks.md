@@ -1,8 +1,6 @@
 ---
 id: "a539c002-af8b-e811-810f-00155d012c11"
 
-category: "Developers"
-role: "Solution Architect"
 qualifications: "Bachelor of Multimedia Computing, Certified Scrum Master"
 
 quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace them"

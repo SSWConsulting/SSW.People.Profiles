@@ -1,8 +1,6 @@
 ---
 id: "87437bbd-75fe-e811-81ad-00155d012b39"
 
-category: "Admin"
-role:  "China Office Administrator"
 qualifications:  "Bachelor Degree in English"
 
 quote:  "For man is man and master of his fate."

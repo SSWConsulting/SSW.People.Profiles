@@ -1,8 +1,7 @@
 ---
 id: "139634be-27cb-e711-80f1-00155d012275"
 
-category: "Developers"
-role:  "Software Architect"
+
 qualifications:  "MSc (Physiology)"
 
 quote:  "\"Walking on water and developing software from a specification are easy if both are frozen.\" (Edward V Berard)"

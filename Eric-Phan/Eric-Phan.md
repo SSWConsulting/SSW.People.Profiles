@@ -1,15 +1,13 @@
 ---
 id: "cc6a67e8-f459-dd11-b3a3-00155d012206"
 
-category: "Managers"
-role:  "Chief Architect"
+
 qualifications:  "B.E. - Software Engineering, Certified Scrum Master"
 
 quote:  "There are 10 types of people in the world. Ones that understand binary and ones that don't."
 ---
 
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/EricPhan) 
-    
+   
 
 ## 
 
