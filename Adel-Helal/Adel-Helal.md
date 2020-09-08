@@ -2,7 +2,7 @@
 id: "AdelHelal"
 name: "Adel Helal"
 
-category: "Developers"
+role: "Developers"
 jobTitle:  "Senior Software Architect"
 qualifications:  "B of Computer Science (Software Engineering), Diploma in Electrical Engineering - Electrical Technology"
 

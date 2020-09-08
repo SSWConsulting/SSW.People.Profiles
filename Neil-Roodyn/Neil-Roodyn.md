@@ -2,7 +2,7 @@
 id: "NeilRoodyn"
 name: "Neil Roodyn"
 
-category: "Managers"
+role: "Managers"
 jobTitle:  "Associate and Trainer"
 qualifications:  "PhD"
 

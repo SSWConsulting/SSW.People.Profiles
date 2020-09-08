@@ -2,7 +2,7 @@
 id: "JohnPrince"
 name: "John Prince"
 
-category: "Developers"
+role: "Developers"
 jobTitle:  "Database Developer"
 qualifications:  "Dip IT"
 

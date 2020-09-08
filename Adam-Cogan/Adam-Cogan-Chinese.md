@@ -1,7 +1,7 @@
 ---
 id: "7e785899-f459-dd11-b3a3-00155d012206"
 
-category: "Managers"
+role: "Managers"
 jobTitle: "首席架构师, 微软区域总监"
 qualifications: "培训师, 太平绅士, MCP, 微软 MVP (ALM)"
 

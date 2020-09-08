@@ -2,7 +2,7 @@
 id: "TimFletcher"
 name: "Tim Fletcher"
 
-category: "Managers"
+role: "Managers"
 jobTitle:  "Project Manager"
 qualifications:  "BSc (Pure Math)"
 

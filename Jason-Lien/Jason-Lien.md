@@ -2,7 +2,7 @@
 id: "JasonLien"
 name: "Jason Lien"
 
-category: "Developers"
+role: "Developers"
 jobTitle:  "Database Developer"
 qualifications:  "B IT"
 
