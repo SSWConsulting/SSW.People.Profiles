@@ -1,8 +1,6 @@
 ---
 id: "aa6a67e8-f459-dd11-b3a3-00155d012206"
 
-category: "Developers"
-role:  "Senior Software Developer "
 qualifications:  "Bachelor of Computer Science"
 
 quote:  "I believe concentration and exertion makes perfection."

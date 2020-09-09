@@ -1,8 +1,6 @@
 ---
 id: "8f98bd24-439d-e011-86d6-00155d012203"
 
-category: "Designers"
-role:  "Multimedia Producer"
 qualifications:  "BA (Hons): TV Production"
 
 quote:  "If you do something cool, I'm there to film it. Secretly."

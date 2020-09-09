@@ -2,8 +2,8 @@
 id: "EricFang"
 name: "Eric Fang"
 
-category: "Developers"
-role:  "Senior Software Developer"
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "Bachelor of IT (Software Development), MCSD, MCDBA, MCSE"
 
 quote:  ""

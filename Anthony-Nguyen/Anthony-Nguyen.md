@@ -1,8 +1,7 @@
 ---
 id: "a1a778e7-265d-e611-80d2-00155d01ee33"
 
-category: "Developers"
-role:  "Solution Architect"
+
 qualifications:  "BEng (Hons) IT&T, Certified Scrum Master, Master of Project Mgnt"
 
 quote:  "Do it now, sometimes 'later' becomes 'never'"

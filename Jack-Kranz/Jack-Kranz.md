@@ -1,8 +1,6 @@
 ---
 id: "5b25aecc-4599-e811-8122-00155d01261e"
 
-category: "Developers"
-role:  "Software Architect"
 qualifications:  "Bachelor of IT: Enterprise Systems Development  |   Bachelor of Business: Management"
 
 quote:  "The definition of genius is taking the complex and making it simple."

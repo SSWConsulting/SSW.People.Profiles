@@ -29,8 +29,6 @@ jobs:
         ---
         id: "$crm_id"
          
-        category: "$category"
-        role: "$job_title"
         qualifications: ""
         
         quote: ""
@@ -47,8 +45,6 @@ jobs:
         first_name: ${{ github.event.client_payload.first_name }}
         last_name: ${{ github.event.client_payload.last_name }}
         crm_id: ${{ github.event.client_payload.crm_id }}
-        category: ${{ github.event.client_payload.category }}
-        job_title: ${{ github.event.client_payload.job_title }}
             
     - name: Download profile images - Profile
       uses: carlosperate/download-file-action@v1.0.3

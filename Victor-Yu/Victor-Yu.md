@@ -1,8 +1,6 @@
 ---
 id: "e32ffbd4-b9fd-e811-81ac-00155d012b39"
 
-category: "Developers"
-role:  "Software Developer"
 qualifications:  "Bachelor of Electrical Engineering"
 
 quote:  "Focus on everything"

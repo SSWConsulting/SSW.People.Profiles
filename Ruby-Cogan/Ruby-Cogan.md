@@ -1,8 +1,6 @@
 ---
 id: "fb193baa-aa8a-ea11-a811-000d3a79963e"
 
-category: "Admin"
-role: "Reception and administration"
 qualifications: " "
 
 quote: "We are changing the world with Technology"

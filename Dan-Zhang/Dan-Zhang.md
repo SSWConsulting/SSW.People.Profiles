@@ -1,14 +1,10 @@
 ---
 id: "67ad5163-f5fa-e111-88ff-00783af55a15"
-
-category: "Developers"
-role:  "Senior Software Architect"
 qualifications:  "Master of computer"
 
 quote:  "You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted."
 ---
 
- [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/DanZhang) 
 
 
 [![](./Images/Bio/Microsoft_MVP_Logo.png)](http://davidburela.wordpress.com/2012/10/02/ive-been-awarded-microsoft-mvp-for-windows-azure/) 

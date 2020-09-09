@@ -1,8 +1,6 @@
 ---
 id: "24a29405-7630-dd11-bbde-00155d012229"
 
-category: "Managers"
-role:  "Sales and Marketing Manager"
 qualifications:  ""
 
 quote:  "Enjoy the journey because the destination might not be all it's cracked up to be."

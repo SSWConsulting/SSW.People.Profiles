@@ -1,8 +1,6 @@
 ---
 id: "e0731af7-09c0-e611-80d4-00155d01225d"
 
-category: "Designers"
-role:  "Video Specialist"
 qualifications:  "Master of Interactive and Digital Media"
 
 quote:  "knowing you don't know is the most essential step of knowing"

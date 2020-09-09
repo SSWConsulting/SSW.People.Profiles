@@ -1,14 +1,10 @@
 ---
 id: "c63e15ee-21f7-e111-88ff-00783af55a15"
 
-category: "Developers"
-role:  "Senior Software Developer"
 qualifications:  "MCP, MVP"
 
 quote:  "Nothing Is Impossible"
 ---
-
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/JackyZhou) 
   
 [[imgBadge]]| ![Microsoft MVP](../badges/Certification-microsoft-mvp.png)
 

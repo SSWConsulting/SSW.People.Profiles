@@ -1,15 +1,11 @@
 ---
 id: "8a3121f4-c249-e411-a323-00783af55a15"
 
-category: "Developers"
-role:  "Software Architect"
 qualifications:  ""
 
 quote:  "“So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.”  ― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship"
 ---
 
- [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/DuncanHunter) 
- 
 
  ![FireBootCamp-Logo.png](./Images/Bio/FireBootCamp-Logo.png) 
    

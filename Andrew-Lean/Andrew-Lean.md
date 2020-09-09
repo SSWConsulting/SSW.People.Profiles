@@ -1,8 +1,7 @@
 ---
 id: "09bbbd6f-767e-e411-8fff-00783af55a15"
 
-category: "Developers"
-role:  "Senior Software Developer"
+
 qualifications:  "Bachelor of Computer Science & Technology from the University of Sydney"
 
 quote:  "Solve the problem first, then write the code."

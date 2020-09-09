@@ -1,8 +1,6 @@
 ---
 id: "c6e6dfba-39d2-de11-bc73-00155d01ec01"
 
-category: "Developers"
-role:  "Solution Architect, Microsoft Visual Studio ALM MVP & Ranger"
 qualifications:  "BSc Computer Studies, Microsoft Certified Professional, Microsoft Certified Technical Specialist"
 
 quote:  "“Program testing can be used to show the presence of bugs, but never to show their absence!”"

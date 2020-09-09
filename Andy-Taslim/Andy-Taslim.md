@@ -1,8 +1,7 @@
 ---
 id: "bc6a67e8-f459-dd11-b3a3-00155d012206"
 
-category: "Developers"
-role:  "Software Architect "
+
 qualifications:  "Bachelor of Computer Science (Software Development), Master of Information System "
 
 quote:  "If you ask Him for happiness, He will not give you happiness. What He will give you is, the opportunities to be happy."

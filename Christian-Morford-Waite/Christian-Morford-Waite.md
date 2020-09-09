@@ -1,8 +1,6 @@
 ---
 id: "a77dd9ef-ebe3-e911-9674-00155d012c95"
 
-category: "Developers"
-role:  "Software Architect"
 qualifications:  "Bachelor of Computing"
 
 quote:  "There's a way to do it better - find it."

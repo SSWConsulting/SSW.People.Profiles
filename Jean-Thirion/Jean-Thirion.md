@@ -1,8 +1,6 @@
 ---
 id: "f61d7496-feb2-e711-80eb-00155d012275"
 
-category: "Developers"
-role: "Solution Architect"
 qualifications: "MCSD - SharePoint Applications - App Builder"
 
 quote: "There is no shame in not knowing. The problem arises when irrational thought and attendant behaviour fill the vacuum left by ignorance."

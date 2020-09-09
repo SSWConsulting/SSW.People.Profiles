@@ -1,8 +1,6 @@
 ---
 id: "b2ca522b-04a2-ea11-a812-000d3a79964c"
 
-category: "Designers"
-role:  "Video Producer"
 qualifications:  "Batchelor of Media and Communications"
 
 quote:  "\"There can be many answers to a question but you will need to ask Adam how it is formatted\""

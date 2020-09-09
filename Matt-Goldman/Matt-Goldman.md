@@ -1,8 +1,6 @@
 ---
 id: "ea73c1dd-b7dd-e911-9673-00155d012c95"
 
-category: "Developers"
-role:  "Software Architect"
 qualifications:  ""
 
 quote:  "Any technology distinguishable from magic is insufficiently advanced."

@@ -1,8 +1,6 @@
 ---
 id: "687efe24-b7a1-e811-812d-00155d01ef11"
 
-category: "Developers"
-role:  "Solution Architect"
 qualifications:  "Bachelor of Information Technology - Software Engineering"
 
 quote:  "Make a plan! Make it happen!"

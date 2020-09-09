@@ -1,8 +1,6 @@
 ---
 id: "1da8ec11-b56a-e711-80df-00155d012c3d"
 
-category: "Developers"
-role:  "Senior Network Engineer"
 qualifications:  "CCNP + CCDP"
 
 quote:  "Going with the cheapest option may seem like a good idea, but it generally leads to a more expensive and time consuming job to resolve a poor design."

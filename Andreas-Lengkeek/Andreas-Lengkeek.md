@@ -1,8 +1,7 @@
 ---
 id: "a7e7a4d2-6923-e911-81e4-00155d012b45"
 
-category: "Developers"
-role: "Software Architect"
+
 qualifications: "Bachelor of Science in IT, Majoring in Enterprise Systems Development"
 
 quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."

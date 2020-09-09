@@ -1,14 +1,11 @@
 ---
 id: "018305de-311f-e211-a0de-00783af55a15"
 
-category: "Developers"
-role:  "Solution Architect, Code Auditor Product Owner"
 qualifications:  "MVP, MCSD"
 
 quote:  "Software is like music. Easy to use but hard to write."
 ---
 
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/DanijelMalik) 
    
 [[imgBadge]]| ![MVP](../badges/Certification-microsoft-mvp.png)
 ![MCTS_2013(rgb)_NETFX.jpg](./Images/Bio/MCTS_2013(rgb) _NETFX.jpg) 

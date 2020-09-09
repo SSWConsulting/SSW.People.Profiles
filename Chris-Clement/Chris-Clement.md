@@ -1,8 +1,6 @@
 ---
 id: "6f6cf6a2-7518-e911-81d2-00155d012b45"
 
-category: "Developers"
-role: "Software Architect & Embedded Software Engineer"
 qualifications: "Master of Engineering Science"
 
 quote: "Learning is a lifetime lesson - keep yourself open to learn something new!"

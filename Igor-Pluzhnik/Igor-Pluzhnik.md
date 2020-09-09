@@ -2,8 +2,8 @@
 id: "IgorPluzhnik"
 name: "Igor Pluzhnik"
 
-category: "Developers"
-role:  "Senior Network Administrator"
+role: "Developers"
+jobTitle:  "Senior Network Administrator"
 qualifications:  "MIT, MEc, MCSE, MCDBA, MCSD"
 
 quote:  ""

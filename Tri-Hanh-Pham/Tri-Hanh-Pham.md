@@ -1,8 +1,6 @@
 ---
 id: "c1abafee-f604-e611-80cc-00155d01ee33"
 
-category: "Developers"
-role:  "Senior Software Architect"
 qualifications:  "Masters in Computer Science, Masters in Project Management"
 
 quote:  "In order to understand recursion, one must first understand recursion."

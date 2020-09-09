@@ -2,8 +2,8 @@
 id: "JohnPrince"
 name: "John Prince"
 
-category: "Developers"
-role:  "Database Developer"
+role: "Developers"
+jobTitle:  "Database Developer"
 qualifications:  "Dip IT"
 
 quote:  ""

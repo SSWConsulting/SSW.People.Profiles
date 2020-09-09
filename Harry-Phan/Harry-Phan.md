@@ -1,8 +1,6 @@
 ---
 id: "94d2b781-9f6e-e811-8107-00155d012b0a"
 
-category: "Developers"
-role:  "Software Architect"
 qualifications:  "Bachelor of Computer Science (Honours); ITIL Service Management"
 
 quote:  "Life is 10% what happens to you and 90% how you react to it."

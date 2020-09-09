@@ -1,8 +1,6 @@
 ---
 id: "c078fc18-5658-e211-b3ad-00783af55a15"
 
-category: "Admin"
-role:  "Personal Assistant / Office Administrator"
 qualifications:  ""
 
 quote:  "\"Even the smallest person can change the course of the future.\" -LOTR"

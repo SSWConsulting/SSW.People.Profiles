@@ -2,8 +2,8 @@
 id: "GregHarris1"
 name: "Greg Harris 1"
 
-category: "Developers"
-role:  "Solution Architect"
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "B.Sc. Information Systems"
 
 quote:  "Great software systems need great people"

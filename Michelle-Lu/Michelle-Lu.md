@@ -1,8 +1,6 @@
 ---
 id: "1a90550d-5677-e311-8103-00783af55a15"
 
-category: "Admin"
-role:  "BJ Accountant"
 qualifications:  ""
 
 quote:  "Work hard, play hard"

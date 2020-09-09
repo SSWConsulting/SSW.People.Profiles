@@ -1,8 +1,6 @@
 ---
 id: "977b53a0-0285-e011-8227-00155d012144"
 
-category: "Developers"
-role:  "Solution Architect"
 qualifications:  "Dip Computer Technology, MCSD: Application Lifecycle Management"
 
 quote:  "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"

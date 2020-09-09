@@ -1,8 +1,6 @@
 ---
 id: "b6df4bbd-9fb2-e011-836a-00155d012914"
 
-category: "Developers"
-role: "Senior Software Developer"
 qualifications: ""
 
 quote: "Think before acting."

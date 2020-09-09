@@ -1,8 +1,6 @@
 ---
 id: "2ddb2bdf-1324-e311-80a2-00783af55a15"
 
-category: "Developers"
-role:  "Senior Software Architect"
 qualifications:  "Microsoft Certified Technology Specialist"
 
 quote:  ""

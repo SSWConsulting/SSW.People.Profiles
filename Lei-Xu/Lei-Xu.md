@@ -1,8 +1,6 @@
 ---
 id: "d671bbf4-f459-dd11-b3a3-00155d012206"
 
-category: "Managers"
-role:  "Solution Architect and General Manager (Beijing)"
 qualifications:  "B.Eng - Industrial Engineering & Computer Science, M.Info - Information Science "
 
 quote:  "I believe in understanding people and technology. This combination has allowed me to build a great team that has built many great solutions... "

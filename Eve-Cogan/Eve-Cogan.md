@@ -1,8 +1,6 @@
 ---
 id: "2a56b025-6c8b-ea11-a811-000d3a79963e"
 
-category: "Admin"
-role: "Multimedia Assistant"
 qualifications: "UTS Bachelor of Communication (Media Arts and Production) Bachelor of Creative Intelligence and Innovation"
 
 quote: "The most precious gift we can offer anyone or anything is our attention."

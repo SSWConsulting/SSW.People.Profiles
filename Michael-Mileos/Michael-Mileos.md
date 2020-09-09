@@ -2,8 +2,8 @@
 id: "MichaelMileos"
 name: "Michael Mileos"
 
-category: "Developers"
-role:  "Senior Software Developer"
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "Bachelor of Science in Computer Science (Honours) - City Universtiy of New York (CUNY)"
 
 quote:  ""

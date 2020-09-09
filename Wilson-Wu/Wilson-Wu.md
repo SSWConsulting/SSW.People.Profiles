@@ -1,8 +1,6 @@
 ---
 id: "de71bbf4-f459-dd11-b3a3-00155d012206"
 
-category: "Developers"
-role:  "Testing and Support Engineer"
 qualifications:  "B Eng of Computer Science and Technology"
 
 quote:  "Innovative thinking is the best way to gain market share."

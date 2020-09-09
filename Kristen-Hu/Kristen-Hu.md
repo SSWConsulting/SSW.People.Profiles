@@ -1,8 +1,6 @@
 ---
 id: "31aa42cd-719c-e911-825f-00155d01ef64"
 
-category: "Developers"
-role: "Software Developer"
 qualifications: ""
 
 quote: "We're all in the gutter,but some of us are looking at the stars."

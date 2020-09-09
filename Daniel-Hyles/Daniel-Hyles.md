@@ -1,14 +1,12 @@
 ---
 id: "c86a67e8-f459-dd11-b3a3-00155d012206"
 
-category: "Developers"
-role:  "Solution Architect"
+
 qualifications:  "Dip IT MCP"
 
 quote:  "Share your knowledge. It's the way to achieve immortality"
 ---
 
- [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/DanielHyles) 
  
 [[imgBadge]]
 | ![Sitefinity](../badges/Developer-sitefinity.png)

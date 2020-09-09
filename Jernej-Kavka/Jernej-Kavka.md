@@ -1,8 +1,6 @@
 ---
 id: "bb6a7007-95b2-e511-80c4-00155d012c15"
 
-category: "Developers"
-role: "Senior Software Architect"
 qualifications: "MCSD"
 
 quote: "Once upon a time, you had to be rich and powerful to change the world. Now you just need to be bold and write code."
