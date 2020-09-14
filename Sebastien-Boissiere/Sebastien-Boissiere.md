@@ -3,7 +3,7 @@ id: "72fa4ce2-7170-e911-8226-00155d01ef64"
 
 qualifications:  ""
 
-quote:  "First, solve the problem. Then, write the code."
+quote:  "First, solve the problem. Then, write the code. "
 quoteAuthor: "John Johnson"
 ---
 
