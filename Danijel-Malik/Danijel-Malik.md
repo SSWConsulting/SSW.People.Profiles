@@ -12,7 +12,7 @@ quote:  "Software is like music. Easy to use but hard to write."
 | ![MVP](../badges/Certification-microsoft-mvp.png)
 
 [[imgBadge]]
-| ![MCTS_2013(rgb)_NETFX.jpg](./Images/Bio/MCTS_2013(rgb) _NETFX.jpg)
+| ![MCTS_2013(rgb)_NETFX.jpg](./Images/Bio/MCTS_2013(rgb)_NETFX.jpg)
 
 [[imgBadge]]
 | ![Web App](../badges/Certification-microsoft-developer-webapps.png)
@@ -32,7 +32,7 @@ With an eye on bleeding edge technologies, he is always one step ahead and love
    Some of his client projects include:  
 
 *   **Carnival Australia - Cruise Control**  
-**Carnival Australia celebrated many successful projects with SSW over the last few years. Due to such a great partnership, they wanted SSW to support their Cruise Control application, which is one of the key websites for P&O. Danijel stepped in and took the project to the next level: besides coding Danij el transformed their processes and moved them from a ticketing system in SharePoint to Scrum with TFS. The month long release cycles were replaced with Continuous Delivery and fully automated deployments to production every few days.  
+Carnival Australia celebrated many successful projects with SSW over the last few years. Due to such a great partnership, they wanted SSW to support their Cruise Control application, which is one of the key websites for P&O. Danijel stepped in and took the project to the next level: besides coding Danij el transformed their processes and moved them from a ticketing system in SharePoint to Scrum with TFS. The month long release cycles were replaced with Continuous Delivery and fully automated deployments to production every few days.  
 Related Technologies: TFS, Octopus Deploy, ASP.NET WebAPI, ServiceStack</strong> 
 
 *   **Estate Master - TFS Migration & Release Management**  

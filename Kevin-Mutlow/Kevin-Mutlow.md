@@ -6,4 +6,4 @@ qualifications:  "Bcom Honours (Computer Science & Information Systems)"
 
 quote:  ""
 ---
-
+.

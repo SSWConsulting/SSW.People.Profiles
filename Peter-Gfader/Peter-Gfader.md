@@ -7,16 +7,27 @@ qualifications:  "MSc, Diplom Ingenieur, Dipl.Ing"
 quote:  "Carpe diem, et noctem."
 ---
 
-##  ![](./Images/Bio/mcp-rgb.gif) 
-     ![](./Images/Bio/MCAD-RGB.gif) 
-    ![](./Images/Bio/scrumtrainer.png) 
+[[imgBadge]]
+| ![](./Images/Bio/mcp-rgb.gif) 
+
+[[imgBadge]]
+| ![](./Images/Bio/MCAD-RGB.gif) 
+
+[[imgBadge]]
+| ![](./Images/Bio/scrumtrainer.png) 
 
 
-##  ![](./Images/Bio/MCPD-windev-rgb_505.jpg) 
- ![](./Images/Bio/MCTS-dotnet-2-windows-apps-rgb_512.jpg) 
- ![MCTS Web applications](./Images/Bio/MCTS-web(rgb) 
-_513.png) ![MCPD Web developer](./Images/Bio/MCPD-web(rgb) 
-_504.png) 
+[[imgBadge]]
+| [](./Images/Bio/MCPD-windev-rgb_505.jpg) 
+
+[[imgBadge]]
+| ![](./Images/Bio/MCTS-dotnet-2-windows-apps-rgb_512.jpg) 
+
+[[imgBadge]]
+| ![MCTS Web applications](./Images/Bio/MCTS-web(rgb)_513.png) 
+
+[[imgBadge]]
+| ![MCPD Web developer](./Images/Bio/MCPD-web(rgb)_504.png) 
 
  Peter is a Solution Architect at SSW that mixes Scrum experience with development techniques like XP and Agile. 
 
@@ -31,7 +42,7 @@ Tuning the performance of an existing website without touching the code was a to
  Additionally, we did some performance tuning of the in house developed website. Reduced the average page load ~10 times.   
  From an average of 4 seconds down to ~0.42 seconds per page 
 
-*   **NRMA **
+*   **NRMA**
 
 ASP.NET Dynamic Data application providing funding for Community Grants and Reporting with SQL 2005 back end.
 
@@ -44,11 +55,11 @@ This utilities company needed an automated and easy to use Rostering and Employe
 
 Existent Webforms 2.0 application needed some bug fixes and code tuning to cope for future changes. By creating unit tests and applying major refactorings the code is easier to maintain in the future and adding new features is easy again
 
-*   **PDS **
+*   **PDS**
 
 Existing client application was hard to maintain and write plugins for. We changed this by providing them with an easy to use application framework that is fully pluggable in VB.NET.
 
-*   **Elcom Technology **
+*   **Elcom Technology**
 
 The existent search solution for an ASP.NET web application was very slow and not very accurate. Peter solved this by implementing a search portal based on LINQ2SQL and SQL Server Fulltext search
 
