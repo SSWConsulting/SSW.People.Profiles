@@ -6,4 +6,4 @@ qualifications:  "Class of 92' Certificate in Business Computing"
 
 quote:  "If it has an ON switch or plugs into something, I take care of it !"
 ---
-
+.

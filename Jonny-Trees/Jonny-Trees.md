@@ -11,7 +11,7 @@ Jonny Trees is a Senior Software Architect at SSW, a Microsoft Certified Gold Pa
 
 Jonny's clients include: 
 
-*   **Aurecon **Architect and developer for a SharePoint 2007 intranet portal migrated from Lotus Notes. Project involved the setup of the development environment and development processes at Aurecon and training their developers. 
+*   **Aurecon** Architect and developer for a SharePoint 2007 intranet portal migrated from Lotus Notes. Project involved the setup of the development environment and development processes at Aurecon and training their developers. 
 *   **Microsoft Australia** Project Manager for the implementation of the Microsoft SharePoint Forum 2008. The site built in SharePoint 2007 takes advantage of many of SharePoint's web publishing features and includes the use of JQuery for improved UI experience and Live maps integration. 
 *   **Caltex Australia** Training employees in C# .Net, Ajax and Reporting Services. 
 *   **WorleyParsons** The creation of WorleyParsons new public facing website using SharePoint 2007. 

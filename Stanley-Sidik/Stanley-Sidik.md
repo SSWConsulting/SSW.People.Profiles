@@ -25,13 +25,12 @@ Past projects include working with clients such as Virgin Active, BP, Blockbuste
 *   Microsoft Windows Server
 *   Microsoft Exchange Server
 *   Linux - Red Hat Enterprise
-*   Cisco Systems**Stanley****'s selected client projects:  
-**
+*   Cisco Systems
+  
+**Stanley**'s selected client projects:  
 
 *   [Department of Industry](http://www.industry.nsw.gov.au/)   
 Team Foundation Server 2013 to Team Foundation Server 2015 upgrade.
-*   **Griffith University  
-**Team Foundation Server 2013 migration to a new Team Foundation Server 2015. Migration of XAML build definition to vNext Build definition. Establishing continous delivery practice where each check-in resulted in a new setup package  
+*   **Griffith University**  
+Team Foundation Server 2013 migration to a new Team Foundation Server 2015. Migration of XAML build definition to vNext Build definition. Establishing continous delivery practice where each check-in resulted in a new setup package  
 
-**  
-**
