@@ -1,6 +1,7 @@
 ---
 id: "da6bc392-f459-dd11-b3a3-00155d012206"
-
+role: "Developers"
+jobTitle:  "Software Architect"
 qualifications:  "B. Eng - Information System Management, MCAD, PMP"
 
 quote:  "I like challenging work. I like using cutting edge technologies to make great solutions for my clients."

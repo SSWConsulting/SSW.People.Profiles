@@ -1,6 +1,7 @@
 ---
 id: "b44e071d-ffbf-dd11-8569-00155d01221b"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "B.Eng - International Engineering Management, MCP"
 
 quote:  ""

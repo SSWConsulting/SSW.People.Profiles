@@ -1,6 +1,7 @@
 ---
 id: "bc29b183-a13e-e211-a564-00783af55a15"
-
+role: "Admin"
+jobTitle:  "Operations Manager (Beijing Office)"
 qualifications:  "LL.B. (Bachelor of Laws)"
 
 quote:  "Not trying, means failing by default."

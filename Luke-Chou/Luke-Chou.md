@@ -1,6 +1,7 @@
 ---
 id: "19c5781c-7f60-de11-a8d4-00155d01ec01"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "Master of Computer Science"
 
 quote:  "Do it, take it."

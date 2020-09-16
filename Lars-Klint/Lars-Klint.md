@@ -1,6 +1,7 @@
 ---
 id: "084f5d06-8873-e411-a323-00783af55a15"
-
+role: "Developers"
+jobTitle:  "Software Architect"
 qualifications:  "BCompSc"
 
 quote:  "Whether you think you can, or can't, you're right - Henry Ford "

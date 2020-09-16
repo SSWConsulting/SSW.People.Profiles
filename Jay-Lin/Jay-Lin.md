@@ -1,6 +1,7 @@
 ---
 id: "d271bbf4-f459-dd11-b3a3-00155d012206"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "B.Eng - Computer Science "
 
 quote:  "I know to satisfy clients it takes 100% effort. That is my challenge and I work to improve myself everyday."

@@ -1,6 +1,7 @@
 ---
 id: "9ca6edaf-6697-e311-aeb2-00783af55a15"
-
+role: "Developers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "B.InfoTech (hons), B.Eng (hons), M.InfoTech, Prince2 Practitioner, MCPD"
 
 quote:  "Without requirements or design, programming is the art of adding bugs to an empty text file."

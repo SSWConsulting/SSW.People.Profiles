@@ -1,6 +1,7 @@
 ---
 id: "c86bc392-f459-dd11-b3a3-00155d012206"
-
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "B CSc, MCP"
 
 quote:  "I believe that there are always more than one point of view and I listen and learn everyday."

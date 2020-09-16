@@ -1,6 +1,7 @@
 ---
 id: "c63e15ee-21f7-e111-88ff-00783af55a15"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "MCP, MVP"
 
 quote:  "Nothing Is Impossible"
