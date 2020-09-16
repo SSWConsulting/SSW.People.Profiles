@@ -1,6 +1,7 @@
 ---
 id: "9f913f0c-35d4-e411-8fff-00783af55a15"
-
+role: "Admin"
+jobTitle:  "Sales and Marketing Assistant"
 qualifications:  "B Business (Marketing)"
 
 quote:  "Don't stop when you're tired. Stop when you're done."

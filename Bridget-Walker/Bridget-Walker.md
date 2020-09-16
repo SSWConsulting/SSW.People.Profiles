@@ -1,6 +1,7 @@
 ---
 id: "23b9e62f-1c0c-e611-80cc-00155d01ee33"
-
+role: "Admin"
+jobTitle:  "Personal Assistant to Adam Cogan"
 name: "Bridget-Walker"
 qualifications:  ""
 

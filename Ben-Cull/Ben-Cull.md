@@ -1,7 +1,8 @@
 ---
 id: "3f5c2414-a42f-e311-80a2-00783af55a15"
 
-
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "Bachelor of IT, MCSD: Web Applications"
 
 quote:  "​​I build web applications that are lightning fast and dressed to impress."

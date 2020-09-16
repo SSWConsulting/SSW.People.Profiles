@@ -1,6 +1,7 @@
 ---
 id: "74ba192f-1b23-e811-80fb-00155d012c01"
-
+role: "Developers"
+jobTitle:  "Senior Software Architect"
 qualifications:  ""
 
 quote:  "Anything is possible, it just needs time and persistence"

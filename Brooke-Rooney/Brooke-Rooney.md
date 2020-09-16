@@ -2,8 +2,10 @@
 id: "c078fc18-5658-e211-b3ad-00783af55a15"
 
 qualifications:  ""
-
-quote:  "\"Even the smallest person can change the course of the future.\" -LOTR"
+role: "Admin"
+jobTitle:  "Personal Assistant / Office Administrator"
+quote:  "Even the smallest person can change the course of the future." 
+quoteAuthor: "LOTR"
 ---
 
 Brooke Rooney is an American from Knoxville, Tennessee, and is incredibly excited to be a contributing member of the SSW team. She is the Personal Assistant to SSW's Chief Architect, Adam Cogan, and is also responsible for the smooth day-to-day running of the office.

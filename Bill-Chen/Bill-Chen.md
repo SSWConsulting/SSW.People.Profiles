@@ -1,6 +1,7 @@
 ---
 id: "8e229cee-f459-dd11-b3a3-00155d012206"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "B. Bus - Accounting"
 
 quote:  "I believe in sincerity and understanding which helps me make excellent software."
