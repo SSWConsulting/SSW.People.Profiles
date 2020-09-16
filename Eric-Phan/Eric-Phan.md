@@ -35,7 +35,7 @@ Eric is always on the cutting edge, using Microsoft's latest technologies before
 Eric's client projects include:  
 
 [[imgSm]]
-| ![pwc-logo.png](./Images/Bio/pwc-logo.png) 
+| ![](./Images/Bio/pwc-logo.png) 
 **Price Waterhouse Coopers - Comply First Time** 
 
 PwC engaged SSW to help redevelop their flagship business tax reporting and compliance platform that was originally built on top of Access and SQL server. SSW modernized and re-architected the platform to be web based and built on good enterprise practices.   
@@ -50,7 +50,7 @@ We've also helped PwC take this product global, brining it into the Malaysian, N
 ---
 
 [[imgSm]]
-| ![ec-logo.png](./Images/Bio/ec-logo.png) 
+| ![](./Images/Bio/ec-logo.png) 
 **Event Cinemas**  
 
 Event Cinemas was looking to revamp their website with a new look and feel with the added ability to drive the site via a new CMS. SSW helped build the new website that integrated with their existing ticketing, loyalty and movie management system.   
@@ -62,7 +62,7 @@ Event Cinemas was looking to revamp their website with a new look and feel with 
 ---
 
 [[imgSm]]
-| ![pds.png](./Images/Bio/pds.png) 
+| ![](./Images/Bio/pds.png) 
  **Productivity Development Solutions - CcMS**  
 
 PDS is a long time client with SSW. We helped develop their ruggedized mobile application for dealing with Asset management, Inspections and Wear Management at mining sites. We also helped build their flagship Windows Forms application managing the same systems. More recently we helped PDS migrate their Windows Forms application to the web with a new MVC website, using WebAPIs. This allowed us to make the application cross platform and tablet ready.  
@@ -73,7 +73,7 @@ PDS is a long time client with SSW. We helped develop their ruggedized mobile ap
 ---
 
 [[imgSm]]
-| ![energetics_logo.png](./Images/Bio/energetics_logo.png)  
+| ![](./Images/Bio/energetics_logo.png)  
 **Energetics (BRW Client Choice Award Winner for 2011)**  
 
 Energetics were looking towards SSW to take over the development of their existing One2Five web application from their previous vendor. We conducted a software audit, migration to .NET 4.0, code clean-up involving merging two separate code bases for English and Japanese into the one globalized version and implemented a many enhancements and bug fixes to streamline the use of the web application for facilitators and administrators. We implemented features into their offline Windows Forms application to bring it to parity with the web application and implemented a ClickOnce deployment mechanism for easier delivery. We worked using the scrum methodology and consistently met deadlines and delivered extra functionality.   
@@ -84,7 +84,7 @@ Energetics were looking towards SSW to take over the development of their existi
 ---
 
 [[imgSm]]
-| ![tsy_logo.jpg](./Images/Bio/tsy_logo.jpg)  
+| ![](./Images/Bio/tsy_logo.jpg)  
 **The Treasury - Developer Training**  
 
 Delivered a two day training course on VSTO to help transition the Treasury from VBA and macros in their Word and Excel applications into managed .NET code.  
@@ -95,7 +95,7 @@ Delivered a two day training course on VSTO to help transition the Treasury from
 ---
 
 [[imgSm]]
-| ![medibank-logo-header.png](./Images/Bio/medibank-logo-header.png) 
+| ![](./Images/Bio/medibank-logo-header.png) 
 **Medibank Health - Full End to End Microsoft ALM implementation**  
 Medibank Health has an existing development ecosystem built on a multitude of different tools from different vendors. They wanted to consolidate them all to use the Microsoft ALM stack to gain efficiencies during their testing and development cycle. We ended up implementing TFS with Lab Management and creating custom build and deployment scripts to push a build to Lab Management for verification every night. This cut their testing cycle from 3 days to 10 minutes!   
 
@@ -112,7 +112,7 @@ This retailer was experiencing severe performance issues on their 10 year old we
 ---
 
 [[imgSm]]
-| ![Satellite.gif](./Images/Bio/Satellite.gif) 
+| ![](./Images/Bio/Satellite.gif) 
 **Energy Australia - Field Operations Management System**  
 
 This large utilities company needed an automated and easy to use Rostering and Employee management system to replace their current spreadsheet based system. The system manages all the engineers across Australia.   
@@ -130,7 +130,7 @@ Helped further develop and improve their CMS product adding features like: licen
 ---
 
 [[imgSm]]
-| ![Snackbrands-logo-for-website-2s6flf8g5xt9og143phj40.jpg](./Images/Bio/Snackbrands-logo-for-website-2s6flf8g5xt9og143phj40.jpg)
+| ![](./Images/Bio/Snackbrands-logo-for-website-2s6flf8g5xt9og143phj40.jpg)
 **Snack Brands Australia - Business Intelligence**  
 
 Snack Brands is the largest distributor of chips in Australia and has recently gone through some mergers. Eric managed the many data silos, that was sales, inventory, forecasting and logistical data spread across many different systems. This business intelligence project consolidated all this data into a data warehouse and cube, that enabled better reporting of figures.  
@@ -141,7 +141,7 @@ Snack Brands is the largest distributor of chips in Australia and has recently g
 ---
 
 [[imgSm]]
-| ![maximus.png](./Images/Bio/maximus.png) 
+| ![](./Images/Bio/maximus.png) 
 **Maximus - HR Performance Management**  
 
 Eric created a software as a service application to deliver a HR Management system that facilitates career management, selection, surveys and performance management.  
@@ -160,7 +160,7 @@ A transport company looking to establish a greater web presence and automate it
 ---
 
 [[imgSm]]
-| ![logob.png](./Images/Bio/logob.png) 
+| ![](./Images/Bio/logob.png) 
 **Media Monitors** 
 
 A media company looking to develop an intranet site to manage their media directory.  
@@ -171,7 +171,7 @@ A media company looking to develop an intranet site to manage their media direct
 ---
 
 [[imgSm]]
-| ![anglicancare-web-logo-2.jpg](./Images/Bio/anglicancare-web-logo-2.jpg) 
+| ![](./Images/Bio/anglicancare-web-logo-2.jpg) 
 **Anglican Care - Developer Training**  
 Ran a four day training course on ASP.NET Web Development with Visual Studio Team System.   
 
@@ -181,7 +181,7 @@ Ran a four day training course on ASP.NET Web Development with Visual Studio Te
 ---
 
 [[imgSm]]
-| ![University_of_Technology_Sydney_logo.jpg](./Images/Bio/University_of_Technology_Sydney_logo.jpg) 
+| ![](./Images/Bio/University_of_Technology_Sydney_logo.jpg) 
 **UTS .NET Short Course**  
 Developed and lectured the UTS .NET Short Course.  
 
@@ -191,7 +191,7 @@ Developed and lectured the UTS .NET Short Course.
 ---
 
 [[imgSm]]
-| ![500px-TransGrid_logo.png](./Images/Bio/500px-TransGrid_logo.png) 
+| ![](./Images/Bio/500px-TransGrid_logo.png) 
 **TransGrid**  
 TransGrid is a government utilities company with their own development teams. They needed security guidance for their intranet applications and migration of their TFS 2008 to the latest TFS as well as consulting on Scrum/Agile.  
 
