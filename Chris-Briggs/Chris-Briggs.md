@@ -1,6 +1,7 @@
 ---
 id: "84568c4d-3a53-e411-a323-00783af55a15"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "Bachelor of Information Technology"
 
 quote:  "You don't find buried treasure by sitting down."

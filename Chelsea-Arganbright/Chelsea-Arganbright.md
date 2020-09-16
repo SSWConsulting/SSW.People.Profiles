@@ -1,6 +1,6 @@
 ---
 id: "7138843c-cc6f-e911-8225-00155d01ef64"
-
+role: "Admin"
 qualifications:  "Office management and executive level assisting"
 
 quote:  "If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success - John D Rockefeller"

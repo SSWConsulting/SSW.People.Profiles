@@ -1,6 +1,7 @@
 ---
 id: "c871bbf4-f459-dd11-b3a3-00155d012206"
-
+role: "Developers"
+jobTitle:  "Software Developer"
 qualifications:  "Bachelor of Management (Management Information Systems), MCPD"
 
 quote:  "I'm always trying to be more professional."

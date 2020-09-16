@@ -1,7 +1,7 @@
 ---
 id: "c86a67e8-f459-dd11-b3a3-00155d012206"
-
-
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "Dip IT MCP"
 
 quote:  "Share your knowledge. It's the way to achieve immortality"

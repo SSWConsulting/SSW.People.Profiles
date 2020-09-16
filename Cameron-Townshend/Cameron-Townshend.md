@@ -1,6 +1,7 @@
 ---
 id: "84785899-f459-dd11-b3a3-00155d012206"
-
+role: "Managers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "B Sc (Mathematics), MCP (SQL Server, VB.Net, MS Access, MS Excel, Networking)"
 
 quote:  ""
