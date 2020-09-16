@@ -1,6 +1,7 @@
 ---
 id: "c80430e6-fcbf-dd11-8569-00155d01221b"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  ""
 
 quote:  ""
