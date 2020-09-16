@@ -8,10 +8,17 @@ quote:  "Software is like music. Easy to use but hard to write."
 ---
 
    
-[[imgBadge]]| ![MVP](../badges/Certification-microsoft-mvp.png)
-![MCTS_2013(rgb)_NETFX.jpg](./Images/Bio/MCTS_2013(rgb) _NETFX.jpg) 
-[[imgBadge]]| ![Web App](../badges/Certification-microsoft-developer-webapps.png)
-[[imgBadge]]| ![Sitefinity](../badges/Developer-sitefinity.png)
+[[imgBadge]]
+| ![MVP](../badges/Certification-microsoft-mvp.png)
+
+[[imgBadge]]
+| ![MCTS_2013(rgb)_NETFX.jpg](./Images/Bio/MCTS_2013(rgb) _NETFX.jpg)
+
+[[imgBadge]]
+| ![Web App](../badges/Certification-microsoft-developer-webapps.png)
+
+[[imgBadge]]
+| ![Sitefinity](../badges/Developer-sitefinity.png)
 
  Danijel is a DevOps mastermind who can make your DevOps cycle run like a well-oiled machine. With a wide range of technical skills and a deep desire to understand the client's business first, Danijel is the person you can always rely on to get the best solution.
 
@@ -24,7 +31,7 @@ With an eye on bleeding edge technologies, he is always one step ahead and love
 
    Some of his client projects include:  
 
-*   <strong style="line-height:18px;"> Carnival Australia - Cruise Control  
+*   **Carnival Australia - Cruise Control**  
 **Carnival Australia celebrated many successful projects with SSW over the last few years. Due to such a great partnership, they wanted SSW to support their Cruise Control application, which is one of the key websites for P&O. Danijel stepped in and took the project to the next level: besides coding Danij el transformed their processes and moved them from a ticketing system in SharePoint to Scrum with TFS. The month long release cycles were replaced with Continuous Delivery and fully automated deployments to production every few days.  
 Related Technologies: TFS, Octopus Deploy, ASP.NET WebAPI, ServiceStack</strong> 
 
@@ -42,8 +49,8 @@ Related Technologies: TFS
 *   **Brisbane Catholic Education - Student Protection**  
 SSW has built numerous applications for Brisbane Catholic Education including Student Protection. Student Protection is a system that handles all complex processes for protection of their students in a nice, modern web application powered by heavy workflows.  
 Related Technologies: ASP.NET MVC, AngularJS, SQL Server
-*   **IRI Aztec - MSI Setup  
-**Aztec's primary pain was in building and delivery of their software. Danijel customized their new TFS Build pipeline on TFS to produce 6 MSI Packages as part of the build. Each package now has a unique UI and product configuration logic.  
+*   **IRI Aztec - MSI Setup**  
+Aztec's primary pain was in building and delivery of their software. Danijel customized their new TFS Build pipeline on TFS to produce 6 MSI Packages as part of the build. Each package now has a unique UI and product configuration logic.  
 Related Technologies: TFS, Advanced Installer, PowerShell
 *   **PwC - Comply First Time**  
 PwC engaged SSW to help move their flagship business tax reporting platform from Access and SQL server to a modern Angular web application.  

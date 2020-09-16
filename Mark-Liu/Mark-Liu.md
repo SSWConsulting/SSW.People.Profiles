@@ -21,8 +21,7 @@ Mark's client projects:
 
 An intranet portal used to collaborate and share knowledge between different engineering groups.  
 Related Technology: Office SharePoint 2007 
-*   **
-    **WorleyParsons - IoP**** 
+*   **WorleyParsons - IoP** 
 
 An extranet portal that defines different work processes used by WorleyParsons and their partners. SSW assist in structuring the site and building custom web parts to provide two-way links between pages to assist navigation.  
 Related Technology: Office SharePoint 2007

@@ -8,19 +8,27 @@ quote:  "I believe in understanding people and technology. This combination has 
 ---
 
  
-   ![MVP](./Images/Bio/mvp.jpg) 
+[[imgBadge]]
+| ![MVP](./Images/Bio/mvp.jpg) 
   
-   ![Region Director](./Images/Bio/regionalDirector.jpg) 
-![MCP](./Images/Bio/MCP.png) 
-![MCP](./Images/Bio/csm.png) 
-![Certified Scrum Trainer](./Images/Bio/scrumtrainer.png) 
+[[imgBadge]]
+| ![Region Director](./Images/Bio/regionalDirector.jpg) 
+
+[[imgBadge]]
+| ![MCP](./Images/Bio/MCP.png) 
+
+[[imgBadge]]
+| ![MCP](./Images/Bio/csm.png) 
+
+[[imgBadge]]
+| ![Certified Scrum Trainer](./Images/Bio/scrumtrainer.png) 
 
 
- **Background  
- **Lei Xu is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in .NET solutions. He specializes in developing solutions with C#, VB.NET, ASP.NET, WinForms, WPF/WCF/WF, Windows Services, Reporting Services, SQL Server and Exchange Server. Lei is one of the few to work in both the Sydney and Beijing offices. Lei has been running the Beijing office since 2005 - so he is in charge of the day to day operation of the office, but spends most of his time taking the lead in the technical directions.  
+ **Background**
+ Lei Xu is a Senior Software Architect at SSW, a Microsoft Certified Partner specialising in .NET solutions. He specializes in developing solutions with C#, VB.NET, ASP.NET, WinForms, WPF/WCF/WF, Windows Services, Reporting Services, SQL Server and Exchange Server. Lei is one of the few to work in both the Sydney and Beijing offices. Lei has been running the Beijing office since 2005 - so he is in charge of the day to day operation of the office, but spends most of his time taking the lead in the technical directions.  
 
- **Work  
- **Lei has been a Microsoft Most Valuable Professional (MVP) for many years (since 2006). In fact his MVP specialities have crossed many technologies:
+ **Work** 
+ Lei has been a Microsoft Most Valuable Professional (MVP) for many years (since 2006). In fact his MVP specialities have crossed many technologies:
 
 *   Initially in Windows Networking (2006-2007) 
 *   Then in Windows Desktop Experience (2007-2008) 
@@ -42,8 +50,8 @@ Some of his major internal work includes:
  **Passion**  
  Lei is also a TechEd speaker and a frequent speaker at Microsoft (Beijing) .NET User Group, he is working closely with the management team of the .NET User Group to deliver many award winning courses covering cutting edge technologies, such as .NET Framework 3.0/3.5 (WCF/WF/WPF), Silverlight, SQL Server 2005/2008, SQL Reporting Services, IE 8.0, Windows Vista and Windows Server 2008.
 
- **Future Goals  
- **Right now, Lei's goals are:
+ **Future Goals**  
+Right now, Lei's goals are:
 
 *   Improving the project management processes by utilizing Visual Studio Team System and Team Foundation Server even more. 
 *   Delivering more business solutions while using SSW 

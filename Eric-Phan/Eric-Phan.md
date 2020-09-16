@@ -55,7 +55,7 @@ We've also helped PwC take this product global, brining it into the Malaysian, N
 
 Event Cinemas was looking to revamp their website with a new look and feel with the added ability to drive the site via a new CMS. SSW helped build the new website that integrated with their existing ticketing, loyalty and movie management system.   
 
-       [https://www.eventcinemas.com.au](https://www.eventcinemas.com.au/)  
+[https://www.eventcinemas.com.au](https://www.eventcinemas.com.au/)  
 **Case Study**: [https://www.ssw.com.au/ssw/Consulting/Case-Study/EventCinemas.aspx](https://www.ssw.com.au/ssw/Consulting/Case-Study/EventCinemas.aspx)  
 **Related Technology:** MVC 5, Sitefinity, SQL Server 2014, WebAPI  
 
@@ -117,7 +117,7 @@ This retailer was experiencing severe performance issues on their 10 year old we
 
 This large utilities company needed an automated and easy to use Rostering and Employee management system to replace their current spreadsheet based system. The system manages all the engineers across Australia.   
 
-       [https://www.energyaustralia.com.au](https://www.energyaustralia.com.au/)  
+[https://www.energyaustralia.com.au](https://www.energyaustralia.com.au/)  
 **Related Technology:** Silverlight, ASP.NET, Dynamic Data, LINQ to SQL, WCF REST, SQL Server, SQL Reporting Services  
 
 ---
