@@ -19,7 +19,9 @@ quote:  "If you look at something you did a year ago and can't think of a better
 [[imgBadge]]
 | [![cover_small.png](./Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013) 
 
-  
+
+---
+
  Damian is the Chief Architect and State Manager for QLD and is a Microsoft MVP in Visual Studio ALM.  
 
  With well over ten years of experience both in software development and business analysis roles, Damian has had exposure to a large number of industries including government and finance. A software architect with a wide skillset, he is able to use his excellent technical skills and knowledge of business process to deliver the most effective solutions to our clients.  
