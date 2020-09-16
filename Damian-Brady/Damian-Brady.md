@@ -7,10 +7,17 @@ qualifications:  "B.InfoTech (hons), MBA"
 quote:  "If you look at something you did a year ago and can't think of a better way to do it, it's not a sign you did it perfectly the first time, it's a sign you're not learning."
 ---
 
-[[imgBadge]]| ![MVP](../badges/Certification-microsoft-mvp.png)
-[[imgBadge]]| ![ALM](../badges/Certification-microsoft-developer-alm.png)
-[[imgBadge]]| ![Google Ads Mobile Awards](../badges/Certification-scrumorg-master-1.png) 
-   [![cover_small.png](./Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013) 
+[[imgBadge]]|
+ ![MVP](../badges/Certification-microsoft-mvp.png)
+
+[[imgBadge]]|
+ ![ALM](../badges/Certification-microsoft-developer-alm.png)
+
+[[imgBadge]]|
+ ![Google Ads Mobile Awards](../badges/Certification-scrumorg-master-1.png) 
+
+[[imgBadge]]
+| [![cover_small.png](./Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013) 
   
  Damian is the Chief Architect and State Manager for QLD and is a Microsoft MVP in Visual Studio ALM.  
 

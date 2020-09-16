@@ -7,19 +7,23 @@ qualifications:  "B.E. - Software Engineering, Certified Scrum Master"
 quote:  "There are 10 types of people in the world. Ones that understand binary and ones that don't."
 ---
 
-   
+[[imgBadge]]
+| ![](./Images/Bio/MCP.png) 
 
-## 
+[[imgBadge]]
+| ![](./Images/Bio/eric_msts.png) 
 
- ![](./Images/Bio/MCP.png) 
- ![](./Images/Bio/eric_msts.png) 
+[[imgBadge]]
+| ![](./Images/Bio/csm.png) 
 
+[[imgBadge]]
+| ![](./Images/Bio/scrumtrainer.png) 
+ 
+[[imgBadge]]
+| ![](./Images/Bio/psd.png) 
 
-##  
-      ![](./Images/Bio/csm.png) 
- ![](./Images/Bio/scrumtrainer.png) 
- ![](./Images/Bio/psd.png) 
- ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
+[[imgBadge]]
+| ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
     
 
 Eric is the ultimate Chief Architect. His wide range of technical skills, and deep knowledge of certain specialty technologies, mix well with his amiable manner and excellent communication skills.  
