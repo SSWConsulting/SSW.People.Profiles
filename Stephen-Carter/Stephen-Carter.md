@@ -7,8 +7,11 @@ qualifications:  "Professional Scrum Master"
 quote:  "Whether you think you can or think you can't, you're right."
 ---
 
-![psmi.jpg](./Images/Bio/psmi.jpg) 
- ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
+[[imgBadge]]
+| ![psmi.jpg](./Images/Bio/psmi.jpg) 
+
+[[imgBadge]]
+| ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
 
 
 Stephen Carter is a Senior Software Architect and the Victorian State Manager with SSW. He is a certified Professional Scrum Master with a background in business, transport, education, NFP/NGO and emergency services.   

@@ -36,13 +36,13 @@ quote:  "If you look at something you did a year ago and can't think of a better
 
 **Damian's client projects include:** 
 
-*   **Management Advantage - Mentoring and Development  
- **Management Advantage is a leading provider of aged care and clinical management software. Looking to move their legacy VB6 codebase to .Net and improve their software development process, they engaged SSW to help. Since coming on board, we've implemented an effective Scrum process, provided guidance on best practices for .Net development, and mentored the development team in both technical and process areas.
+*   **Management Advantage - Mentoring and Development**  
+ Management Advantage is a leading provider of aged care and clinical management software. Looking to move their legacy VB6 codebase to .Net and improve their software development process, they engaged SSW to help. Since coming on board, we've implemented an effective Scrum process, provided guidance on best practices for .Net development, and mentored the development team in both technical and process areas.
 
 *   **Australia Day Council website**  
 Damian worked on the public-facing website for the National Australia Day Council along with a handful of other SSW developers. Built on Umbraco with plenty of customization for search as well as submission and management of events, it has evolved into a very performant and effective site.
-*   **An Internal Management Application for a major electricity provider  
- **A long-running project, Damian came on board to help bring the software to completion.  Combining DynamicData, ASP.Net, and rich Silverlight interfaces, the solution was a powerful tool to help their management team. 
+*   **An Internal Management Application for a major electricity provider**  
+ A long-running project, Damian came on board to help bring the software to completion.  Combining DynamicData, ASP.Net, and rich Silverlight interfaces, the solution was a powerful tool to help their management team. 
 
 **Damian's other work includes:**  
 
