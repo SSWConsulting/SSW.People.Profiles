@@ -1,7 +1,8 @@
 ---
 id: "9194ace0-bb81-e011-8227-00155d012144"
 
-
+role: "Managers"
+jobTitle:  "Solution Architect, State Manager QLD"
 qualifications:  "Master of Software Development "
 
 quote:  "'fail fast', inspect, adapt, have a lot of fun.  "
