@@ -1,6 +1,7 @@
 ---
 id: "de6bc392-f459-dd11-b3a3-00155d012206"
-
+role: "Developers"
+jobTitle:  "Software Architect"
 qualifications:  "B.E. - Software Engineering"
 
 quote:  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."

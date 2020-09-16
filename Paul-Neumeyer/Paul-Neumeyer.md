@@ -1,6 +1,7 @@
 ---
 id: "010b3117-fd88-dd11-ac40-00155d01221b"
-
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "Ph.D., B.E. Computer Systems Engineering (Hons),  Cert. Scrum Master"
 
 quote:  "It is better to light a candle than to curse the darkness."

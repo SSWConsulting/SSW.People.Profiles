@@ -1,6 +1,7 @@
 ---
 id: "b06a67e8-f459-dd11-b3a3-00155d012206"
-
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "B.C.S.T - Computer Science and Technology "
 
 quote:  "Excellence is not a skill, it's an attitude."

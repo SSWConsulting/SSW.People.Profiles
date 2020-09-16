@@ -1,6 +1,7 @@
 ---
 id: "a6b85481-0d6e-e311-8103-00783af55a15"
-
+role: "Developers"
+jobTitle:  "software developer"
 qualifications:  "MCP, Information System Management"
 
 quote:  "The future belongs to those who believe in the beauty of their dreams."

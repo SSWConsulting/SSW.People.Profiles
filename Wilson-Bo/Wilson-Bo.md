@@ -1,6 +1,7 @@
 ---
 id: "7af9b2ef-4138-e211-a564-00783af55a15"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "MCP"
 
 quote:  "TFS + .NET"

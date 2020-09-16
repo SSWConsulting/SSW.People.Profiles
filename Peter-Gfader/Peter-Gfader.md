@@ -1,6 +1,7 @@
 ---
 id: "2c2b817b-8da4-dd11-b942-00155d01221b"
-
+role: "Developers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "MSc, Diplom Ingenieur, Dipl.Ing"
 
 quote:  "Carpe diem, et noctem."

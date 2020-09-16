@@ -1,6 +1,7 @@
 ---
 id: "7a229cee-f459-dd11-b3a3-00155d012206"
-
+role: "Designers"
+jobTitle:  "Web Designer"
 qualifications:  "B. Graphic Design"
 
 quote:  "I believe that great design is in the details and must support functionality."

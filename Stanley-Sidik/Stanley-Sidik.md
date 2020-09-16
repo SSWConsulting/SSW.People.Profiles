@@ -1,6 +1,7 @@
 ---
 id: "e21e6cdc-5844-e411-877f-00783af55a15"
-
+role: "Developers"
+jobTitle:  "System Administrator"
 qualifications:  "Bachelor of Information Systems"
 
 quote:  "Have you switched it off and on again?"
