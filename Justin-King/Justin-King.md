@@ -49,7 +49,8 @@ Travelled to Wellington to work with the great team of Intergen to assist in del
 
 Teaching entire course of SQL Server 2005 for Developers and Business Intelligence as a Short Course at the University of Technology Sydney. Justin has tought this course in complete twice over the past 2 years. Also teching the ASP.NET and Windows Forms Developer short course.
 
-User Group Presentations
+**User Group Presentations**
+
 * Code Camp 2009 April 2009 - 6 Design Patterns every Developer should know
 * Sydney .NET User Group March 2009 - 6 Design Patterns every Developer should know
 * Canberra .NET User Group March 2009 - Design Patterns every Developer should know
