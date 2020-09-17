@@ -54,7 +54,5 @@ Related technologies: MCV5, AngularJS, Kendo
 *   [duncanhunter.com.au/media/ ](https://duncanhunter.com.au/media/)   
 
  When he's not making software, he will likely be climbing a cliff face somewhere. He has climbed for the last 20 years with ascents of some of the tallest rocks in the world from Yosemite's El Capitan to Himalayan big walls in Pakistan. 
-  
-      **** 
 
  ![Duncan climbing on [Nameless Tower](http://en.wikipedia.org/wiki/Trango_Towers) in Pakistan](./Images/Bio/DuncanHunter-Climbing.png)  
