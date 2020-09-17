@@ -55,5 +55,5 @@ As a qualified Professional Scrum Developer, Gerard is capable of working as par
 **University of Technology Sydney** - Training  
 Delivered SharePoint 2010 CourseTopics included: Administration, Security, Deployment, Business Data Connectivity Services, Forms, Excel Services, Publishing, Work flows, Document Management, Search and Navigation  
 Delivered .NET CourseTopics included: MVC, Silverlight, AJAX, jQuery, SQL Server Reporting Services 
- 
+
 **Community**TFS [http://bit.ly/1hnAvT3](http://bit.ly/1hnAvT3) Software estimation [http://bit.ly/1hEWO1Z](http://bit.ly/1hEWO1Z)
