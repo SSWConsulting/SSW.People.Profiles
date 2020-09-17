@@ -21,16 +21,16 @@ Wilson is a Testing and Support Engineer at SSW. He specializes in VSTS, Windows
 
 **Wilson's clients:**
 
-*   **[**Microsoft China**](http://www.microsoft.com/)** - Worked with Microsoft China DPE on new technologies training and Windows Vista/7 compatibility support. There are hundreds of ISVs who benefit from Wilson’s professional knowledge on Windows Vista/7 compatibilities.   
+*   **[Microsoft China](http://www.microsoft.com/)** - Worked with Microsoft China DPE on new technologies training and Windows Vista/7 compatibility support. There are hundreds of ISVs who benefit from Wilson’s professional knowledge on Windows Vista/7 compatibilities.   
 
     Related Technology: VSTS, Windows 7/Vista. 
 **Wilson's internal projects:**
 
-*   **[**SSW for Agile Template**](http://www.ssw.com.au/ssw/Download/ProdBasket.aspx?ID=AT)**- A VSTS process template by SSW. This template is based on MSF for Agile process.  
+*   **[SSW for Agile Template](http://www.ssw.com.au/ssw/Download/ProdBasket.aspx?ID=AT)**- A VSTS process template by SSW. This template is based on MSF for Agile process.  
 
     Related Technology: SQL Server Reporting Service, XML, Visual Studio Team System.
 
-*   **[**SSW Diagnostics**](http://www.ssw.com.au/ssw/diagnostics/)** - This simple, powerful and effective utility keeps your system up to date, and helps to resolve intricate software compatibility issues. To aid our developers in analyzing software related issues, it helps if we collect some basic information about your system. This utility will help you collect the relevant information easily.   
+*   **[SSW Diagnostics](http://www.ssw.com.au/ssw/diagnostics/)** - This simple, powerful and effective utility keeps your system up to date, and helps to resolve intricate software compatibility issues. To aid our developers in analyzing software related issues, it helps if we collect some basic information about your system. This utility will help you collect the relevant information easily.   
 
     Related Technology: C#, XML, SQL Server 2008.
 

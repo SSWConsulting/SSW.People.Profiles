@@ -10,7 +10,7 @@ quote:  "Keep trying, don't give up easily!"
 
 Bao's background is in Accounting and Administration. He has over 18 years of working  experience in an administration or business related role. He is a versatile member of SSW since September 2005.   
 
-**His responsibilites at SSW are: **  
+**His responsibilites at SSW are:**  
 
 *   Checking of Developers' diaries.
 *   Checking on the Accountant.

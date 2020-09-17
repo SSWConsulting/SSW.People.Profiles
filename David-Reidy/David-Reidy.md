@@ -13,4 +13,4 @@ David Reidy is a Senior Database Architect at SSW, a Microsoft Certified Partner
 
 When not programming David is also a PADI Master Scuba Diving Instructor and is the author of three books on amateur astronomy, two of which became best-sellers.
 
-His favourite quote is *"All of us are in the gutter, but some of us are looking at the stars". *
+His favourite quote is *"All of us are in the gutter, but some of us are looking at the stars".*
