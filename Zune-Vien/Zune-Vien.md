@@ -7,10 +7,8 @@ qualifications:  "B.E. - Software Engineering"
 quote:  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
 ---
 
-  
-
- ![](./Images/Bio/DynamicsS(rgb) 
-_1135_1133_1134.jpg)   
+[[imgBadge]]
+| ![](./Images/Bio/DynamicsS(rgb)_1135_1133_1134.jpg)   
 
  Zune is a Software Architect at SSW. He specializes in developing solutions with Microsoft Dynamics CRM, C#, ASP.NET, ASP.NET MVC and SQL Server.  
 

@@ -7,25 +7,26 @@ qualifications:  "B Eng of Computer Science and Technology"
 quote:  "Innovative thinking is the best way to gain market share."
 ---
 
-  ![Microsoft MVP - Team System](./Images/Bio/mvplogo.gif) 
+[[imgBadge]]
+| ![Microsoft MVP - Team System](./Images/Bio/mvplogo.gif) 
 
 
 MVP - Microsoft Most Valuable Professional  
- MTO - Microsoft TechNet Observer
+MTO - Microsoft TechNet Observer
 
 Wilson is a Testing and Support Engineer at SSW. He specializes in VSTS, Windows 7/Vista compatibility support, and .NET development. He is responsible for SSW Diagnostics and the SSW Agile Template for VSTS.  
  Wilson is also a TechEd 2008 China speaker and MSDN Webcast speaker.
 
-**<font size="4">Work</font>**
+**Work**
 
-**Wilson's clients: **
+**Wilson's clients:**
 
 *   **[**Microsoft China**](http://www.microsoft.com/ "Microsoft China")** - Worked with Microsoft China DPE on new technologies training and Windows Vista/7 compatibility support. There are hundreds of ISVs who benefit from Wilson’s professional knowledge on Windows Vista/7 compatibilities.   
 
     Related Technology: VSTS, Windows 7/Vista. 
-**Wilson's internal projects: **
+**Wilson's internal projects:**
 
-*   **[**SSW for Agile Template**](http://www.ssw.com.au/ssw/Download/ProdBasket.aspx?ID=AT "SSW for Agile Template") **- A VSTS process template by SSW. This template is based on MSF for Agile process.  
+*   **[**SSW for Agile Template**](http://www.ssw.com.au/ssw/Download/ProdBasket.aspx?ID=AT "SSW for Agile Template")**- A VSTS process template by SSW. This template is based on MSF for Agile process.  
 
     Related Technology: SQL Server Reporting Service, XML, Visual Studio Team System.
 

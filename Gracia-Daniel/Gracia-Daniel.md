@@ -11,12 +11,12 @@ Gracia is a Software Developer at SSW. She specializes in developing solutions w
 
 Gracia's client projects: 
 
-*   **Queensland Water Infrastructure Pty Ltd **(QWI) is managing several major water infrastructure projects that will supply significant additional water to South East Queensland (SEQ).  
+*   **Queensland Water Infrastructure Pty Ltd**(QWI) is managing several major water infrastructure projects that will supply significant additional water to South East Queensland (SEQ).  
 
     Related Technology:   SQL Server, MS Access
 
 Gracia's internal projects: 
 
-*   **SSW SQL Auditor **is a DB Auditing Tool that can perform a SQL database audit and assist with SQL Server performance tuning.  
+*   **SSW SQL Auditor** is a DB Auditing Tool that can perform a SQL database audit and assist with SQL Server performance tuning.  
 
     Related Technology:  VB.NET, SQL Server 
