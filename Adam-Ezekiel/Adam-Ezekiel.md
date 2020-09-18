@@ -1,6 +1,8 @@
 ---
 id: "0cfcee4d-5259-de11-b918-00155d01ec01"
 
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "B.Comp. Sci. (Bond), Grad. Cert. Management (AGSM)"
 
 quote:  ""

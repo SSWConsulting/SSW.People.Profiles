@@ -1,6 +1,7 @@
 ---
 id: "6a229cee-f459-dd11-b3a3-00155d012206"
-
+role: "Admin"
+jobTitle:  "Assistant Financial Controller"
 qualifications:  "B. Science, M. Commerce, M. Economics"
 
 quote:  "If it does not kill you, it will make you stronger."

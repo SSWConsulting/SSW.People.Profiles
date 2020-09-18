@@ -1,6 +1,7 @@
 ---
 id: "c1b2ee52-7630-dd11-bbde-00155d012229"
-
+role: "Developers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "Assoc. Dip. Computer Applications & Development"
 
 quote:  ""

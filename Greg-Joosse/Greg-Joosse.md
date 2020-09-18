@@ -1,6 +1,7 @@
 ---
 id: "beead0a9-fdbf-dd11-8569-00155d01221b"
-
+role: "Developers"
+jobTitle:  "Network Administrator"
 qualifications:  ""
 
 quote:  ""

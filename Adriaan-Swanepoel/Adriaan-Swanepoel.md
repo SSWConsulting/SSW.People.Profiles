@@ -1,12 +1,15 @@
 ---
 id: "f4a04bbd-cadc-e411-aeb0-00783af55a15"
 
+role: "Developers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "Dip Computer Science"
 
 quote:  " Nothing is too complex to do, usually different people have already solved the parts, you just need to glue their solutions into one."
 ---
 
-![FireBootCamp-Logo.png](./Images/Bio/FireBootCamp-Logo.png) 
+[[imgBadge]]
+| ![FireBootCamp-Logo.png](./Images/Bio/FireBootCamp-Logo.png) 
  
 
 Adriaan is a Senior Software Architect at SSW.

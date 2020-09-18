@@ -1,7 +1,7 @@
 ---
 id: "2b1a5dbc-f107-e511-94df-00783af55a15"
-
-
+role: "Developers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "B.InfTech (Accl), M.InfTech"
 
 quote:  "Strong Opinions, Weakly Held."

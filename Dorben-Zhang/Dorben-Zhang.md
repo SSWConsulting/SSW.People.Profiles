@@ -1,17 +1,18 @@
 ---
 id: "60933847-a81e-e311-8151-00783af55a15"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer "
 qualifications:  "Microsoft MCP"
 
 quote:  "Work hard leads to decent living"
 ---
 
-![MCPicon.png](./Images/Bio/MCPicon.png) 
-Microsoft MCP - Programming in HTML5 with JavaScript and CSS3  
-![MCPicon.png](./Images/Bio/MCPicon.png) 
-Microsoft MCP - Administering Visual Studio Team Foundation Server 2012  
-![MCPicon.png](./Images/Bio/MCPicon.png) 
-Microsoft MCP - Delivering Continuous Value With Visual Studio 2012 Application Lifecycle Management  
+![Microsoft MCP - Programming in HTML5 with JavaScript and CSS3](./Images/Bio/MCPicon.png) 
+ 
+![Microsoft MCP - Administering Visual Studio Team Foundation Server 2012  ](./Images/Bio/MCPicon.png) 
+
+![Microsoft MCP - Delivering Continuous Value With Visual Studio 2012 Application Lifecycle Management](./Images/Bio/MCPicon.png) 
+  
 
 Dorben loves new techs and meant to bring them into our daily life, especially loves Arduino, but now have not invent anything.
 

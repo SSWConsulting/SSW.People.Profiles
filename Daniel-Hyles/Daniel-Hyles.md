@@ -1,7 +1,7 @@
 ---
 id: "c86a67e8-f459-dd11-b3a3-00155d012206"
-
-
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "Dip IT MCP"
 
 quote:  "Share your knowledge. It's the way to achieve immortality"
@@ -17,7 +17,7 @@ Daniel also helps many clients and SSW with network administration. Daniel helps
 
 Some recent clients include:
 
-*   **Chubb **([www.chubb.com.au](http://www.chubb.com.au/))  
+*   **Chubb**([www.chubb.com.au](http://www.chubb.com.au/))  
 Massive optimisation work on slow intranet/payroll site.  
 Related Technology: ASP.NET 2.0 Application, SQL Server 2005
 *   **Estate Master** ([www.estatemaster.net](http://www.estatemaster.net/))  
@@ -26,10 +26,10 @@ Related Technology: ASP.NET 2.0 Application, VB.NET Application, SQL Server 2000
 *   **Westbus/Comfort Delgro Cabcharge** ([www.cdcbus.com.au](http://www.cdcbus.com.au/))  
 Data collaboration into SQL from many legacy database systems, Charter booking system, Customer service system  
 Related Technology: SQL Reporting Services, OLAP, ASP.NET
-*   ** Sortstec** ([www.sportstec.com](http://www.sportstec.com/Profile_About_Sportstec.htm))  
+*   **Sortstec** ([www.sportstec.com](http://www.sportstec.com/Profile_About_Sportstec.htm))  
 High Definition Video upload/Download site, Game coding logging device for PDAs  
 Related Technology: C# PDA Application, ASP.NET Application, Web Services
-*   **Grays Online **([www.graysonline.com](http://www.graysonline.com/))  
+*   **Grays Online**([www.graysonline.com](http://www.graysonline.com/))  
 Warehousing PDA barcode system  
 Related Technology: C# PDA Application, Web Services
 *   **Quicken** (Micrcosoft Work Smart Tag plug-in)

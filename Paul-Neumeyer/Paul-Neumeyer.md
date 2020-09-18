@@ -1,15 +1,15 @@
 ---
 id: "010b3117-fd88-dd11-ac40-00155d01221b"
-
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "Ph.D., B.E. Computer Systems Engineering (Hons),  Cert. Scrum Master"
 
 quote:  "It is better to light a candle than to curse the darkness."
 ---
 
 ## 
-    [
-      ![](./Images/Bio/scrumtrainer.png) 
- ](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx)
+[[imgBadge]]
+| [![](./Images/Bio/scrumtrainer.png)](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx)
 
 Key Technologies: **[SharePoint 2010](http://www.ssw.com.au/ssw/Consulting/SharePoint.aspx), [Team Foundation Server 2010](http://www.ssw.com.au/ssw/Consulting/ALM.aspx), [ASP.NET](http://www.ssw.com.au/ssw/Consulting/WebsiteDevelopment.aspx)**  
  Customer Benefits: **Improved project management and optimised developement processes**  
@@ -23,31 +23,31 @@ Dr. Paul Neumeyer is the go to man when your project is in trouble. He experienc
 
 Paul's client projects have included:
 
-*   **DispatchKing  
+*   **DispatchKing**  
 
-    **Related Technology: ASP.NET MVC 2, Silverlight 4.0, SQL Server 2008, AJAX, jQuery 
-*   **Energetics  
+    Related Technology: ASP.NET MVC 2, Silverlight 4.0, SQL Server 2008, AJAX, jQuery 
+*   **Energetics**  
 
-    **Related Technology: ASP.NET 4.0, SQL Server 2008, AJAX, jQuery 
-*   **SDN  
+    Related Technology: ASP.NET 4.0, SQL Server 2008, AJAX, jQuery 
+*   **SDN**  
 
-    **Related Technology: CRM 4.0, SQL Server 2008 
+    Related Technology: CRM 4.0, SQL Server 2008 
 *   **NRMA**   
 
     Built an online system for their community grants program where participating organisations register and submit their applications. Provide a nice Reporting Portal to round it off. NRMA staff then manage and process the applications.   
 
     Related Technology: ASP.NET Dynamic Data, SQL Server 2008 R2, SQL Reporting Services, AJAX, jQuery 
-*   **PDS  
+*   **PDS**  
 
-    **Built a desktop and PDA management system for industrial sites.  
+    Built a desktop and PDA management system for industrial sites.  
 
     Related Technology: Windows Forms 4.0, SQL Server 2008 R2, Windows Mobile 6.5 + SQL Compact (PDA) 
-*   **Johnson & Johnson Medical **is a well known global enterprise. This project was to architect a SharePoint intranet for their centres through out Australia, New Zealand and the Asia Pacific region   
+*   **Johnson & Johnson Medical** is a well known global enterprise. This project was to architect a SharePoint intranet for their centres through out Australia, New Zealand and the Asia Pacific region   
 
     Related Technology: SharePoint 2010 MOSS Enterprise, Strategy, Information Architecture 
-*   **[FastAs](http://www.ssw.com.au/ssw/Company/OurClients.aspx#FastAS)   
+*   **[FastAs](http://www.ssw.com.au/ssw/Company/OurClients.aspx#FastAS)**   
 
-    **Worked with this startup providing directories services with a unique escrow technique to maintain the privacy of the listed people and businesses  
+    Worked with this startup providing directories services with a unique escrow technique to maintain the privacy of the listed people and businesses  
 
     Related Technology: ASP.NET 4.0, SQL Server 2008 R2, SSIS ETL with a large 500GB Database 
 *   **UTS SharePoint**   
@@ -55,27 +55,27 @@ Paul's client projects have included:
     Developed and delivered the 'UTS Short Course'   
 
     Related Technology: SharePoint 2010, SQL Server 2008 R2, ASP.NET 4.0 
-*   **[McDonalds Asia Pacific](http://www.ssw.com.au/ssw/Company/OurClients.aspx#McDonaldsAsiaPacific)   
+*   **[McDonalds Asia Pacific](http://www.ssw.com.au/ssw/Company/OurClients.aspx#McDonaldsAsiaPacific)**   
 
-    **A part of the McDonalds enterprise that provides meat inventory and logistics to the Asia Pacific region.  
+    A part of the McDonalds enterprise that provides meat inventory and logistics to the Asia Pacific region.  
 
     Related Technology: Web Services, integration with Great Plains, XML, Windows Forms, Access and SQL Server 2008. 
-*   **Westlink   
+*   **Westlink**   
 
-    **Worked with a young and forward-thinking team building a property and valuation system. This enabled them to provide unbiased, up-to-date and effective property advice and valuations.  
+    Worked with a young and forward-thinking team building a property and valuation system. This enabled them to provide unbiased, up-to-date and effective property advice and valuations.  
 
     Related Technology: ASP.NET 4.0, SQL Server 2008 
 *   **Nycomed** is a global pharmacutical company. Built a verified medical information system to record medical enquires, adverse event reports and related documents/communication.   
 
     Related Technology: SharePoint 2010, SQL Server 2008, jQuery 
-*   **[Queensland Water](http://www.ssw.com.au/ssw/Company/OurClients.aspx#QueenslandWaterInfrastructure)   
+*   **[Queensland Water](http://www.ssw.com.au/ssw/Company/OurClients.aspx#QueenslandWaterInfrastructure)**   
 
-    **Helped manage several major water infrastructure projects that will supply significant additional water to South East Queensland.  
+    Helped manage several major water infrastructure projects that will supply significant additional water to South East Queensland.  
 
     Related Technology: SharePoint 2010 (+ upgrade from MOSS and WSS), ASP.NET 2.0, SQL Server 2008 R2 
-*   **Magenta Linas  
+*   **Magenta Linas**  
 
-    **Related Technology: SharePoint 2010, SQL Server 2008, Search Server 2008, ASP.NET MVC 
+    Related Technology: SharePoint 2010, SQL Server 2008, Search Server 2008, ASP.NET MVC 
 
 Paul's internal projects:
 

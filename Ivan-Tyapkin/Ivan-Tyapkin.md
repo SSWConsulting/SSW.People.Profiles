@@ -1,6 +1,7 @@
 ---
 id: "e10885cb-139a-e511-80c4-00155d012c15"
-
+role: "Developers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "B.Tech., Dipl.-Ing., MCSD"
 
 quote:  "Failing to plan is planning to fail, but responding to change over following a plan"

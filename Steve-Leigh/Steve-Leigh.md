@@ -1,6 +1,7 @@
 ---
 id: "e084023e-11b4-e511-80c4-00155d012c15"
-
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "Bachelor of IT, Bachelor of Mathematics"
 
 quote:  "Code cleanly to ship quickly"

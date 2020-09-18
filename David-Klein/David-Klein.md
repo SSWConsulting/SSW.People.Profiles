@@ -37,6 +37,6 @@ David's clients include:
 *   **[www.bigbuckstrivia.com](http://www.bigbuckstrivia.com/)** (Gaming Web Site in ASP.NET 2.0) 
 *   **System 77 (POS systems)** (Winforms .NET 1.1)
 *   **Pisces Communications** (Audits of VB6 and Java Swing Applications for Loan Brokers)
-*   
+ 
 
 At SSW, David oversees technical review, design and development on key SSW projects. David develops SSW training course-ware, and has spoken at the Sydney .NET User Group and conducts hands-on training with clients. He also develops internal products such as SSW eXtreme Emails. 

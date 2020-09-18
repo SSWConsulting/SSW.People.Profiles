@@ -1,6 +1,7 @@
 ---
 id: "19c5781c-7f60-de11-a8d4-00155d01ec01"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "Master of Computer Science"
 
 quote:  "Do it, take it."
@@ -19,6 +20,6 @@ Luke's internal projects:
 *   **SSW Website** SSW's official website. Helped to upgrade our website form ASP.NET 2.0 TO ASP.NET 3.5, Fixed sync. problems among different servers and TFS.  
 
     Related Technology: XML,ASP.NET 3.5,C#,VB.NET,Web Service,TFS 
-*   **SSW Diagnostics **SSW Diagnostics is a simple, powerful and effective utility keeps your system up to date, and helps to resolve intricate software compatibility issues.   
+*   **SSW Diagnostics** SSW Diagnostics is a simple, powerful and effective utility keeps your system up to date, and helps to resolve intricate software compatibility issues.   
 
     Related Technologies: C#, SQL Server, Windows Form, XML, XSL 

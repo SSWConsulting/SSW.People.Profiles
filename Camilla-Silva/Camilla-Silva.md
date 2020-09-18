@@ -1,6 +1,6 @@
 ---
 id: "921759b8-e2ed-e811-8192-00155d01222b"
-
+role: "Admin"
 qualifications: "Bachelor of Business Management, MBA in Business Strategic Management"
 
 quote: "You know you are on the road to success if you would do your job, and not be paid for it."

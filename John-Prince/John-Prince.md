@@ -13,4 +13,4 @@ John Prince is a Database Developer at SSW, a Microsoft Certified Partner specia
 
 He is no longer scared of DLL Hell and related distribution problems, but loves working with .NET.
 
-His favourite quote is *"Never give up" *
+His favourite quote is *"Never give up"*

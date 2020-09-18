@@ -1,7 +1,7 @@
 ---
 id: "d46a67e8-f459-dd11-b3a3-00155d012206"
-
-
+role: "Developers"
+jobTitle:  "Architectural Consultant"
 qualifications:  "Masters of Science"
 
 quote:  ""

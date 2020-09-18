@@ -1,6 +1,7 @@
 ---
 id: "108b04d6-55c1-e011-836a-00155d012914"
-
+role: "Designers"
+jobTitle:  "Multimedia Producer"
 qualifications:  "Bachelor of Film & Television"
 
 quote:  "\"An effective video combined with a well structured marketing strategy can not only create brand awareness on a whole new level, but can have the power to change the world\""

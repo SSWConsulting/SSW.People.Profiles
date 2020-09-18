@@ -1,6 +1,7 @@
 ---
 id: "84568c4d-3a53-e411-a323-00783af55a15"
-
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "Bachelor of Information Technology"
 
 quote:  "You don't find buried treasure by sitting down."
@@ -14,7 +15,7 @@ Chris is a Senior Software Developer, who heads up IoT at SSW . Based in Brisban
 *   Chris worked on a software devolvement project that was demonstrated to a number of large companies in Jarkata, under the new Colombo plan
 *   Three month internship with the Department of Defence, working with the Vulnerability Research team on a successful research project culminating in a presentation to Defence Executives. 
 
-      <strong style="line-height:24px;">Chris's responsibilities include:**  
+**Chris's responsibilities include:**  
 
 *   Organising Hack Days
 *   PiStriker Development
@@ -35,4 +36,4 @@ Chris is a Senior Software Developer, who heads up IoT at SSW . Based in Brisban
 
 *   Technologies used: A wide range of different penetration testing tools including MetaSploit. 
 
-      [Click here for a full list of Chris' past presentations & interviews.](http://blog.chrisbriggsy.com/about/)</strong>
+[Click here for a full list of Chris' past presentations & interviews.](http://blog.chrisbriggsy.com/about/)

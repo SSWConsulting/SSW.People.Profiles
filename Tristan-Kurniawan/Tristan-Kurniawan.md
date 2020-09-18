@@ -1,6 +1,7 @@
 ---
 id: "7e229cee-f459-dd11-b3a3-00155d012206"
-
+role: "Designers"
+jobTitle:  "Senior Web Designer"
 qualifications:  "Bachelor of Information Technology"
 
 quote:  "Give the user what they want, not what they say they want."

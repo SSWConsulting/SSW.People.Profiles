@@ -1,6 +1,7 @@
 ---
 id: "cdc67524-c518-e711-80d4-00155d01225d"
-
+role: "Developers"
+jobTitle:  "Software Developer"
 qualifications:  "Bachelor of Computer Science"
 
 quote:  "Practice makes perfect."

@@ -1,16 +1,24 @@
 ---
 id: "3608c21c-7a38-e411-877e-00783af55a15"
-
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "Bachelor in Computer Science, Microsoft Certified Professional Developer, Microsoft Certified Technology Specialist, Microsoft Certified Solutions Developer"
 
 quote:  "Never give not having time as an excuse not to do something. Set your priorities and goals and you'll find out that a day may have 48 hours"
 ---
 
 
- ![azure-logo.png](./Images/Bio/azure-logo.png) 
-![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png) 
- ![Special_ProgHTML5_Blk.png](./Images/Bio/Special_ProgHTML5_Blk.png) 
- ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
+[[imgBadge]]
+| ![azure-logo.png](./Images/Bio/azure-logo.png) 
+
+[[imgBadge]]
+| ![MCSD_ShareApp_Blk.png](./Images/Bio/MCSD_ShareApp_Blk.png) 
+ 
+[[imgBadge]]
+| ![Special_ProgHTML5_Blk.png](./Images/Bio/Special_ProgHTML5_Blk.png) 
+
+[[imgBadge]]
+| ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
  
 
 Let's start with his personal profile. He's Brazilian which by itself already makes him awesome. He loves dancing, and he's good at it but hasn't been doing it lately as he barely has any free time apart from watching his kids play and laugh.  
@@ -23,13 +31,13 @@ Thiago has over 10 years of experience in the IT industry in a wide range of tec
 
 *   **Angular:** The current favorite  
 
-*   **ASP.NET MVC**: Microsoft Certified Professional  
+*   **ASP.NET MVC:** Microsoft Certified Professional  
 
-*   **SharePoint: **he's been working with it since 2009. He's a Microsoft Certified Solutions Developer in SharePoint 2013, Microsoft Certified Professional Developer in SharePoint 2010 and enthusiast in SharePoint 2016  
+*   **SharePoint:** **he's been working with it since 2009. He's a Microsoft Certified Solutions Developer in SharePoint 2013, Microsoft Certified Professional Developer in SharePoint 2010 and enthusiast in SharePoint 2016  
 
 *   **SQL**: he's been working with it for as long as he can remember  
 
-*   **HTML, JS, CSS, KendoUI**: Thiago is not a designer, but this doesn't stop him from knowing a lot about HTML, CSS and client script, which makes him a great asset to implement a design    
+*   **HTML, JS, CSS, KendoUI:** Thiago is not a designer, but this doesn't stop him from knowing a lot about HTML, CSS and client script, which makes him a great asset to implement a design    
 
 Before joining SSW, Thiago worked for a consultancy company in Melbourne. There he specialized in SharePoint development and infrastructure. Over the last 5 years, Thiago has focused on assisting clients with:
 

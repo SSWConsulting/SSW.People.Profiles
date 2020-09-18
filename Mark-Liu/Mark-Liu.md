@@ -1,6 +1,7 @@
 ---
 id: "b06a67e8-f459-dd11-b3a3-00155d012206"
-
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "B.C.S.T - Computer Science and Technology "
 
 quote:  "Excellence is not a skill, it's an attitude."
@@ -20,8 +21,7 @@ Mark's client projects:
 
 An intranet portal used to collaborate and share knowledge between different engineering groups.  
 Related Technology: Office SharePoint 2007 
-*   **
-    **WorleyParsons - IoP**** 
+*   **WorleyParsons - IoP** 
 
 An extranet portal that defines different work processes used by WorleyParsons and their partners. SSW assist in structuring the site and building custom web parts to provide two-way links between pages to assist navigation.  
 Related Technology: Office SharePoint 2007

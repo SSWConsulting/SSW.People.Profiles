@@ -1,6 +1,7 @@
 ---
 id: "36d35ef3-c418-e711-80d4-00155d01225d"
-
+role: "Developers"
+jobTitle:  "Software Developer"
 qualifications:  "Bachelor of Computer Science"
 
 quote:  "if you can't explain it simply, you don't understand it well enough"

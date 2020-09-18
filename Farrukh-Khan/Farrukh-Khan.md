@@ -1,6 +1,7 @@
 ---
 id: "f2eadf45-3387-e511-80c4-00155d012c15"
-
+role: "Designers"
+jobTitle:  "Senior Web Designer"
 qualifications:  "B.Sc - Computer Science, M.Sc - Information Technology"
 
 quote:  "Logic will get you from  A to Z; imagination will get you everywhere"

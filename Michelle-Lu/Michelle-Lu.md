@@ -1,6 +1,7 @@
 ---
 id: "1a90550d-5677-e311-8103-00783af55a15"
-
+role: "Admin"
+jobTitle:  "BJ Accountant"
 qualifications:  ""
 
 quote:  "Work hard, play hard"
@@ -14,6 +15,6 @@ Daily financial issues including bookkeeping, financial reports, tax declaration
 
 Master in accounting, 7-year working experiences in finance including,
 
- [Sun Microsystems]: focusing on GL bookkeeping; inter-company transactions;
+ **Sun Microsystems**: focusing on GL bookkeeping; inter-company transactions;
 
- [Ogilvy Group]: focusing on group financial analysis; implementing financial software, leading the requirements analysis and UAT;
+ **Ogilvy Group**: focusing on group financial analysis; implementing financial software, leading the requirements analysis and UAT;

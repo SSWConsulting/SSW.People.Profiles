@@ -1,6 +1,7 @@
 ---
 id: "e858a296-a243-e411-877f-00783af55a15"
-
+role: "Developers"
+jobTitle:  "Software Architect"
 qualifications:  "BSc Computing and Information Systems"
 
 quote:  "“Truth can only be found in one place: the code.” "

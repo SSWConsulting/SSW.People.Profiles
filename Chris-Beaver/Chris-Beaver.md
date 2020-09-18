@@ -1,6 +1,7 @@
 ---
 id: "34e4d606-2c18-e811-80fb-00155d012c01"
-
+role: "Developers"
+jobTitle:  "Software Architect"
 qualifications:  "Bachelor of Information Technology"
 
 quote:  "The best teams make their members feel safe to take risks, ask questions and to be themselves. "
