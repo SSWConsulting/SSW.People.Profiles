@@ -25,7 +25,7 @@ https://sugarlearning.com
 ### June 2012 – May 2014 (2 years)Sydney, Australia
 
 #### 
-[Software Developer/Architect (Front Office, Debt Market/Credit Derivatives)](https://www.linkedin.com/title/software-developer/architect-%28front-office%2c-debt-market/credit-derivatives%29?trk=mprofile_title)
+Software Developer/Architect (Front Office, Debt Market/Credit Derivatives)
 
 ##### 
 Westpac Institutional Bank](https://www.linkedin.com/company/2731362?trk=prof-exp-company-name)
