@@ -7,7 +7,7 @@ qualifications:  "Bachelor of IT, MCSD: Web Applications"
 
 quote:  "​​I build web applications that are lightning fast and dressed to impress."
 ---
- [[imgBadge]]
+[[imgBadge]]
 | ![Sitefinity](../badges/Certification-microsoft-developer-webapps.png) 
 
 [[imgBadge]]
