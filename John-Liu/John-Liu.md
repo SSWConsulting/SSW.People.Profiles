@@ -40,5 +40,5 @@ His major clients over the past years have been:
 **Future**
 
 *   Show the world the best content-driven SharePoint site - SSW Rules 
-*   Share the best tips on SharePoint with the world - via our [rules to better SharePoint](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/Pages/Default.aspx "Rules to Better SharePoint") 
+*   Share the best tips on SharePoint with the world - via our [rules to better SharePoint](https://rules.ssw.com.au/rules-to-better-sharepoint) 
 *   Windows Phone 7 development with Silverlight 
