@@ -61,8 +61,7 @@ Jernej's client projects include:
 [[imgSm]]
 | ![](./Images/Bio/Allianz_logo_logotype.png)
 
-**Allianz Australia**  
-The project focus was building a B2B and B2C web application using micro-services, and service buses, using Angular with ngrx and .NET Core.
+**Allianz Australia** - The project focus was building a B2B and B2C web application using micro-services, and service buses, using Angular with ngrx and .NET Core.
 
 Additionally, we were responsible for developing systems for 3rd parties to integrate with, creating a  flexible website that can display dynamic content for Allianz partners.
 
@@ -72,8 +71,8 @@ Additionally, we were responsible for developing systems for 3rd parties to inte
 
 [[imgSm]]
 | ![](./Images/Bio/d_ir_video_4_213c78534d79be0271befa34ca744fa7.jpg)
-**Banpu**  
-Banpu engaged SSW to develop a PWA application that can be used online and offline in various situations. We have worked with several different teams from different countries and parts of Australia, and the main focus for SSW was delivering micro-services, offline and syncing capabilities of the PWA application, a desktop administration website, the mobile UX animations, and migrating data from Excel spreadsheets. We delivered all of the features with high code coverage with unit and component tests.
+
+**Banpu** engaged SSW to develop a PWA application that can be used online and offline in various situations. We have worked with several different teams from different countries and parts of Australia, and the main focus for SSW was delivering micro-services, offline and syncing capabilities of the PWA application, a desktop administration website, the mobile UX animations, and migrating data from Excel spreadsheets. We delivered all of the features with high code coverage with unit and component tests.
 
 **Related Technologies**: React, PWA, CosmosDB, NodeJS, .NET Core
 
@@ -82,8 +81,7 @@ Banpu engaged SSW to develop a PWA application that can be used online and offli
 [[imgSm]]
 | ![](./Images/Bio/LongServiceCorporation.gif)
 
-**Long Service Corporation**  
-Long Service Corporation engaged SSW to redesign and refactor their Worker Portal application, used by workers to download their statements. This application will be extended to include claims for workers. The new software design of the application includes multiple services that can be shared between projects.
+**Long Service Corporation** engaged SSW to redesign and refactor their Worker Portal application, used by workers to download their statements. This application will be extended to include claims for workers. The new software design of the application includes multiple services that can be shared between projects.
 
 **Related Technologies**: ASP.Net MVC, Entity Framework, WebAPI, TypeScript, jQuery
 
@@ -92,8 +90,7 @@ Long Service Corporation engaged SSW to redesign and refactor their Worker Por
 [[imgSm]]
 | ![](./Images/Bio/infomedia-logo.png)
 
-**Infomedia**  
-The project consisted of upgrading applications to a newer version of the Angular framework which resulted in improving the overall application performance for users.
+**Infomedia** - The project consisted of upgrading applications to a newer version of the Angular framework which resulted in improving the overall application performance for users.
 
 **Related Technologies**: Angular, TypeScript
 
