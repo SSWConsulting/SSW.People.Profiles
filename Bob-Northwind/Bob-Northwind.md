@@ -111,7 +111,7 @@ _italic_ or _italic_
 [[imgSm]]
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
-[[imglogo]]
+[[imgLogo]]
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
@@ -131,7 +131,7 @@ _italic_ or _italic_
 [[imgSm]]
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
-[[imglogo]]
+[[imgLogo]]
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
