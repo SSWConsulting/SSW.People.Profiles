@@ -111,6 +111,9 @@ _italic_ or _italic_
 [[imgSm]]
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
+[[imglogo]]
+| ![Small image](./Images/Bio/cat_computer.jpg)
+
 [[imgBadge]]
 | ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
 ```
@@ -126,6 +129,9 @@ _italic_ or _italic_
 | ![Medium image](./Images/Bio/cat_computer.jpg)
 
 [[imgSm]]
+| ![Small image](./Images/Bio/cat_computer.jpg)
+
+[[imglogo]]
 | ![Small image](./Images/Bio/cat_computer.jpg)
 
 [[imgBadge]]
