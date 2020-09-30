@@ -57,8 +57,8 @@ Some of Adam's career highlights have been:
 - Being lead developer on Australia's first live ASP.NET site - using a version that was pre-Beta 
 - Developing the Office integration for Quicken Australia 
 - Developing the Reporting samples for Microsoft that turned into a hugely popular Email Reporting Tool 
-- Developing the SharePoint site for Worley Parsons which was the largest public facing site at the time (it used the built in Web Content Management features, proving the SharePoint Platform for all companies) 
-- His dual role as mentor and "Bob the Product Owner" at the first ever FireBootCamp 
+- Developing the SharePoint site for Worley Parsons which was the largest public-facing site at the time (it used the built-in Web Content Management features, proving the SharePoint Platform for all companies) 
+- His dual role as mentor and "Bob the Product Owner" at the first-ever FireBootCamp 
 - Writing thousands of best practices on rules.ssw.com.au  
 
 [[imgMd]]
@@ -67,11 +67,11 @@ Some of Adam's career highlights have been:
 In addition, Adam is a regular speaker at the SSW User Group and other conferences, including: 
 
 - NDC Olso, NDC Porto, and NDC Sydney where he was the #2 speaker of the conference (after Troy Hunt) 
-- Microsoft Tech Ed in USA (including a highly rated joint session with Billy Hollis), Malaysia, New Zealand and Australia (recently ranked in top 4 of 90 speakers in NZ) 
+- Microsoft TechEd in USA (including a highly rated joint session with Billy Hollis), Malaysia, New Zealand, and Australia (recently ranked in top 4 of 90 speakers in NZ) 
 - Dev Days Australia wide 
 - VS Live Australia and Chicago 
 - IDC Conferences South Africa and SGW Forum's DevCons 
-- Code Camp Australia, New Zealand Los Angeles and San Diego 
+- Code Camp Australia, New Zealand Los Angeles, and San Diego 
 - SQL Code Camp Australia and New Zealand 
 - Lecturer at University of Technology, Sydney 
 
