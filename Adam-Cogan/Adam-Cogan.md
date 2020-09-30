@@ -27,15 +27,15 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 [[imgBadge]]
 | ![](../badges/Business-microsoft-azure-devops.png)
 
-Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [tv.ssw.com](https://tv.ssw.com/) frequently. He is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom enterprise .NET and Azure solutions mostly using Angular and React. His solutions also involve Office365, SharePoint, Dynamics 365 and Power BI. 
+Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [tv.ssw.com](https://tv.ssw.com/) frequently. He is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom enterprise .NET and Azure solutions mostly using Angular and React. His solutions also involve Office365, SharePoint, Dynamics 365, and Power BI. 
 
 **Clients** - At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, CBA, and Aurecon.  
 
 **Scrum** - Adam is a Certified Scrum Trainer with scrum.org, trains developers in Australia, the US, UK and Europe, and contributes to scrum.org thinking. He consults with development teams on improving their scrum process through mentoring and being an SSW Solution Architect and Scrum Master. He has written many rules around Scrum best practices. 
 
-**China** - Adam has also run multiple consulting firms in China for the last 12 years. Adam has seen the whole Chinese software ecosystem develop and understands the differences that the Chinese market requires in order to be successful. Adam helps western companies modernize their software, so they are not only servicing the USA and European markets, but also grabbing a slice of the Chinese market of 1.4 billion consumers. 
+**China** - Adam has also run multiple consulting firms in China for the last 12 years. Adam has seen the whole Chinese software ecosystem develop and understand the differences that the Chinese market requires in order to be successful. Adam helps western companies modernize their software, so they are not only servicing the USA and European markets, but also grabbing a slice of the Chinese market of 1.4 billion consumers. 
 
-**Speaking** - In addition to being a Microsoft MVP in Azure DevOps, Adam is one of only 3 Microsoft Regional Directors in Australia. In this role, he regularly presents in conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favourite Microsoft teams that he loves to work with are Nat Friedman’s GitHub and Azure DevOps team, James Phillips’ Power BI team and Jeff Teper’s SharePoint team.  
+**Speaking** - In addition to being a Microsoft MVP in Azure DevOps, Adam is one of only 3 Microsoft Regional Directors in Australia. In this role, he regularly presents in conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favourite Microsoft teams that he loves to work with are Nat Friedman’s GitHub and Azure DevOps team, James Phillips’ Power BI team, and Jeff Teper’s SharePoint team.  
 
 [[imgMd]]
 | ![Adam has spoken at user groups/conferences in these countries](./Images/Bio/figureMap.jpg)
