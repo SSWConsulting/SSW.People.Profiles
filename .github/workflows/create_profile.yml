@@ -66,7 +66,7 @@ jobs:
         git add $first_name-$last_name/Images/*
         git commit -m "Created new markdown profile for $first_name $last_name"
         git push --set-upstream origin add-profile-$first_name-$last_name
-        hub pull-request --no-edit
+        hub pull-request --no-edit --base main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         first_name: ${{ github.event.client_payload.first_name }}
