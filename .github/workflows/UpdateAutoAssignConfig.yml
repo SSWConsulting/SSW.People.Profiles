@@ -36,6 +36,6 @@ jobs:
         git add .github/assign-by-files.yml
         git commit -m "Updated Auto add PR reviewer config"
         git push --set-upstream origin update-assign-by-files-config
-        hub pull-request --no-edit
+        hub pull-request --no-edit --base main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
