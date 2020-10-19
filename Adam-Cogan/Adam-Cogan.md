@@ -27,7 +27,7 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 [[imgBadge]]
 | ![](../badges/Business-microsoft-azure-devops.png)
 
-Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [tv.ssw.com](https://tv.ssw.com/) frequently. He is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom enterprise .NET and Azure solutions mostly using Angular and React. His solutions also involve Office365, SharePoint, Dynamics 365 and Power BI. 
+Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [SSW TV](https://tv.ssw.com/) frequently. He is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom enterprise .NET and Azure solutions mostly using Angular and React. His solutions also involve Office365, SharePoint, Dynamics 365, and Power BI. 
 
 **Clients** - At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, CBA, and Aurecon.  
 
@@ -35,7 +35,7 @@ Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [t
 
 **China** - Adam has also run multiple consulting firms in China for the last 12 years. Adam has seen the whole Chinese software ecosystem develop and understands the differences that the Chinese market requires in order to be successful. Adam helps western companies modernize their software, so they are not only servicing the USA and European markets, but also grabbing a slice of the Chinese market of 1.4 billion consumers. 
 
-**Speaking** - In addition to being a Microsoft MVP in Azure DevOps, Adam is one of only 3 Microsoft Regional Directors in Australia. In this role, he regularly presents in conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favourite Microsoft teams that he loves to work with are Nat Friedman’s GitHub and Azure DevOps team, James Phillips’ Power BI team and Jeff Teper’s SharePoint team.  
+**Speaking** - In addition to being a Microsoft MVP in Azure DevOps, Adam is one of only 3 Microsoft Regional Directors in Australia. In this role, he regularly presents in conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favourite Microsoft teams that he loves to work with are Nat Friedman’s GitHub and Azure DevOps team, James Phillips’ Power BI team, and Jeff Teper’s SharePoint team.  
 
 [[imgMd]]
 | ![Adam has spoken at user groups/conferences in these countries](./Images/Bio/figureMap.jpg)
@@ -57,8 +57,8 @@ Some of Adam's career highlights have been:
 - Being lead developer on Australia's first live ASP.NET site - using a version that was pre-Beta 
 - Developing the Office integration for Quicken Australia 
 - Developing the Reporting samples for Microsoft that turned into a hugely popular Email Reporting Tool 
-- Developing the SharePoint site for Worley Parsons which was the largest public facing site at the time (it used the built in Web Content Management features, proving the SharePoint Platform for all companies) 
-- His dual role as mentor and "Bob the Product Owner" at the first ever FireBootCamp 
+- Developing the SharePoint site for Worley Parsons which was the largest public-facing site at the time (it used the built-in Web Content Management features, proving the SharePoint Platform for all companies) 
+- His dual role as mentor and "Bob the Product Owner" at the first-ever FireBootCamp 
 - Writing thousands of best practices on rules.ssw.com.au  
 
 [[imgMd]]
@@ -67,11 +67,11 @@ Some of Adam's career highlights have been:
 In addition, Adam is a regular speaker at the SSW User Group and other conferences, including: 
 
 - NDC Olso, NDC Porto, and NDC Sydney where he was the #2 speaker of the conference (after Troy Hunt) 
-- Microsoft Tech Ed in USA (including a highly rated joint session with Billy Hollis), Malaysia, New Zealand and Australia (recently ranked in top 4 of 90 speakers in NZ) 
+- Microsoft TechEd in USA (including a highly rated joint session with Billy Hollis), Malaysia, New Zealand, and Australia (recently ranked in top 4 of 90 speakers in NZ) 
 - Dev Days Australia wide 
 - VS Live Australia and Chicago 
 - IDC Conferences South Africa and SGW Forum's DevCons 
-- Code Camp Australia, New Zealand Los Angeles and San Diego 
+- Code Camp Australia, New Zealand, Los Angeles, and San Diego 
 - SQL Code Camp Australia and New Zealand 
 - Lecturer at University of Technology, Sydney 
 
