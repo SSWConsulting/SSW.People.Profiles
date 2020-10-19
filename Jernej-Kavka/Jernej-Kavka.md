@@ -42,7 +42,7 @@ quote: "Once upon a time, you had to be rich and powerful to change the world. N
 
 <br/>
 
-With 10 years of Software Engineering experience across multiple industries such as Museums, Government, Banks, Gaming, Entertainment, Jernej has worked on full-stack development of native applications including both mobile and desktop.
+Jernej Kavka (JK) is an SSW Senior Software Architect, Microsoft AI MVP and organizer of the Brisbane AI user group. JK is a full-stack .NET developer, but his passion lies in cogitative services, AI and machine learning. He is the main architect behind SSW's virtual receptionist - SophieAI: https://sswsophie.com
 
 JK loves working on Angular, .NET Core, and Cognitive Services. His most recent projects have featured Docker, AKS (Azure Kubernetes Services) and Machine Learning development. He loves containers and Kubernetes and enjoys showing others the immense possibilities that Container technology has to offer.
 
