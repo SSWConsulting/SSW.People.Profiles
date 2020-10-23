@@ -1,12 +1,16 @@
 ---
 id: "bb6a7007-95b2-e511-80c4-00155d012c15"
 
-qualifications: "MCSD"
+qualifications: "MCSD, Microsoft AI MVP"
 
 quote: "Once upon a time, you had to be rich and powerful to change the world. Now you just need to be bold and write code."
+quoteAuthor: "Anonymous"
 ---
 
 <br/>
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-mvp.png)
 
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-professional.jpg)
@@ -50,7 +54,7 @@ In addition to being an expert in ASP, .NET Core, Angular, and Azure DevOps, Jer
 
 JK is a technology thought leader and frequent contributor to technical presentations. He likes to help prepare developers for SSW TV presentations and even gets in front of the camera sometimes. You can see his latest work here: [**SSW TV**](https://tv.ssw.com/tag/jernej-kavka) and [**Personal YouTube**](https://youtube.com/channel/UCige1JIdeIc3sYU2HSaismg) or at events like [**Global Azure Bootcamp**](https://global.azurebootcamp.net/), [**Global AI Bootcamp**](https://brisbanebootcamp.com), [**DDD**](https://dddbrisbane.com/) ([**Brisbane**](https://dddbrisbane.com/) , [**Melbourne**](https://www.dddmelbourne.com) , and [ **Sydney**](https://www.dddsydney.com.au) ), and [**NDC**](https://ndcsydney.com/). JK is equally likely to attend a conference/user group as he is to present at one. 🧐
 
-JK also actively supports the .NET Community as a [**.NET Foundation member**](https://dotnetfoundation.org/) (one of the first 200 members!) and is a backer for several Open Source projects on [**Open Collective**](https://opencollective.com/jernej-kavka).
+JK also actively supports the .NET Community as a [**.NET Foundation member**](https://dotnetfoundation.org/) (one of the first 200 members!), is a backer for several Open Source projects on [**Open Collective**](https://opencollective.com/jernej-kavka) and organizer of [**Brisbane AI User Group**](https://www.meetup.com/Brisbane-AI-User-Group/).
 
 You can follow him on [**Twitter,**](https://twitter.com/jernej_kavka), [**his personal blog**](https://jkdev.me/) or check out when is his next talk on [**Sessionize**](https://sessionize.com/jernej-kavka/).
 
