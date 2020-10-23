@@ -28,7 +28,16 @@ quoteAuthor: "Anonymous"
 | ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
+| ![ML.NET-logo.png](../badges/Developer-dotnet-machine-learning.png)
+
+[[imgBadge]]
+| ![Microsoft-Cognitive-Service-Logo.png](../badges/Developer-cognitive-services.png)
+
+[[imgBadge]]
 | ![xamarin](../badges/Developer-xamarin.png)
+
+[[imgBadge]]
+| ![xamarin](../badges/Developer-Unity3d.png)
 
 [[imgBadge]]
 | ![dotnetcode](../badges/Developer-dotnet-code.png)
@@ -37,13 +46,10 @@ quoteAuthor: "Anonymous"
 | ![docker](../badges/Developer-docker.png)
 
 [[imgBadge]]
+| ![dotnet_foundation_logo.png](../badges/Event-global-ai-community.jpg)
+
+[[imgBadge]]
 | ![dotnet_foundation_logo.png](../badges/Developer-dotnet-foundation.png)
-
-[[imgBadge]]
-| ![ML.NET-logo.png](../badges/Developer-dotnet-machine-learning.png)
-
-[[imgBadge]]
-| ![Microsoft-Cognitive-Service-Logo.png](../badges/Developer-cognitive-services.png)
 
 ---
 
