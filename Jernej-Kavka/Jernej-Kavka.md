@@ -55,7 +55,7 @@ quoteAuthor: "Anonymous"
 
 <br/>
 
-Jernej Kavka (JK) is an SSW Senior Software Architect, Microsoft AI MVP and organizer of the Brisbane AI user group. JK is a full-stack .NET developer, but his passion lies in  Azure Cognitive Services, AI and machine learning. He is the main architect behind SSW's virtual receptionist - SophieAI: https://sswsophie.com
+Jernej Kavka (JK) is an SSW Senior Software Architect, Microsoft AI MVP and organizer of the Brisbane AI user group. JK is a full-stack .NET developer, but his passion lies in Azure Cognitive Services, AI and machine learning. He is the main architect behind SSW's virtual receptionist - SophieAI: https://sswsophie.com
 
 JK loves working on Blazor, Angular, .NET Core, and Cognitive Services. His most recent projects have featured Docker, AKS (Azure Kubernetes Services) and Machine Learning development. He loves containers and Kubernetes and enjoys showing others the immense possibilities that Container technology has to offer.
 
