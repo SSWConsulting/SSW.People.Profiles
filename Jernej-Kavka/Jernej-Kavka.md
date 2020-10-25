@@ -1,12 +1,16 @@
 ---
 id: "bb6a7007-95b2-e511-80c4-00155d012c15"
 
-qualifications: "MCSD"
+qualifications: "Microsoft AI MVP, MCSD"
 
 quote: "Once upon a time, you had to be rich and powerful to change the world. Now you just need to be bold and write code."
+quoteAuthor: "Anonymous"
 ---
 
 <br/>
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-mvp.png)
 
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-professional.jpg)
@@ -18,10 +22,22 @@ quote: "Once upon a time, you had to be rich and powerful to change the world. N
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
+| ![angular.png](../badges/Developer-blazor.png)
+
+[[imgBadge]]
 | ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
+| ![ML.NET-logo.png](../badges/Developer-dotnet-machine-learning.png)
+
+[[imgBadge]]
+| ![Microsoft-Cognitive-Service-Logo.png](../badges/Developer-cognitive-services.png)
+
+[[imgBadge]]
 | ![xamarin](../badges/Developer-xamarin.png)
+
+[[imgBadge]]
+| ![xamarin](../badges/Developer-Unity3d.png)
 
 [[imgBadge]]
 | ![dotnetcode](../badges/Developer-dotnet-code.png)
@@ -30,27 +46,24 @@ quote: "Once upon a time, you had to be rich and powerful to change the world. N
 | ![docker](../badges/Developer-docker.png)
 
 [[imgBadge]]
+| ![dotnet_foundation_logo.png](../badges/Event-global-ai-community.jpg)
+
+[[imgBadge]]
 | ![dotnet_foundation_logo.png](../badges/Developer-dotnet-foundation.png)
-
-[[imgBadge]]
-| ![ML.NET-logo.png](../badges/Developer-dotnet-machine-learning.png)
-
-[[imgBadge]]
-| ![Microsoft-Cognitive-Service-Logo.png](../badges/Developer-cognitive-services.png)
 
 ---
 
 <br/>
 
-Jernej Kavka (JK) is an SSW Senior Software Architect, Microsoft AI MVP and organizer of the Brisbane AI user group. JK is a full-stack .NET developer, but his passion lies in cogitative services, AI and machine learning. He is the main architect behind SSW's virtual receptionist - SophieAI: https://sswsophie.com
+Jernej Kavka (JK) is an SSW Senior Software Architect, Microsoft AI MVP and organizer of the Brisbane AI user group. JK is a full-stack .NET developer, but his passion lies in Azure Cognitive Services, AI and machine learning. He is the main architect behind SSW's virtual receptionist - SSW SophieBot and SSW SophieHub: https://sswsophie.com
 
-JK loves working on Angular, .NET Core, and Cognitive Services. His most recent projects have featured Docker, AKS (Azure Kubernetes Services) and Machine Learning development. He loves containers and Kubernetes and enjoys showing others the immense possibilities that Container technology has to offer.
+JK loves working on Blazor, Angular, .NET Core, and Cognitive Services. His most recent projects have featured Docker, AKS (Azure Kubernetes Services) and Machine Learning development. He loves containers and Kubernetes and enjoys showing others the immense possibilities that Container technology has to offer.
 
 In addition to being an expert in ASP, .NET Core, Angular, and Azure DevOps, Jernej is also proficient on Windows platform development from legacy applications (using C#, WinForms, WPF, …) changing them into modern applications (using Windows Store, Windows Universal applications, and Xamarin). Lately, he's sharpening his skills with Cognitive Services as well as Machine Learning.
 
 JK is a technology thought leader and frequent contributor to technical presentations. He likes to help prepare developers for SSW TV presentations and even gets in front of the camera sometimes. You can see his latest work here: [**SSW TV**](https://tv.ssw.com/tag/jernej-kavka) and [**Personal YouTube**](https://youtube.com/channel/UCige1JIdeIc3sYU2HSaismg) or at events like [**Global Azure Bootcamp**](https://global.azurebootcamp.net/), [**Global AI Bootcamp**](https://brisbanebootcamp.com), [**DDD**](https://dddbrisbane.com/) ([**Brisbane**](https://dddbrisbane.com/) , [**Melbourne**](https://www.dddmelbourne.com) , and [ **Sydney**](https://www.dddsydney.com.au) ), and [**NDC**](https://ndcsydney.com/). JK is equally likely to attend a conference/user group as he is to present at one. 🧐
 
-JK also actively supports the .NET Community as a [**.NET Foundation member**](https://dotnetfoundation.org/) (one of the first 200 members!) and is a backer for several Open Source projects on [**Open Collective**](https://opencollective.com/jernej-kavka).
+JK also actively supports the .NET Community as a [**.NET Foundation member**](https://dotnetfoundation.org/) (one of the first 200 members!), is a backer for several Open Source projects on [**Open Collective**](https://opencollective.com/jernej-kavka) and organizer of [**Brisbane AI User Group**](https://www.meetup.com/Brisbane-AI-User-Group/).
 
 You can follow him on [**Twitter,**](https://twitter.com/jernej_kavka), [**his personal blog**](https://jkdev.me/) or check out when is his next talk on [**Sessionize**](https://sessionize.com/jernej-kavka/).
 
