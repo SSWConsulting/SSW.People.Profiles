@@ -18,7 +18,7 @@ Throughout his career Matt has enjoyed scripting and programming and used these 
 ### [SSW.Rewards](https://apps.apple.com/au/app/ssw-rewards/id1482994853)
 
 [[imgLg]]
-| ![SSW Rewards App](./Images/adam_rewards_screenshot.png)
+| ![SSW Rewards App](./Images/matt_rewards_screenshot.jpg)
 
 Matt built SSW's Rewards mobile app in Xamarin.Forms to help [gamify SSW's swag](https://adamcogan.com/2019/11/06/ssw-had-fun-at-ndc-gotta-catch-em-all/) for NDC Sydney in 2019.
 
