@@ -23,7 +23,7 @@ quote: "Open Source Software is not about the price. Its about the freedom to us
 
 ---
 
-Throughout his career, Brendan has been a big user and proponent of Open Source software. This has been applied to a broad variety of web-based programming projects spanning the last 17 years.  Brendan has worked with an eclectic mix of languages, platforms and technologies including .Net, Java, PHP, Ruby and Perl across both Unix/Linux and Microsoft Windows platforms. This gives Brendan some unique perspectives on how different teams & platforms have tackled similar problems.
+Throughout his career, Brendan has been a big user and proponent of Open Source software. This has been applied to a broad variety of web-based programming projects spanning the last 20 years.  Brendan has worked with an eclectic mix of languages, platforms and technologies including .Net, Java, PHP, Ruby and Perl across both Unix/Linux and Microsoft Windows platforms. This gives Brendan some unique perspectives on how different teams & platforms have tackled similar problems.
 
 Since joining SSW in 2012, Brendan has been delivering great solutions on the .NET stack for his clients. He is also been sharing his knowledge and experience with the wider developer community by:
 
