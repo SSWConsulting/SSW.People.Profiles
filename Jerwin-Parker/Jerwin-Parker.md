@@ -9,6 +9,27 @@ quoteAuthor: "Bruce Lee"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
+[[imgBadge]]
+| ![Google Ad Search Certification](../badges/Certification-google-ads-search.png)
+
+[[imgBadge]]
+| ![Google Ad Display Certification](../badges/Certification-google-ads-display.png)
+
+[[imgBadge]]
+| ![Google Analytics Individual](../badges/Certification-google-analytics-individual.png)
+
+[[imgBadge]]
+| ![Google Ad Mobile Certification](../badges/Certification-google-ads-mobile.png)
+
+[[imgBadge]]
+| ![Google Ads Search Awards](../badges/Certification-google-award-ads-search.png)
+
+[[imgBadge]]
+| ![Google Ads Display Awards](../badges/Certification-google-award-ads-display.png)
+
+[[imgBadge]]
+| ![Google Ads Mobile Awards](../badges/Certification-google-award-ads-mobile.png)
+
 Jerwin is responsible for managing SSW (SSW Consulting) and SSW Digital (Digital Agency) global marketing activities. He works closely and collaborates regularly on projects  with the Design, Video-production, Sales, Management and Developer team. 
 
 He brings with him an extensive background in marketing, events, design thinking and innovation, with a passion for Fitness, Wellness and Technology. Jerwin was one of the first-ever to complete a triple degree in Business, Creative Intelligence Innovation, and Entrepreneurship (Honours) within less than 5 years.
