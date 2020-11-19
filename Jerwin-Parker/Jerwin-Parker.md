@@ -3,8 +3,8 @@ id: "fb730c74-a0b9-ea11-a812-000d3a799676"
 
 qualifications: "UTS Bachelor of Business (Marketing/Management), Bachelor of Creative Intelligence and Innovation, Bachelor of Entrepreneurship (Honours)"
 
-quote: "As you think, so shall you become."
-quoteAuthor: "Bruce Lee"
+quote: "We're all gonna make it."
+quoteAuthor: "Zyzz"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
