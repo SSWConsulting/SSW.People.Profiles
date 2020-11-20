@@ -1,17 +1,23 @@
 ---
 id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
 
-qualifications: ""
+category: "Designers"
+role: "SSW Videographer/Editor"
+qualifications: "Bachelor of Arts with a Bachelor of Science (Brain Behaviour and Psychology), Diploma in Screen and Media"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "One step at a time is all it takes to get you there"
+quoteAuthor: "Emily Dickinson"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Mr Bob Northwind is the owner of Northwind Traders Limited. He is the toughest product owner we have ever come across :) He was the main star at the FireBootcamp.
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
+Emily is a member of the SSW TV team. She is a critical thinker with a creative eye. With a background in live televison broadcast, including as a news director among a variety of other roles, Emily has a range of expereince creating media content in Australia.
+
+Key Skills:
+* Videography
+* Photography
+* Non-linear Editing
+* Live Content Creation
 
 [Design Guidelines](https://www.ssw.com.au/ssw/logo/ssw/)
 
