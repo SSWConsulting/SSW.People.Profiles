@@ -7,7 +7,7 @@ qualifications:  ""
 quote:  "There is no substitute for hard work"
 ---
 
-#### [Web Developer](https://www.linkedin.com/title/web-developer?trk=mprofile_title)
+#### Web Developer
 
 ##### 
 [SSW](https://www.linkedin.com/company/39477?trk=prof-exp-company-name)
@@ -17,7 +17,7 @@ quote:  "There is no substitute for hard work"
 https://sugarlearning.com
 
 #### 
-[Software developer](https://www.linkedin.com/title/software-developer?trk=mprofile_title)
+Software developer
 
 ##### 
 [SCS](https://www.linkedin.com/vsearch/p?company=SCS&trk=prof-exp-company-name)
@@ -25,7 +25,7 @@ https://sugarlearning.com
 ### June 2012 – May 2014 (2 years)Sydney, Australia
 
 #### 
-[Software Developer/Architect (Front Office, Debt Market/Credit Derivatives)](https://www.linkedin.com/title/software-developer/architect-%28front-office%2c-debt-market/credit-derivatives%29?trk=mprofile_title)
+Software Developer/Architect (Front Office, Debt Market/Credit Derivatives)
 
 ##### 
 Westpac Institutional Bank](https://www.linkedin.com/company/2731362?trk=prof-exp-company-name)
@@ -50,7 +50,7 @@ Westpac Institutional Bank](https://www.linkedin.com/company/2731362?trk=prof-ex
 ### June 2004 – December 2004 (7 months) Sydney, Australia
 
 #### 
-[Mid-Tier Developer, MS DNA (Nice one, On-line Superannuation Fund Mgmt.)](https://www.linkedin.com/title/mid-tier-developer%2c-ms-dna-%28nice-one%2c-on-line-superannuation-fund-mgmt.%29?trk=mprofile_title)
+Mid-Tier Developer, MS DNA (Nice one, On-line Superannuation Fund Mgmt.)
 
 ##### 
 [AMP](https://www.linkedin.com/company/4007?trk=prof-exp-company-name)
@@ -74,9 +74,9 @@ Westpac Institutional Bank](https://www.linkedin.com/company/2731362?trk=prof-ex
 ### September 2000 – December 2000 (4 months) Sydney, Australia
 
 #### 
-[Developer - Access/VB](https://www.linkedin.com/title/developer-access/vb?trk=mprofile_title)
+Developer - Access/VB
 
 ##### 
-[Energetics](https://www.linkedin.com/vsearch/p?company=Energetics&trk=prof-exp-company-name)
+Energetics
 
 ### April 2000 – September 2000 (6 months) Sydney, Australia
