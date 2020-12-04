@@ -6,16 +6,15 @@ qualifications:  "Bachelor of Computer Science (Honours); ITIL Service Managemen
 quote:  "Life is 10% what happens to you and 90% how you react to it."
 ---
 
-Harry is a competent professional who started his working life as a systems engineer. After excelling in this field leading multiple teams across multiple countries, Harry is now a valued Software Architect at SSW. 
+Harry started his working life as a systems engineer before transitioning into a valued SSW Software Architect. He now has experience leading multiple teams across multiple countries. 
 
-His focus is on building enterprise web applications utilizing .NET Core, Angular, React and Azure. Harry’s long history of problem-solving and studious nature makes his skills highly sought after. 
+His focus is on building enterprise web applications utilizing .NET 5, Angular, React and Azure. Harry’s long history of problem-solving and studious nature makes his skills highly sought after. 
 
-Harry has a track record of successfully delivering the solutions for various enterprise clients, and some of his highlights are:
+Harry has a track record of successfully delivering solutions for various enterprise clients, and some of his highlights are:
+•	Nintex Responsive Forms for SharePoint Online and on-premises
+•	Fund Management System for an Australian listed wealth management business
+•	Project Information Management System for a Victorian Government authority
+•	POS system for a global vehicle accessories supplier
 
-*	Nintex Responsive Forms for SharePoint Online and Onprem
-*	Fund Management System for an Australian listed wealth management business
-*	Project Information Management System for a Victorian Government authority
-*	POS system for a global 4WD accessories supplier
-
-Other SSW’s products that Harry works on includes SugarLearning, SSW.People and SophieHub.
+Harry also works on SSW’s products which include SugarLearning, SSW People and SSW SophieHub.
 
