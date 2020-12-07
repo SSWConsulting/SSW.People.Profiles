@@ -39,4 +39,5 @@ Andreas has had experience with companies ranging from small businesses to large
 - ALM setup and management (using Microsoft and Atlassian stacks)
 
 His recent interests include learning mobile development with Xamarin cross platform mobile apps on the SSW Rewards app. 
-![SSW Rewards](../images/rewards-promo.png)
+[[imgMd]]
+| ![SSW Rewards](./Images/rewards-promo.png)
