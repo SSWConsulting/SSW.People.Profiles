@@ -20,10 +20,10 @@ quoteAuthor: "Anonymous"
 
 <br/>
 
-Tom is a Software Developer at the SSW Melbourne Office. He is a recent graduate at Monash University with a bachelor of IT majoring in Software Development. He specialises in front-end development with various modern JavaScript framework such as Angular, React, and Svelte. He also has experience with back-end technologies such as .Net Core and NodeJs.
+Tom is a Software Developer at the SSW Melbourne Office. He is a recent graduate from Monash University with a bachelor of IT majoring in Software Development. He specialises in front-end development with various modern JavaScript framework such as Angular, React, and Svelte. He also has experience with back-end technologies such as .Net Core and NodeJs.
 
-He is a very motivated person that loves to love to work and be around with his peers. He enjoys learning and trying out new technologies.
+He is a very motivated person that loves to work and be around his peers. He enjoys learning and trying out new technologies.
 
-He loves to share things that he is passionate about. He likes to read technology news and articles to keep himself updated with latest technologies and trend.
+He loves to share things that he is passionate about. He likes to read technology news and articles to keep himself updated with the latest technologies and trends.
 
 When he is not working, he likes to play games, hang out with friends, play team sports, go on road trips, and photography.
