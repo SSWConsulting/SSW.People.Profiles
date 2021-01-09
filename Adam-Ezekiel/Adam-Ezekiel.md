@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "AdamEzekiel"
-name: "Adam Ezekiel"
-nickname: "Adam Ezekiel"
+id: "0cfcee4d-5259-de11-b918-00155d01ec01"
 
-legacy_page_url: "/AboutUs/Employees/Pages/AdamE.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "B.Comp. Sci. (Bond), Grad. Cert. Management (AGSM)"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

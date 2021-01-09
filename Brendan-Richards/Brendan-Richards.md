@@ -1,76 +1,59 @@
 ---
-current_employee: true
-ID: "BrendanRichards"
-name: "Brendan Richards"
-nickname: "Brendan"
+id: "3aa77fd7-26f6-e111-88ff-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Brendan.aspx"
 category: "Developers"
-role:  "Solution Architect"
-qualifications:  "MCSD - Web Applications"
-location: "Brisbane"
+role: "Solution Architect"
+qualifications: "MCSD - Web Applications"
 
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "@brendanssw"
-linkedin:  ""
-skype:  ""
-
-quote:  "Open Source Software is not about the price. Its about the freedom to use and improve your tools."
+quote: "Open Source Software is not about the price. Its about the freedom to use and improve your tools."
 ---
 
- [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/BrendanRichards) 
-  
+[[imgBadge]]
+| ![Microsoft Certified Solutions Developer](../badges/Certification-microsoft-developer-webapps.png)
+
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![angular.png](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![ngrx.jpg](../badges/Developer-ngrx.png)
+
+[[imgBadge]]
+| ![liinux.jpg](../badges/Developer-linux.png)
+
 ---
-<br/>
 
-[[imgBadge]]
-| ![Microsoft Certified Solutions Developer](./Images/Bio/MCSD_2013(rgb)_1477.jpg) 
+Throughout his career, Brendan has been a big user and proponent of Open Source software. This has been applied to a broad variety of web-based programming projects spanning the last 17 years.  Brendan has worked with an eclectic mix of languages, platforms and technologies including .Net, Java, PHP, Ruby and Perl across both Unix/Linux and Microsoft Windows platforms. This gives Brendan some unique perspectives on how different teams & platforms have tackled similar problems.
 
-[[imgBadge]]
-| ![dotnetcore.png](./Images/Bio/dotnetcore.png) 
+Since joining SSW in 2012, Brendan has been delivering great solutions on the .NET stack for his clients. He is also been sharing his knowledge and experience with the wider developer community by:
 
-[[imgBadge]]
-| ![angular.png](./Images/Bio/angular.png) 
+- Speaking at Conferences such as NDC ([Watch video](https://www.youtube.com/watch?v=fGmbXCrgKtg)) and DDD
 
-[[imgBadge]]
-| ![ngrx.jpg](./Images/Bio/ngrx.jpg) 
+- Speaking at .NET User Groups
 
-[[imgBadge]]
-| ![liinux.jpg](./Images/Bio/liinux.jpg) 
+- Delivering Training on .NET Core and Angular Via SSW's Dev SuperPowers Tour.
 
-----
+  - [Angular Dev SuperPowers](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)
+  - [.NET Core Dev SuperPowers](https://www.ssw.com.au/ssw/Events/Training/NET-Core-Superpowers-Tour.aspx)
 
+- Getting involved in othe community events including "Angular Hackday" and "Hack4Good"
 
-Throughout his career, Brendan has been a big user and proponent of Open Source software. This has been applied to a broad variety of web-based programming projects spanning the last 17 years.  Brendan has worked with an eclectic mix of languages, platforms and technologies including .Net, Java, PHP, Ruby and Perl across both Unix/Linux and Microsoft Windows platforms. This gives Brendan some unique perspectives on how different teams & platforms have tackled similar problems.  
+His only problem seems to be that he's interested in too many topics! In the last few years, he's delivered talks or training on all of the below:
 
-Since joining SSW in 2012, Brendan has been delivering great solutions on the .NET stack for his clients. He is also been sharing his knowledge and experience with the wider developer community by:  
+- Entity Framework Core and Clean Code
 
-* Speaking at Conferences such as NDC ([Watch video](https://www.youtube.com/watch?v=fGmbXCrgKtg)) and DDD   
+- Angular, State Management and ngrx
 
-* Speaking at .NET User Groups  
+- Reactive Programming and Redux in .NET
 
-* Delivering Training on .NET Core and Angular Via SSW's Dev SuperPowers Tour.  
-   * [Angular Dev SuperPowers](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)  
-   * [.NET Core Dev SuperPowers](https://www.ssw.com.au/ssw/Events/Training/NET-Core-Superpowers-Tour.aspx)  
+- Linux, Docker and Azure
 
-* Getting involved in othe community events including "Angular Hackday" and "Hack4Good"  
+- .NET Core
 
-His only problem seems to be that he's interested in too many topics! In the last few years, he's delivered talks or training on all of the below:  
+- Elastic Search
 
-* Entity Framework Core and Clean Code  
+- OpenAPI / Swagger
 
-* Angular, State Management and ngrx  
-
-* Reactive Programming and Redux in .NET  
-
-* Linux, Docker and Azure  
-
-* .NET Core  
-
-* Elastic Search  
-
-* OpenAPI / Swagger  
-
-* Blazor
+- Blazor

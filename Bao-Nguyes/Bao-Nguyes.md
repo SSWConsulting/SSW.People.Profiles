@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "BaoNguyes"
-name: "Bao Nguyes"
-nickname: "Bao"
+id: "c06a67e8-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Bao.aspx"
 category: "Admin"
 role:  "Office Maintenance"
 qualifications:  "Diploma in Accounting (NTU)"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Keep trying, don't give up easily!"
 ---

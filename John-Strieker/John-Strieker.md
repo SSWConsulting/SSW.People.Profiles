@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "JohnStrieker"
-name: "John Strieker"
-nickname: "John"
+id: "e8d6ffe2-b7b4-e811-8145-00155d01ef11"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JohnStrieker.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of Science - Multimedia Engineering"
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "john-strieker-6936219"
-skype:  ""
 
 quote:  "I believe nothing is impossible"
 ---

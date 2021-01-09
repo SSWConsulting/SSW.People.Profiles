@@ -1,27 +1,16 @@
 ---
-current_employee: false
-ID: "DavidBian"
-name: "David Bian"
-nickname: "David"
+id: "c871bbf4-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/David.aspx"
 category: "Developers"
 role:  "Software Developer "
 qualifications:  "Bachelor of Management (Management Information Systems), MCPD"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "I'm always trying to be more professional."
 ---
 
 ![MCPD](./Images/Bio/MCPD_WebDev2.0.jpg) 
   
+[[imgBadge]]| ![Microsoft Professional Developer](../badges/Certification-microsoft-professional.jpg)
 
 **Background:**  
 

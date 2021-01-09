@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "AdamStephensen"
-name: "Adam Stephensen"
-nickname: "Adam"
+id: "9194ace0-bb81-e011-8227-00155d012144"
 
-legacy_page_url: "/AboutUs/Employees/Pages/AdamS.aspx"
 category: "Managers"
 role:  "Solution Architect, State Manager QLD"
 qualifications:  "Master of Software Development "
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "adamstephensen"
-linkedin:  ""
-skype:  "astephensen"
 
 quote:  "'fail fast', inspect, adapt, have a lot of fun.  "
 ---

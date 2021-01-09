@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "ShigemiMatsumoto"
-name: "Shigemi Matsumoto"
-nickname: "Shigemi"
+id: "6e601c0e-7ece-e311-bd7f-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Shigemi.aspx"
 category: "Developers"
 role:  "Developer"
 qualifications:  ""
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "ShigemiMat"
-linkedin:  "shigemimatsumoto"
-skype:  "shigemi_matsumoto"
 
 quote:  "There is no substitute for hard work"
 ---

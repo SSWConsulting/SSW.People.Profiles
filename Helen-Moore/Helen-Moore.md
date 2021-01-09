@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "HelenMoore"
-name: "Helen Moore"
-nickname: "Helen Moore"
+id: "62229cee-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Helen.aspx"
 category: "Admin"
 role:  "Personal Assistant & Office Manager"
 qualifications:  ""
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Mistakes are proof that you're trying."
 ---

@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "JayLin"
-name: "Jay Lin"
-nickname: "Jay"
+id: "d271bbf4-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Jay.aspx"
 category: "Developers"
 role:  "Software Architect"
 qualifications:  "B.Eng - Computer Science "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "I know to satisfy clients it takes 100% effort. That is my challenge and I work to improve myself everyday."
 ---

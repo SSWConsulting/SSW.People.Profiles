@@ -1,0 +1,27 @@
+name: Trigger-DevOps-Build
+on:
+  push:
+    branches:
+    - master
+  schedule:
+    - cron: '0 14 * * *' # UTC so should be 0000/0100 for Sydney
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+    - name: 'Trigger Staging'
+      uses: Azure/pipelines@releases/v1
+      with:
+        azure-devops-project-url: 'https://ssw.visualstudio.com/SSW.People'
+        azure-pipeline-name: 'Staging' 
+        azure-devops-token: '${{ secrets.AZURE_DEVOPS_TOKEN }}'
+    
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Trigger Production
+      run: |
+        export AZURE_DEVOPS_EXT_PAT=${{ secrets.AZURE_DEVOPS_TOKEN }}
+        chmod +x .workflow/build-production.sh
+        bash ./.workflow/build-production.sh

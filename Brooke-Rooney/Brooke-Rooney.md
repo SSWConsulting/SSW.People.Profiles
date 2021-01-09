@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "BrookeRooney"
-name: "Brooke Rooney"
-nickname: "Brooke"
+id: "c078fc18-5658-e211-b3ad-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Brooke.aspx"
 category: "Admin"
 role:  "Personal Assistant / Office Administrator"
 qualifications:  ""
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "\"Even the smallest person can change the course of the future.\" -LOTR"
 ---

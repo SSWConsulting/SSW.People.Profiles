@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "IsaacLu"
-name: "Isaac Lu"
-nickname: "Isaac"
+id: "48e16736-ba8b-e811-810f-00155d012c11"
 
-legacy_page_url: "/AboutUs/Employees/Pages/IsaacLu.aspx"
 category: "Developers"
 role:  "Software Developer"
 qualifications:  "Bachelor of Information Network Engineering"
-location: "Other"
-
-blog:  ""
-website:  ""
-facebook:  "13655781687"
-twitter:  ""
-linkedin:  "lurenjie2018@outlook.com"
-skype:  ""
 
 quote:  "Writing code for the better life~"
 ---

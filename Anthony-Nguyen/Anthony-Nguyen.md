@@ -1,35 +1,23 @@
 ---
-current_employee: true
-ID: "AnthonyNguyen"
-name: "Anthony Nguyen"
-nickname: "Anthony"
+id: "a1a778e7-265d-e611-80d2-00155d01ee33"
 
-legacy_page_url: "/AboutUs/Employees/Pages/AnthonyNguyen.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "BEng (Hons) IT&T, Certified Scrum Master, Master of Project Mgnt"
-location: "Melbourne"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "anguyen1909"
-linkedin:  "anthonynguyen1909"
-skype:  "nvhoanganh1909"
 
 quote:  "Do it now, sometimes 'later' becomes 'never'"
 ---
 [[imgBadge]]
-| ![Certified Scrum Master](./Images/Bio/csm.png) 
+| ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png) 
 
 [[imgBadge]]
-| ![Microsoft Certified Professional](./Images/Bio/MCP.png) 
+| ![Microsoft Certified Professional](../badges/Certification-microsoft-professional.jpg) 
 
 [[imgBadge]]
-| ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
+| ![Sitefinity](../badges/Developer-sitefinity.png) 
   
 
-Anthony is the Solution Architect at SSW, a certified Scrum Master with experience delivering various types of Software Development projects ranging from contact center ERP, CRM, HR and Payroll, Utilities (Telecom) and recording systems, CMS, Product Transformation and Cloud Migration.   
+Anthony is the Solution Architect at SSW, a certified Scrum Master with experience delivering various types of Software Development projects ranging from custom ERP, CRM, HR and Payroll, Utilities (Telecom) and recording systems, CMS, Product Transformation and Cloud Transformation.
 
 Starting off as Technical Support Engineer and moving on to be Full Stack Developer, Technical Lead/Evangelist, Technical Project Manager, Scrum Master and Solution Architect, Anthony has broad understanding of all aspects of IT and Software Development Life Cycle. 
 

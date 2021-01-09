@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "LeiXu"
-name: "Lei Xu"
-nickname: "Lei"
+id: "d671bbf4-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Lei.aspx"
 category: "Managers"
 role:  "Solution Architect and General Manager (Beijing)"
 qualifications:  "B.Eng - Industrial Engineering & Computer Science, M.Info - Information Science "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "I believe in understanding people and technology. This combination has allowed me to build a great team that has built many great solutions... "
 ---

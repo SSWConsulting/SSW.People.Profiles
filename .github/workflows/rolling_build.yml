@@ -1,0 +1,47 @@
+# This is Rolling Build for Production
+
+name: Rolling Production Build
+
+# The workflow runs every 15 mins
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '*/15 * * * *'
+
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+    
+    # Download the file that contains the boolean flag indicating a CRM update
+    - name: Check CRM Skills Updated Flag
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        # URL of the file to download
+        file-url:  ${{ secrets.CRM_SKILLS_FLAG_URL }}
+
+    # Check if we need to run a build on production
+    - name: Run the Build if CRM has updated
+      run: |
+        if grep -q TRUE "CRM_SkillsUpdatedFlag.txt"; then
+            echo FALSE > CRM_SkillsUpdatedFlag.txt
+            echo "Running Build - CRM Updated"
+            export AZURE_DEVOPS_EXT_PAT=${{ secrets.AZURE_DEVOPS_TOKEN }}
+            chmod +x .workflow/build-production.sh
+            bash ./.workflow/build-production.sh            
+        else
+            echo "Skipping Build - CRM Data Ok"
+        fi
+      
+    # Update the CRM Flag so the build is triggered on next change  
+    - uses: fixpoint/azblob-upload-artifact@v3
+      with:
+        connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+        name: 'flags'  
+        path: CRM_SkillsUpdatedFlag.txt

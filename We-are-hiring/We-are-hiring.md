@@ -1,21 +1,11 @@
 ---
-current_employee: true
-ID: "Wearehiring"
+id: "WeAreHiring"
 name: "We are hiring"
-nickname: "We are hiring"
 
-legacy_page_url: "/AboutUs/Employees/Pages/JoinOurTeam.aspx"
+alternativeUrl: "https://www.ssw.com.au/ssw/Employment/default.aspx"
 category: "Developers"
 role:  "enthusiastic People"
-qualifications:  "Many"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
+qualifications:  ""
 
 quote:  ""
 ---

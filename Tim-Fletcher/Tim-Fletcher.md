@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "TimFletcher"
+id: "TimFletcher"
 name: "Tim Fletcher"
-nickname: "Tim Fletcher"
 
-legacy_page_url: "/AboutUs/Employees/Pages/TimF.aspx"
 category: "Managers"
 role:  "Project Manager"
 qualifications:  "BSc (Pure Math)"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

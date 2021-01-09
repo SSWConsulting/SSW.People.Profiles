@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "DavidReidy"
+id: "DavidReidy"
 name: "David Reidy"
-nickname: "David Reidy"
 
-legacy_page_url: "/AboutUs/Employees/Pages/DavidR.aspx"
 category: "Developers"
 role:  "Senior Database Architect"
 qualifications:  "B.Sc.(Hons); Dip.Ed; MCP "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

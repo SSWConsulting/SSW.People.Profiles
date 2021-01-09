@@ -1,29 +1,17 @@
 ---
-current_employee: false
-ID: "AndyTaslim"
-name: "Andy Taslim"
-nickname: "Andy Taslim"
+id: "bc6a67e8-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Andy.aspx"
 category: "Developers"
 role:  "Software Architect "
 qualifications:  "Bachelor of Computer Science (Software Development), Master of Information System "
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "If you ask Him for happiness, He will not give you happiness. What He will give you is, the opportunities to be happy."
 ---
 
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Certification-microsoft-professional.jpg)
+
 Andy is a Software Architect at SSW. He specializes in developing solutions with .NET Framework 3.5, C#, VB.NET, ASP.NET, Web Services / WCF, LINQ, SQL Server, Reporting Services and MS Access.  
-
- ![](./Images/Bio/mcp.gif) 
-
 
 Andy's client projects: 
 

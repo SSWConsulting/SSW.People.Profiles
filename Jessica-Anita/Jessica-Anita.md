@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "JessicaAnita"
+id: "JessicaAnita"
 name: "Jessica Anita"
-nickname: "Jessica Anita"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Jessica-Anita.aspx"
 category: "Developers"
 role:  "Developer - Work Experience"
 qualifications:  "B. Eng. Applied Computer Sciences (in progress)"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

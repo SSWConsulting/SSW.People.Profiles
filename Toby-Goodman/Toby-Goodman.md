@@ -1,21 +1,9 @@
 ---
-current_employee: true
-ID: "TobyGoodman"
-name: "Toby Goodman"
-nickname: "Toby"
+id: "a4a414fd-29ea-e911-9674-00155d012c95"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Toby-Goodman.aspx"
 category: "Designers"
 role:  "Video Producer"
 qualifications:  "Batchelor of Media and Communications"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "\"There can be many answers to a question but you will need to ask Adam how it is formatted\""
 ---

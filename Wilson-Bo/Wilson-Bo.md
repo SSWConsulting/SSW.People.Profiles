@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "WilsonBo"
-name: "Wilson Bo"
-nickname: "Wilson"
+id: "7af9b2ef-4138-e211-a564-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/WilsonBo.aspx"
 category: "Developers"
 role:  "Senior Consultant"
 qualifications:  "MCP"
-location: "Beijing"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "TFS + .NET"
 ---

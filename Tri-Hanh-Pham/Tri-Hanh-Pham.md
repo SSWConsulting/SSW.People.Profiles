@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "TriHanhPham"
-name: "Tri-Hanh Pham"
-nickname: "Tri"
+id: "c1abafee-f604-e611-80cc-00155d01ee33"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Tri.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "Masters in Computer Science, Masters in Project Management"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "phamtrihanh"
-skype:  "trihanh.pham"
 
 quote:  "In order to understand recursion, one must first understand recursion."
 ---

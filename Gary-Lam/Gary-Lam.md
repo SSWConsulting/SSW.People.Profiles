@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "GaryLam"
+id: "GaryLam"
 name: "Gary Lam"
-nickname: "Gary Lam"
 
-legacy_page_url: "/AboutUs/Employees/Pages/GaryL.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "B Sc (UNSW) , MCAD"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

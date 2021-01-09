@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "MichelleLu"
-name: "Michelle Lu"
-nickname: "Michelle"
+id: "1a90550d-5677-e311-8103-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Michelle.aspx"
 category: "Admin"
 role:  "BJ Accountant"
 qualifications:  ""
-location: "Beijing"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Work hard, play hard"
 ---

@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "CindyWang"
-name: "Cindy Wang"
-nickname: "Cindy Wang"
+id: "4f4696fe-dfa3-dd11-b942-00155d01221b"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Cindy.aspx"
 category: "Admin"
 role:  "PA / Office Manager"
 qualifications:  "B.Eco - International Economics & Trade"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "I believe in studying hard and always keeping the approach consistent. This way you and the team get more quality and are more productive."
 ---

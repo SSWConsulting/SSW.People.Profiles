@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "EricPhan"
-name: "Eric Phan"
-nickname: "Eric"
+id: "cc6a67e8-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Eric.aspx"
 category: "Managers"
 role:  "Chief Architect"
 qualifications:  "B.E. - Software Engineering, Certified Scrum Master"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "ericphan"
-linkedin:  "ephan"
-skype:  ""
 
 quote:  "There are 10 types of people in the world. Ones that understand binary and ones that don't."
 ---
@@ -171,7 +159,7 @@ Developed and lectured the UTS .NET Short Course.
 **Related Technology**: .NET Framework, AJAX, Click Once, SQL Server, ADO.NET, Visual Studio Team Suite, Visual Studio Team Foundation Server, Windows Forms, ASP.NET, Web Services  
 
 </td></tr><tr class="ms-rteTableFooterRow-default"><td class="ms-rteTableFooterEvenCol-default" rowspan="1" style="width:7%;text-align:center;"> 
-       ![500px-TransGrid_logo.svg.png](./Images/Bio/500px-TransGrid_logo.svg.png) 
+       ![500px-TransGrid_logo.png](./Images/Bio/500px-TransGrid_logo.png) 
    
 
     </td><td class="ms-rteTableFooterOddCol-default" rowspan="1"> 

@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "IgorPluzhnik"
+id: "IgorPluzhnik"
 name: "Igor Pluzhnik"
-nickname: "Igor Pluzhnik"
 
-legacy_page_url: "/AboutUs/Employees/Pages/IgorP.aspx"
 category: "Developers"
 role:  "Senior Network Administrator"
 qualifications:  "MIT, MEc, MCSE, MCDBA, MCSD"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

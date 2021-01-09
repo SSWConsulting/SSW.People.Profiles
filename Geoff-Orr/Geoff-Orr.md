@@ -1,21 +1,10 @@
 ---
-current_employee: false
-ID: "GeoffOrr"
+id: "GeoffOrr"
 name: "Geoff Orr"
-nickname: "Geoff Orr"
 
-legacy_page_url: "/AboutUs/Employees/Pages/GeoffO.aspx"
 category: "Developers"
 role:  "Senior Software Architect"
 qualifications:  "B App Sc (Computer Science), MCAD"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

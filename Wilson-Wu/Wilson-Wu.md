@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "WilsonWu"
-name: "Wilson Wu"
-nickname: "Wilson"
+id: "de71bbf4-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Wilson.aspx"
 category: "Developers"
 role:  "Testing and Support Engineer"
 qualifications:  "B Eng of Computer Science and Technology"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  "Innovative thinking is the best way to gain market share."
 ---

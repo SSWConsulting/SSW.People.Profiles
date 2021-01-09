@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "AndrewLean"
-name: "Andrew Lean"
-nickname: "Andrew"
+id: "09bbbd6f-767e-e411-8fff-00783af55a15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Andrew.aspx"
 category: "Developers"
 role:  "Senior Software Developer"
 qualifications:  "Bachelor of Computer Science & Technology from the University of Sydney"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  "https://www.facebook.com/andrew.lean.14"
-twitter:  "https://twitter.com/LeanCuisine123"
-linkedin:  "https://www.linkedin.com/in/andrew-lean-67436ab3/"
-skype:  "Andrew Lean [SSW] [FireBootCamp]"
 
 quote:  "Solve the problem first, then write the code."
 ---

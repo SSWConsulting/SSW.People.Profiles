@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "TimKremer"
-name: "Tim Kremer"
-nickname: "Tim Kremer"
+id: "8c785899-f459-dd11-b3a3-00155d012206"
 
-legacy_page_url: "/AboutUs/Employees/Pages/TimK.aspx"
 category: "Managers"
 role:  "Consulting Director"
 qualifications:  "B.Eng (Software)"
-location: ""
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  ""
-skype:  ""
 
 quote:  ""
 ---

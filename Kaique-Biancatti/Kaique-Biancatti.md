@@ -1,27 +1,15 @@
 ---
-current_employee: true
-ID: "KaiqueBiancatti"
-name: "Kaique Biancatti"
-nickname: "Kaique"
+id: "99176cc0-b930-e811-80fb-00155d012c01"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Kaique.aspx"
 category: "Developers"
 role:  "Systems Analyst"
 qualifications:  "Bachelor of Computer Science"
-location: "Sydney"
-
-blog:  ""
-website:  ""
-facebook:  "kikibianc"
-twitter:  ""
-linkedin:  "kikibianc"
-skype:  "kikibianc"
 
 quote:  "Until you're ready to look foolish, you'll never have the possibility of being great."
 ---
 
-Kaique has worked for 3 years as an Infrastructure Analyst and Help Desk, building servers and machines, and helping everyone around the office with their tech-related problems.   
-
-Another 2 years working as a Customer Experience Analyst brings the necessary skillset to give SSW clients the best possible customer service and support.
-
-A lot of experience with Windows and Windows Servers, Active Directory, Networking, Zendesk, Office 365 applications, Azure, Skype, Skype for business, PowerShell, Microsoft Flow, automation and hardware maintenance. He currently holds a Bachelor's Degree in Computer Science.  
+Kiki is one of those rare Sys Admins who is a Powershell Guru. He has been an Infrastructure Analyst at SSW for many years, and he has taken some of our processes from horse and carriage to more Tesla-like. He has supercharged SSW clients using PowerShell, Power Apps, Power Automate (was Microsoft Flow) and Azure Logic Apps. 
+ 
+He has a Bachelor's Degree in Computer Science and many years of experience working as a Customer Experience Analyst before tackling greater things, giving him the necessary skill-set to give SSW clients the best possible customer service and support.
+ 
+When Kaíque Biancatti is not automating SSW’s processes, he is working with his bread and butter, using Windows and Windows Server, Active Directory, Networking, Zendesk, Office 365 applications, Azure, Teams, Skype, Skype for business, automation, hardware maintenance and plenty more for our clients!  

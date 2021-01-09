@@ -1,23 +1,12 @@
 ---
-current_employee: true
-ID: "CalumSimpson"
-name: "Calum Simpson"
-nickname: "Calum"
+id: "6e4242c5-6414-e911-81cd-00155d012c51"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Calum-Simpson.aspx"
 category: "Developers"
-role:  "Senior Software Architect	"
+role:  "Senior Software Architect"
 qualifications:  "BBA, BIT"
-location: "Sydney"
 
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "calum-simpson-2171bb120/"
-skype:  ""
-
-quote:  "\"Never trust a computer you can’t throw out a window.\"  — Steve Wozniak"
+quote:  "Developers developers developers!"
+quoteAuthor: Steve Ballmer
 ---
 
 Calum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, CRM, C# .NET, plus experience in Angular and React. 

@@ -1,27 +1,15 @@
 ---
-current_employee: false
-ID: "LindsayCorfield"
-name: "Lindsay Corfield"
-nickname: "Lindsay"
+id: "9a8d1f03-d7d3-e711-80f2-00155d012275"
 
-legacy_page_url: "/AboutUs/Employees/Pages/Lindsay.aspx"
 category: "Managers"
 role:  "General Manager International"
 qualifications:  "MBA (Intl Bus) | JP (Qual) | Certified Scrum Master"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  ""
-linkedin:  "lindsaycorfield"
-skype:  ""
 
 quote:  "The greatest thing in this world is not so much where we stand as in what direction we are moving - Goethe"
 ---
 
-![Certified Scrum Master](./Images/Bio/ScrumMasterCertification.jpg) 
-   
+[[imgBadge]]
+| ![CSM](../badges/Certification-scrumalliance-master.png)
 
 Lindsay has worked with many organizations from tech start-ups to multi-nationals to help them achieve their growth ambitions and empowers SSW customers to continue their growth stories both in Australia and internationally.  
 

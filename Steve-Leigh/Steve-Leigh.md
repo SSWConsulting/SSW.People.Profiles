@@ -1,21 +1,9 @@
 ---
-current_employee: false
-ID: "SteveLeigh"
-name: "Steve Leigh"
-nickname: "Steve"
+id: "e084023e-11b4-e511-80c4-00155d012c15"
 
-legacy_page_url: "/AboutUs/Employees/Pages/SteveLeigh.aspx"
 category: "Developers"
 role:  "Solution Architect"
 qualifications:  "Bachelor of IT, Bachelor of Mathematics"
-location: "Brisbane"
-
-blog:  ""
-website:  ""
-facebook:  ""
-twitter:  "xwipeoutx"
-linkedin:  ""
-skype:  "steveleighssw"
 
 quote:  "Code cleanly to ship quickly"
 ---
