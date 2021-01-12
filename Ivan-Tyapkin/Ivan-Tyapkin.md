@@ -1,15 +1,11 @@
 ---
 id: "e10885cb-139a-e511-80c4-00155d012c15"
-
-category: "Developers"
-role:  "Senior Software Architect"
+role: "Developers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "B.Tech., Dipl.-Ing., MCSD"
 
 quote:  "Failing to plan is planning to fail, but responding to change over following a plan"
 ---
-
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/IvanTyapkin) 
-
 
  Ivan is a Senior Software Architect at SSW
 

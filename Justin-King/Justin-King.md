@@ -1,8 +1,7 @@
 ---
 id: "88785899-f459-dd11-b3a3-00155d012206"
-
-category: "Developers"
-role:  "Senior Software Architect"
+role: "Developers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "B App Science"
 
 quote:  "List<ScottGu> throws an exception - there is only one ScottGu!"
@@ -50,80 +49,35 @@ Travelled to Wellington to work with the great team of Intergen to assist in del
 
 Teaching entire course of SQL Server 2005 for Developers and Business Intelligence as a Short Course at the University of Technology Sydney. Justin has tought this course in complete twice over the past 2 years. Also teching the ASP.NET and Windows Forms Developer short course.
 
-User Group Presentations
+**User Group Presentations**
 
-<table style="width:100%;">
-    <tbody>
-<tr>
-    <td>**User Group**</td>
-    <td>**Presentation (s)**</td>
-</tr>
-<tr>
-    <td>Code Camp 2009 April 2009</td>
-    <td>6 Design Patterns every Developer should know</td>
-</tr>
-<tr>
-    <td>Sydney .NET User Group March 2009</td>
-    <td>6 Design Patterns every Developer should know</td>
-</tr>
-<tr>
-    <td>Canberra .NET User Group March 2009</td>
-    <td>6 Design Patterns every Developer should know</td>
-</tr>
-<tr>
-    <td>Sydney .NET User Group January 2009</td>
-    <td>Top 15 SQL Server DBA Tasks for SQL Server 2005/2008</td>
-</tr>
-<tr>
-    <td>Canberra .NET User Group January 2009</td>
-    <td>Top 15 SQL Server DBA Tasks for SQL Server 2005/2008</td>
-</tr>
-<tr>
-    <td>SQL NZ Pass Conference Wellington December 2008</td>
-    <td>
+* Code Camp 2009 April 2009 - 6 Design Patterns every Developer should know
+* Sydney .NET User Group March 2009 - 6 Design Patterns every Developer should know
+* Canberra .NET User Group March 2009 - Design Patterns every Developer should know
 
-*   Top 15 SQL Server DBA Tasks for SQL Server 2005/2008 
-*   TSQL Enhancements for Developers 
-*   LINQ Smackdown with Adam Cogan
-    </td>
-</tr>
-<tr>
-    <td>Canberra .NET User Group November 2008</td>
-    <td>SQL Server 2008 Spatial Data</td>
-</tr>
-<tr>
-    <td>Sydney .NET User Group November 2008</td>
-    <td>SQL Server 2008 Spatial Data with Adam Cogan</td>
-</tr>
-<tr>
-    <td>Sydney Business & Technology User Group October 2008</td>
-    <td>SQL Server 2008 for Developers</td>
-</tr>
-<tr>
-    <td>Newcastle Coders Group June 2008</td>
-    <td>ORM Smackdown - LINQ to Entities vs nHibernate</td>
-</tr>
-<tr>
-    <td>SSW Techbreakfast March 2008</td>
-    <td>SQL 2005/2008 T-SQL Enhancements and CLR Integration</td>
-</tr>
-<tr>
-    <td>Code Camp 2008 March 2008</td>
-    <td>ORM Smackdown - LINQ to Entities vs nHibernate with Adam Cogan</td>
-</tr>
-<tr>
-    <td>SSW TechBreakfast February 2008</td>
-    <td>ORM Smackdown - LINQ to Entities vs nHibernate with Adam Cogan </td>
-</tr>
-<tr>
-    <td>Wollongong .NET Users Group September 2007</td>
-    <td>Windows Workfow State Machines</td>
-</tr>
-<tr>
-    <td>Wollongong .NET Users Group August 2007</td>
-    <td>Visual Studio for Database Professionals (Data Dude)</td>
-</tr>
-    </tbody>
-</table>
+* Sydney .NET User Group January 2009 - Top 15 SQL Server DBA Tasks for SQL Server 2005/2008
 
-</e.law>
+* Canberra .NET User Group January 2009 - Top 15 SQL Server DBA Tasks for SQL Server 2005/2008
+
+* SQL NZ Pass Conference Wellington December 2008
+  *   Top 15 SQL Server DBA Tasks for SQL Server 2005/2008 
+  *   TSQL Enhancements for Developers 
+  *   LINQ Smackdown with Adam Cogan
+
+* Canberra .NET User Group November 2008 - SQL Server 2008 Spatial Data
+
+* Sydney .NET User Group November 2008 - SQL Server 2008 Spatial Data with Adam Cogan
+
+* Sydney Business & Technology User Group October 2008 - SQL Server 2008 for Developers
+
+* Newcastle Coders Group June 2008 - ORM Smackdown - LINQ to Entities vs nHibernate
+
+* SSW Techbreakfast March 2008 - SQL 2005/2008 T-SQL Enhancements and CLR Integration
+
+* Code Camp 2008 March 2008 - ORM Smackdown - LINQ to Entities vs nHibernate with Adam Cogan
+
+* SSW TechBreakfast February 2008 - ORM Smackdown - LINQ to Entities vs nHibernate with Adam Cogan
+
+* Wollongong .NET Users Group September 2007 - Windows Workfow State Machines
+
+* Wollongong .NET Users Group August 2007 - Visual Studio for Database Professionals (Data Dude)

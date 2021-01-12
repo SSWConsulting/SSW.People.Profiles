@@ -1,8 +1,6 @@
 ---
 id: "981f74cf-dfdb-e711-80f2-00155d012275"
 
-category: "Admin"
-role:  "China Office Administrator & Senior Marketing Specialist"
 qualifications:  "B English; MBA"
 
 quote:  "Live long and prosper"

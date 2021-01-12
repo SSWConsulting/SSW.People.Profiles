@@ -1,8 +1,7 @@
 ---
 id: "edd12bd3-099c-dd11-bc80-00155d01221b"
-
-category: "Developers"
-role:  "Software Architect"
+role: "Developers"
+jobTitle:  "Software Architect"
 qualifications:  "B. Software Engineering"
 
 quote:  ""

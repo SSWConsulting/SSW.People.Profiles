@@ -1,8 +1,7 @@
 ---
 id: "de916261-29fb-e711-80f6-00155d01ee57"
-
-category: "Developers"
-role:  "Software Developer"
+role: "Developers"
+jobTitle:  "Software Developer"
 qualifications:  "Bachelor of Engineering"
 
 quote:  "Better late than never."

@@ -1,8 +1,7 @@
 ---
 id: "76c5267f-f552-e611-80d2-00155d01ee33"
-
-category: "Developers"
-role:  "Solution Architect"
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "BEng (Hons), MEng"
 
 quote:  "To forget one's purpose is the commonest form of stupidity. Friedrich Nietzsche"

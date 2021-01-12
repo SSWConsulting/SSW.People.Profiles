@@ -1,8 +1,6 @@
 ---
 id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
 
-category: "Developers"
-role: "Sample Profile"
 qualifications: ""
 
 quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
@@ -11,7 +9,7 @@ quoteAuthor: "Anonymous"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Mr Bob Northwind is the owner of Northwind Traders Limited. 
+Mr Bob Northwind is the owner of Northwind Traders Limited. He is the toughest product owner we have ever come across :) He was the main star at the FireBootcamp.
 This is an example account to show you what is possible for a profile page. 
 Below you will see everything you need to create an awesome page. 
 

@@ -1,8 +1,8 @@
 ---
 id: "ce1712e5-79ee-e611-80d4-00155d01225d"
 
-category: "Developers"
-role:  "Senior Software Architect"
+role: "Developers"
+jobTitle: "Senior Software Architect"
 qualifications:  "Bachelor of Computing (Comp Sci/Software Development)"
 
 quote:  "Excuses are a roadblock designed to prevent us from fixing the underlying issue"

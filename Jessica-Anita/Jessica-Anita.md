@@ -2,8 +2,8 @@
 id: "JessicaAnita"
 name: "Jessica Anita"
 
-category: "Developers"
-role:  "Developer - Work Experience"
+role: "Developers"
+jobTitle:  "Developer - Work Experience"
 qualifications:  "B. Eng. Applied Computer Sciences (in progress)"
 
 quote:  ""

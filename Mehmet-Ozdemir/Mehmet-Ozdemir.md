@@ -1,8 +1,6 @@
 ---
 id: "977b53a0-0285-e011-8227-00155d012144"
 
-category: "Developers"
-role:  "Solution Architect"
 qualifications:  "Dip Computer Technology, MCSD: Application Lifecycle Management"
 
 quote:  "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"
@@ -11,14 +9,20 @@ quote:  "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-developer-alm.png) 
 
-Mehmet is a Solution Architect at SSW, a Microsoft Certified Solutions Developer specialising in Power BI, SSRS, Dynamics 365, and SharePoint solutions. Mehmet has extensive experience in Microsoft products both pre and post .NET and loves working with C#, Power Query, DAX, and SQL. In previous roles before SSW, Mehmet has worked with BI tools such as Teradata Data Warehouse, Oracle DRM (Master Data Management), Essbase and Cognos ReportNet.
+[[imgBadge]]
+| ![azure-logo.png](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![azure-function-logo.png](../badges/Developer-azure-function.png)
+
+Mehmet is a Solution Architect at SSW, a Microsoft Certified Solutions Developer specialising in Power BI, SSRS, Dynamics 365, and SharePoint solutions. Mehmet has extensive experience in Microsoft products both pre and post .NET and loves working with C#, Power Automate, Power Query, DAX, and SQL. In previous roles before SSW, Mehmet has worked with BI tools such as Teradata Data Warehouse, Oracle DRM (Master Data Management), Essbase and Cognos ReportNet.
 
 Mehmet also helps many clients and SSW with infrastructure-related tasks.
 
 #### Some recent clients
 
 * **[Screen Producers](https://www.screenproducers.org.au/)**  
-Mehmet worked with fellow SSW develop Greg to implement Dynamics 365 as the membership and event management system for Screen Producers Australia. Dynamics 365 was customised with additional entities to support SPA's membership levels and event management. Kentico cloud was used as the public front end to display Event data to the public, with SPA's members receiving discounted pricing.  
+Mehmet worked with fellow SSW developer Greg to implement Dynamics 365 as the membership and event management system for Screen Producers Australia. Dynamics 365 was customised with additional entities to support SPA's membership levels and event management. Kentico Cloud was used as the public front end to display Event data to the public, with SPA members receiving discounted pricing.  
     *Related Technologies: Dynamics 365, Kentico Cloud*
 
 * **[Multigate Medical](https://multigate.com.au/)**  

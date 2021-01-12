@@ -1,19 +1,23 @@
 ---
 id: "5d9f1750-0b74-dd11-a88b-00155d012206"
-
-category: "Developers"
-role: "Senior Software Architect (SharePoint)"
+role: "Developers"
+jobTitle:  "Senior Software Architect (SharePoint)"
 qualifications: "B.Eng(software engineering), MCPD, MCTS, MCSE, MCDBA"
 
 quote: "I believe positive mental attitude leads to excellence."
 ---
-
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/WilliamYin)
   
- ![MCSE_SharePoint_Blk.png](./Images/Bio/MCSE_SharePoint_Blk.png)
-![MCSA_Office365_Blk.png](./Images/Bio/MCSA_Office365_Blk.png)
-![MCPD-SharePtDev2010-logo-BW.png](./Images/Bio/MCPD-SharePtDev2010-logo-BW.png)
-![MCTS-MSOSPSvr7AppD-logo-BW.png](./Images/Bio/MCTS-MSOSPSvr7AppD-logo-BW.png)
+[[imgBadge]]
+| ![MCSE_SharePoint_Blk.png](./Images/Bio/MCSE_SharePoint_Blk.png)
+
+[[imgBadge]]
+| ![MCSA_Office365_Blk.png](./Images/Bio/MCSA_Office365_Blk.png)
+
+[[imgBadge]]
+| ![MCPD-SharePtDev2010-logo-BW.png](./Images/Bio/MCPD-SharePtDev2010-logo-BW.png)
+
+[[imgBadge]]
+| ![MCTS-MSOSPSvr7AppD-logo-BW.png](./Images/Bio/MCTS-MSOSPSvr7AppD-logo-BW.png)
 
 William is a software developer at SSW. He specializes in developing solutions with SharePoint (with client side javascript extensions – mostly with JQuery, Angular and React) , ASP.NET, SQL server and Azure.
 
@@ -23,7 +27,7 @@ William is a software developer at SSW. He specializes in developing solutions w
 
 - William first met SharePoint in 2006, since then, he has been working with SharePoint for over a decade.
 
-**William's selected client projects: **
+**William's selected client projects:**
 
 - **[Allianz](https://www.allianz.com/)** - PAGE (Partnered Allianz Global Education) is an online solution for Allianz marketing and selling of ancillary products and services to students studying abroad (to make students' overseas lives easier), integrated with the existing IH (International Health) system.  
   Related Technology: ASP.NET Core, Angular 4, Bootstrap 4, PrimeNG and SQL server.
@@ -46,7 +50,7 @@ William is a software developer at SSW. He specializes in developing solutions w
 - [WorleyParsons](http://www.worleyparsons.com/) - An internal SharePoint collaboration and knowledge management system used by a global user base.  
   Related Technology: SharePoint, ASP.NET, C#.
 
-**William's internal project mainly focuses on: **
+**William's internal project mainly focuses on:**
 
 - [Rules.SSW](/) - Developed a state of the art new SSW website to take 12,000 ASP.NET pages into a SharePoint public site. This site took advantage of SharePoint’s document management, version control and publishing workflow. This new site gave SSW editors a substantially better experience and their website visitors a better user experience.  
   Related Technology: SharePoint, ASP.NET, C#, XML, JQuery, Web Services, TFS and SQL Server.

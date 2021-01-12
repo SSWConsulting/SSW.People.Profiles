@@ -1,15 +1,17 @@
 ---
 id: "3f5c2414-a42f-e311-80a2-00783af55a15"
 
-category: "Developers"
-role:  "Solution Architect"
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "Bachelor of IT, MCSD: Web Applications"
 
 quote:  "​​I build web applications that are lightning fast and dressed to impress."
 ---
+[[imgBadge]]
+| ![Sitefinity](../badges/Certification-microsoft-developer-webapps.png) 
 
- [ ![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/BenCull) 
- 
+[[imgBadge]]
+| ![Sitefinity](../badges/Developer-sitefinity.png) 
 
  I'm a full stack web developer with extensive experience developing enterprise software in ASP.NET MVC and SQL Server.
 
@@ -17,12 +19,12 @@ quote:  "​​I build web applications that are lightning fast and dressed to i
 
  To compliment my Microsoft web development skills, I also have great experience with other web technologies and I'm a very active community speaker. I just love to make videos.
 
-*   *   [ Twitter Bootstrap & ASP.NET MVC -- Intro / Quickstart with Ben ](https://www.youtube.com/watch?v=bIGiUSMBwoo)
-    *   [ How to Use Twitter Bootstrap with Ben | Dev SuperPowers Episode 4 ](https://www.youtube.com/watch?v=DbdvWHkSEZo)
+*   [ Twitter Bootstrap & ASP.NET MVC -- Intro / Quickstart with Ben ](https://www.youtube.com/watch?v=bIGiUSMBwoo)
+*   [ How to Use Twitter Bootstrap with Ben | Dev SuperPowers Episode 4 ](https://www.youtube.com/watch?v=DbdvWHkSEZo)
 
-    *   [ AngularJS - How to make web applications with AngularJS and ASP.NET MVC | Dev SuperPowers Episode 7 ](https://www.youtube.com/watch?v=vwF1mxZH_hE)
-    *   [ASP.NET Identity using vNext | Dev Superpowers Episode 11 ](http://tv.ssw.com/5980/asp-net-identity-using-vnext-dev-superpowers-episode-11)
-    *   ASP.NET 5 and MVC6 : Where's My Cheese? | Dev SuperPowers Episode  15 
+*   [ AngularJS - How to make web applications with AngularJS and ASP.NET MVC | Dev SuperPowers Episode 7 ](https://www.youtube.com/watch?v=vwF1mxZH_hE)
+*   [ASP.NET Identity using vNext | Dev Superpowers Episode 11 ](http://tv.ssw.com/5980/asp-net-identity-using-vnext-dev-superpowers-episode-11)
+*   ASP.NET 5 and MVC6 : Where's My Cheese? | Dev SuperPowers Episode  15 
 
 I'm also quite into startups and have plenty of experience with rapid prototyping, especially in the payments space.
 
@@ -35,8 +37,3 @@ I also have a beer brewing channel on youtube: [Mash Hacks](https://www.youtube.
 
 Specialties: Web Development, Cloud Applications, Payments, Startups 
 
-[[imgBadge]]
-| ![Sitefinity](../badges/Certification-microsoft-developer-webapps.png) 
-
-[[imgBadge]]
-| ![Sitefinity](../badges/Developer-sitefinity.png) 

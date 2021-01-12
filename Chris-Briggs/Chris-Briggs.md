@@ -1,14 +1,11 @@
 ---
 id: "84568c4d-3a53-e411-a323-00783af55a15"
-
-category: "Developers"
-role:  "Senior Software Developer"
+role: "Developers"
+jobTitle:  "Senior Software Developer"
 qualifications:  "Bachelor of Information Technology"
 
 quote:  "You don't find buried treasure by sitting down."
 ---
-
- [![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/ChrisBriggs) 
 
 
 Chris is a Senior Software Developer, who heads up IoT at SSW . Based in Brisbane , he's passionate about IoT, Scrum, Security, Windows Universal Apps and Xamarin. All the Devs at SSW have been asking Chris, what he thinks the Internet of Things will mean for their day to day lives? It ranges from the impossible to the improbable, from automating their coffee breaks, to telling them exactly when the next bus will arrive!
@@ -18,7 +15,7 @@ Chris is a Senior Software Developer, who heads up IoT at SSW . Based in Brisban
 *   Chris worked on a software devolvement project that was demonstrated to a number of large companies in Jarkata, under the new Colombo plan
 *   Three month internship with the Department of Defence, working with the Vulnerability Research team on a successful research project culminating in a presentation to Defence Executives. 
 
-      <strong style="line-height:24px;">Chris's responsibilities include:**  
+**Chris's responsibilities include:**  
 
 *   Organising Hack Days
 *   PiStriker Development
@@ -39,4 +36,4 @@ Chris is a Senior Software Developer, who heads up IoT at SSW . Based in Brisban
 
 *   Technologies used: A wide range of different penetration testing tools including MetaSploit. 
 
-      [Click here for a full list of Chris' past presentations & interviews.](http://blog.chrisbriggsy.com/about/)</strong>
+[Click here for a full list of Chris' past presentations & interviews.](http://blog.chrisbriggsy.com/about/)

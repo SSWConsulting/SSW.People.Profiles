@@ -1,18 +1,27 @@
 ---
 id: "fd41919f-3c6a-e011-823c-00155d012016"
-
-category: "Managers"
-role:  "Chief Architect and State Manager QLD"
+role: "Managers"
+jobTitle:  "Solution Architect"
 qualifications:  "B.InfoTech (hons), MBA"
 
 quote:  "If you look at something you did a year ago and can't think of a better way to do it, it's not a sign you did it perfectly the first time, it's a sign you're not learning."
 ---
 
-[[imgBadge]]| ![MVP](../badges/Certification-microsoft-mvp.png)
-[[imgBadge]]| ![ALM](../badges/Certification-microsoft-developer-alm.png)
-[[imgBadge]]| ![Google Ads Mobile Awards](../badges/Certification-scrumorg-master-1.png) 
-   [![cover_small.png](./Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013) 
-  
+[[imgBadge]]
+| ![MVP](../badges/Certification-microsoft-mvp.png)
+
+[[imgBadge]]
+| ![ALM](../badges/Certification-microsoft-developer-alm.png)
+
+[[imgBadge]]
+| ![Google Ads Mobile Awards](../badges/Certification-scrumorg-master-1.png) 
+
+[[imgBadge]]
+| [![cover_small.png](./Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013) 
+
+
+---
+
  Damian is the Chief Architect and State Manager for QLD and is a Microsoft MVP in Visual Studio ALM.  
 
  With well over ten years of experience both in software development and business analysis roles, Damian has had exposure to a large number of industries including government and finance. A software architect with a wide skillset, he is able to use his excellent technical skills and knowledge of business process to deliver the most effective solutions to our clients.  
@@ -27,13 +36,13 @@ quote:  "If you look at something you did a year ago and can't think of a better
 
 **Damian's client projects include:** 
 
-*   **Management Advantage - Mentoring and Development  
- **Management Advantage is a leading provider of aged care and clinical management software. Looking to move their legacy VB6 codebase to .Net and improve their software development process, they engaged SSW to help. Since coming on board, we've implemented an effective Scrum process, provided guidance on best practices for .Net development, and mentored the development team in both technical and process areas.
+*   **Management Advantage - Mentoring and Development**  
+ Management Advantage is a leading provider of aged care and clinical management software. Looking to move their legacy VB6 codebase to .Net and improve their software development process, they engaged SSW to help. Since coming on board, we've implemented an effective Scrum process, provided guidance on best practices for .Net development, and mentored the development team in both technical and process areas.
 
 *   **Australia Day Council website**  
 Damian worked on the public-facing website for the National Australia Day Council along with a handful of other SSW developers. Built on Umbraco with plenty of customization for search as well as submission and management of events, it has evolved into a very performant and effective site.
-*   **An Internal Management Application for a major electricity provider  
- **A long-running project, Damian came on board to help bring the software to completion.  Combining DynamicData, ASP.Net, and rich Silverlight interfaces, the solution was a powerful tool to help their management team. 
+*   **An Internal Management Application for a major electricity provider**  
+ A long-running project, Damian came on board to help bring the software to completion.  Combining DynamicData, ASP.Net, and rich Silverlight interfaces, the solution was a powerful tool to help their management team. 
 
 **Damian's other work includes:**  
 

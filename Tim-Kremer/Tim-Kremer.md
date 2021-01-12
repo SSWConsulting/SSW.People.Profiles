@@ -1,8 +1,7 @@
 ---
 id: "8c785899-f459-dd11-b3a3-00155d012206"
-
-category: "Managers"
-role:  "Consulting Director"
+role: "Managers"
+jobTitle:  "Consulting Director"
 qualifications:  "B.Eng (Software)"
 
 quote:  ""

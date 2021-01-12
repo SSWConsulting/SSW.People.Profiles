@@ -1,8 +1,6 @@
 ---
 id: "90d1e088-58bd-e911-966f-00155d012c95"
 
-category: "Developers"
-role:  "Software Architect"
 qualifications:  "Bachelor of Information Technology Systems"
 
 quote:  "The future belongs to the curious. The ones who are not afraid to try it, explore it, poke at it, question it and turn it inside out."

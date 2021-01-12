@@ -3,8 +3,8 @@ id: "WeAreHiring"
 name: "We are hiring"
 
 alternativeUrl: "https://www.ssw.com.au/ssw/Employment/default.aspx"
-category: "Developers"
-role:  "enthusiastic People"
+role: "Developers"
+jobTitle:  "enthusiastic People"
 qualifications:  ""
 
 quote:  ""

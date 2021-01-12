@@ -1,8 +1,7 @@
 ---
 id: "47b22f32-00c0-dd11-8569-00155d01221b"
-
-category: "Admin"
-role:  "Personal Assistant/Marketing"
+role: "Admin"
+jobTitle:  "Personal Assistant/Marketing"
 qualifications:  "B. Commerce"
 
 quote:  ""

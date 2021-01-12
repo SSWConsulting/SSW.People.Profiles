@@ -1,8 +1,7 @@
 ---
 id: "4f4696fe-dfa3-dd11-b942-00155d01221b"
-
-category: "Admin"
-role:  "PA / Office Manager"
+role: "Admin"
+jobTitle:  "PA to General Manager"
 qualifications:  "B.Eco - International Economics & Trade"
 
 quote:  "I believe in studying hard and always keeping the approach consistent. This way you and the team get more quality and are more productive."
@@ -23,6 +22,6 @@ Now, her goal is to learn more about using workflows in SharePoint and get a han
 
 **Hobbies:**
 She likes watching films and playing tennis.
-**** 
+
 **Favourite Quote:**
 Her favourite quote is "Where there is a will, there is a way." 

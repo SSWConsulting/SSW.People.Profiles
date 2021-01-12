@@ -1,8 +1,7 @@
 ---
 id: "73be396b-352b-e811-80fb-00155d012c01"
-
-category: "Developers"
-role:  "Senior Software Architect"
+role: "Developers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "Bachelor of Commerce"
 
 quote:  "It's not the technology that matters. It's always about the business."

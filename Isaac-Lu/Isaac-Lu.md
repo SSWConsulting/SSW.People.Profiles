@@ -1,8 +1,6 @@
 ---
 id: "48e16736-ba8b-e811-810f-00155d012c11"
 
-category: "Developers"
-role:  "Software Developer"
 qualifications:  "Bachelor of Information Network Engineering"
 
 quote:  "Writing code for the better life~"

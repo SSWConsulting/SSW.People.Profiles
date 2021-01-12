@@ -1,8 +1,7 @@
 ---
 id: "3124783f-484a-e711-80dc-00155d012c3d"
-
-category: "Developers"
-role: "Solution Architect"
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications: "Certified Scrum Master"
 
 quote: ""

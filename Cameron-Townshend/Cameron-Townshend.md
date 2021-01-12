@@ -1,15 +1,13 @@
 ---
 id: "84785899-f459-dd11-b3a3-00155d012206"
-
-category: "Managers"
-role:  "Senior Software Architect"
+role: "Managers"
+jobTitle:  "Senior Software Architect"
 qualifications:  "B Sc (Mathematics), MCP (SQL Server, VB.Net, MS Access, MS Excel, Networking)"
 
-quote:  ""
+quote:  "Never ascribe to malice, that which can be explained by incompetence."
+quoteAuthor: "Napoleon Bonaparte"
 ---
 
-***"Never ascribe to malice, that which can be explained by incompetence." *  
--- Napoleon Bonaparte** 
 
 Cameron Townshend is a Senior Software Architect at SSW. A Microsoft Certified Professional specializing in .NET and SQL Server Solutions, Cameron has more than 15 years experience in software development and project management at numerous organizations. Cameron is currently working with ASP.NET 2.0, C#, VB .NET, LINQ, MS WF, SQL Server Analysis Services, SQL Server Reporting Services and SQL Server 2005. Cameron has successfully delivered the following projects. All clients are happy, some we could even consider raving fans. 
 

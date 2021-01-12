@@ -1,8 +1,6 @@
 ---
 id: "31ff5976-8a0f-e811-80f7-00155d01227e"
 
-category: "Developers"
-role: "Senior Software Architect"
 qualifications: "Bachelor of Computer Science, Certified Base Programmer for SAS 9"
 
 quote: "A good programmer looks both ways before crossing a one-way street"

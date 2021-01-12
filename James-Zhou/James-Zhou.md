@@ -1,19 +1,23 @@
 ---
 id: "da6bc392-f459-dd11-b3a3-00155d012206"
-
-category: "Developers"
-role:  "Software Architect"
+role: "Developers"
+jobTitle:  "Software Architect"
 qualifications:  "B. Eng - Information System Management, MCAD, PMP"
 
 quote:  "I like challenging work. I like using cutting edge technologies to make great solutions for my clients."
 ---
-
-## 
-    ![pmp logo](./Images/Bio/pmp_logo.jpg) 
- ![](./Images/Bio/MCAD-RGB.gif) 
-  ![](./Images/Bio/mcp-rgb.gif) 
  
-![](./Images/Bio/scrumtrainer.png) 
+[[imgBadge]]
+| ![pmp logo](./Images/Bio/pmp_logo.jpg) 
+
+[[imgBadge]]
+| ![](./Images/Bio/MCAD-RGB.gif)
+
+[[imgBadge]]
+| ![](./Images/Bio/mcp-rgb.gif) 
+ 
+[[imgBadge]]
+| ![](./Images/Bio/scrumtrainer.png) 
  
 
 **Background**  
@@ -22,9 +26,9 @@ James is a Software Architect in the SSW Beijing office. Since Microsoft .NET Fr
 
 ****
 
-**Work  
+**Work**  
 
-**Some of his big projects are :
+Some of his big projects are :
 
 *   BlueParcel - ASP.NET online shopping web solution 
 *   Westlink - ASP.NET web project with SQL Server 2000 database development 
@@ -35,6 +39,7 @@ James also works on some of SSW products as product manager or developer:
 
 *   [SSW Exchange Reporter](http://www.ssw.com.au/ssw/ExchangeReporter) 
 *   [SSW Link Auditor](http://www.ssw.com.au/ssw/LinkAuditor) 
-**User Group Presentations **
+
+**User Group Presentations**
 
 *   China Beijing .NET User Group - topics about ASP.NET MVC 

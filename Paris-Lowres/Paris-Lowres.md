@@ -1,8 +1,7 @@
 ---
 id: "303aae5f-18eb-e911-9674-00155d012c95"
-
-category: "Admin"
-role: "Victorian Office Assistant"
+role: "Admin"
+jobTitle:  "Victorian Office Assistant"
 qualifications: "Bachelor of Arts"
 
 quote: "Words are, in my not so humble opinion, our most inexhaustible source of magic, capable of both influencing injury, and remedying it."

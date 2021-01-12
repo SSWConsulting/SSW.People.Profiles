@@ -1,15 +1,12 @@
 ---
 id: "f2eadf45-3387-e511-80c4-00155d012c15"
-
-category: "Designers"
-role:  "Senior Web Designer "
+role: "Designers"
+jobTitle:  "Senior Web Designer"
 qualifications:  "B.Sc - Computer Science, M.Sc - Information Technology"
 
 quote:  "Logic will get you from  A to Z; imagination will get you everywhere"
 ---
 
-[![BookNow.png](./Images/Bio/BookNow.png)](http://veethere.com/With/FarrukhKhan) 
- 
 
 ![Sitefinity](./Images/Bio/logo_sitefinity.png) 
 

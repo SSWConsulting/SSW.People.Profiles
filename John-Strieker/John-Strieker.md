@@ -1,8 +1,7 @@
 ---
 id: "e8d6ffe2-b7b4-e811-8145-00155d01ef11"
-
-category: "Developers"
-role:  "Solution Architect"
+role: "Developers"
+jobTitle:  "Solution Architect"
 qualifications:  "Bachelor of Science - Multimedia Engineering"
 
 quote:  "I believe nothing is impossible"

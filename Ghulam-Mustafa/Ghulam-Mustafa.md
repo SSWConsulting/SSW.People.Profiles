@@ -2,8 +2,8 @@
 id: "GhulamMustafa"
 name: "Ghulam Mustafa"
 
-category: "Developers"
-role:  "Software Architect"
+role: "Developers"
+jobTitle:  "Software Architect"
 qualifications:  "Master of Science in Computer Science and Technology "
 
 quote:  ""

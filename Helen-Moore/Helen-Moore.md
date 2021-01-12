@@ -1,8 +1,7 @@
 ---
 id: "62229cee-f459-dd11-b3a3-00155d012206"
-
-category: "Admin"
-role:  "Personal Assistant & Office Manager"
+role: "Admin"
+jobTitle:  "Personal Assistant & Office Manager"
 qualifications:  ""
 
 quote:  "Mistakes are proof that you're trying."

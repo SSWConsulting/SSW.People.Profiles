@@ -1,8 +1,6 @@
 ---
 id: "687efe24-b7a1-e811-812d-00155d01ef11"
 
-category: "Developers"
-role:  "Solution Architect"
 qualifications:  "Bachelor of Information Technology - Software Engineering"
 
 quote:  "Make a plan! Make it happen!"
@@ -44,8 +42,8 @@ quote:  "Make a plan! Make it happen!"
 [[imgBadge]]
 | [![Speaker at DDD Brisbane 2019](../badges/Event-DDD-Brisbane.png)](https://dddbrisbane.com)
 
-[[imgBanner]]
-| ![Azure DevOps](../badges/Business-microsoft-azure-devops-banner.png)
+[[imgBadge]]
+| ![Azure DevOps](../badges/Business-microsoft-azure-devops.png)
 
 ---
 
@@ -55,7 +53,7 @@ With his many years of experience William has learnt how to adapt to new industr
 
 ## Application Modernization
 
-Specializing in [Application Modernization](https://www.ssw.com.au/ssw/Consulting/Strategic-Architecture.aspx) he helped some of Australia's largest software companies and financial institutions through the digital transformation processes and sucessfully [migrate to Azure](https://www.ssw.com.au/ssw/Consulting/Azure.aspx) and take full advantage of the Cloud.
+Specializing in [Application Modernization](https://www.ssw.com.au/ssw/Consulting/Strategic-Architecture.aspx) he helped some of Australia's largest software companies and financial institutions through digital transformation processes to sucessfully [migrate to Azure](https://www.ssw.com.au/ssw/Consulting/Azure.aspx) and take full advantage of the Cloud.
 
 ## Development Technologies
 

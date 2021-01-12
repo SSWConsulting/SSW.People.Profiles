@@ -1,8 +1,7 @@
 ---
 id: "217c9631-2de2-e211-aa04-00783af55a15"
-
-category: "Admin"
-role:  "Personal Assistant/Office Administrator"
+role: "Admin"
+jobTitle:  "Personal Assistant/Office Administration"
 qualifications:  "B Creative Arts (Creative Writing) "
 
 quote:  "Perfect is the enemy of good (Aphorism)"

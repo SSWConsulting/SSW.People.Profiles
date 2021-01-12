@@ -1,8 +1,6 @@
 ---
 id: "ce34d74e-c08f-e811-8115-00155d01261e"
 
-category: "Designers"
-role:  "User Experience Expert"
 qualifications:  "Bachelor of Commerce"
 
 quote:  "You gotta see the world before you can change it."
