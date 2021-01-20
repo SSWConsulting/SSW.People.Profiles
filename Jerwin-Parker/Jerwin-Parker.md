@@ -42,7 +42,7 @@ Academically, Jerwin finished within the top 10 of his Marketing capstone cohort
 
 He is an experienced public speaker, and has presented numerous projects to several crowds. From being selected to present to Dyson Australia in implementing an Innovative Marketing campaign to speaking to 1500 Global Youth delegates at the University Scholars Leadership Symposium, he can present compelling ideas. 
 
-Jerwin has helps drive marketing generation and support; strives to always ensure people know of the awesome projects that SSW is working on and their impacts, collaborate with the SSW TV team and help promote the latest technologies from SSW's leading developers. 
+Jerwin drives marketing generation and support; strives to always ensure people know of the awesome projects that SSW is working on and their impacts, collaborate with the SSW TV team and help promote the latest technologies from SSW's leading developers. 
 
 Jerwin's specialities are:
 * Data Analysis/Networking 
