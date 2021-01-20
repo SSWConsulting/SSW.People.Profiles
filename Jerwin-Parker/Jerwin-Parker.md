@@ -36,7 +36,7 @@ He brings with him an extensive background in marketing, events, design thinking
 
 Jerwin has worked for an array of organisations building upon his skills in marketing, leadership, innovation and strategy. 
 
-From working as an Evangelist for the Microsoft Consumer Device and Sales team, driving Innovative strategies as an Event Marketing Manager at I Heart Uni (Australia's leading University Event Service), to leading a market research project with the Australian Human Rights Commission, to working as an Team Lead for Humanitarian Affairs Asia - Jerwin's impacts are far and wide.
+From working as an Ambassador for the Microsoft Consumer Device and Sales team, driving Innovative strategies as an Event Marketing Manager at I Heart Uni (Australia's leading University Event Service), to leading a market research project with the Australian Human Rights Commission, to working as an Team Lead for Humanitarian Affairs Asia - Jerwin's impacts are far and wide.
 
 Academically, Jerwin finished within the top 10 of his Marketing capstone cohort, Creative Intelligence and Innovation cohort and Entrepreneurship (Honours) cohort. 
 
@@ -58,4 +58,4 @@ Jerwin's specialities are:
 * Email Marketing (MailChimp and SendGrid)
 * Growth Marketing 
 
-In his spare time, Jerwin enjoys spending time with his Family, reading and working on his Fitness Start-Up Shreddedology & SpotMe Australia. 
+In his spare time, Jerwin enjoys spending time with his Family, reading and hitting the weights 💪
