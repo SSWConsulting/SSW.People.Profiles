@@ -6,6 +6,8 @@ qualifications:  ""
 quote:  "Any technology distinguishable from magic is insufficiently advanced."
 quoteAuthor: "Gregory Benford"
 ---
+[[imgBadge]]
+| ![](../badges/Certification-scrumalliance-master.png)
 
 Drawing on a combination of hands-on experience and enterprise governance practices, Matt is able to make connections between business and technology to deliver user and business focused outcomes.
 
