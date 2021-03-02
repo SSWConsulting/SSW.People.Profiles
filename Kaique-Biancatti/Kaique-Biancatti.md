@@ -6,6 +6,15 @@ qualifications:  "Bachelor of Computer Science"
 quote:  "Until you're ready to look foolish, you'll never have the possibility of being great."
 ---
 
+[[imgBadge]]
+| [![](../badges/Certification-microsoft-azure-fundamentals.png)](https://www.youracclaim.com/badges/adcacd3d-efa9-4a5d-8dc4-77b4ec46cd79/public_url)
+[[imgBadge]]
+| ![](../badges/Business-zendesk.png)
+[[imgBadge]]
+| ![](../badges/Business-microsoft-azure.png)
+[[imgBadge]]
+| ![](../badges/SysAdmin-microsoft-hyper-v.png)
+
 Kiki is one of those rare SysAdmins who is a Powershell Guru. He has been an Infrastructure Analyst at SSW for many years, and he has taken some of our processes from horse and carriage to more Tesla-like. He has supercharged SSW clients using PowerShell, Power Apps, Power Automate (was Microsoft Flow) and Azure Logic Apps. 
  
 He has a Bachelor's Degree in Computer Science and many years of experience working as a Customer Experience Analyst before tackling greater things, giving him the necessary skill-set to give SSW clients the best possible customer service and support.
