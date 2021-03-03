@@ -20,10 +20,43 @@ quoteAuthor: "Einstein"
 | ![dotnetcore.png](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
+| ![dotnetcode.png](../badges/Developer-dotnet-code.png)
+
+[[imgBadge]]
 | ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
+| ![blazor-logo.png](../badges/Developer-blazor.png)
+
+[[imgBadge]]
+| ![react.png](../badges/Developer-react.png)
+
+[[imgBadge]]
 | ![vue.png](../badges/Developer-Vue.png)
+
+[[imgBadge]]
+| ![Powershell.png](../badges/Developer-powershell.png)
+
+[[imgBadge]]
+| ![devops.png](../badges/Developer-devops.png)
+
+[[imgBadge]]
+| ![dddbne.png](../badges/Event-DDD-Brisbane.png)
+
+[[imgBadge]]
+| ![vue.png](../badges/Event-DDD-Brisbane.png)
+
+[[imgBadge]]
+| ![ignite.png](../badges/Event-Microsoft-Ignite.png)
+
+[[imgBadge]]
+| ![ugc.png](../badges/Event-ug-canberra.png)
+
+[[imgBadge]]
+| ![ugm.png](../badges/Event-ug.melbournepng)
+
+[[imgBadge]]
+| ![ugs.png](../badges/Event-ug-sydney.png)
 
 ---
 
