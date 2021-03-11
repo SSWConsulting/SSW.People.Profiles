@@ -7,8 +7,6 @@ quote: "Strategy without tactics is the slowest route to victory. Tactics withou
 quoteAuthor: "Sun Tzu"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
-
 [[imgBadge]]
 | ![azure-logo.png](../badges/Business-microsoft-azure.png)
 
