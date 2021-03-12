@@ -6,6 +6,33 @@ qualifications:  "Bachelor of Information Technology Systems"
 quote:  "The future belongs to the curious. The ones who are not afraid to try it, explore it, poke at it, question it and turn it inside out."
 ---
 
+[[imgBadge]]
+| ![dotnetcore](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![csharp](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![angular](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![ngrx](../badges/Developer-ngrx.png)
+
+[[imgBadge]]
+| ![rxjs](../badges/Developer-rxjs.png)
+
+[[imgBadge]]
+| ![azure-logo](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![devops](../badges/Business-microsoft-azure-devops.png)
+
+[[imgBadge]]
+| ![powerbi](../badges/Business-microsoft-dynamics-powerbi.png)
+
+[[imgBadge]]
+| ![az900](../badges/Certification-microsoft-azure-fundamentals.png)
+
 Alex is an **SSW Software Architect**. His main fields are in **.NET Core**, **Angular**, **Power BI** and **SQL** 
 
 Alex is a .NET Developer with 7 years of experience consulting on a variety of companies that specialized in a range of industries. Always interested in an opportunity to hone his skills, Alex is always up to try new and exciting technologies and challenges to be on the cutting edge, and to help others along the way.  
