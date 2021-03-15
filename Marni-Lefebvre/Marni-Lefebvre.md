@@ -11,4 +11,4 @@ Marni holds four degrees, one Undergraduate degree and three Postgraduate degree
 
 She has a varied background when it comes to work, ranging from tutoring cross-cultural management and international business at both the Undergraduate and Postgraduate level at The University of Sydney, to being a Graduate Consultant and Administrative Assistant at a communication and reputation consultancy in the UK.
 
-In her spare time she is an avid reader, and she loves to travel and experience new cultures.
+In her spare time she is an avid reader and she loves to travel and experience new cultures.
