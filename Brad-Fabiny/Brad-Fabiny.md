@@ -1,7 +1,6 @@
 ---
 id: "dfcbd665-777d-eb11-a812-00224814d726"
 
-category: "Developers"
 qualifications: "B App.Sci (Computational Science)"
 
 quote: "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
