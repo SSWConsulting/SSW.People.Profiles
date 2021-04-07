@@ -30,7 +30,7 @@ Michael Specialises in:
 
 - Building business cases and cost-benefit analysis
 
-- product commercialisation
+- Product commercialisation
 
 - Startup funding
 
