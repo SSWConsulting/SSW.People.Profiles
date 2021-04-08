@@ -6,21 +6,29 @@ qualifications:  "Bachelor of Information Technology"
 quote:  "Coding is like artwork and as developers we should always strive to be better artists."
 ---
 
-[[imgBadge]] | ![dotnetcore.png](../badges/Developer-dotnet-core.png)
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-dotnet-core.png)
 
-[[imgBadge]] | ![dotnetcode.png](../badges/Developer-dotnet-code.png)
+[[imgBadge]]
+| ![dotnetcode.png](../badges/Developer-dotnet-code.png)
 
-[[imgBadge]] | ![angular.png](../badges/Developer-angular.png)
+[[imgBadge]]
+| ![angular.png](../badges/Developer-angular.png)
 
-[[imgBadge]] | ![angular.png](../badges/Developer-react.png)
+[[imgBadge]]
+| ![angular.png](../badges/Developer-react.png)
 
-[[imgBadge]] | ![angular.png](../badges/Developer-ngrx.png)
+[[imgBadge]]
+| ![angular.png](../badges/Developer-ngrx.png)
 
-[[imgBadge]] | ![angular.png](../badges/Developer-rxjs.png)
+[[imgBadge]]
+| ![angular.png](../badges/Developer-rxjs.png)
 
-[[imgBadge]] | ![angular.png](../badges/Business-microsoft-azure.png)
+[[imgBadge]]
+| ![angular.png](../badges/Business-microsoft-azure.png)
 
-[[imgBadge]] | ![angular.png](../badges/Business-microsoft-azure-devops.png)
+[[imgBadge]]
+| ![angular.png](../badges/Business-microsoft-azure-devops.png)
 
 ---
 
