@@ -6,20 +6,36 @@ qualifications:  "Bachelor of Information Technology"
 quote:  "Coding is like artwork and as developers we should always strive to be better artists."
 ---
 
-Kaha is a software developer based in SSW's Brisbane Office. Kaha has been involved with development in a range of Angular and .NET based projects and has experience developing in client-side, server-side and SQL database environments. Kaha is versed in Scrum and operates well in team-oriented environments, interacts well with clients and development teams and adapts well to development changes.  
+[[imgBadge]] | ![dotnetcore.png](../badges/Developer-dotnet-core.png)
 
-Some of these skills include:  
+[[imgBadge]] | ![dotnetcode.png](../badges/Developer-dotnet-code.png)
 
-*   .NET Core  
+[[imgBadge]] | ![angular.png](../badges/Developer-angular.png)
 
-*   Angular  
+[[imgBadge]] | ![angular.png](../badges/Developer-react.png)
 
-*   React  
+[[imgBadge]] | ![angular.png](../badges/Developer-ngrx.png)
 
-*   SQL Server  
+[[imgBadge]] | ![angular.png](../badges/Developer-rxjs.png)
 
-*   JavaScript  
+[[imgBadge]] | ![angular.png](../badges/Business-microsoft-azure.png)
 
-*   Entity Framework  
+[[imgBadge]] | ![angular.png](../badges/Business-microsoft-azure-devops.png)
 
-In his personal time, Kaha is a passionate software developer that constantly strives to expand his knowledge in the latest leading technologies as well as perfecting his craft. Some of the Kaha's technological interests have included Clean Code Architecture and developing cloud-based solutions on Microsoft's Azure platform.
+---
+
+Kaha is a versitle software developer based in SSW's Brisbane Office. He has been involved in a wide range of Angular, .NET and React based development projects and has experience developing in robust full stack solutions. He has enganged with a variety of organisations and development teams over his career and worked close in hand to provide the best flexible software solutions to cater for the growing business needs of today. He is well versed in Scrum practices and is known to operate well in team-oriented environments. Kaha constantly strives to improve and expand his repertoire of skills and learn about the newest leading technology and perfecting his craft. 
+
+Key Skills:  
+
+*   .NET Core
+
+*   Angular
+
+*   React
+
+*   SQL / CosmosDB / MongoDB
+
+*   NodeJS  
+
+*   Entity Framework  & EF Core
