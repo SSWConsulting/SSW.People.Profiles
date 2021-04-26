@@ -49,7 +49,7 @@ quote:  "Make a plan! Make it happen!"
 
 William is a **Solution Architect** with over 16 years of professional experience spanning multiple industries such as Heavy Engineering, Mining, 3D Graphics, Education and Finance.
 
-With his many years of experience William has learnt how to adapt to new industries and this gives him a unique talent for syncronizing with his clients' new business languages and processes to build their solutions.
+With his many years of experience William has learnt how to adapt to new industries and this gives him a unique talent for synchronizing with his clients' new business languages and processes to build their solutions.
 
 ## Application Modernization
 
