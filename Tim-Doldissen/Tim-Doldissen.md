@@ -3,7 +3,7 @@ id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
 
 category: "Designers"
 role: "Video Producer"
-qualifications: ""
+qualifications: "B.Media - Screen Production"
 
 quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
 quoteAuthor: "Anonymous"
