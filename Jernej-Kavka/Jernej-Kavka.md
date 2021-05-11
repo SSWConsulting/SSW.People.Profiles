@@ -67,7 +67,7 @@ JK also actively supports the .NET Community as a [**.NET Foundation member**](h
 
 You can follow him on [**Twitter,**](https://twitter.com/jernej_kavka), [**his personal blog**](https://jkdev.me/) or check out when is his next talk on [**Sessionize**](https://sessionize.com/jernej-kavka/).
 
-`youtube:35qt4DexxuE`
+`youtube: https://www.youtube.com/watch?v=35qt4DexxuE`
 
 Jernej's client projects include:
 
