@@ -9,6 +9,20 @@ quoteAuthor: "Nick"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
+[[imgBadge]]
+| ![CA-ANZ.png](Chartered_Accountants_Australia_and_New_Zealand_logo.svg.png)
+
+[[imgBadge]]
+| ![Xero.png](Xero-Logo.png)
+
+
+[[imgBadge]]
+| ![MYOB.png](FD_myoblogocolour.png)
+
+
+[[imgBadge]]
+| ![Power-BI.png](Power-BI.png)
+
 Nick is a fully qualified Chartered Accountant at SSW Australia. Boasting 7+ years of accounting experience, he strongly represents the changes that are affecting the accounting industry in an optimistic and forward thinking manner. 
 
 With varying experience between accounting firms and private businesses, Nick aims to continue to provide his innovative expertise across all accounting areas, especially with small businesses and Xero. Nick's experiences go into far reaching sectors, including those of established businesses and that of start-ups, especially research and development projects.
