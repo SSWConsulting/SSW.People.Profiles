@@ -23,16 +23,16 @@ quoteAuthor: "Nick"
 [[imgBadge]]
 | ![Power-BI.png](Power-BI.png)
 
-Nick is a fully qualified Chartered Accountant at SSW Australia. Boasting 7+ years of accounting experience, he strongly represents the changes that are affecting the accounting industry in an optimistic and forward thinking manner. 
+Nick is a fully qualified Chartered Accountant at SSW Australia with 7+ years of accounting experience. He is an advocate for forward thinking and sustainable accounting practices. 
 
 With varying experience between accounting firms and private businesses, Nick aims to continue to provide his innovative expertise across all accounting areas, especially with small businesses and Xero. Nick's experiences go into far reaching sectors, including those of established businesses and that of start-ups, especially research and development projects.
 
 Nick aims to align the goals of SSW with the technological and software changes affecting the accounting industry and that of all businesses and their accountancy.
 
-Nick appears to be a softly spoken and quiet achiever, though at all other times Nick is exuberant and fiercly competitive. Having been a multiple Australian representative in the sports of Powerlifting and Dragonboating with multiple podiums at World Championships and a State Representative in Oz-tag. 
+Nick is an open minded quiet achiever, but also displays an exuberant and fiercly competitive attitude. Nick is proud to have represented Australia in a range of sports including Powerlifting and Dragonboating. His greatest achievemens in these sports include multiple podiums at the World Championships. 
 
-Outside of sports, Nick is an avid volunteer work supporter. Whether it is through donation support to various causes or physical time volunteering including:
-- Chair in organising committee of a Nation-wide charity run for Breast Cancer Research
+Outside of sports, Nick is an avid volunteer. Some of the initiatives he has contributed to include:
+- Acting as a Chairperson in the organising committee of a Nation-wide charity run for Breast Cancer Research
 - Various beach and lake clean ups
-- Bushfire clothing run, sorting and packing
-- Sydney Tennis volunteer
+- Participating in bushfire clothing run initiatives
+- Guiding attendees at tennis tournaments as a Tennis Australia volunteer
