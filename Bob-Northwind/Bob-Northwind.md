@@ -151,6 +151,24 @@ _italic_ or _italic_
 
 &nbsp;
 
+# Twitter Card Embed
+
+---
+
+## Input:
+
+```
+`oembed: https://twitter.com/SSW_TV/status/1232546593099919361`
+```
+
+&nbsp;
+
+## Output:
+
+`oembed: https://twitter.com/SSW_TV/status/1232546593099919361`
+
+&nbsp;
+
 # Horizontal Rules
 
 ---
