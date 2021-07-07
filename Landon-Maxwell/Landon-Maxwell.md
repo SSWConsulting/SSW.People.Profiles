@@ -19,7 +19,7 @@ quote: "You can't change what has already happened, but you can change how you d
 | ![](../badges/Designer-camera.png)
 
 
-Landon is the Multimedia Specialist & Videographer for SSW and SSW TV.
+Landon Maxwell is the Multimedia Specialist & Videographer for SSW and SSW TV.
 
 With over 6 years of experience in the film industry, Landon has a strong focus on creative storytelling, backed with a solid technical foundation. He has a keen interest in new technology, and has worked on a number of 360 Video and Virtual Reality projects using bleeding-edge equipment. 
 
