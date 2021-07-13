@@ -2,8 +2,6 @@
 id: "187c0052-f4bc-eb11-bacc-00224814a68b"
 
 qualifications: ""
-category: "Developers"
-role: "Sample Profile"
 
 quote: "Think like a man of action, act like a man of thought."
 quoteAuthor: "Henri Bergson"
