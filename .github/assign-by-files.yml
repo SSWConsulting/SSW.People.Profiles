@@ -3,8 +3,6 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
-'Alex-Breskin/**':
-  - AlexBreskin
 'Alvin-Shen/**':
   - AlvinShenSSW
 'Anastasia-Cogan/**':
@@ -65,6 +63,8 @@
   - KristenHu
 'Landon-Maxwell/**':
   - landonmaxwell
+'Marnina-Lefebvre/**':
+  - MarniLefebvre
 'Matt-Goldman/**':
   - MattGoldmanSSW
 'Matt-Wicks/**':
@@ -77,8 +77,6 @@
   - nviet123
 'Olivia-Westmacott/**':
   - oliviawestmacottssw
-'Patricia-Barros/**':
-  - patriciabarrosssw
 'Patrick-Zhao/**':
   - PatrickZhao1989
 'Penny-Walker/**':
