@@ -7,6 +7,24 @@ quote:  "It's not what you look at that matters, it's what you see."
 quoteAuthor: "Henry David Thoreau"
 ---  
 
+[[imgBadge]]
+| ![](../badges/Designer-web-ux.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-web-html5.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-web-css3.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-adobe-sketch.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-adobe-photoshop.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-adobe-illustrator.png)
+
 Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: "OK, but you're still working remotely for us". We couldn't let him go. After a few years in Brazil, he now lives and works in Canada.  
 
 Tiago is a creative individual who enjoys a challenge. He has 10+ years experience working as a designer for both print and web projects. He also loves spending time playing with Sketch and creating WordPress websites while listening to old songs. Here are some of his skills:
