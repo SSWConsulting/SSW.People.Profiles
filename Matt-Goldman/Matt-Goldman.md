@@ -9,11 +9,34 @@ quoteAuthor: "Gregory Benford"
 [[imgBadge]]
 | ![](../badges/Certification-scrumalliance-master.png)
 
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![azure-logo.png](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![xamarin](../badges/Developer-xamarin.png)
+
+[[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
+
+[imgBadge]]
+| ![Powershell.png](../badges/Developer-powershell.png)
+
+[[imgBadge]]
+| ![ugm.png](../badges/Event-ug-melbourne.png)
+
+[[imgBadge]]
+| ![ugs.png](../badges/Event-ug-sydney.png)
+
+Matt is a Software Architect, Scrum Master, public speaker, writer and trainer.
+
+Since joining SSW Matt has worked on a number of projects for a range of clients, including government agencies and multinational organisations. Matt loves making things, and at SSW uses that passion to fuel his work with .NET, EF / EF Core, Xamarin (and soon MAUI), Azure and Blazor. Matt also works with security and authentication/authorisation. Additionally, Matt regularly presents at the [.NET User Group](https://www.ssw.com.au/ssw/Live/) in 3 states, has hosted SSW's [Xamarin Hack Day](https://xamarinhackday.com/Sydney/), and regular co-hosts SSW's [Clean Architecture Superpowers and Clean Architecture Workshop](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx).
+
 Drawing on a combination of hands-on experience and enterprise governance practices, Matt is able to make connections between business and technology to deliver user and business focused outcomes.
 
-Matt has worked in IT for 15 years, with a background in infrastructure and management, and has delivered security policies, IT strategies and disaster recovery plans to a number of high profile national and multi-national clients.   
-
-Throughout his career Matt has enjoyed scripting and programming and used these skills to enhance his work in other areas, but has now turned to developing software full-time, specialising in .NET Core, Angular, Xamarin and Azure as well as security and authentication.
+Matt has worked in IT for 15 years, and in addition to his developmenet work has a background in infrastructure and management, and has delivered security policies, IT strategies and disaster recovery plans to a number of high profile national and multi-national clients.
 
 ## Internal Projects
 
