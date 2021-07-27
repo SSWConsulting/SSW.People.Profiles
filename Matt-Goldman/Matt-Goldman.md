@@ -21,7 +21,7 @@ quoteAuthor: "Gregory Benford"
 [[imgBadge]]
 | ![Blazor](../badges/Developer-blazor.png)
 
-[imgBadge]]
+[[imgBadge]]
 | ![Powershell.png](../badges/Developer-powershell.png)
 
 [[imgBadge]]
