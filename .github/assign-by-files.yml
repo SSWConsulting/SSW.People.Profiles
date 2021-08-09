@@ -3,8 +3,6 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
-'Alex-Breskin/**':
-  - AlexBreskin
 'Alvin-Shen/**':
   - AlvinShenSSW
 'Anastasia-Cogan/**':
@@ -17,16 +15,18 @@
   - AnkyChe
 'Anthony-Nguyen/**':
   - nvhoanganh
-'Brendan-Richards/**':
-  - brendan-ssw
+'Brad-Fabiny/**':
+  - bfabiny
+'Brady-Stroud/**':
+  - bradystroud
+'Bryden-Oliver/**':
+  - brydeno
 'Calum-Simpson/**':
   - calumjs
 'Chris-Clement/**':
   - christoment
 'Christian-Morford-Waite/**':
   - christianmorfordwaitessw
-'David-Berkes/**':
-  - BrandlD
 'Eden-Liang/**':
   - EdenLiang
 'Eve-Cogan/**':
@@ -35,20 +35,22 @@
   - gregharrisssw
 'Harry-Phan/**':
   - hoangphan84
-'Isaac-Lu/**':
-  - IsaacLu2018
+'Ivy-Ukiru/**':
+  - IvyUkiru
+'Jack-Leerson/**':
+  - JackLeerson
 'Jason-Taylor/**':
   - jasontaylordev
 'Jayden-Alchin/**':
-  - jaydenalchinssw
+  - jaydenalchin
 'Jean-Thirion/**':
   - JeanThirion
 'Jernej-Kavka/**':
   - jernejk
 'Jerry-Luo/**':
   - jerryluossw
-'Jerwin-Parker/**':
-  - jerwinparker
+'Joshua-Bandsma/**':
+  - joshuabandsma
 'Kaha-Mason/**':
   - KahaMason
 'Kaique-Biancatti/**':
@@ -59,6 +61,10 @@
   - KostaMadorsky
 'Kristen-Hu/**':
   - KristenHu
+'Landon-Maxwell/**':
+  - landonmaxwell
+'Marnina-Lefebvre/**':
+  - MarniLefebvre
 'Matt-Goldman/**':
   - MattGoldmanSSW
 'Matt-Wicks/**':
@@ -69,28 +75,28 @@
   - miichaelsmedley
 'Nick-Viet/**':
   - nviet123
-'Patricia-Barros/**':
-  - patriciabarrosssw
+'Olivia-Westmacott/**':
+  - oliviawestmacottssw
 'Patrick-Zhao/**':
   - PatrickZhao1989
 'Penny-Walker/**':
   - PennyWalker
+'Piers-Sinclair/**':
+  - pierssinclairssw
+'Prem-Radhakrishnan/**':
+  - premradhakrishnan
 'Robin-Lin/**':
   - RobinRush
-'Sebastien-Boissiere/**':
-  - SebastienBoissiere
 'Shane-Ye/**':
   - yesihao
-'Steven-Andrews/**':
-  - StevenA89
 'Tiago-Araujo/**':
   - tiagov8
+'Tim-Doldissen/**':
+  - timdoldissenssw
 'Tom-Bui/**':
   - tombui99
 'Ulysses-Maclaren/**':
   - UlyssesMaclaren
-'Victor-Yu/**':
-  - VictorYMH
 'William-Liebenberg/**':
   - william-liebenberg
 'Yang-Shen/**':

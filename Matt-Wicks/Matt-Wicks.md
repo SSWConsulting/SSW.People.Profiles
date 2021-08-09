@@ -10,6 +10,9 @@ quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace th
 | ![azure-logo.png](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
+| ![GitHub.png](../badges/Developer-github.png)
+
+[[imgBadge]]
 | ![azure-function-logo.png](../badges/Developer-azure-function.png)
 
 [[imgBadge]]
@@ -35,7 +38,7 @@ He has been developing solutions using the full Microsoft stack since .NET 2 was
 
 Matt has had experience with companies ranging from small businesses to large ASX listed companies in the finance, engineering and HR sectors, helping them with:
 
-- Build and Release Pipelines (upgrading from XCopy deploy processes to full CI/CD automation on Azure DevOps)
+- Build and Release Pipelines (upgrading from XCopy deploy processes to full CI/CD automation on GitHub or Azure DevOps)
 
 - Document automation
 
@@ -49,7 +52,5 @@ Matt has had experience with companies ranging from small businesses to large AS
 
 - PABX systems
 
-Matt loves DevOps, DevOps and DevOps. These days he prefers Azure DevOps Build Pipelines over Octopus and Bamboo. Matt likes clean architecture, using the right tool for the job, seeing developers push changes to production with confidence, automated tests, building solutions on Azure, and now he never has to reminisce about Webforms.
+Matt loves DevOps, DevOps and DevOps. These days he prefers GitHub Actions and Azure DevOps Build Pipelines over Octopus and Bamboo. Matt likes clean architecture, using the right tool for the job, seeing developers push changes to production with confidence, automated tests, building solutions on Azure, and now he never has to reminisce about Webforms.
 
-## Recent project highlights:
-`youtube: esPfjax-G-I`

@@ -1,11 +1,13 @@
 ---
 id: "ae908bc5-f6d5-e611-80d4-00155d01225d"
 
-qualifications:  "B Ancient History; MSc Museum Studies"
+qualifications:  "B Ancient History; MSc Museum Studies | Certified Scrum Master"
 
 quote:  "To improve is to change; to be perfect is to change often."
 quoteAuthor: "Winston Churchill"
 ---
+[[imgBadge]]
+| ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
 
 Penny is the SSW State Manager of Queensland and International clients. Operating from the SSW office in Brisbane CBD, Penny is in charge of looking after SSW's global clients in the US, Europe, Asia, and beyond.
 

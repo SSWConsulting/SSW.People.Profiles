@@ -140,14 +140,32 @@ _italic_ or _italic_
 ## Input:
 
 ```
-`youtube: 2G7z2mF7Onk`
+`youtube: https://www.youtube.com/embed/2G7z2mF7Onk`
 ```
 
 &nbsp;
 
 ## Output:
 
-`youtube: 2G7z2mF7Onk`
+`youtube: https://www.youtube.com/embed/2G7z2mF7Onk`
+
+&nbsp;
+
+# Twitter Card Embed
+
+---
+
+## Input:
+
+```
+`oembed: https://twitter.com/SSW_TV/status/1232546593099919361`
+```
+
+&nbsp;
+
+## Output:
+
+`oembed: https://twitter.com/SSW_TV/status/1232546593099919361`
 
 &nbsp;
 

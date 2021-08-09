@@ -16,26 +16,20 @@ quote: "Great spirits have always encountered violent opposition from mediocre m
 | ![Adobe Premiere](../badges/Designer-adobe-premiere.png)
 
 
-Michael is a highly creative and driven person with many “outside the box ideas” and a passion for technology and innovation.
+Michael is the SSW State Manager for Victoria, supporting the growth of the Melbourne office over the last three years. He is driven by his passion for technology and innovation, and approaches projects with creativity and an "out of the box" mindset.
 
-He has worked with many organizations, from tech start-ups to multi-nationals, to help them build businesses that are profitable and he empowers SSW customers to continue their growth stories in Melbourne (he's a Richmond supporter).
+He has worked with a broad range of organisations, from tech start-ups to multi-national companies, to help them build businesses that are profitable. 
 
-He has had many successes in his past in direct sales, channel management, and product management. Working in the technology field driving innovation with automation in the sales and marketing industry - he can help build software that will drive your success.
+Mike's project management expertise, as well as his experience implementing scrum processes and migrating on-premises apps to azure cloud, means he is extremely versatile and will help drive your business to succeed.
 
-Setting up CRM, pipelines sales commission plans, quoting tools and KPIs - He has also set up and run offshore BPO sales teams.
+Mike specialises in:
 
-Michael Specialises in:
+- Managing big, complex projects
 
-- Digital Marketing and Sales Strategy
+- Digital marketing and sales strategies
 
-- Building business cases and cost-benefit analysis
+- Building business cases and cost-benefit analysis
 
-- product commercialisation
+- Implementing scrum processes
 
-- Startup funding
-
-- Sales and Marketing workflows
-
-- Strategy and innovation
-
-- Building happy and productive teams
+- Building happy, motivated, and productive teams
