@@ -1,10 +1,8 @@
 ---
 id: "690b2b5c-23f7-eb11-94ef-002248180ce1"
-
 qualifications: ""
-
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"
+quoteAuthor: "John Woods"
 ---
 
 [[imgBadge]]
