@@ -55,5 +55,7 @@ Jean is highly motivated, with strong technical skills, which allows him to unde
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/Mna0QBFB6CU" frameborder="0"></iframe>
 
+<hr size="8" width=90% color="red">
+
 <iframe width="710" height="400" src="https://www.youtube.com/embed/cEFYB9O1QpI" frameborder="0"></iframe>
 
