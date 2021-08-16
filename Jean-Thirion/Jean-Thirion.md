@@ -11,6 +11,9 @@ quoteAuthor: "Neil Degrasse Tyson"
 | ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
+| ![dotnet-core.png](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
 | ![images.png](../badges/Developer-react.png)
 
 [[imgBadge]]
