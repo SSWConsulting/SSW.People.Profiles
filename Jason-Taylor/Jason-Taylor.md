@@ -53,7 +53,7 @@ quoteAuthor: "Einstein"
 | ![ugc.png](../badges/Event-ug-canberra.png)
 
 [[imgBadge]]
-| ![ugm.png](../badges/Event-ug.melbournepng)
+| ![ugm.png](../badges/Event-ug-melbourne.png)
 
 [[imgBadge]]
 | ![ugs.png](../badges/Event-ug-sydney.png)
