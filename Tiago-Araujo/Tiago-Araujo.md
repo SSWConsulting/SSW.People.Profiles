@@ -17,7 +17,7 @@ quoteAuthor: "Henry David Thoreau"
 | ![](../badges/Designer-web-css3.png)
 
 [[imgBadge]]
-| ![](../badges/Designer-adobe-sketch.png)
+| ![](../badges/Designer-sketch.png)
 
 [[imgBadge]]
 | ![](../badges/Designer-adobe-photoshop.png)
