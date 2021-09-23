@@ -32,6 +32,6 @@ Jack is a Software Architect working out of the SSW Brisbane office specialising
 
 Jack loves to learn and is constantly trying out the latest technologies to see what innovations he can improve on. Jack is a visual learner and loves to present information in a clear manner, moving away from walls of boring text to cleaner images and graphs.
 
- In his spare time Jack has an interest in language and aims to learn Japanese, Chinese, Russian and Arabic, he's currently learning Japanese.
+In his spare time Jack has an interest in language and aims to learn Japanese, Chinese, Russian and Arabic, he's currently learning Japanese.
 
 
