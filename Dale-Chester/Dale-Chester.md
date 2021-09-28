@@ -11,7 +11,7 @@ quoteAuthor: "C.S Lewis"
 ---
 
 [[imgBadge]]
-| ![web-ui-ux.png](../badges/Designer-web-uiux)
+| ![web-ui-ux.png](../badges/Designer-web-uiux.png)
 
 [[imgBadge]]
 | ![react.png](../badges/Developer-react.png)
@@ -24,6 +24,7 @@ quoteAuthor: "C.S Lewis"
 
 [[imgBadge]]
 | ![js](../badges/Developer-js.png)
+
 
 <br/>
 
