@@ -7,11 +7,7 @@ qualifications: ""
 
 quote: "You can't go back and change the beginning, but you can start where you are and change the ending."
 quoteAuthor: "C.S Lewis"
----
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
-
-<br/>
 
 [[imgBadge]]
 | ![web-ui-ux.png](../badges/Designer-web-uiux.png)
