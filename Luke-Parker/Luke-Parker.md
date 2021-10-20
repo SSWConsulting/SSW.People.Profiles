@@ -8,7 +8,7 @@ quoteAuthor: "John Woods"
 [[imgBadge]]
 | ![C#](../badges/Developer-c-sharp.png)
 
-Luke is a Software Architect at SSW, specialising in .NET and Clean Architecture. He blogs at [lukeparker.dev](https://lukeparker.dev) about difficult or exciting topics for the modern Microsoft developer.
+Luke is a Software Architect at SSW, specialising in .NET and Clean Architecture. He blogs at [lukeparker.dev](https://lukeparker.dev) about difficult or exciting topics for the modern Microsoft developer. He is also an organiser for the local [Brisbane Full Stack User Group](https://www.ssw.com.au/ssw/NETUG/Brisbane.aspx)
 
 Luke is passionate about the future of web development with .NET through Blazor, and the upcoming unification of UI through MAUI. 
 
