@@ -30,7 +30,7 @@ quoteAuthor: "C.S Lewis"
 
 Dale is a Software Architect working out of the SSW Brisbane office who has had many years experience developing specialized software for businesses.   He enjoys problem solving and designing around digital solutions.
 
-The bulk of Dale's work has involved working in the backend with C# and .Net technology stacks.  He has found a growing passion for front end web and app development with a large interest in Interaction Design.   This is no small part due to the maturation of frontend web technologies like React and Blazor.
+The bulk of Dale's work has involved working in the backend with C# and .NET technology stacks. He has found a growing passion for front end web and app development with a large interest in Interaction Design. This is no small part due to the maturation of frontend web technologies like React and Blazor.
 
 In his spare time Dale loves listening to technology and philosophy podcasts, as well as live music and playing computer games.    
 
