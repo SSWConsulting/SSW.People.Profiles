@@ -5,7 +5,7 @@ category: "Developers"
 role: "Software Architect"
 qualifications: ""
 
-quote: "You can't go back and change the beginning, but you can start where you are and change the ending."
+quote: "You can not go back and change the beginning - but you can start where you are and change the ending."
 quoteAuthor: "C.S Lewis"
 
 ---
