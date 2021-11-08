@@ -11,6 +11,6 @@ Andrew is completing a Bachelor of Information Technology at RMIT for a career c
 
 He is passionate about learning as much as possible in the world of software development to help solve all sorts of problems for clients.
 
-So far he has contributed to maintenance and development of [SSW TimePro](https://sswtimepro.com) and is looking forward to working on some of the many fun and challenging projects that come through SSW
+So far he has contributed to maintenance and development of [SSW TimePro](https://sswtimepro.com) and is looking forward to working on some of the many fun and challenging projects that come through SSW.
 
 When not working or studying, Andrew is playing video games 🕹️, learning French 🥐 or practising violin 🎻.
