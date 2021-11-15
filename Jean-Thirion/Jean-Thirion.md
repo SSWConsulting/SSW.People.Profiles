@@ -20,7 +20,7 @@ quoteAuthor: "Neil Degrasse Tyson"
 | ![MCSD_ShareApp_Blk.png](../badges/Certification-microsoft-developer-sharepoint.png)
 
 [[imgBadge]]
-| ![images.png](./Images/Developer-sharepoint-spfx.png)
+| ![images.png](../badges/Developer-sharepoint-spfx.png)
 
 [[imgBadge]]
 | ![MCSD App Builder-logo-Blk.png](../badges/Certification-microsoft-developer-app-builder.png)
