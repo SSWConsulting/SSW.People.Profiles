@@ -20,6 +20,9 @@ quoteAuthor: "Neil Degrasse Tyson"
 | ![MCSD_ShareApp_Blk.png](../badges/Certification-microsoft-developer-sharepoint.png)
 
 [[imgBadge]]
+| ![images.png](./Images/Developer-sharepoint-spfx.png)
+
+[[imgBadge]]
 | ![MCSD App Builder-logo-Blk.png](../badges/Certification-microsoft-developer-app-builder.png)
 
 ---
@@ -30,7 +33,7 @@ Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePo
 
 His deep knowledge of SharePoint's many capabilities, combined with the latest technologies (Angular, React, SPFx), let him propose high-quality tailored SharePoint Applications to clients.
 
-Jean has been working with **SharePoint** for the past 7 years, in France, Luxembourg, and now Australia. He has been involved with a wide variety of projects, from small companies to international firms, in both private and public sectors.
+Jean has been working with **SharePoint** for the past 8 years, in France, Luxembourg, and now Australia. He has been involved with a wide variety of projects, from small companies to international firms, in both private and public sectors.
 
 [[imgLg]]
 | ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
