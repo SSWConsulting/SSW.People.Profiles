@@ -17,10 +17,10 @@ quoteAuthor: "Neil Degrasse Tyson"
 | ![images.png](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![MCSD_ShareApp_Blk.png](../badges/Certification-microsoft-developer-sharepoint.png)
+| ![images.png](../badges/Developer-sharepoint-spfx.png)
 
 [[imgBadge]]
-| ![images.png](../badges/Developer-sharepoint-spfx.png)
+| ![MCSD_ShareApp_Blk.png](../badges/Certification-microsoft-developer-sharepoint.png)
 
 [[imgBadge]]
 | ![MCSD App Builder-logo-Blk.png](../badges/Certification-microsoft-developer-app-builder.png)
