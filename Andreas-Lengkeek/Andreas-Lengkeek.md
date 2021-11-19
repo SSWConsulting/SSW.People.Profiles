@@ -46,9 +46,6 @@ His technology toolbelt includes:
 * Blazor
 * Serverless Functions
 * [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
-* Cognitive Services
-* Cosmos DB
-* Docker
 * GitHub Actions
 * Microservices
 * React
