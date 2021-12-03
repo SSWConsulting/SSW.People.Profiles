@@ -5,8 +5,8 @@ category: "Developers"
 role: "Software Architect"
 qualifications: ""
 
-quote: "You can not go back and change the beginning - but you can start where you are and change the ending."
-quoteAuthor: "C.S Lewis"
+quote: "“Walking on water and developing software from a specification are easy if both are frozen.” 
+quoteAuthor: "Edward V Berard"
 
 ---
 
