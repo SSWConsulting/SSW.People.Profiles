@@ -1,6 +1,8 @@
 ---
 id: "42bc28e2-6546-ec11-8c62-002248159d4b"
 
+qualifications: ""
+
 quote: "Learning never exhausts the mind."
 quoteAuthor: "Leonardo Da Vinci"
 ---
