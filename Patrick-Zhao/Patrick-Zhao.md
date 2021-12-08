@@ -8,10 +8,10 @@ quote:  "There is always a solution to every problem."
 ---
 
 [[imgBadge]]
-| ![](../badges/Certification-Azure-Fundamentals.png)
+| ![](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
-| ![](../badges/Certification-Azure-Data-Engineer.png)
+| ![](../badges/Certification-microsoft-azure-data-engineer-associate.png)
 
 Patrick is a SSW Senior Software Architect with focus on building enterprise web applications utilizing modern technologies such as ASP.NET Core, EF Core, Angular, SignalR, SQL, Machine Learning, Azure Stream Analytics, Vue and Azure DevOps.
 
