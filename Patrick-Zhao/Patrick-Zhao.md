@@ -4,7 +4,14 @@ id: "802a63dc-3480-e911-823b-00155d01ef64"
 qualifications:  "Master of Engineering - Software (University of Melbourne)"
 
 quote:  "There is always a solution to every problem."
+
 ---
+
+[[imgBadge]]
+| ![](../badges/Certification-Azure-Fundamentals.png)
+
+[[imgBadge]]
+| ![](../badges/Certification-Azure-Data-Engineer.png)
 
 Patrick is a SSW Senior Software Architect with focus on building enterprise web applications utilizing modern technologies such as ASP.NET Core, EF Core, Angular, SignalR, SQL, Machine Learning, Azure Stream Analytics, Vue and Azure DevOps.
 
