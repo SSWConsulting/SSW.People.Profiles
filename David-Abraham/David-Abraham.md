@@ -1,7 +1,7 @@
 ---
 id: "cab1d0fa-e853-ec11-8f8e-00224815a3ae"
 
-qualifications: ""
+qualifications: "Bachelor Computer Science (Software Development)"
 
 quote: “It is well known that a vital ingredient of success is not knowing that what you're attempting can't be done.” 
 quoteAuthor: "Terry Pratchett, Equal Rites"
