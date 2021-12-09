@@ -7,7 +7,7 @@ quote: “It is well known that a vital ingredient of success is not knowing tha
 quoteAuthor: "Terry Pratchett, Equal Rites"
 ---
 
-David is a young Software Developer working at SSW Newcastle. He enjoys exploring the ever-changing world of technologies, and expanding his skillset with new and interesting problems.
+David is a Senior Software Developer working at SSW Newcastle. He enjoys exploring the ever-changing world of technologies, and expanding his skillset with new and interesting problems.
 
 David's strongest skills are:
 
