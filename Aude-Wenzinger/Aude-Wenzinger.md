@@ -7,4 +7,4 @@ quote: "People rarely succeed unless they have fun in what they are doing."
 quoteAuthor: "Dale Carnegie"
 ---
 
-Aude has a 6-year experience in HR/Recruitment in diverse industry. She is in charge of finind amazing people for SSW and to help with HR related matters. 
+Aude has a 6-year experience in HR/Recruitment in diverse industries. She is in charge of finding amazing people for SSW and to help with HR related matters. 
