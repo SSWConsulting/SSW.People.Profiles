@@ -7,4 +7,4 @@ quote: "Pas la sous le coude!"
 quoteAuthor: "Aude"
 ---
 
-Aude has a 6-year experience in HR/Recruitment in diverse industries. She is in charge of findind amazing people for SSW and to help with HR related matters. 
+Aude has a 6-year experience in HR/Recruitment in diverse industries. She is in charge of finding amazing people for SSW and to help with HR related matters. 
