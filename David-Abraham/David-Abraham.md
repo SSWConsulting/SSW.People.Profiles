@@ -14,5 +14,6 @@ David's strongest skills are:
 * Angular
 * JavaScript
 * .NET
+* WordPress
 
 When he's not at his desk, you'll most likely find David tending to the flowers and vegetables in his garden (there's nearly always something ready for harvest!)
