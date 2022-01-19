@@ -15,7 +15,7 @@ Jonty has a rich set of skills and experience drawn form working with establishe
 
 Like the rest of the team at SSW, he believes in striving for excellence and having the humility to realise there is always room to grow.
 
-In the order to acheive the best results you need to strive to be the best version of yourself - that's why when he's not in the office you can find Jonty working on his filmmaking craft, running a half-marathon, or praticing Brazilian Jiu Jitsu. 
+In the order to achieve the best results you need to strive to be the best version of yourself - that's why when he's not in the office you can find Jonty working on his filmmaking craft, running a half-marathon, or praticing Brazilian Jiu Jitsu. 
 
 
 
