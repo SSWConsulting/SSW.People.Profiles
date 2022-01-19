@@ -11,12 +11,6 @@ quoteAuthor: "Cliff Gladwin"
 | ![](../badges/Designer-adobe-premiere.png)
 
 [[imgBadge]]
-| ![](../badges/Designer-adobe-illustrator.png)
-
-[[imgBadge]]
-| ![](../badges/Designer-adobe-aftereffects.png)
-
-[[imgBadge]]
 | ![](../badges/Designer-camera.png)
 
 
