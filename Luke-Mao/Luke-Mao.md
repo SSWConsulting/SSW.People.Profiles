@@ -1,7 +1,7 @@
 ---
 id: '9b0d2f13-16cf-eb11-bacc-002248152435'
 
-qualifications: ''
+qualifications: 'Bachelor's degree - Electronic Information Engineering'
 
 quote: 'Stay hungry. Stay foolish.'
 quoteAuthor: 'Steve Jobs'
