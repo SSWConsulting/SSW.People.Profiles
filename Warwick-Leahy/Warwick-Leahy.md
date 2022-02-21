@@ -5,4 +5,4 @@ qualifications: "Bachelor of Information Technology"
 
 ---
 
-Highly skilled Systems Administrator with over 20 years’ experience in system administration, maintenance, and end-user training. Accomplished in designing solutions to achieve software compatibility and streamline system upgrades and installations. Talented in administering and maintaining complex server systems, including Microsoft operating systems, servers, and specialised education software.
+Warwick is a highly skilled SysAdmin with over 20 years’ experience in designing solutions to achieve software compatibility, streamline system upgrades/installations, among with administering and maintaining complex server systems. He is also a talented end-user instructor, with training experience on Microsoft operating systems, servers, and specialized education software.
