@@ -20,6 +20,12 @@ quoteAuthor: "David Hume"
 | ![](../badges/Designer-web-css3.png)
 
 [[imgBadge]]
+| ![](../badges/Designer-sketch.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-figma.png)
+
+[[imgBadge]]
 | ![](../badges/Designer-web-ux.png)
 
 Jayden is an energetic web designer. Fascinated by the intersection of art and technology, he has a deep passion for his work. He loves learning how people make sense of the world, and believes understanding the human experience is a fundamental part of user experience design. Jayden channels this energy and drive into the creation of clean user-oriented experiences that are simple and effective.
