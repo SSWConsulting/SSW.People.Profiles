@@ -9,7 +9,7 @@ quoteAuthor: "William Shakespeare"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Jack Duan is a super keen person, he's skill sets are flutter mobile, react and .net framework. In his spare time, he also make fancy jewelleries
+Jack Duan is a super keen person, he's skill sets are flutter mobile, react and .net framework. In his spare time, he also makes fancy jewelleries
 
 [Design Guidelines](https://www.ssw.com.au/ssw/logo/ssw/)
 
