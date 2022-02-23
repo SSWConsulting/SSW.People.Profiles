@@ -25,3 +25,5 @@ Lu is a senior software developer at SSW, working in both the Beijing and Sydney
 - SSW Reports  
    SSW internal reports for finical and marketing purposes.
   Developed with Reporting Service.
+  
+  [![Lu's github stats](https://github-readme-stats.vercel.app/api?username=zl24622&theme=dark)](https://github.com/zl24622/github-readme-stats)

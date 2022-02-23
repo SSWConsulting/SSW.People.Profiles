@@ -11,7 +11,13 @@ quoteAuthor: "Neil Degrasse Tyson"
 | ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
+| ![dotnet-core.png](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
 | ![images.png](../badges/Developer-react.png)
+
+[[imgBadge]]
+| ![images.png](../badges/Developer-sharepoint-spfx.png)
 
 [[imgBadge]]
 | ![MCSD_ShareApp_Blk.png](../badges/Certification-microsoft-developer-sharepoint.png)
@@ -27,10 +33,10 @@ Jean is a **SSW Solution Architect**. His main fields of expertise are **SharePo
 
 His deep knowledge of SharePoint's many capabilities, combined with the latest technologies (Angular, React, SPFx), let him propose high-quality tailored SharePoint Applications to clients.
 
-Jean has been working with **SharePoint** for the past 7 years, in France, Luxembourg, and now Australia. He has been involved with a wide variety of projects, from small companies to international firms, in both private and public sectors.
+Jean has been working with **SharePoint** for the past 8 years, in France, Luxembourg, and now Australia. He has been involved with a wide variety of projects, from small companies to international firms, in both private and public sectors.
 
 [[imgLg]]
-| ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/60398623_2776967035653247_301891567608659968_n.jpg)
+| ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/ssw-angular-superpowers-2021-B.jpg)
 
 When he is not leveraging this knowledge to develop client applications, Jean is one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.
 
@@ -54,6 +60,8 @@ Jean is highly motivated, with strong technical skills, which allows him to unde
 #### Videos
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/Mna0QBFB6CU" frameborder="0"></iframe>
+
+<hr size="8" width=90% color="red">
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/cEFYB9O1QpI" frameborder="0"></iframe>
 

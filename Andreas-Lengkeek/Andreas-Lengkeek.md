@@ -9,6 +9,15 @@ quoteAuthor: "Franklin D. Roosevelt"
 ---
 
 [[imgBadge]]
+| ![GitHub.png](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![devops](../badges/Business-microsoft-azure-devops.png)
+
+[[imgBadge]]
+| ![devops.png](../badges/Developer-devops.png)
+
+[[imgBadge]]
 | ![dotnetcore.png](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
@@ -21,23 +30,46 @@ quoteAuthor: "Franklin D. Roosevelt"
 | ![azure-function-logo.png](../badges/Developer-azure-function.png)
 
 [[imgBadge]]
-| ![devops](../badges/Business-microsoft-azure-devops.png)
-
-[[imgBadge]]
 | ![xamarin](../badges/Developer-xamarin.png)
 
 Andreas is an experienced Software Developer with a demonstrated history of working in the information technology and services industry.
 
-Andreas' main skills focus on .NET Core, Angular and React applications with bootstrap/material design, leveraging technologies like EF Core and Identity to provide the clients with rich user experiences.
+## Development Technologies
+
+Andreas has a passion for developing enterprise-grade Web Applications, and automating Build, Release and Testing with GitHub Actions and Azure DevOps Pipelines.
+
+His technology toolbelt includes:
+
+* Angular
+* Azure DevOps
+* ASP.NET Core
+* Blazor
+* Serverless Functions
+* [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
+* GitHub Actions
+* Microservices
+* React
+* and more...
+
+Development and DevOps aren't his only strong points. He is a highly motivated [Scrum](https://www.ssw.com.au/ssw/Consulting/Scrum.aspx) practitioner, strong team player and thinks outside of the box! Andreas has had great success in both starting new Scrum teams, and also upskilling and mentoring existing development teams.
 
 Andreas has had experience with companies ranging from small businesses to large ASX listed companies in the finance, engineering and insurance sectors, helping them with:
 
-- Build and Release Pipelines (full CI/CD automation on Azure DevOps)
+- Build and Release Pipelines (full CI/CD automation on GitHub Actions and Azure DevOps)
 - Document automation
 - Process automation
 - Dynamics 365 CRM and PowerApps
-- ALM setup and management (using Microsoft and Atlassian stacks)
+- Xamarin Mobile Apps
+
+## Training
+
+Andreas is a trainer on the [SSW Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx) at major cities around Australia and Online, and has received top evaluation scores!
+
+[[imgLg]]
+| ![SSW Angular Superpowers Tour](./Images/Angular-Superpowers-Tour.jpg)
+
 
 His recent interests include learning mobile development with Xamarin cross platform mobile apps on the SSW Rewards app. 
+
 [[imgMd]]
 | ![SSW Rewards](./Images/rewards-promo.png)
