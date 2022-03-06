@@ -19,6 +19,12 @@ quoteAuthor: "Gregory Benford"
 | ![xamarin](../badges/Developer-xamarin.png)
 
 [[imgBadge]]
+| ![xamarin](../badges/Event-hackday-xamarin.png)
+
+[[imgBadge]]
+| ![Unity](../badges/Developer-Unity3d.png)
+
+[[imgBadge]]
 | ![Blazor](../badges/Developer-blazor.png)
 
 [[imgBadge]]
@@ -30,9 +36,9 @@ quoteAuthor: "Gregory Benford"
 [[imgBadge]]
 | ![ugs.png](../badges/Event-ug-sydney.png)
 
-Matt is a Software Architect, Scrum Master, public speaker, writer and trainer.
+Matt is a Solution Architect, Scrum Master, public speaker, author and trainer.
 
-Since joining SSW Matt has worked on a number of projects for a range of clients, including government agencies and multinational organisations. Matt loves making things, and at SSW uses that passion to fuel his work with .NET, EF / EF Core, Xamarin (and soon MAUI), Azure and Blazor. Matt also works with security and authentication/authorisation. Additionally, Matt regularly presents at the [.NET User Group](https://www.ssw.com.au/ssw/Live/) in 3 states, has hosted SSW's [Xamarin Hack Day](https://xamarinhackday.com/Sydney/), and regular co-hosts SSW's [Clean Architecture Superpowers and Clean Architecture Workshop](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx).
+Since joining SSW Matt has worked on a number of projects for a range of clients, including government agencies and multinational organisations. Matt loves making things, and at SSW uses that passion to fuel his work with .NET, EF / EF Core, Xamarin and .NET MAUI, Azure and Blazor. Matt also works with security and authentication/authorisation. Additionally, Matt regularly presents at the [.NET User Group](https://www.ssw.com.au/ssw/Live/) in 3 states, has hosted SSW's [Xamarin Hack Day](https://xamarinhackday.com/Sydney/), has presented at [the .NET Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/NET-6-Superpowers-Tour.aspx), and regular co-hosts SSW's [Clean Architecture Superpowers and Clean Architecture Workshop](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx). Matt has also presented at [NDC Sydney](https://ndcsydney.com/agenda/cloudy-with-a-chance-of-mobile-05cf/0jj155ywh8t).
 
 Drawing on a combination of hands-on experience and enterprise governance practices, Matt is able to make connections between business and technology to deliver user and business focused outcomes.
 
