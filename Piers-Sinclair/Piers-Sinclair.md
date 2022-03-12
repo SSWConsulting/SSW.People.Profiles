@@ -16,7 +16,16 @@ quoteAuthor: "Sun Tzu"
 [[imgBadge]]
 | ![dotnetcore.png](../badges/Developer-dotnet-core.png)
 
-Piers is a Senior Software Architect with more than 6 years experiences in databases and software development with a variety of technologies. He is especially proficient in .Net using Azure and SQL with a multitude of front end technologies.
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-sql-server.png)
+
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-c-sharp.png)
+
+Piers is a Senior Software Architect with more than 7 years experiences in databases and software development with a variety of technologies. He is especially proficient in .Net using Azure and SQL with a multitude of front end technologies.
 
 He has been involved in many industries including Retail, Logistics and Job Management. When it comes to developing software, Piers has a passion for efficient development processes, designing quality solutions and building robust software architecture. He is very interested in understanding the way systems work and coming up with innovative solutions to complex problems.
 
