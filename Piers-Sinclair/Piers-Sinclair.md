@@ -1,7 +1,7 @@
 ---
 id: "cd429583-e464-eb11-a812-002248148795"
 
-qualifications: "Bachelor of Science in Computer Science"
+qualifications: "Bachelor of Science in Computer Science, Masters of IT Management (Executive)"
 
 quote: "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."
 quoteAuthor: "Sun Tzu"
@@ -25,8 +25,8 @@ quoteAuthor: "Sun Tzu"
 [[imgBadge]]
 | ![dotnetcore.png](../badges/Developer-c-sharp.png)
 
-Piers is a Senior Software Architect with more than 7 years experiences in databases and software development with a variety of technologies. He is especially proficient in .Net using Azure and SQL with a multitude of front end technologies.
+Piers is a Solution Architect with more than 7 years experiences in databases and software development with a variety of technologies. He is especially proficient in Scrum, .Net, Azure, SQL and DevOps.
 
 He has been involved in many industries including Retail, Logistics and Job Management. When it comes to developing software, Piers has a passion for efficient development processes, designing quality solutions and building robust software architecture. He is very interested in understanding the way systems work and coming up with innovative solutions to complex problems.
 
-In his spare time he has an interest in the history and culture of China as well as developing his Mandarin Chinese language skills. 
+He speaks Chinese and has a keen interest in China. In particular, he is passionate about the successful management of Chinese IT teams and one part of the bridge that connects SSW Australia and SSW China.
