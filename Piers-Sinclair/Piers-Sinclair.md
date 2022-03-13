@@ -32,4 +32,4 @@ Piers is a Solution Architect with more than 7 years experiences in databases an
 
 He has been involved in many industries including Retail, Logistics and Job Management. When it comes to developing software, Piers has a passion for efficient development processes, designing quality solutions and building robust software architecture. He is very interested in understanding the way systems work and coming up with innovative solutions to complex problems.
 
-He speaks Chinese and has a keen interest in China. In particular, he is passionate about the successful management of Chinese IT teams and one part of the bridge that connects SSW Australia and SSW China.
+He speaks Chinese and has a keen interest in China. In particular, he is passionate about the successful management of Chinese IT teams and is one part of the bridge that connects SSW Australia and SSW China.
