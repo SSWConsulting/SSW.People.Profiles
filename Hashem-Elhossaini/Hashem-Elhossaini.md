@@ -1,13 +1,11 @@
 ---
 id: "cb4b042b-2598-ec11-b400-0022481856af"
 
-qualifications: "Software E"
+qualifications: "Software Engineering"
 
 quote: "Interesting things happen when the creative impulse is cultivated with curiosity, freedom and intensity."
 quoteAuthor: "Saul Bass"
 ---
-
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 Hashem is a web designer passionate about creating simple and meaningful user experiences. Being an advocate of
 user centered design, he believes the key to great experiences is a comprehensive understanding of the user.
