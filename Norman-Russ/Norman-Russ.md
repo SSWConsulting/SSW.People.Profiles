@@ -13,7 +13,7 @@ Norman is a Power Platform Architect at SSW and brings 20 years of experience in
 
 Over the last 10 years Norman’s focus has been in architecting and developing solutions using SharePoint, OneDrive, Teams, and the Power Platform tools. He is passionate about finding solutions that provide value for his clients.
 
-In his spare time Norman is an avid football player (soccer) and if time and money were not a factor, he would love to open his own French style bakery serving delicious croissants and pastries.
+In his spare time Norman loves palying football (soccer) and if time and money were not a factor, he would love to open his own French style bakery serving delicious croissants and pastries.
 
 
 # Headings
