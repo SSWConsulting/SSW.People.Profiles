@@ -1,17 +1,20 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "8f04f10b-a492-ec11-b400-0022481856af"
 
-qualifications: ""
+qualifications: "BInfSc Computer Science"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "Good architecture makes the system easy to understand, easy to develop, easy to maintain, and easy to deploy. The ultimate goal is to minimize the lifetime cost of the system and to maximize programmer productivity."
+quoteAuthor: "Robert C. Martin"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
+Norman is a Power Platform Architect at SSW and brings 20 years of experience in small and enterprise level software development. Having worked with clients across various domains including parking systems (Frogparking), education (Massey University), and insurance (FMG), Norman specialises in building bespoke, low code solutions using Microsoft’s Power Platform and associated services.
+
+Over the last 10 years Norman’s focus has been in architecting and developing solutions using SharePoint, OneDrive, Teams, and the Power Platform tools. He is passionate about finding solutions that provide value for his clients.
+
+In his spare time Norman is an avid football player (soccer) and if time and money were not a factor, he would love to open his own French style bakery serving delicious croissants and pastries.
+
 
 # Headings
 
