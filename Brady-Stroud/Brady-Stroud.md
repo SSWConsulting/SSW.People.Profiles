@@ -6,6 +6,9 @@ quoteAuthor: "Doug Linder"
 ---
 
 [[imgBadge]]
+| ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![React](../badges/Developer-react.png)
 
 [[imgBadge]]
