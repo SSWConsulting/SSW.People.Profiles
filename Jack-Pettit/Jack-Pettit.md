@@ -3,7 +3,7 @@ id: "8b9882fd-ba16-ec11-b6e6-00224818555b"
 
 category: "Developers"
 role: "Software Architect"
-qualifications: ""
+qualifications: "Certified Scrum Master"
 
 quote: "The better we get at getting better, the faster we will get better"
 quoteAuthor: "Douglas Engelbart"
@@ -14,10 +14,16 @@ quoteAuthor: "Douglas Engelbart"
 <br/>
 
 [[imgBadge]]
-| ![angular.png](../badges/Developer-angular.png)
+| ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
 | ![react.png](../badges/Developer-react.png)
+
+[[imgBadge]]
+| ![C Sharp image badge](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![Unity3D image badge](../badges/Developer-Unity3d.png)
 
 [[imgBadge]]
 | ![node js](../badges/Developer-node-js.png)
