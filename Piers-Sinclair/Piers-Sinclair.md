@@ -1,11 +1,14 @@
 ---
 id: "cd429583-e464-eb11-a812-002248148795"
 
-qualifications: "Bachelor of Science in Computer Science, Masters of IT Management (Executive)"
+qualifications: "Bachelor of Science in Computer Science, Masters of IT Management (Executive), Certified ScrumMaster® (CSM®)"
 
 quote: "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."
 quoteAuthor: "Sun Tzu"
 ---
+
+[[imgBadge]]
+| ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
 | ![azure-logo.png](../badges/Business-microsoft-azure.png)
