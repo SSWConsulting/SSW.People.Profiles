@@ -6,5 +6,4 @@ qualifications: "Marketing Assistant & Office Administrator"
 quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
 quoteAuthor: "Anonymous"
 ---
-
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
+Tia Niu is our Marketing Assistant and Office Administrator in the Sydney Office. She is passionate about digital marketing and event organization. 
