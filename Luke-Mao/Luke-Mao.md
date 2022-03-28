@@ -1,10 +1,8 @@
 ---
-id: '9b0d2f13-16cf-eb11-bacc-002248152435'
-
-qualifications: 'Bachelor's degree - Electronic Information Engineering'
-
-quote: 'Stay hungry. Stay foolish.'
-quoteAuthor: 'Steve Jobs'
+id: "9b0d2f13-16cf-eb11-bacc-002248152435"
+qualifications: "Bachelors degree - Electronic Information Engineering"
+quote: "Stay hungry. Stay foolish."
+quoteAuthor: "Steve Jobs"
 ---
 
 Luke is a Software Architect with more than three years of development experience. He has a broad technology stack and is especially good at using React for web development.

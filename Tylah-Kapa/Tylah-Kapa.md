@@ -10,6 +10,9 @@ quoteAuthor: "Patrick McKenzie"
 [Editing profiles]: https://github.com/SSWConsulting/SSW.People.Profiles/wiki/5.-Editing-profiles
 
 [[imgBadge]]
+| ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![C Sharp image badge](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
