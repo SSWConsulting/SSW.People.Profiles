@@ -1,7 +1,7 @@
 ---
 id: "cb4b042b-2598-ec11-b400-0022481856af"
 
-qualifications: "Software Engineering"
+qualifications: "SE"
 
 quote: "Interesting things happen when the creative impulse is cultivated with curiosity, freedom and intensity."
 quoteAuthor: "Saul Bass"
@@ -12,6 +12,6 @@ user centered design, he believes the key to great experiences is a comprehensiv
 
 During his time at university, Hashem worked at startups designing digital products for industries including fitness, consulting and education.
 
-Apart from work, he enjoys experimenting with new project ideas and design challenges.
-
 His key skills include: User Interface Design(UI), User Experience Design(UX), User Research, Usability Testing, Ideation, Prototyping and HTML.
+
+Apart from work, he enjoys experimenting with new design ideas and challenges.
