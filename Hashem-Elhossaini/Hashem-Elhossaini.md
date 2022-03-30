@@ -7,6 +7,21 @@ quote: "Interesting things happen when the creative impulse is cultivated with c
 quoteAuthor: "Saul Bass"
 ---
 
+
+[[imgBadge]]
+| ![ui/ux design](../badges/Designer-web-ux.png)
+
+[[imgBadge]]
+| ![Figma](../badges/Designer-adobe-figma.png)
+
+[[imgBadge]]
+| ![HTML5](../badges/Designer-web-html5.png)
+
+[[imgBadge]]
+| ![css](../badges/Designer-web-css3.png)
+
+
+
 Hashem is a Web Designer passionate about creating simple and meaningful user experiences. Being an advocate of
 user centered design, he believes the key to great experiences is a comprehensive understanding of the user.
 
