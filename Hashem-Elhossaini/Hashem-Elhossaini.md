@@ -12,7 +12,7 @@ quoteAuthor: "Saul Bass"
 | ![ui/ux design](../badges/Designer-web-ux.png)
 
 [[imgBadge]]
-| ![Figma](../badges/Designer-adobe-figma.png)
+| ![](../badges/Designer-figma.png)
 
 [[imgBadge]]
 | ![HTML5](../badges/Designer-web-html5.png)
