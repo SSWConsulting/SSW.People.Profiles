@@ -1,7 +1,7 @@
 ---
 id: "cb4b042b-2598-ec11-b400-0022481856af"
 
-qualifications: "SE"
+qualifications: "Software Engineering(UX Design)"
 
 quote: "Interesting things happen when the creative impulse is cultivated with curiosity, freedom and intensity."
 quoteAuthor: "Saul Bass"
