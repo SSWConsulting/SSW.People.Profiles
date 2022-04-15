@@ -9,9 +9,10 @@ quoteAuthor: "Anonymous"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
 This is an example account to show you what is possible for a profile page. 
 Below you will see everything you need to create an awesome page. 
+
+[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
 
 # Headings
 
@@ -346,8 +347,6 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 ```
 
-&nbsp;
-
 ## Output:
 
 [I'm an inline-style link](https://www.google.com)
@@ -368,3 +367,6 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
+
+### Related link
+- [Example Rule + Markdown Cheatsheet](https://www.ssw.com.au/rules/rule)
