@@ -1,19 +1,17 @@
 ---
 id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
 
-qualifications: "Master of Science (Network Systems), Bachelor of Computer Science"
+qualifications: ""
 
-quote: "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."
-quoteAuthor: "Bill Gates"
+quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
+quoteAuthor: "Anonymous"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Ozair is a Web Developer working at SSW Melbourne with an exprience in web development building responsive and scaleable websites and web applications.
-
-He holds a masters degree of Network System with specialization in Cyber Security from Swinburne University of Technology.He specializes in front-end development using JavaScript frameworks such as Angular and React, and has experience in back-end development using .NET Core.
-
-In his free time, he likes reading, meeting friends and travelling. 
+Mr Bob Northwind is the owner of Northwind Traders Limited. He is the toughest product owner we have ever come across :) He was the main star at the FireBootcamp.
+This is an example account to show you what is possible for a profile page. 
+Below you will see everything you need to create an awesome page. 
 
 [Design Guidelines](https://www.ssw.com.au/ssw/logo/ssw/)
 
