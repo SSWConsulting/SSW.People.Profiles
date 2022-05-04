@@ -28,7 +28,7 @@ quoteAuthor: "Oprah Winfrey"
 [[imgBadge]]
 | ![Google Ads Mobile Awards](../badges/Certification-google-award-ads-mobile.png)
 
-She is the champion of SSW Digital and is constantly working towards the best results for our digital clients. Camilla brings with her a solid and long background in Business and Strategy Consultancy, as well as a passion for art & fashion. This rich background makes her a creative and resourceful member of the team.
+She is the SSW Marketing Manager and champion of SSW Digital, and is constantly working towards the best results for our digital clients. With over 10 years of experience, Camilla brings with her a solid background in Business, Marketing and Strategy Consultancy, as well as a passion for art & fashion. This rich background makes her a creative and resourceful member of the team.
 
 Camilla's specialities are:
 
@@ -41,4 +41,4 @@ Camilla's specialities are:
 - Email Marketing
 - Data Analysis
 
-Focused on improving marketing results, business development process efficiencies and meeting performance objectives, she’s able to quickly adapt to any situation.
+Focused on improving marketing results, business development process efficiencies and meeting performance objectives, she’s able to quickly adapt to any scenario.
