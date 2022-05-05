@@ -1,10 +1,10 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "46fc7360-fdae-ec11-983f-0022481856af"
 
 qualifications: ""
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them."
+quoteAuthor: "Andrew Hunt"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
