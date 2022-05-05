@@ -7,6 +7,20 @@ quote: "In some ways, programming is like painting. You start with a blank canva
 quoteAuthor: "Andrew Hunt"
 ---
 
+[[imgBadge]]
+| ![dotnet-core.png](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![c-sharp.png](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![microsoft-dynamics.png](../badges/Business-microsoft-dynamics.png)
+
+[[imgBadge]]
+| ![microsoft-dynamics-powerbi.png](../badges/Business-microsoft-dynamics-powerbi.png)
+
+---
+
 Gert is an intelligent and driven IT professional with experience across the full solution delivery lifecycle, he possesses in-depth technical skills and is a team leader – a talented all-round technologist! Fittingly, he is highly skilled in business requirement gathering, estimation, design and delivery - all strengthened by his consultative approach and agile way of working.
 
 Gert has a strong consultative demeanour working collaboratively with key stakeholders and other team members. He is well presented with excellent communication skills. He maintains an effective and efficient approach to deliver solutions that aims to accomplish significant business outcome or process improvements.
