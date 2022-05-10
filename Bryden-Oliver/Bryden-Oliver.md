@@ -26,6 +26,9 @@ quoteAuthor: "Socrates"
 | ![Microsoft Certified: Azure AI Fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure Cosmos DB Developer Specialty](../badges/Certification-microsoft-cosmos.png)
+
+[[imgBadge]]
 | ![Azure](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
