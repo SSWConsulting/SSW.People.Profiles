@@ -8,6 +8,9 @@ quoteAuthor: "Leonardo Da Vinci"
 ---
 
 [[imgBadge]]
+| ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![dotnetcore](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
@@ -28,7 +31,6 @@ Andrew has a strong background in integration and application modernisation usin
 
 * .NET Core
 * Angular
-* [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
 * Docker
 * Node.Js
 * SQL Server
