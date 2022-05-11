@@ -10,6 +10,6 @@ quoteAuthor: "Bill Gates"
 
 Ozair is a Web Developer working at SSW Melbourne with experience building responsive and scalable web applications.
 
-He holds a masters degree of Network Systems with a specialization in Cyber Security from Swinburne University of Technology. He specializes in front-end development using JavaScript frameworks such as Angular and React, and has experience in back-end development using .NET
+He holds a master's degree of Network Systems with a specialization in Cyber Security from Swinburne University of Technology. He specializes in front-end development using JavaScript frameworks such as Angular and React, and has experience in back-end development using .NET
 
 In his free time, he likes reading, meeting friends and travelling.
