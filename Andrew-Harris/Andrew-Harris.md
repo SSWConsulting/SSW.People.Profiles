@@ -31,9 +31,10 @@ Andrew has a strong background in integration and application modernisation usin
 
 * .NET Core
 * Angular
+* [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
 * Docker
 * Node.Js
 * SQL Server
 * TypeScript
 
-Andrew is passionate understanding a problem and finding the right solution for that problem.
+Andrew is passionate about understanding a problem and finding the right solution for that problem.
