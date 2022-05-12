@@ -28,4 +28,4 @@ Brady's key skills include:
 * .NET
 * Flutter
 
-In his personal time, you can find Brady expanding his skillset by learning about the lastest technologies and frameworks, or out mountain biking with his friends.
+In his personal time, you can find Brady expanding his skillset by learning about the latest technologies and frameworks, or out mountain biking with his friends.
