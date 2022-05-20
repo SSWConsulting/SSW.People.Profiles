@@ -23,7 +23,7 @@ quoteAuthor: "Socrates"
 | ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
 
 [[imgBadge]]
-| ![Microsoft Certified: Azure AI Fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
+| ![Microsoft Certified: Azure AI Fundamentals](../badges/Certification-microsoft-azure-ai-fundamentals.png)
 
 [[imgBadge]]
 | ![Microsoft Certified: Azure Cosmos DB Developer Specialty](../badges/Certification-microsoft-cosmos.png)
