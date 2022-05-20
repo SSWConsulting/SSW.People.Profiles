@@ -1,6 +1,8 @@
-| id                                   | category   | role                | quote                                                                                                                                        | quoteAuthor     |
-| ------------------------------------ | ---------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| 6ed524e2-8933-eb11-a813-000d3a79983b | Developers | Software Developer | Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present. | Marcus Aurelius |
+---
+id: "6ed524e2-8933-eb11-a813-000d3a79983b"
+quote: "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present."
+quoteAuthor: "Marcus Aurelius"
+---
 
 [[imgBadge]]
 | ![React](../badges/Developer-react.png)
