@@ -1,5 +1,5 @@
 ---
-id: "6ed524e2-8933-eb11-a813-000d3a79983b"
+id: "2e664bc5-02d7-ec11-a7b6-00224818649c"
 quote: "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present."
 quoteAuthor: "Marcus Aurelius"
 ---
