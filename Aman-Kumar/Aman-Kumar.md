@@ -1,10 +1,12 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "45fc7360-fdae-ec11-983f-0022481856af"
 
+category: "Developers"
+role:"Sample Profile"
 qualifications: ""
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "Failure is an option here. If things are not failing, you are not innovating enough."
+quoteAuthor: "Elon Musk"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
