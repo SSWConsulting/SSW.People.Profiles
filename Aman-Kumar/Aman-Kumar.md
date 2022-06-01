@@ -11,6 +11,6 @@ quoteAuthor: "Elon Musk"
 
 Aman is a Web Developer working at SSW Melbourne with experience building responsive and scalable web applications.
 
-He holds a master's degree of Information Technology with a specialization in Cloud and Mobile computing from Swinburne University of Technology. He has 3 years of experience in web development using different plateforms such as React, Node, PHP and .Net framework
+He holds a master's degree of Information Technology with a specialization in Cloud and Mobile computing from Swinburne University of Technology. He has 3 years of experience in web development using different plateforms such as React, Node, PHP, and .NET framework.
 
 In his free time, he likes watching cricket and meeting friends.
