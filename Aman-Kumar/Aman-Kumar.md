@@ -1,12 +1,11 @@
 ---
 id: "45fc7360-fdae-ec11-983f-0022481856af"
-
 category: "Developers"
-role:"Senior Software Developer"
+role: "Senior Software Developer"
 qualifications: "Master of Information Technology, Bachelor of Computer Science"
-
 quote: "Failure is an option here. If things are not failing, you are not innovating enough."
 quoteAuthor: "Elon Musk"
+
 ---
 
 Aman is a Web Developer working at SSW Melbourne with experience building responsive and scalable web applications.
