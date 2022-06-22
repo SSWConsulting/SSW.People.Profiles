@@ -6,7 +6,7 @@ qualifications: "Bachelor of Information Technology"
 ---
 
 [[imgBadge]]
-| [![Image Alt Text](../badges/Microsoft-certified-azure-security-engineer-associate.png)]
+| [![Image Alt Text](../badges/Certification-microsoft-azure-security-engineer.png)]
 
 ---
 
