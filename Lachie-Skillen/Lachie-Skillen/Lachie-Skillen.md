@@ -9,4 +9,4 @@ quoteAuthor: "Albert Einstein"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Lachie Skillen specialises in Marketing and Sales, he also assists in everyday administration duties. 
+Lachie Skillen is an indispensable member of the Marketing/Sales team at SSW. He brings his great interpersonal, leadership & communication skills to the team. With a passion for Marketing, Lachie is currently focused on building his expertise as a marketer. 
