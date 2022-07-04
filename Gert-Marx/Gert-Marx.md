@@ -19,6 +19,9 @@ quoteAuthor: "Andrew Hunt"
 [[imgBadge]]
 | ![microsoft-dynamics-powerbi.png](../badges/Business-microsoft-dynamics-powerbi.png)
 
+[[imgBadge]]
+| ![Certification-scrumalliance-master.png](../badges/Certification-scrumalliance-master.png)
+
 ---
 
 Gert is an intelligent and driven IT professional with experience across the full solution delivery lifecycle, he possesses in-depth technical skills and is a team leader – a talented all-round technologist! Fittingly, he is highly skilled in business requirement gathering, estimation, design and delivery - all strengthened by his consultative approach and agile way of working.
