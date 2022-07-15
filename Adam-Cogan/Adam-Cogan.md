@@ -47,9 +47,9 @@ Some of Adam's career highlights have been:
 - Training thousands of developers around the world 
 - Growing the career of hundreds of SSW employees over 3 decades 
 - Seeing many of Adam Cogan’s former employees go on to do great things 
-  - Tatham Oddie – CEO of readily.net 
+  - Tatham Oddie – CEO of Telstra Purple - was readify.net 
   - Paul Stovell – CEO of octopus.com 
-  - Damian Brady – Mr. Devops at Microsoft Worldwide 
+  - Damian Brady – Mr. Devops at GitHub - was Microsoft Worldwide 
   - Adam Stephensen – Mr. Azure at Microsoft Australia 
 - Being the Product Owner of many SSW products, such as SugarLearning.com and SSWTimePro.com  
 - Being the Azure DevOps (was TFS) MVP of the year, proving his leadership in demonstrating the value of the ALM tools 

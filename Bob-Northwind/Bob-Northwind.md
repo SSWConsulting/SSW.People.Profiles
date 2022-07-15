@@ -9,15 +9,16 @@ quoteAuthor: "Anonymous"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
 This is an example account to show you what is possible for a profile page. 
 Below you will see everything you need to create an awesome page. 
 
-# Headings
+[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
+
+## Headings
 
 ---
 
-## Input:
+### Input:
 
 ```
 # Heading 1
@@ -61,11 +62,61 @@ Alt-Heading 2
 
 &nbsp;
 
-# Emphasis
+## Links
 
 ---
 
-## Input:
+### Input:
+
+```
+[I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+URLs and URLs in angle brackets will automatically get turned into links.
+http://www.example.com or <http://www.example.com> and sometimes example.com (but not on Github, for example).
+
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
+```
+
+### Output:
+
+[I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[I'm a reference-style link][arbitrary case-insensitive reference text]
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+URLs and URLs in angle brackets will automatically get turned into links.  
+http://www.example.com or <http://www.example.com> and sometimes example.com (but not on Github, for example).
+
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
+
+&nbsp;
+
+## Emphasis
+
+---
+
+### Input:
 
 ```
 **bold** or __bold__
@@ -79,7 +130,7 @@ Alt-Heading 2
 
 &nbsp;
 
-## Output:
+### Output:
 
 **bold** or **bold**
 
@@ -91,11 +142,11 @@ _italic_ or _italic_
 
 &nbsp;
 
-# Images
+## Images
 
 ---
 
-## Input:
+### Input:
 
 ```
 [[imgLg]]
@@ -113,7 +164,7 @@ _italic_ or _italic_
 
 &nbsp;
 
-## Output:
+### Output:
 
 [[imgLg]]
 | ![Large image](./Images/Bio/cat_computer.jpg)
@@ -129,11 +180,11 @@ _italic_ or _italic_
 
 &nbsp;
 
-# Videos
+## Videos
 
 ---
 
-## Input:
+### Input:
 
 ```
 `youtube: https://www.youtube.com/embed/2G7z2mF7Onk`
@@ -141,17 +192,17 @@ _italic_ or _italic_
 
 &nbsp;
 
-## Output:
+### Output:
 
 `youtube: https://www.youtube.com/embed/2G7z2mF7Onk`
 
 &nbsp;
 
-# Twitter Card Embed
+## Twitter Card Embed
 
 ---
 
-## Input:
+### Input:
 
 ```
 `oembed: https://twitter.com/SSW_TV/status/1232546593099919361`
@@ -159,17 +210,17 @@ _italic_ or _italic_
 
 &nbsp;
 
-## Output:
+### Output:
 
 `oembed: https://twitter.com/SSW_TV/status/1232546593099919361`
 
 &nbsp;
 
-# Horizontal Rules
+## Horizontal Rules
 
 ---
 
-## Input:
+### Input:
 
 ```
 ---
@@ -184,7 +235,7 @@ Underscores
 
 &nbsp;
 
-## Output:
+### Output:
 
 ---
 
@@ -200,11 +251,11 @@ Underscores
 
 &nbsp;
 
-# Quotation
+## Quotation
 
 ---
 
-## Input:
+### Input:
 
 ```
 > A quote looks like this
@@ -212,17 +263,17 @@ Underscores
 
 &nbsp;
 
-## Output:
+### Output:
 
 > A quote looks like this
 
 &nbsp;
 
-# Tables
+## Tables
 
 ---
 
-## Input:
+### Input:
 
 ```
 Colons can be used to align columns.
@@ -245,7 +296,7 @@ Markdown | Less | Pretty
 
 &nbsp;
 
-## Output:
+### Output:
 
 | Tables        |      Are      |   Cool |
 | ------------- | :-----------: | -----: |
@@ -262,11 +313,11 @@ Markdown | Less | Pretty
 
 &nbsp;
 
-# Lists
+## Lists
 
 ---
 
-## Input:
+### Input:
 
 ```
 1. Ordered List Item 1
@@ -291,7 +342,7 @@ Markdown | Less | Pretty
 
 &nbsp;
 
-## Output:
+### Output:
 
 1. Ordered List Item 1
 2. Ordered List Item 2
@@ -319,52 +370,6 @@ Markdown | Less | Pretty
 
 &nbsp;
 
-# Links
+## Related Links
 
----
-
-## Input:
-
-```
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-```
-
-&nbsp;
-
-## Output:
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.  
-http://www.example.com or <http://www.example.com> and sometimes example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+- [Example Rule + Markdown Cheatsheet](https://www.ssw.com.au/rules/rule)

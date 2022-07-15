@@ -8,6 +8,9 @@ quoteAuthor: "Leonardo Da Vinci"
 ---
 
 [[imgBadge]]
+| ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![dotnetcore](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
@@ -34,4 +37,4 @@ Andrew has a strong background in integration and application modernisation usin
 * SQL Server
 * TypeScript
 
-Andrew is passionate understanding a problem and finding the right solution for that problem.
+Andrew is passionate about understanding a problem and finding the right solution for that problem.
