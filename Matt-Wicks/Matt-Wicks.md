@@ -52,5 +52,5 @@ Matt has had experience with companies ranging from small businesses to large AS
 
 - PABX systems
 
-Matt loves DevOps, DevOps, and DevOps. These days he prefers GitHub Actions and Azure DevOps Build Pipelines over Octopus and Bamboo. Matt likes clean architecture, using the right tool for the job, seeing developers push changes to production with confidence, automated tests, building solutions on Azure, and now he never has to reminisce about Web Forms.
+Matt loves DevOps, DevOps, and DevOps. He loves deploying code with GitHub Actions, Azure DevOps Build Pipelines, Octopus and definitely not with a right click. Matt likes clean architecture, using the right tool for the job, seeing developers push changes to production with confidence, automated tests, building solutions on Azure, and now he never has to reminisce about Web Forms.
 
