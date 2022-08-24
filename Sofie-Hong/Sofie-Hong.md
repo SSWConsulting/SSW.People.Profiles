@@ -1,7 +1,7 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "c2cd9e55-d4b4-4b55-9951-16ead79643e5"
 
-qualifications: "videographer"
+qualifications: "SSW videographer"
 
 quote: "I succeeded because I willed it ; I never hesitated "
 quoteAuthor: "Bonaparte Napoleon"
@@ -15,4 +15,6 @@ quoteAuthor: "Bonaparte Napoleon"
 
 [[imgBadge]]
 | ![](../badges/Designer-camera.png)
+
+Sofie is a Videographer in the SSW TV team.
 
