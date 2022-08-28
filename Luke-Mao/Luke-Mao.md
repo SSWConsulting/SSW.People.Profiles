@@ -1,8 +1,8 @@
 ---
 id: "9b0d2f13-16cf-eb11-bacc-002248152435"
 qualifications: "Bachelors degree - Electronic Information Engineering"
-quote: "Stay hungry. Stay foolish."
-quoteAuthor: "Steve Jobs"
+quote: "Live as if you were to die tomorrow. Learn as if you were to live forever."
+quoteAuthor: "Mahatma Gandhi"
 ---
 
 Luke is a Software Architect with more than three years of development experience. He has a broad technology stack and is especially good at using React for web development.
