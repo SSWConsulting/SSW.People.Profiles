@@ -1,7 +1,7 @@
 ---
 id: "1d2837fa-6af3-ec11-bb3d-002248186e31"
 
-qualifications: "SSW videographer"
+qualifications: "Directing, Videography, Editing, Marketing"
 
 quote: "I succeeded because I willed it ; I never hesitated "
 quoteAuthor: "Bonaparte Napoleon"
