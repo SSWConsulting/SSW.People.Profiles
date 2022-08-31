@@ -19,7 +19,7 @@ quoteAuthor: "Thomas A. Edison"
 [[imgBadge]]
 | ![ITIL.png](../badges/Business-itil.png) 
 
-Christian is a Senior Software Architect with over 8 years of experience working with a wide range of technologies and Azure resources.
+Christian is a Senior Software Engineer with over 8 years of experience working with a wide range of technologies and Azure resources.
 
 Specialising in backend .NET development and API integration. He enjoys working on process improvement and automation through PowerShell scripting, Azure Build Pipelines and GitHub Actions.
 
