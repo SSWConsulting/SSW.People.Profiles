@@ -13,6 +13,8 @@ quoteAuthor: "Cliff Gladwin"
 [[imgBadge]]
 | ![](../badges/Designer-camera.png)
 
+[[imgBadge]]
+| ![](../badges/Certification-scrumalliance-master.png)
 
 Jonty is a creative, skilled, and a versatile individual with production experience in digital media across mutliple playforms and channels. 
 
