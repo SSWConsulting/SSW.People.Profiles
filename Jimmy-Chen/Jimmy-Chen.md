@@ -9,6 +9,6 @@ quoteAuthor: "Albert Einstein"
 
 Jimmy is the SSW Accountant, working in the Sydney head office. 
 
-After graduating from the UNSW with a Master's degree in accounting, he has worked for 5 years in the area and is also tech-savvy that focus on the latest technologies to solve accounting issue. 
+After graduating from the UNSW with a Master's degree in accounting, he has worked 5 years in accounting and is also tech savvy that focuses on the latest technologies to solve accounting issues.
 
-He loves learning new technologies and applying innovation to the business to contribute more value to the business.
+He loves learning new technologies and applying innovation to accounting to contribute more value to the business.s.
