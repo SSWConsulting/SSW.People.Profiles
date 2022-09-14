@@ -7,6 +7,9 @@ quote:  "Coding is like artwork and as developers we should always strive to be 
 ---
 
 [[imgBadge]]
+| ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![dotnetcore.png](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
