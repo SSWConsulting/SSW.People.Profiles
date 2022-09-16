@@ -3,6 +3,8 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
+'Alex-Rothwell/**':
+  - AlexRothwell
 'Alvin-Shen/**':
   - AlvinShenSSW
 'Aman-Kumar/**':
