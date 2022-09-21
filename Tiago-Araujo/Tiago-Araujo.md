@@ -1,11 +1,14 @@
 ---
 id: "fe0b5b92-f8aa-dd11-a7e0-00155d01221b"
 
-qualifications:  "Barchelor of Advertising, Applied Web Development Certificate"
+qualifications: "Barchelor of Advertising, Applied Web Development Certificate, Certified Scrum Master"
 
 quote:  "It's not what you look at that matters, it's what you see."
 quoteAuthor: "Henry David Thoreau"
 ---  
+
+[[imgBadge]]
+| ![](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
 | ![](../badges/Designer-web-ux.png)
