@@ -7,6 +7,9 @@ quote: "It is never too late to be what you might have been."
 quoteAuthor: "George Eliot"
 ---
 
-Sylvia is a Software Architect based in SSW Hangzhou Office. She has worked in both Canada and China and is experienced in collaborating with global teams remotely. With over four years of experience in full stack development, Sylvia has been practicing Scrum methodology and was involved in many projects that built applications from scratch. Through these projects, she has gained extensive knowledge in e-commerce, banking, business intelligence, government affairs and many more.
+[[imgBadge]]
+| ![microsoft-certified-azure-administrator-associate 2](https://user-images.githubusercontent.com/23565403/191646216-815fab4b-277a-4185-a042-96d1ed7d8b5f.png)
+
+Sylvia is a Software Developer based in SSW Hangzhou Office. She has worked in both Canada and China and is experienced in collaborating with global teams remotely. With over four years of experience in full stack development, Sylvia has been practicing Scrum methodology and was involved in many projects that built applications from scratch. Through these projects, she has gained extensive knowledge in e-commerce, banking, business intelligence, government affairs and many more.
 
 Within her broad technology stack, Sylvia is strongest on React and Vue for web development. She is meticulous in her code quality. Sylvia is always keen on understanding and fulfilling clients' deepest needs, so she constantly seeks the best solution for her clients.
