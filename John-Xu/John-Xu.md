@@ -21,7 +21,7 @@ John has worked in several IT companies around the world and has rich experience
 ### Backend
 - NestJS
 - Spring
-- #NET
+- .NET
 
 ### Frontend
 - React
