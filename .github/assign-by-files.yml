@@ -3,12 +3,14 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
+'Alex-Rothwell/**':
+  - AlexRothwell
 'Alvin-Shen/**':
   - AlvinShenSSW
+'Aman-Kumar/**':
+  - amankumarrr
 'Anastasia-Cogan/**':
   - anastasiacogan
-'Andreas-Lengkeek/**':
-  - AndreasLengkeek
 'Andrew-Forsyth/**':
   - apforsyth
 'Andrew-Harris/**':
@@ -17,8 +19,14 @@
   - AnkyChe
 'Ash-Anil/**':
   - AshAnil
+'Ash-Chetla/**':
+  - AshChetla
+'Bahjat-Alaadel/**':
+  - bahjatalaadelssw
 'Brady-Stroud/**':
   - bradystroud
+'Brook-Jeynes/**':
+  - BrookJeynes
 'Bryden-Oliver/**':
   - brydeno
 'Calum-Simpson/**':
@@ -31,16 +39,16 @@
   - chrisschultzssw
 'Christian-Morford-Waite/**':
   - christianmorfordwaitessw
-'Dale-Chester/**':
-  - theixdev
 'David-Abraham/**':
   - DavidAbraham082
 'Eve-Cogan/**':
   - evecogan
+'Gert-Marx/**':
+  - Marxoz
+'Gordon-Beeming/**':
+  - DevStarOps
 'Jack-Duan/**':
   - duanxinhuan
-'Jack-Leerson/**':
-  - JackLeerson
 'Jack-Pettit/**':
   - JackDevAU
 'Jake-Bayliss/**':
@@ -57,6 +65,10 @@
   - jerryluossw
 'Jim-Zheng/**':
   - jimmidier
+'Jimmy-Chen/**':
+  - JimmyChenSSW
+'John-Xu/**':
+  - johnxussw
 'Jonty-Gardner/**':
   - jontygardner
 'Kaha-Mason/**':
@@ -71,6 +83,8 @@
   - KristenHu
 'Landon-Maxwell/**':
   - landonmaxwell
+'Lee-Hawkins/**':
+  - leehawkinsssw
 'Luke-Cook/**':
   - lukecookssw
 'Luke-Mao/**':
@@ -79,24 +93,34 @@
   - Hona
 'Matt-Goldman/**':
   - matt-goldman
+'Matt-Wicks/**':
+  - wicksipedia
 'Mehmet-Ozdemir/**':
   - ozdemir-mehmet
 'Michael-Smedley/**':
   - miichaelsmedley
-'Patrick-Zhao/**':
-  - PatrickZhao1989
+'Nadee-Kodituwakku/**':
+  - NadeekaJK
+'Ozair-Ashfaque/**':
+  - ozairashfaqueSSW
 'Penny-Walker/**':
   - PennyWalker
 'Piers-Sinclair/**':
   - pierssinclairssw
 'Prem-Radhakrishnan/**':
   - premradhakrishnan
+'Ravi-Dhaduk/**':
+  - ravidhaduk
 'Shane-Ye/**':
   - yesihao
+'Sofie-Hong/**':
+  - SofieHong
 'Stephan-Fako/**':
   - stephanfakossw
-'Tia-Niu/**':
-  - Tia-Niu
+'Steven-Qiang/**':
+  - steven0x51
+'Sylvia-Huang/**':
+  - sylhuang
 'Tiago-Araujo/**':
   - tiagov8
 'Tom-Bui/**':
@@ -107,5 +131,9 @@
   - UlyssesMaclaren
 'Warwick-Leahy/**':
   - leahy268
+'Will-Greentree/**':
+  - williamgreentreessw
+'William-Liebenberg/**':
+  - william-liebenberg
 'Yang-Shen/**':
   - Berber-Mama

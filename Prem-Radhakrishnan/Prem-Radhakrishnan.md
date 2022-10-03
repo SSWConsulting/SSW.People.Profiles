@@ -6,6 +6,23 @@ qualifications: "B.E (Software Engineering), CRISC, CISM"
 quote: "Life would be much easier if I had the source code."
 quoteAuthor: "Anonymous"
 ---
+[[imgBadge]]
+| ![azure-logo.png](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![azure-function-logo.png](../badges/Developer-azure-function.png)
+
+[[imgBadge]]
+| ![.NET Core](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![angular-logo.png](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| [![Sydney .Net User group](../badges/Event-ug-sydney.png)](https://www.ssw.com.au/ssw/NETUG/Sydney.aspx)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Business-microsoft-azure-devops.png)
 
 [[imgBadge]]
 | ![CISM.png](../badges/SysAdmin-CISM.png)
@@ -32,4 +49,8 @@ If time and money were not a factor, he would try his hand at opening a cafe ser
 
 ###Videos
 
+`youtube: https://www.youtube.com/embed/j6vya4e6bBg`
+
 `youtube: https://www.youtube.com/embed/eJ6uHwaGJRM`
+
+`youtube: https://www.youtube.com/embed/Pt3bST_s0iQ`
