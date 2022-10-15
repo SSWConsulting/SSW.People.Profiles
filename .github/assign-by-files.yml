@@ -3,6 +3,8 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
+'Alex-Rothwell/**':
+  - AlexRothwell
 'Alvin-Shen/**':
   - AlvinShenSSW
 'Aman-Kumar/**':
@@ -23,6 +25,8 @@
   - bahjatalaadelssw
 'Brady-Stroud/**':
   - bradystroud
+'Brook-Jeynes/**':
+  - BrookJeynes
 'Bryden-Oliver/**':
   - brydeno
 'Calum-Simpson/**':
@@ -41,6 +45,8 @@
   - evecogan
 'Gert-Marx/**':
   - Marxoz
+'Gordon-Beeming/**':
+  - DevStarOps
 'Jack-Duan/**':
   - duanxinhuan
 'Jack-Pettit/**':
@@ -59,6 +65,10 @@
   - jerryluossw
 'Jim-Zheng/**':
   - jimmidier
+'Jimmy-Chen/**':
+  - JimmyChenSSW
+'John-Xu/**':
+  - johnxussw
 'Jonty-Gardner/**':
   - jontygardner
 'Kaha-Mason/**':
@@ -91,12 +101,8 @@
   - miichaelsmedley
 'Nadee-Kodituwakku/**':
   - NadeekaJK
-'Norman-Russ/**':
-  - tato1967
 'Ozair-Ashfaque/**':
   - ozairashfaqueSSW
-'Patrick-Zhao/**':
-  - PatrickZhao1989
 'Penny-Walker/**':
   - PennyWalker
 'Piers-Sinclair/**':
@@ -107,6 +113,8 @@
   - ravidhaduk
 'Shane-Ye/**':
   - yesihao
+'Sofie-Hong/**':
+  - SofieHong
 'Stephan-Fako/**':
   - stephanfakossw
 'Steven-Qiang/**':
