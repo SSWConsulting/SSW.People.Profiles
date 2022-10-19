@@ -8,6 +8,9 @@ quoteAuthor: "Elon Musk"
 ---
 
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-fundamentals.png)
+
+[[imgBadge]]
 | ![](../badges/Developer-angular.png)
 
 [[imgBadge]]
