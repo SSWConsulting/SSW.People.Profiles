@@ -8,7 +8,7 @@ quoteAuthor: "Elon Musk"
 ---
 
 [[imgBadge]]
-| ![](../badges/Certification-power-platform-fundamentals.png)
+| ![](../badges/Certification-microsoft-power-platform-fundamentals.png)
 
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-azure-fundamentals.png)
