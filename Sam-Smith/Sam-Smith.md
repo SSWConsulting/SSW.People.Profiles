@@ -1,7 +1,7 @@
 ---
 id: "81763c7d-3944-ed11-bba3-00224818a84c"
 
-qualifications: ""
+qualifications: "BSc - Physics (Honours)"
 
 quote: "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."
 quoteAuthor: "Dr. Suess"
