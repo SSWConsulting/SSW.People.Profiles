@@ -1,18 +1,18 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "c2cd9e55-d4b4-4b55-9951-16ead79643e5"
 
-qualifications: ""
+qualifications: "Business Development, Sales and Account Management, Dynamics 365, Office 365, Recruitment, Zapier, Finance and Accounting"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "If everyone is moving forward together, then success takes care of itself."
+quoteAuthor: "Henry Ford"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
+Levi is an SSW Account Manager located in Sydney, Australia. 
 
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
+Specializing in Business Development and Account Management, Levi works with the SSW sales team to help promote and advance the growth of our NSW clientele.
+He is driven by his passion for business development and technology, and thrives on problem-solving with his "out of the box" thinking and ideas.
 
 ## Headings
 
