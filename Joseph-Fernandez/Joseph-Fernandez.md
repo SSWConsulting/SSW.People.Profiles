@@ -1,5 +1,5 @@
 ---
-id: "13d5c17a-d94d-ed11-bba3-00224818a8c8"
+id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
 
 qualifications: "Barchelor of Multimedia Systems, Advanced Diploma of Multimedia Design"
 
@@ -25,11 +25,6 @@ quoteAuthor: "Kanye West"
 [[imgBadge]]
 | ![](../badges/Designer-adobe-illustrator.png)
 
-[[imgBadge]]
-| ![](../badges/Designer-adobe-photoshop.png)
-
-[[imgBadge]]
-| ![](../badges/Designer-adobe-illustrator.png)
 
 [[imgBadge]]
 | ![](../badges/Designer-camera.png)
