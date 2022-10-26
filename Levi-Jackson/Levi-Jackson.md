@@ -7,8 +7,6 @@ quote: "If everyone is moving forward together, then success takes care of itsel
 quoteAuthor: "Henry Ford"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
-
 Levi is an SSW Account Manager located in Sydney, Australia. 
 
 Specializing in Business Development and Account Management, Levi works with the SSW sales team to help promote and advance the growth of our NSW clientele.
