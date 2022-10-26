@@ -1,7 +1,7 @@
 ---
 id: "db425c88-023b-ed11-9db1-00224818a8c8"
 
-qualifications: "Business Development, Sales and Account Management, Dynamics 365, Office 365, Recruitment, Zapier, Finance and Accounting"
+qualifications: ""
 
 quote: "If everyone is moving forward together, then success takes care of itself."
 quoteAuthor: "Henry Ford"
