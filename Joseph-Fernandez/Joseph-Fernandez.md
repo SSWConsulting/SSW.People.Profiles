@@ -25,11 +25,6 @@ quoteAuthor: "Kanye West"
 [[imgBadge]]
 | ![](../badges/Designer-adobe-illustrator.png)
 
-[[imgBadge]]
-| ![](../badges/Designer-adobe-photoshop.png)
-
-[[imgBadge]]
-| ![](../badges/Designer-adobe-illustrator.png)
 
 [[imgBadge]]
 | ![](../badges/Designer-camera.png)
