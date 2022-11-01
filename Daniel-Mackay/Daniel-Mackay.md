@@ -1,10 +1,10 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "9bf364e8-342f-ed11-9db1-00224818a84c"
 
-qualifications: ""
+qualifications: "Bachelor of Science (Honours), Computer Science"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "The healthy, wealthy, and wise prioritise education over entertainment"
+quoteAuthor: "Jay Shetty"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
