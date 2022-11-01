@@ -37,13 +37,13 @@ quoteAuthor: "Jay Shetty"
 [[imgBadge]]
 | ![PowerShell](../badges/Developer-powershell.png)
 
-Daniel Mackay Solution Architect at SSW, and specialises in Cloud Architecture, Software Architecture, and DevOps.  He has over 20+ years of professional experience.  He has worked with .NET since 2009, and is passionate about web-based technologies such as using .NET Core, ASP.NET Core, EF Core, React, Next.js and Azure.
+Daniel Mackay is a Solution Architect at SSW, and specialises in Cloud Architecture, Software Architecture, and Dev Ops.  He has over 20+ years of professional experience.  He has worked with .NET since 2009, and is passionate about web-based technologies such as .NET Core, ASP.NET Core, EF Core, React, Next.js and Azure.
 
 You can find his blog at [www.dandoescode.com](https://www.dandoescode.com/).
 
 ### Cloud Architecture
 
-Daniel loves working with Azure and is constantly trying to identify new solutions to existing problems.  He is experienced with AppService, Functions, Message Bus, Storage, Logic Apps, Azure AD, Applicant Insights and Static Web Apps.
+Daniel loves working with Azure and is constantly trying to identify new solutions to existing problems.  He is experienced with App Service, Function Apps, Service Bus, Storage, Logic Apps, Azure AD, Application Insights and Static Web Apps.
 
 ### Software Architecture
 
@@ -51,5 +51,4 @@ Daniel is a hands-on Solution Architect with an interest in both Software Archit
 
 ### Dev Ops
 
-Daniel is a big believer in agile and is always searching for the most productive tool for the job.  He enjoys streamlining DevOps pipelines in GitHub/Azure DevOps to automate infrastructure changes, keep software quality high and ultimately get business value delivered to clients faster.
-
+Daniel is a big believer in agile and productivity, and is always searching for the best tool for the job.  He enjoys streamlining DevOps pipelines in GitHub/Azure DevOps to automate infrastructure changes, keep software quality high and ultimately get business value delivered to clients faster.
