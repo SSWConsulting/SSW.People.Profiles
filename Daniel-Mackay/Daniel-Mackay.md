@@ -37,7 +37,7 @@ quoteAuthor: "Jay Shetty"
 [[imgBadge]]
 | ![PowerShell](../badges/Developer-powershell.png)
 
-Daniel Mackay is a Solution Architect at SSW, and specialises in Cloud Architecture, Software Architecture, and Dev Ops.  He has over 20+ years of professional experience.  He has worked with .NET since 2009, and is passionate about web-based technologies such as .NET Core, ASP.NET Core, EF Core, React, Next.js and Azure.
+Daniel Mackay is a Solution Architect at SSW, and specialises in Cloud Architecture, Software Architecture, and DevOps.  He has over 20+ years of professional experience.  He has worked with .NET since 2009, and is passionate about web-based technologies such as .NET Core, ASP.NET Core, EF Core, React, Next.js and Azure.
 
 You can find his blog at [www.dandoescode.com](https://www.dandoescode.com/).
 
@@ -49,6 +49,6 @@ Daniel loves working with Azure and is constantly trying to identify new solutio
 
 Daniel is a hands-on Solution Architect with an interest in both Software Architecture and Cloud Architecture.  He is a big fan of Clean Architecture with .NET Core and the productivity and maintainability it provides. He also has experience building single page applications in React and Angular.
 
-### Dev Ops
+### DevOps
 
 Daniel is a big believer in agile and productivity, and is always searching for the best tool for the job.  He enjoys streamlining DevOps pipelines in GitHub/Azure DevOps to automate infrastructure changes, keep software quality high and ultimately get business value delivered to clients faster.
