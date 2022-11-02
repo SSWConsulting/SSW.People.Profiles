@@ -5,6 +5,9 @@ quote: "Live as if you were to die tomorrow. Learn as if you were to live foreve
 quoteAuthor: "Mahatma Gandhi"
 ---
 
+[[imgBadge]]
+| ![Microsoft Certified: Azure Administrator Associate](../badges/Certification-microsoft-azure-administrator-associate.png)
+
 Luke is a Software Architect with more than 4 years of development experience. He has a broad technology stack and is especially good at using React for web development.
 
 He has rich experience in remote cooperation with overseas teams. He has worked on large-scale Real Estate projects in Australia and Healthy Living projects in Singapore. He has experience in the fields of Finance，Big Data and Logistics.
