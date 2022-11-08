@@ -1,18 +1,15 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "4576cb-a558-ed11-9562-00224818a8c8"
 
 qualifications: ""
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "The difference between ordinary & extraordinary is that little extra"
+quoteAuthor: "Jimmy Johnson"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
-
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
+Adriana is a pro-active and hardworking professional with extensive experience in office administration and management, who is confident in performing administrative and front-desk tasks for small, medium and large-scale offices. 
 
 ## Headings
 
