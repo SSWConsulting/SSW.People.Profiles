@@ -6,12 +6,14 @@ qualifications: "Master of IT (Software Development)"
 quote: "When something is important enough, you do it even if the odds are not in your favor."
 quoteAuthor: "Elon Musk"
 ---
-
 [[imgBadge]]
-| ![](../badges/Certification-microsoft-power-platform-fundamentals.png)
+| ![](../badges/Certification-microsoft-azure-developer-associate.png)
 
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-azure-fundamentals.png)
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-power-platform-fundamentals.png)
 
 [[imgBadge]]
 | ![](../badges/Developer-angular.png)
