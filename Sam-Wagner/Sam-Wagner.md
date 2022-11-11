@@ -48,6 +48,6 @@ Sam's loves building WebAPIs with ASP.NET Core, working to build the fastest, sa
 
 ## Angular
 
-Front-End web development is a subtle love of Sam's. A sneaky designer at heart, he loves all the trials and tribulations that come with building a beautiful front-end.
+Front-end web development is a subtle love of Sam's. A sneaky designer at heart 🦝, he loves all the trials and tribulations that come with building a beautiful front-end.
 
 Bugs be gone! 🐛🔫
