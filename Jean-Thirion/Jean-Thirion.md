@@ -27,7 +27,6 @@ quoteAuthor: "Carl Sagan"
 
 ---
 
-<br/>
 Jean Thirion is SSW France CEO and the manager of SSW Europe, running the SSW Strasbourg Office. He has been working in software development for more than 10 years. Being multilingual, he worked in France, Luxembourg, and Australia. His experience with large scale domestic and international projects has given him the ability to act as a bridge between the development world and that of business. 
 
 Jean is dedicated to building awesome teams, always making sure nobody is left behind. Honesty and trust are values he embodies, and he works hard to ensure this is always conveyed with not just his team, but his clients.
@@ -39,13 +38,13 @@ His deep knowledge of SharePoint's capabilities, combined with the latest techno
 [[imgLg]]
 | ![Jean and Brendan at the Angular Superpowers Tour - Brisbane](./Images/Bio/ssw-angular-superpowers-2021-B.jpg)
 
-Man of many hats, Jean is also one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2 Day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.
+Man of many hats, Jean is also one of **SSW's Angular trainers**, running the **[Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx)** and the **[Angular 2-day Workshop](https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx)** that travels across Australia.
 
 Jean is highly motivated, with strong technical skills, which allows him to understand and convert complex business requirements into software solutions. He is also able to use his expertise and experience to suggest best practices applicable for any given scenario.
 
-**Jean's Internal Projects:**
+**Jean's internal projects:**
 
-- **[Rules.SSW](https://rules.ssw.com.au/)** - Developed a state of the art new SSW website to take 12,000 ASP.NET pages into a SharePoint public site. This site took advantage of SharePoint’s document management, version control and publishing workflow. This new site gave SSW editors a substantially better experience and their website visitors a better user experience.  
+- **[SSW.Rules](https://rules.ssw.com.au/)** - Developed a state of the art new SSW website to take 12,000 ASP.NET pages into a SharePoint public site. This site took advantage of SharePoint’s document management, version control and publishing workflow. This new site gave SSW editors a substantially better experience and their website visitors a better user experience.  
    _Related Technologies: SharePoint, ASP.NET, C#, XML, JQuery, Web Services, TFS and SQL Server._
 
 - **SharePoint intranet** - This SharePoint site is used by all SSW employees to store shared resources and provide project management, internal administrative and global search functionality.  
@@ -55,7 +54,6 @@ Jean is highly motivated, with strong technical skills, which allows him to unde
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/Mna0QBFB6CU" frameborder="0"></iframe>
 
-<hr size="8" width=90% color="red">
+---
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/cEFYB9O1QpI" frameborder="0"></iframe>
-
