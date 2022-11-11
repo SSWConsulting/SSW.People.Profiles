@@ -33,14 +33,14 @@ quoteAuthor: "Patrick McKenzie"
 [[imgBadge]]
 | ![React image badge](../badges/Developer-react.png)
 
-Tylah is a **Software Engineer** specialising in developing web applications using .NET Core, ASP.NET Core and EF Core. Tylah has experience with a range of modern front-end technologies including Angular, React and Blazor, and has a background in games development with the Unity Engine.
+Tylah is a SSW Software Engineer specialising in developing web applications using .NET Core, ASP.NET Core and EF Core. Tylah has experience with a range of modern front-end technologies including Angular, React and Blazor, and has a background in games development with the Unity Engine.
 
 Tylah is invested in keeping applications up to date with the latest tech, and applying [Clean Architecture](https://www.ssw.com.au/rules/rules-to-better-clean-architecture) best practices to his work. 
 
 # Internal Projects
 
 ## SSW.TimePro
-Tylah leads a team to modernize an invoicing application from .NET Framework and AngularJS to .NET 7 and Angular 10.
+Tylah leads a team to modernize an invoicing application from .NET Framework and AngularJS to .NET 7 and Angular 14.
 
 **SSW.TimePro** is the primary application used by SSW employees every single day to track timesheets, create invoices for clients, and generate reports. This application actively communicates with Dynamics CRM, Azure DevOps and Xero to deliver a quick and easy user experience.
 
