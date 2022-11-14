@@ -33,7 +33,7 @@ quoteAuthor: "Patrick McKenzie"
 [[imgBadge]]
 | ![React image badge](../badges/Developer-react.png)
 
-Tylah is a SSW Software Engineer specialising in developing web applications using .NET Core, ASP.NET Core and EF Core. Tylah has experience with a range of modern front-end technologies including Angular, React and Blazor, and has a background in games development with the Unity Engine.
+Tylah is an SSW Software Engineer specialising in developing web applications using .NET Core, ASP.NET Core and EF Core. Tylah has experience with a range of modern front-end technologies including Angular, React and Blazor, and has a background in games development with the Unity Engine.
 
 Tylah is invested in keeping applications up to date with the latest tech, and applying [Clean Architecture](https://www.ssw.com.au/rules/rules-to-better-clean-architecture) best practices to his work. 
 
