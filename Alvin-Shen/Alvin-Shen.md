@@ -1,7 +1,7 @@
 ---
 id: "b86a67e8-f459-dd11-b3a3-00155d012206"
 
-qualifications:  "B.IT(Software Engineering)@QUT, M. Commerce(Information System)@UNSW, CSPO, MCPD, MCTS"
+qualifications:  "B.IT(Software Engineering)@QUT, M. Commerce(Information System)@UNSW, M.Management@University of Melbourne, CSPO, MCPD, MCTS"
 
 quote:  "Storms make trees take deeper roots"
 ---
