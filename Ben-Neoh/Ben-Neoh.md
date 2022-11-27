@@ -1,10 +1,10 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "a794a199-3fc1-ec11-983e-0022481581e8"
 
 qualifications: ""
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "Before software can be reusable it first has to be usable."
+quoteAuthor: "Ralph Johnson"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
