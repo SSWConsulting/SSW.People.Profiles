@@ -9,10 +9,7 @@ quoteAuthor: "Ralph Johnson"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
-
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
+Ben is a software developer working in the Sydney office, pursuing a bachelor's degree in software engineering at the University of Technology Sydney. He is a quick learner and favours front-end development. His strongest area of expertise is Angular, and he is always eager to learn about new technologies.
 
 ## Headings
 
