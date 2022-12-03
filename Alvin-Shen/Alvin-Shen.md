@@ -1,7 +1,7 @@
 ---
 id: "b86a67e8-f459-dd11-b3a3-00155d012206"
 
-qualifications:  "Bachelor of IT@QUT, Master of Commerce(Information System)@UNSW, Master of Management@University of Melbourne, Certified Scrum Product Owner® (CSPO®)"
+qualifications: "B.IT(Software Engineering)@QUT, M. Commerce(Information System)@UNSW, M.Management@University of Melbourne, CSPO, MCPD, MCTS"
 
 quote:  "Storms make trees take deeper roots"
 ---
@@ -9,7 +9,7 @@ quote:  "Storms make trees take deeper roots"
 [[imgBadge]]
 | ![](../badges/Certification-scrumalliance-owner-1.png) 
   
-
+  
 Alvin Shen is the CEO of SSW China managing SSW Beijing and SSW Hangzhou Office.  
 
 Alvin has been working in the development realm for more than 15 years, both in China as well as in Australia. In that time, he has established himself as a passionate expert and industry leader. He started as a .NET and SharePoint developer, but through his passion for Scrum and his entrepreneurial spirit, he was able to leverage his skills to become a great Product Owner, as well as a business development manager, and even a CEO of a startup with 70 people before joining SSW.  
