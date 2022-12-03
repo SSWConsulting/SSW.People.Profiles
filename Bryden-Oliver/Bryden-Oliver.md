@@ -61,7 +61,7 @@ quoteAuthor: "Socrates"
 
 ---
 
-Bryden is a **Solution Architect** with over 30 years professional experience, working with customers from small businesses to the world's largest companies. He has a wealth of knowledge from a diverse range of areas, particularly focused on databases, web services, Microsoft Azure, and SaaS solutions. Bryden has a strong understanding of how software will deliver business value.
+Bryden is a **Solution Architect** with over 30 years of professional experience, working with customers from small businesses to the world's largest companies. He has a wealth of knowledge from a diverse range of areas, particularly focused on databases, web services, Microsoft Azure, and SaaS solutions. Bryden has a strong understanding of how software will deliver business value.
 
 ### Cloud Solutions
 Bryden loves working with the multitude of Azure technologies to build customized, structured, and cost-efficient solutions. His exceptional experience has solved  enormously high-scale complex problems, while working directly with Microsoft Development teams in Azure Functions, Cosmos DB, and SQL Server.
