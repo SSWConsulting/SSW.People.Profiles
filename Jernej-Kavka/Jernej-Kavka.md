@@ -55,19 +55,19 @@ quoteAuthor: "Anonymous"
 
 <br/>
 
-Jernej Kavka (JK) is an SSW Solution Architect, Microsoft AI MVP and organizer of the Brisbane AI user group. JK is a full-stack .NET developer, but his passion lies in Azure Cognitive Services, AI and machine learning. He is the main architect behind SSW's virtual receptionist - SSW SophieBot and SSW SophieHub: https://sswsophie.com
+Jernej Kavka (JK) is an SSW Solution Architect, Microsoft AI MVP and organizer of the Brisbane AI user group. JK is a full-stack .NET developer, but his passion lies in Azure Cognitive Services, AI and machine learning. He is the main architect behind SSW's virtual receptionist - SSW SophieBot and SSW SophieHub: [sswsophie.com](https://sswsophie.com)
 
 JK loves working on Blazor, Angular, .NET Core, and Cognitive Services. His most recent projects have featured Docker, AKS (Azure Kubernetes Services) and Machine Learning development. He loves containers and Kubernetes and enjoys showing others the immense possibilities that Container technology has to offer.
 
-In addition to being an expert in ASP, .NET Core, Angular, and Azure DevOps, Jernej is also proficient on Windows platform development from legacy applications (using C#, WinForms, WPF, …) changing them into modern applications (using Windows Store, Windows Universal applications, and Xamarin). Lately, he's sharpening his skills with Cognitive Services as well as Machine Learning.
+In addition to being an expert in ASP, .NET Core, Angular, and Azure DevOps, Jernej is also proficient on Windows platform development from legacy applications (using C#, WinForms, WPF, ...) changing them into modern applications (using Windows Store, Windows Universal applications, and Xamarin). Lately, he's sharpening his skills with Cognitive Services as well as Machine Learning.
 
-JK is a technology thought leader and frequent contributor to technical presentations. He likes to help prepare developers for SSW TV presentations and even gets in front of the camera sometimes. You can see his latest work here: [**SSW TV**](https://tv.ssw.com/tag/jernej-kavka) and [**Personal YouTube**](https://youtube.com/channel/UCige1JIdeIc3sYU2HSaismg) or at events like [**Global Azure Bootcamp**](https://global.azurebootcamp.net/), [**Global AI Bootcamp**](https://brisbanebootcamp.com), [**DDD**](https://dddbrisbane.com/) ([**Brisbane**](https://dddbrisbane.com/) , [**Melbourne**](https://www.dddmelbourne.com) , and [ **Sydney**](https://www.dddsydney.com.au) ), and [**NDC**](https://ndcsydney.com/). JK is equally likely to attend a conference/user group as he is to present at one. 🧐
+JK is a technology thought leader and frequent contributor to technical presentations. He likes to help prepare developers for SSW TV presentations and even gets in front of the camera sometimes. You can see his latest work here: [**SSW TV**](https://tv.ssw.com/tag/jernej-kavka) and [**Personal YouTube**](https://youtube.com/channel/UCige1JIdeIc3sYU2HSaismg) or at events like [**Global Azure Bootcamp**](https://global.azurebootcamp.net/), [**Global AI Bootcamp**](https://brisbanebootcamp.com), [**DDD**](https://dddbrisbane.com/) ([**Brisbane**](https://dddbrisbane.com/), [**Melbourne**](https://www.dddmelbourne.com), and [ **Sydney**](https://www.dddsydney.com.au) ), and [**NDC**](https://ndcsydney.com/). JK is equally likely to attend a conference/user group as he is to present at one. 🧐
 
 JK also actively supports the .NET Community as a [**.NET Foundation member**](https://dotnetfoundation.org/) (one of the first 200 members!), is a backer for several Open Source projects on [**Open Collective**](https://opencollective.com/jernej-kavka) and organizer of [**Brisbane AI User Group**](https://www.meetup.com/Brisbane-AI-User-Group/).
 
-You can follow him on [**Twitter,**](https://twitter.com/jernej_kavka), [**his personal blog**](https://jkdev.me/) or check out when is his next talk on [**Sessionize**](https://sessionize.com/jernej-kavka/).
+You can follow him on [**Twitter**](https://twitter.com/jernej_kavka), [**his personal blog**](https://jkdev.me/) or check out when is his next talk on [**Sessionize**](https://sessionize.com/jernej-kavka/).
 
-`youtube:  https://www.youtube.com/embed/35qt4DexxuE`
+`youtube: https://www.youtube.com/embed/35qt4DexxuE`
 
 Jernej's client projects include:
 
