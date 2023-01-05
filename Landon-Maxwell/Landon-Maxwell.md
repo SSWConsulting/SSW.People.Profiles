@@ -1,7 +1,7 @@
 ---
 id: "640c8725-2c60-eb11-a812-00224815156a"
 
-qualifications: "B.Film - Production, Certified Autopano Expert"
+qualifications: "B.Film - Production, Certified Autopano Expert, Certified ScrumMaster"
 
 quote: "You can't change what has already happened, but you can change how you deal with it."
 ---
@@ -18,6 +18,8 @@ quote: "You can't change what has already happened, but you can change how you d
 [[imgBadge]]
 | ![](../badges/Designer-camera.png)
 
+[[imgBadge]]
+| ![](../badges/Certification-scrumalliance-master.png)
 
 Landon is the Multimedia Specialist & Videographer for SSW and SSW TV.
 

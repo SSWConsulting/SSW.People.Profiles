@@ -23,7 +23,10 @@ quoteAuthor: "Socrates"
 | ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
 
 [[imgBadge]]
-| ![Microsoft Certified: Azure AI Fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
+| ![Microsoft Certified: Azure AI Fundamentals](../badges/Certification-microsoft-azure-ai-fundamentals.png)
+
+[[imgBadge]]
+| ![Microsoft Certified: Azure Cosmos DB Developer Specialty](../badges/Certification-microsoft-cosmos.png)
 
 [[imgBadge]]
 | ![Azure](../badges/Business-microsoft-azure.png)
@@ -58,13 +61,13 @@ quoteAuthor: "Socrates"
 
 ---
 
-Bryden is a **Solution Architect** with over 30 years professional experience. He has a wealth of knowledge from a diverse range of areas but with particular focus on database, web services, Microsoft Azure and SaaS based solutions. He's had dealings with customers ranging from the world's largest companies right through to small business. He has a strong understanding of how software will deliver business value to his customers.
+Bryden is a **Solution Architect** with over 30 years of professional experience, working with customers from small businesses to the world's largest companies. He has a wealth of knowledge from a diverse range of areas, particularly focused on databases, web services, Microsoft Azure, and SaaS solutions. Bryden has a strong understanding of how software will deliver business value.
 
-## Cloud Solutions
-Bryden loves working with the full range of Azure technologies to build customized, efficient and cost efficient solutions to your problems. He has exceptional experience gained working directly with Microsoft Development teams in Azure Functions, Cosmos DB and SQL Server solving enormously high scale, complex problems.
+### Cloud Solutions
+Bryden loves working with the multitude of Azure technologies to build customized, structured, and cost-efficient solutions. His exceptional experience has solved  enormously high-scale complex problems, while working directly with Microsoft Development teams in Azure Functions, Cosmos DB, and SQL Server.
 
-## Database and Application Performance 
-Years of experience building software to help customers understand the performance of their database and applications, gives Bryden a unique perspective on the difficulties of managing your data and how to ensure it grows painlessly as your organization grows.
+### Database and Application Performance 
+With years of experience building software, Bryden has been helping customers understand and improve the performance of their database and applications. Bryden's unique perspective on the difficulties of managing data allows their custom-built applications to grow painlessly as the organization evolves.
 
-## Building Skills
-Bryden enjoys helping others improve their skills and would relish the opportunity to help your staff grow while building solutions with them. He has worked on mentoring staff at varying points in their careers over many years.
+### Building Skills
+Bryden enjoys seeing people improve their skills, and would relish the opportunity to help others grow whilst building software solutions with them. He has been a mentor to staff at varying points in their careers over several years.

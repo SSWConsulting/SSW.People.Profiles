@@ -35,7 +35,7 @@ Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [S
 
 **China** - Adam has also run multiple consulting firms in China for the last 12 years. Adam has seen the whole Chinese software ecosystem develop and understands the differences that the Chinese market requires in order to be successful. Adam helps western companies modernize their software, so they are not only servicing the USA and European markets, but also grabbing a slice of the Chinese market of 1.4 billion consumers. 
 
-**Speaking** - In addition to being a Microsoft MVP in Azure DevOps, Adam is one of only 3 Microsoft Regional Directors in Australia. In this role, he regularly presents in conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favourite Microsoft teams that he loves to work with are Nat Friedman’s GitHub and Azure DevOps team, James Phillips’ Power BI team, and Jeff Teper’s SharePoint team.  
+**Speaking** - In addition to being a Microsoft MVP in Azure DevOps, Adam is one of only a few Microsoft Regional Directors in Australia. In this role, he regularly presents in conferences such as TechEd (USA, Australia, New Zealand, Europe and Malaysia). A couple of times a year, he visits Microsoft headquarters in Seattle to learn the latest on Microsoft strategic directions and to undertake training in development technologies. His favourite Microsoft teams that he loves to work with are Nat Friedman’s GitHub and Azure DevOps team, James Phillips’ Power BI team, and Jeff Teper’s SharePoint team.  
 
 [[imgMd]]
 | ![Adam has spoken at user groups/conferences in these countries](./Images/Bio/figureMap.jpg)
@@ -47,9 +47,9 @@ Some of Adam's career highlights have been:
 - Training thousands of developers around the world 
 - Growing the career of hundreds of SSW employees over 3 decades 
 - Seeing many of Adam Cogan’s former employees go on to do great things 
-  - Tatham Oddie – CEO of readily.net 
+  - Tatham Oddie – CEO of Telstra Purple - was readify.net 
   - Paul Stovell – CEO of octopus.com 
-  - Damian Brady – Mr. Devops at Microsoft Worldwide 
+  - Damian Brady – Mr. Devops at GitHub - was Microsoft Worldwide 
   - Adam Stephensen – Mr. Azure at Microsoft Australia 
 - Being the Product Owner of many SSW products, such as SugarLearning.com and SSWTimePro.com  
 - Being the Azure DevOps (was TFS) MVP of the year, proving his leadership in demonstrating the value of the ALM tools 

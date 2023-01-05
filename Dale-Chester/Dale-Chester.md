@@ -17,7 +17,7 @@ quoteAuthor: "C.S Lewis"
 | ![react.png](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![node js](../badges/Developer-node-js.png)
+| ![blazor-dev](../badges/Developer-blazor.png)
 
 [[imgBadge]]
 | ![c-sharp](../badges/Developer-c-sharp.png)

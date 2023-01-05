@@ -3,46 +3,66 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
+'Adriana-Tavares/**':
+  - AdriT9
+'Alex-Rothwell/**':
+  - AlexRothwell
 'Alvin-Shen/**':
   - AlvinShenSSW
+'Aman-Kumar/**':
+  - amankumarrr
 'Anastasia-Cogan/**':
   - anastasiacogan
-'Andreas-Lengkeek/**':
-  - AndreasLengkeek
 'Andrew-Forsyth/**':
   - apforsyth
-'Andrew-Waltos/**':
-  - andrewwaltosssw
+'Andrew-Harris/**':
+  - drwharris
 'Anky-Che/**':
   - AnkyChe
-'Anthony-Nguyen/**':
-  - nvhoanganh
+'Ash-Anil/**':
+  - AshAnil
+'Bahjat-Alaadel/**':
+  - bahjatalaadelssw
+'Ben-Neoh/**':
+  - Ben0189
+'Billy-Terblanche/**':
+  - billyterblanche
 'Brady-Stroud/**':
   - bradystroud
+'Brook-Jeynes/**':
+  - BrookJeynes
 'Bryden-Oliver/**':
   - brydeno
 'Calum-Simpson/**':
   - calumjs
+'Camilla-Rosa Silva/**':
+  - camillars
+'Charles-Vionnet/**':
+  - cvionnet
 'Chris-Clement/**':
   - christoment
+'Chris-Schultz/**':
+  - chrisschultzssw
 'Christian-Morford-Waite/**':
   - christianmorfordwaitessw
-'Dale-Chester/**':
-  - theixdev
-'Eden-Liang/**':
-  - EdenLiang
+'Daniel-Mackay/**':
+  - danielmackay
+'David-Abraham/**':
+  - DavidAbraham082
 'Eve-Cogan/**':
   - evecogan
-'Greg-Harris/**':
-  - gregharrisssw
-'Jack-Leerson/**':
-  - JackLeerson
+'Gert-Marx/**':
+  - Marxoz
+'Gordon-Beeming/**':
+  - gordonbeeming
+'Hugo-Pernet/**':
+  - Freego1783
+'Jack-Duan/**':
+  - duanxinhuan
 'Jack-Pettit/**':
   - JackDevAU
 'Jake-Bayliss/**':
   - jakebayliss
-'Jason-Taylor/**':
-  - jasontaylordev
 'Jayden-Alchin/**':
   - jaydenalchin
 'Jean-Thirion/**':
@@ -53,18 +73,32 @@
   - jerryluossw
 'Jim-Zheng/**':
   - jimmidier
+'Jimmy-Chen/**':
+  - JimmyChenSSW
+'John-Xu/**':
+  - johnxussw
+'Jonty-Gardner/**':
+  - jontygardner
+'Joseph-Fernandez/**':
+  - 2fernandez
 'Kaha-Mason/**':
   - KahaMason
+'Kaique-Biancatti/**':
+  - kikibianc
 'Ken-Shi/**':
   - hveraus
-'Kiki-Biancatti/**':
-  - kikibianc
 'Kosta-Madorsky/**':
   - KostaMadorsky
 'Kristen-Hu/**':
   - KristenHu
 'Landon-Maxwell/**':
   - landonmaxwell
+'Lee-Hawkins/**':
+  - leehawkinsssw
+'Luke-Cook/**':
+  - lukecookssw
+'Luke-Mao/**':
+  - AttackOnMorty
 'Luke-Parker/**':
   - Hona
 'Matt-Goldman/**':
@@ -73,22 +107,32 @@
   - wicksipedia
 'Mehmet-Ozdemir/**':
   - ozdemir-mehmet
-'Michael-Smedley/**':
-  - miichaelsmedley
-'Nick-Viet/**':
-  - nviet123
-'Olivia-Westmacott/**':
-  - oliviawestmacottssw
-'Patrick-Zhao/**':
-  - PatrickZhao1989
+'Nadee-Kodituwakku/**':
+  - NadeekaJK
+'Ozair-Ashfaque/**':
+  - ozairashfaqueSSW
 'Penny-Walker/**':
   - PennyWalker
 'Piers-Sinclair/**':
   - pierssinclairssw
 'Prem-Radhakrishnan/**':
   - premradhakrishnan
+'Ravi-Dhaduk/**':
+  - ravidhaduk
+'Sam-Smith/**':
+  - samsmithssw
+'Sam-Wagner/**':
+  - SamBWagner
 'Shane-Ye/**':
   - yesihao
+'Sofie-Hong/**':
+  - SofieHong
+'Stephan-Fako/**':
+  - stephanfakossw
+'Steven-Qiang/**':
+  - steven0x51
+'Sylvia-Huang/**':
+  - sylhuang
 'Tiago-Araujo/**':
   - tiagov8
 'Tom-Bui/**':
@@ -97,5 +141,13 @@
   - tkapa
 'Ulysses-Maclaren/**':
   - UlyssesMaclaren
+'Vlad-Kireyev/**':
+  - vladislav-kir
+'Warwick-Leahy/**':
+  - leahy268
+'William-Liebenberg/**':
+  - william-liebenberg
 'Yang-Shen/**':
   - Berber-Mama
+'Zach-Keeping/**':
+  - zacharykeeping
