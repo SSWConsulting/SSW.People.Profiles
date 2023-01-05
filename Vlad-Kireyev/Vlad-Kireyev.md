@@ -8,9 +8,6 @@ quote: "Logic will get you from A to B. Imagination will take you everywhere."
 quoteAuthor: "Albert Einstein"
 ---
 
-
-<br/>
-
 [[imgBadge]]
 | ![C Sharp image badge](../badges/Developer-c-sharp.png)
 
@@ -20,7 +17,7 @@ quoteAuthor: "Albert Einstein"
 [[imgBadge]]
 | ![react.png](../badges/Developer-react.png)
 
-<br/>
+---
 
 Vlad is a Full Stack Software Engineer working in the SSW Brisbane office. He has experience with variety of programming languages, but predominately works with C# with .Net and JavaScript with React.
 
