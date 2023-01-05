@@ -8,7 +8,6 @@ quote: "Logic will get you from A to B. Imagination will take you everywhere."
 quoteAuthor: "Albert Einstein"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 <br/>
 
