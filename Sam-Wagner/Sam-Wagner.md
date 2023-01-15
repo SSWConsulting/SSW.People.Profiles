@@ -40,7 +40,7 @@ quoteAuthor: "Sam Wagner"
 [[imgBadge]]
 | ![SQL Server](../badges/Developer-sql-server.png)
 
-Sam is a Software Engineer at SSW. Coming from a background in low-level programming, but he has cut his teeth on web development using ASP.NET core, EF Core and Angular. He's also got experience with the Power Platform using PowerApps, PowerAutomate and Microsoft's Dataverse to build CRMs.
+Sam comes from a background of low-level programming, but he has cut his teeth on web development using ASP.NET core, EF Core and Angular. He's also worked with the Microsoft Power Platform using PowerApps, PowerAutomate and the Dataverse to build Dynamics CRMs.
 
 ## .NET
 
