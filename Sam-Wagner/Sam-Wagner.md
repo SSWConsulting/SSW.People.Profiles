@@ -20,7 +20,7 @@ quoteAuthor: "Sam Wagner"
 | ![PowerApps](../badges/Business-microsoft-dynamics-powerapps.png)
 
 [[imgBadge]]
-| ![Scrum](../badges/Business-microsoft-dynamics-powerapps.png)
+| ![Scrum](../badges/Business-scrum.png)
 
 [[imgBadge]]
 | ![Angular](../badges/Developer-angular.png)
