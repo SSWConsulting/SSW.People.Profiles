@@ -24,7 +24,7 @@ quote: "Learning is a lifetime lesson - keep yourself open to learn something ne
 
 <br/>
 
-Chris is a **Senior Software Engineer** with years of experience in software and electronics engineering.
+Chris is a **Solution Architect** with years of experience in software and electronics engineering.
 
 His experiences and background in engineering give Chris an advantage in providing insights for his clients' business solution from both architectural and practical engineering approach viewpoints.
 
