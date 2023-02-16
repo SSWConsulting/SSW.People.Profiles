@@ -70,4 +70,4 @@ Bryden loves working with the multitude of Azure technologies to build customize
 With years of experience building software, Bryden has been helping customers understand and improve the performance of their database and applications. Bryden's unique perspective on the difficulties of managing data allows their custom-built applications to grow painlessly as the organization evolves.
 
 ### Building Skills
-Bryden enjoys seeing people improve their skills, and would relish the opportunity to help others grow whilst building software solutions with them. He has been a mentor to staff at varying points in their careers over several years.
+Bryden enjoys seeing people improve their skills, and would relish the opportunity to help others grow whilst building software solutions with them. He has been a mentor to staff at varying points in their careers over many years.
