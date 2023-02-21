@@ -20,4 +20,4 @@ Jonty is a talented and experienced professional with a background in digital me
 
 With a diverse portfolio of experience in industries such as weddings, film, education, and travel photography, Jonty brings a wealth of expertise to our team at SSW. He embraces a mindset of continuous growth and strives for excellence in all he does.
 
-When not in the office, Jonty actively cultivates his skills and well-being, dedicating time to honing his filmmaking craft, participating in athletic pursuits like half-marathons, and enriching his spiritual life.
+When not in the office, Jonty actively cultivates his skills and well-being, dedicating time to honing his filmmaking craft, participating in athletic pursuits like half-marathons, and spending quality time with friends and family. 
