@@ -9,6 +9,12 @@ quoteAuthor: "Albert Einstein"
 ---
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
+| ![Microsoft Certified: Azure Fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
+
+[[imgBadge]]
 | ![C Sharp image badge](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
