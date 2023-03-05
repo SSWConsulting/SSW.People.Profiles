@@ -23,6 +23,8 @@ quoteAuthor: "John Woods"
 [[imgBadge]]
 | ![Azure](../badges/Business-microsoft-azure.png)
 
+[[imgBadge]]
+| ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
 
 Luke is a Software Architect at SSW, specialising in .NET and Clean Architecture. He blogs at [lukeparker.dev](https://lukeparker.dev) about difficult or exciting topics for the modern Microsoft developer. He is also an organiser & presenter for the local [Brisbane Full Stack User Group](https://www.ssw.com.au/ssw/NETUG/Brisbane.aspx)
 
