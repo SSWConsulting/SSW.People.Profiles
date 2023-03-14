@@ -1,8 +1,6 @@
 ---
 id: "f9976e3b-15a1-ed11-aad1-00224818668d"
-
 qualifications: ""
-
 quote: "The pleasure in the job puts perfection in the work."
 quoteAuthor: "Aristote"
 ---
@@ -27,7 +25,7 @@ quoteAuthor: "Aristote"
 
 ---
 
-Gilles is a software developer for SSW EU.  
+Gilles is a Software Developer for SSW EU.  
   
 He started his career as a web developer before joining an engineering team working on a large application for an insurance company.   
 Patient and passionate, Gilles enjoys creating responsive applications with user-friendly and optimized UX as much as he enjoys architecting a back-office.
