@@ -7,9 +7,34 @@ quote: "Failure is an option here. If things are not failing, you are not innova
 quoteAuthor: "Elon Musk"
 
 ---
+[[imgBadge]]
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
-Aman is a Web Developer working at SSW Melbourne with experience building responsive and scalable web applications.
+[[imgBadge]]
+| ![angular-logo.png](../badges/Developer-angular.png)
 
-He holds a master's degree of Information Technology with a specialization in Cloud and Mobile computing from Swinburne University of Technology. He has 3 years of experience in web development using different plateforms such as React, Node, PHP, and .NET framework.
+[[imgBadge]]
+| ![Azure DevOps](../badges/Developer-ngrx.png)
 
-In his free time, he likes watching cricket and meeting friends.
+[[imgBadge]]
+| ![Azure DevOps](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Developer-react.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Developer-sql-server.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Designer-web-html5.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Designer-web-css3.png)
+
+---
+
+Aman Kumar is a seasoned Software Developer at SSW Melbourne. With over 3 years of experience in building responsive and scalable web applications, he's well-versed in using a variety of platforms such as Angular, AngularJs, React, Node, PHP, and .NET Framework.  
+
+Aman has a master's degree in Information Technology with a specialization in Cloud and Mobile computing from Swinburne University of Technology. 
+
+When he's not busy coding, Aman enjoys watching cricket and is a huge fan of AB de Villiers and Shane Warne. 
