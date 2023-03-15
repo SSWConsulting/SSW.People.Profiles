@@ -25,7 +25,5 @@ quoteAuthor: "Aristote"
 
 ---
 
-Gilles is a Software Developer for SSW EU.  
-  
 He started his career as a web developer before joining an engineering team working on a large application for an insurance company.   
 Patient and passionate, Gilles enjoys creating responsive applications with user-friendly and optimized UX as much as he enjoys architecting a back-office.
