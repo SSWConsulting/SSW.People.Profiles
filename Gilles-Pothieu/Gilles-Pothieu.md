@@ -2,7 +2,7 @@
 id: "f9976e3b-15a1-ed11-aad1-00224818668d"
 qualifications: ""
 quote: "The pleasure in the job puts perfection in the work."
-quoteAuthor: "Aristote"
+quoteAuthor: "Aristotle"
 ---
 
 [[imgBadge]]
