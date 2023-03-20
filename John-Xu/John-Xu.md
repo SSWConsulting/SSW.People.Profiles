@@ -22,10 +22,12 @@ John has worked in several IT companies around the world and has rich experience
 - NestJS
 - Spring
 - .NET
+- Clean Architecture
 
 ### Frontend
 - React
 - Vue
+- Angular
 - Next.js
 
 ### DevOps and IaC
