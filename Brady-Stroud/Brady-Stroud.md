@@ -12,10 +12,10 @@ quoteAuthor: "Doug Linder"
 | ![Azure](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
-| ![C#](../badges/Developer-c-sharp.png)
+| ![Blazor](../badges/Developer-blazor.png)
 
 [[imgBadge]]
-| ![Blazor](../badges/Developer-blazor.png)
+| ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
 | ![Dev Ops](../badges/Developer-devops.png)
@@ -26,9 +26,9 @@ quoteAuthor: "Doug Linder"
 [[imgBadge]]
 | ![Azure Functions](../badges/Developer-azure-function.png)
 
-Brady is a SSW Software Engineer with a diverse portfolio of clients from various industries, including finance, mining, and hospitality.   
-Based in the Brisbane office, he is skilled in .NET, Blazor, MAUI (Previously Xamarin), and React. He has a strong passion for open source and believes it to be valuable to clients for its flexibility, cost-efficiency, and access to a wide range of tools and technologies.
 
-He is dedicated to staying current with the latest technologies and trends in software development and is committed to delivering the best results for his clients. He also holds a certification as a Scrum Master, demonstrating his ability to lead and manage Agile development teams effectively.
+📍 Based in the Brisbane office, he is skilled in .NET, Blazor, MAUI (Previously Xamarin), and React. He has a strong passion for open source and believes it to be valuable to clients for its flexibility, cost-efficiency, and access to a wide range of tools and technologies.
 
-In his free time, he enjoys outdoor activities such as mountain biking, climbing, wakeboarding, and recently has been getting into surfing.
+💻 He is dedicated to staying current with the latest technologies and trends in software development and is committed to delivering the best results for his clients. He also holds a certification as a Scrum Master, demonstrating his ability to lead and manage Agile development teams effectively.
+
+🌊 In his free time, he enjoys outdoor activities such as 🚵‍♂️ mountain biking, 🧗‍♂️ climbing, 🏄‍♂️ surfing, and 🚤 wakeboarding.
