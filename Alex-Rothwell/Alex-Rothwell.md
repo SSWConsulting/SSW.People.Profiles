@@ -7,7 +7,20 @@ quote: "Any fool can write code that a computer can understand. Good programmers
 quoteAuthor: "Martin Fowler"
 ---
 
+[[imgBadge]]
+| ![](../badges/Developer-c-sharp.png)
 
-Alex is a keen **Software Engineer** with experience developing custom solutions in a wide variety of environments. Over the years, they have worked in operations research, qualitative data analysis and telecommunications, among many others. In recent years, he has been working heavily in .NET Core (and later .NET), finding ways to solve customer problems while ensuring the solution is simple and efficient.
+[[imgBadge]]
+| ![](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-blazor.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-linux.png)
+
+Alex is a keen **Software Engineer** with experience developing custom solutions in a wide variety of environments. Over the years, they have worked in operations research, qualitative data analysis and telecommunications, among many others.
+
+In recent years, he has been working heavily in .NET Core (and later .NET), finding ways to solve customer problems while ensuring the solution is simple and efficient. They strongly believe in the value that Scrum can bring to a team and has also worked in environments employing SAFe to leverage agile in larger enterprises.
 
 When not working, Alex likes to play games (both video and tabletop) with friends and build up their locksport skills.
