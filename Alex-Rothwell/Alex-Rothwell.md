@@ -26,4 +26,6 @@ Alex is a keen **Software Engineer** with experience developing custom solutions
 
 In recent years, he has been working heavily in .NET Core (and later .NET), finding ways to solve customer problems while ensuring the solution is simple and efficient. They strongly believe in the value that Scrum can bring to a team and has also worked in environments employing SAFe to leverage agile in larger enterprises.
 
+Alex has a proven history of working closely with clients, keeping them in the loop and providing support and advice through the entire lifetime of a project.
+
 When not working, Alex likes to play games (both video and tabletop) with friends and build up their locksport skills.
