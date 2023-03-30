@@ -11,6 +11,9 @@ quoteAuthor: "Martin Fowler"
 | ![](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
+| ![](../badges/Developer-c-plusplus.png)
+
+[[imgBadge]]
 | ![](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
