@@ -4,8 +4,8 @@ id: "b5d6c018-4c50-e911-820e-00155d012c5a"
 
 qualifications:  "MBA, B.Ec."
 
-quote:  "It is hard enough to remember my opinions, without also remembering my reasons for them!"
-quoteAuthor: "Friedrich Nietzsche"
+quote:  "Tell them what you tell them. Tell them. And then tell them what you've told them!"
+quoteAuthor: "Andrew Forsyth"
 ---
 
 Andrew has ten+ years experience creating video content for the web, mobile devices, sales engagements and events. Prior to that he held senior positions in sales & marketing roles with Microsoft and Canon in Australia, USA and Singapore.   
