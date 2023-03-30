@@ -13,3 +13,5 @@ quoteAuthor: "Randall Munroe"
 Chris Schultz is the Senior Systems Administrator at SSW. He's a creative problem solver with experience in a wide range of infrastructure related technologies.
 
 Chris gained most of his experience working in the Education sector, building and maintaining systems to support hundreds of staff and students. Now, he's utilising this experience and translating his skills into cloud technologies.
+
+[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisschultzssw&theme=dark)](https://github.com/chrisschultzssw/github-readme-stats)

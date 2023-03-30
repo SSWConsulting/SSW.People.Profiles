@@ -7,7 +7,13 @@ quote: "Success is the sum of small efforts repeated day in and day out."
 quoteAuthor: "Robert Collier"
 ---
 [[imgBadge]]
-| ![](../badges/Certification-scrumalliance-master.png)
+| ![](../badges/Certification-scrumalliance-master.png)  
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-fundamentals.png)
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-network-engineer.png)  
 
 Ash Anil is the Network Engineer at SSW. He's a passionate learner, gaining experience in Networking infrastructure and adminitration.
 

@@ -8,7 +8,13 @@ quoteAuthor: "Grace Hopper"
 ---
 
 [[imgBadge]]
+| ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![dotnet-core.png](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![blazor-logo.png](../badges/Developer-blazor.png)
 
 [[imgBadge]]
 | ![c-sharp.png](../badges/Developer-c-sharp.png)
