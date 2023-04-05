@@ -13,7 +13,7 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![Azure DevOps](../badges/Developer-ngrx.png)
+| ![](../badges/Developer-ngrx.png)
 
 [[imgBadge]]
 | ![](../badges/Designer-web-html5.png)
