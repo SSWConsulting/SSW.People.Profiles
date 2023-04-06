@@ -1,7 +1,7 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "f1df4603-64c4-ed11-83fd-00224818a84c"
 
-qualifications: ""
+qualifications: "Adobe After Effects | Adobe Premiere Pro | Motion Design | Videography | Adobe Photoshop | Directing Talent"
 
 quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
 quoteAuthor: "Anonymous"
