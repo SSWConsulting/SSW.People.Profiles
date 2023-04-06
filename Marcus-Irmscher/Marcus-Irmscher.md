@@ -3,11 +3,17 @@ id: "f1df4603-64c4-ed11-83fd-00224818a84c"
 
 qualifications: "Videography, Directing, Editing and Visual Effect"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "Be yourself; everyone else is already taken."
+quoteAuthor: "Oscar Wilde"
 ---
+[[imgBadge]]
+| ![](../badges/Designer-adobe-aftereffects.png)
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
+[[imgBadge]]
+| ![](../badges/Designer-adobe-premiere.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-camera.png)
 
 Marcus is a Motion graphics designer, Videographer and Producer in the SSW TV team.
 
