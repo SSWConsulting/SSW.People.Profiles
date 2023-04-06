@@ -1,7 +1,7 @@
 ---
 id: "f1df4603-64c4-ed11-83fd-00224818a84c"
 
-qualifications: "Adobe After Effects | Adobe Premiere Pro | Motion Design | Videography | Adobe Photoshop | Directing Talent"
+qualifications: "Videography, Directing, Editing and Visual Effect"
 
 quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
 quoteAuthor: "Anonymous"
