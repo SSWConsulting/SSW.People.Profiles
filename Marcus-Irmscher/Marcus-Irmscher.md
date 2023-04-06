@@ -9,10 +9,14 @@ quoteAuthor: "Anonymous"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
+Marcus is a Motion graphics designer, Videographer and Producer in the SSW TV team.
 
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
+He has 15 years of experience in Television working in News and Sport, producing content over a wide array of platforms.
+Marcus has vast experience in videography, editing, infographics, promo producing and the creation of motion graphics for television and other electronic media. Adept in communicating and collaborating with directors, project managers, and other creative professionals to ensure the successful completion of a job.
+
+With a can do attitude his focus is on visual story telling, Team collaboration and high quality media production.
+
+
 
 ## Headings
 
