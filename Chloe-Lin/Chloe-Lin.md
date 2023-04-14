@@ -8,7 +8,7 @@ quoteAuthor: "Phil Knight"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Chloe is a software developer working at the SSW Hangzhou office. Her passion lies in front-end development, and she has honed her skills in React and Vue to become an expert in the field. Over the course of her career, she has worked on numerous projects, ranging from responsive website design to developing ERP systems for single-page applications.
+Chloe is a highly skilled Software Developer based in the SSW Hangzhou office. With her expertise in React and Vue, she has successfully delivered projects ranging from responsive website designs to complex ERP systems for single-page applications.
 
-Her enthusiasm for front-end technology drives her to create exceptional user experiences that consistently surpass client expectations. Thanks to her attention to detail and dedication to excellence, Chloe consistently delivers high-quality results that make a lasting impact.
+Chloe's passion for front-end technology is evident in her commitment to creating outstanding UX. Her attention to detail and dedication to excellence have earned her a reputation for consistently delivering high-quality results that leave a lasting impact. With Chloe is a driven developer who will go above and beyond to exceed your expectations.
 
