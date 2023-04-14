@@ -26,12 +26,16 @@ quoteAuthor: "John Woods"
 [[imgBadge]]
 | ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
 
-Luke is a Software Architect at SSW, specialising in .NET and Clean Architecture. He blogs at [lukeparker.dev](https://lukeparker.dev) about difficult or exciting topics for the modern Microsoft developer. He is also an organiser & presenter for the local [Brisbane Full Stack User Group](https://www.ssw.com.au/ssw/NETUG/Brisbane.aspx)
+🌐💻 Luke is a Software Engineer at SSW, an expert in .NET and Clean Architecture. With a passion for sharing knowledge, he educates the developer community with thought-provoking blogs at lukeparker.dev, covering hot topics for the modern Microsoft developer 🔥.
 
-Luke is passionate about the future of cross platform web, desktop & mobile development with .NET through Blazor, and .NET MAUI Hybrid.
+🌟 As a local Brisbane Full Stack User Group organizer and presenter, he's all about creating thriving tech communities 🤝.
 
-He utilises his experience with Agile methodologies to help teams deliver high quality software, and is a Certified Scrum Master. By using the Scrum framework, Luke helps teams to deliver value to their customers, and to continuously improve their processes.
+📱🖥️ Luke is super excited about the future of cross-platform web, desktop, and mobile development using .NET through Blazor and .NET MAUI Hybrid.
 
-Using a no nonsense approach, Luke is able to quickly identify and resolve issues, and is a great communicator with a strong focus on value for the business. He is a strong advocate for the use of Clean Architecture, and is a regular speaker at conferences and user groups.
+🏃‍♂️📈 With vast experience in Agile methodologies, Luke helps teams deliver high-quality software as a Certified Scrum Master. He utilizes the Scrum framework to boost team efficiency, ensuring they deliver value to customers and continuously improve their processes 🌱.
 
-Luke is a regular contributor to Open Source projects pushing the boundaries of what is possible with .NET.
+💼🗣️ Adept at cutting through the noise, Luke quickly identifies and resolves issues using his no-nonsense approach. He's a fantastic communicator with a keen eye for business value. He's a natural leader, always looking for ways to improve the team's processes and culture.
+
+🔧💡 Luke loves contributing to Open Source projects, always pushing the boundaries of what's possible with .NET 🌟.
+
+Hire Luke to bring innovation and expertise to your team today! 🌟🚀
