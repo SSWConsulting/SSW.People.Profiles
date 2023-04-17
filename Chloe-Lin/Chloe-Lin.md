@@ -6,7 +6,6 @@ quote: "There were many ways down Mount Fuji, according to my guidebook, but onl
 quoteAuthor: "Phil Knight"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 Chloe is a highly skilled Software Developer based in the SSW Hangzhou office. With her expertise in React and Vue, she has successfully delivered projects ranging from responsive website designs to complex ERP systems for single-page applications.
 
