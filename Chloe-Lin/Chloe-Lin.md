@@ -1,11 +1,10 @@
 ---
-id: "6ed524e2-8933-eb11-a813-000d3a79983b&viewType=1039"
-
+id: "6ed524e2-8933-eb11-a813-000d3a79983b"
 
 quote: "There were many ways down Mount Fuji, according to my guidebook, but only one way up. Life lesson in that, I thought."
 quoteAuthor: "Phil Knight"
----
 
+---
 
 Chloe is a highly skilled Software Developer based in the SSW Hangzhou office. With her expertise in React and Vue, she has successfully delivered projects ranging from responsive website designs to complex ERP systems for single-page applications.
 
