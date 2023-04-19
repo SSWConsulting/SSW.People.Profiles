@@ -1,6 +1,7 @@
 ---
-id: "6ed524e2-8933-eb11-a813-000d3a79983b&viewType=1039"
+id: "a14b4448-e9c9-ed11-b596-00224818a84c"
 
+qualifications: ""
 
 quote: "There were many ways down Mount Fuji, according to my guidebook, but only one way up. Life lesson in that, I thought."
 quoteAuthor: "Phil Knight"
