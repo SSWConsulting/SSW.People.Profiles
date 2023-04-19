@@ -3,8 +3,8 @@ id: "b18cf8e4-aed1-ed11-a7c7-00224818668d"
 
 qualifications: ""
 
-quote: "Ich bin ein Soldat und kämpf mein' eigenen Krieg."
-quoteAuthor: "Tomek I."
+quote: "A jack of all trades is a master of none, but oftentimes better than a master of one."
+quoteAuthor: "William Shakespeare"
 ---
 
 Thomas Iwainski is a senior software developer currently working at SSW. With years of experience in the software development industry, Thomas has a strong background in various tools and technologies. 
