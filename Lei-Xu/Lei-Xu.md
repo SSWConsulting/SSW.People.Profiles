@@ -1,10 +1,10 @@
 ---
 id: "d671bbf4-f459-dd11-b3a3-00155d012206"
 role: "Managers"
-jobTitle:  "Solution Architect and General Manager (Beijing )"
-qualifications:  "B.Eng - Industrial Engineering & Computer Science, M.Info - Information Science "
+jobTitle:  "Solution Architect and General Manager"
+qualifications:  "B.Eng - Industrial Engineering & Computer Science, M.Info - Information Science"
+quote: "I don't want to get to the end of my life and find that I have just lived the length of it. I want to have lived the width of it as well."
 
-quote:  "I believe in understanding people and technology. This combination has allowed me to build a great team that has built many great solutions... "
 ---
 
  
@@ -47,16 +47,12 @@ Some of his major internal work includes:
 *   SSW Link Auditor: SSW's award winning SEO and website maintenance tool to help web masters to find out bad links on their website, and also help them to improve their Google ranking. Lei has been one of the major developers behind this tool and he was the one who started running this tool on SSW's own 12,000 pages. 
 *   SSW Agile Template: SSW's customization of MSF Agile Process Template, which eventually helped SSW to move the project management process on top of VSTS.    
 
- **Passion**  
- Lei is also a TechEd speaker and a frequent speaker at Microsoft (Beijing) .NET User Group, he is working closely with the management team of the .NET User Group to deliver many award winning courses covering cutting edge technologies, such as .NET Framework 3.0/3.5 (WCF/WF/WPF), Silverlight, SQL Server 2005/2008, SQL Reporting Services, IE 8.0, Windows Vista and Windows Server 2008.
+**Passion**  
+Lei is also a TechEd speaker and a frequent speaker at Microsoft (Beijing) .NET User Group, he is working closely with the management team of the .NET User Group to deliver many award winning courses covering cutting edge technologies, such as .NET Framework 3.0/3.5 (WCF/WF/WPF), Silverlight, SQL Server 2005/2008, SQL Reporting Services, IE 8.0, Windows Vista and Windows Server 2008.
 
- **Future Goals**  
+**Future Goals**  
 Right now, Lei's goals are:
 
 *   Improving the project management processes by utilizing Visual Studio Team System and Team Foundation Server even more. 
-*   Delivering more business solutions while using SSW 
-      [Agile Development Processes (aka SSW Extreme Programming Method (XPDM) )](/Standards/Management/RulesToBetterProjectManagement/Pages/Default.aspx) 
+*   Delivering more business solutions while using [SSW Agile Development Processes](https://ssw.com.au/rules/rules-to-successful-projects) 
 
-*   **Favourite Quote** 
-
-His favourite quote is "I don't want to get to the end of my life and find that I have just lived the length of it. I want to have lived the width of it as well."
