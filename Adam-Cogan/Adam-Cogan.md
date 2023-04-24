@@ -91,7 +91,7 @@ In addition, Adam is a regular speaker at the SSW User Group and other conferenc
 
 Adam does many videos for tv.ssw.com.au and has recorded many interviews with technology experts around the world – his most popular videos are: 
 
-- [Azure Superpowers](https://www.youtube.com/watchv=5qFgqTLLRjo&list=PLpiOR7CBNvlp0L_t5Mq7kqeSgvlpl4mQh)
+- [Azure Superpowers](https://www.youtube.com/playlist?list=PLpiOR7CBNvlp0L_t5Mq7kqeSgvlpl4mQh)
 - [9 Knights of Azure](https://youtu.be/-Ac7z3YEkNI)
 - [Chinafy your apps + Lessons you can steal from China](https://youtu.be/NtuFfWVJF_w)
 - [What's New in Visual Studio9](https://youtu.be/4F0B1GdqK5c)
@@ -101,4 +101,4 @@ Adam does many videos for tv.ssw.com.au and has recorded many interviews with te
 [[imgMd]]
 | ![Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!](./Images/Bio/figureIce.jpg)
 
-More at [www.adamcogan.com](https://adamcogan.com/)
+More at [adamcogan.com](https://adamcogan.com)

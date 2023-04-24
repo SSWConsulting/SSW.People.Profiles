@@ -17,7 +17,7 @@ quoteAuthor: "Sam Wagner"
 | ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
-| ![PowerApps](../badges/Business-microsoft-dynamics-powerapps.png)
+| ![Blazor](../badges/Developer-blazor.png)
 
 [[imgBadge]]
 | ![Scrum](../badges/Business-scrum.png)
@@ -44,10 +44,14 @@ Sam comes from a background of low-level programming, but he has cut his teeth o
 
 ## .NET
 
-Sam's loves building WebAPIs with ASP.NET Core, working to build the fastest, safest and most reliable backends he can.
+Sam's loves building WebAPIs with ASP.NET Core, working to build fast, safe and reliable backends that last.
 
 ## Angular
 
 Front-end web development is a subtle love of Sam's. A sneaky designer at heart 🦝, he loves all the trials and tribulations that come with building a beautiful front-end.
 
 Bugs be gone! 🐛🔫
+
+## Blazor
+
+A talented .NET developer, Sam specializes in creating cutting-edge Blazor applications that transform businesses and captivate users while leveraging the safety and reliability of Microsoft's .NET.
