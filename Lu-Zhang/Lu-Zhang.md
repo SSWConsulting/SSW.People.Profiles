@@ -15,15 +15,15 @@ Lu is a senior software developer at SSW, working in both the Beijing and Sydney
 
 - SSW LinkAuditor  
    Used for checking broken links and invalid html pages in a website.   
-   It has  a Windows ([http://www.ssw.com.au/ssw/LinkAuditor/](http://www.ssw.com.au/ssw/LinkAuditor/)) and a Web version ([https://sswlinkauditor.com](https://sswlinkauditor.com/)).  
+   It has a Windows ([http://www.ssw.com.au/ssw/LinkAuditor/](http://www.ssw.com.au/ssw/LinkAuditor/)) and a Web version ([https://sswlinkauditor.com](https://sswlinkauditor.com/)).  
    Developed with Azure Web Job, AngularJS and Asp.Net MVC.
 
 - SSW CRM Plugin  
    Used to sync SSW website and CRM client information to SSW TimePRO.
-  Developed with Web API and CRM plugin customization.
+   Developed with Web API and CRM plugin customization.
 
 - SSW Reports  
    SSW internal reports for finical and marketing purposes.
-  Developed with Reporting Service.
+   Developed with Reporting Service.
   
-  [![Lu's github stats](https://github-readme-stats.vercel.app/api?username=zl24622&theme=dark)](https://github.com/zl24622/github-readme-stats)
+  [![Lu's github stats](https://github-readme-stats.vercel.app/api?username=zl24622&theme=dark)](https://github.com/zl24622/)
