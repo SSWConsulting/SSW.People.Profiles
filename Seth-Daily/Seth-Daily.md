@@ -9,7 +9,7 @@ quoteAuthor: "Mark Twain"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Seth is an SSW Marketing Assistant and Account Manager. He has a particular interest in ChatGPT and other Artificial Intelligence tools, and their applications for enhacing productivity and streamlining workflows.
+Seth is an SSW Marketing Assistant and Account Manager. He has a particular interest in ChatGPT and other artificial intelligence tools, and their applications for content creation and  enhancing productivity in the workplace.
 
 
 
