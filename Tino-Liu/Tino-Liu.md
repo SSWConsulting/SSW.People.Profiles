@@ -7,9 +7,8 @@ quote: "To learn is to die voluntarily and be born again, in great ways and smal
 quoteAuthor: "Jordan B. Peterson"
 ---
 
+Tino is a multifaceted Software Engineer boasting over three years of experience in web application development.
 
-Tino is a multitalented Software Engineer with more than 3 years of experience in web application development.
+Holding a degree from a prestigious US institution and having extensive experience in the finance industry, Tino has successfully spearheaded projects encompassing severance tax services, asset stress tests, wealth projections, and risk analyses. Proficient in cutting-edge technologies such as React, Next.js, Angular, and Highcharts, Tino consistently delivers robust and innovative applications.
 
-As a professional developer with a degree from the US and extensive experience in the finance industry, Tino have successfully completed projects ranging from severance tax services to asset stress tests, wealth projections, and risk analyses. Utilizing technologies such as React, Next.js, Angular, and Highcharts, he is able to deliver reliable and innovative applications.
-
-Tino's passion not only lies in technology but in people as well. He embraces cultural diversity and is a true team player with exceptional adaptability and accuracy.
+In addition to his technological prowess, Tino possesses a genuine passion for people. He enthusiastically embraces cultural diversity and serves as a true team player, demonstrating exceptional adaptability and precision in his work.
