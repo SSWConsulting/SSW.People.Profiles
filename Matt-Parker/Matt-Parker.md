@@ -1,12 +1,15 @@
 ---
 id: "6f97843a-aee0-ed11-a7c6-00224818ac60"
 qualifications: ""
-quote: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"
-quoteAuthor: "John Woods"
+quote: "You should name a variable using the same care with which you name a first-born child."
+quoteAuthor: "Robert C. Martin"
 ---
 
 [[imgBadge]]
 | ![C#](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
 | ![Blazor](../badges/Developer-blazor.png)
@@ -17,16 +20,15 @@ quoteAuthor: "John Woods"
 [[imgBadge]]
 | ![Azure](../badges/Business-microsoft-azure.png)
 
-🌐💻 Matt is a Software Engineer at SSW, well versed in .NET and Clean Architecture. With a passion for sharing knowledge, he educates the developer community with thought-provoking blogs at lukeparker.dev, covering hot topics for the modern Microsoft developer 🔥.
+[[imgBadge]]
+| ![React](../badges/Developer-react.png)
 
-🌟 As a local Brisbane Full Stack User Group organizer and presenter, he's all about creating thriving tech communities 🤝.
+🌐💻 Matt is a Software Engineer at SSW, well versed in .NET and Clean Architecture. He has a passion for developing efficient systems in all aspects of a software lifecycle, including maintainability, cost and testing.
 
-📱🖥️ Luke is super excited about the future of cross-platform web, desktop, and mobile development using .NET through Blazor and .NET MAUI Hybrid.
+🌟 Look out for Matt at upcoming Brisbane User Group Presentations 🤝.
 
-🏃‍♂️📈 With vast experience in Agile methodologies, Luke helps teams deliver high-quality software as a Certified Scrum Master. He utilizes the Scrum framework to boost team efficiency, ensuring they deliver value to customers and continuously improve their processes 🌱.
+📱🖥️ Matt keeps up to date with emerging new technologies such as the upcoming Blazor Hybrid and loves Blazor for frontend web development. 
 
-💼🗣️ Adept at cutting through the noise, Luke quickly identifies and resolves issues using his no-nonsense approach. He's a fantastic communicator with a keen eye for business value. He's a natural leader, always looking for ways to improve the team's processes and culture.
+An excellent communicator, Matt considers all viewpoints when solving an problem or reaching an ideal solution.
 
-🔧💡 Luke loves contributing to Open Source projects, always pushing the boundaries of what's possible with .NET 🌟.
-
-Hire Luke to bring innovation and expertise to your team today! 🌟🚀
+Hire Matt to bring efficiency and innovation and to your team today! 🌟🚀
