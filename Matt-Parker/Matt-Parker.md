@@ -23,12 +23,10 @@ quoteAuthor: "Robert C. Martin"
 [[imgBadge]]
 | ![React](../badges/Developer-react.png)
 
-🌐💻 Matt is a Software Engineer at SSW, well versed in .NET and Clean Architecture. He has a passion for developing efficient systems in all aspects of a software lifecycle, including maintainability, cost and testing.
+Matt is a skilled Software Engineer at SSW with expertise in .NET and Clean Architecture. 
 
-🌟 Look out for Matt at upcoming Brisbane User Group Presentations 🤝.
+He's passionate about creating efficient systems throughout the software lifecycle, with a focus on maintainability, cost, and testing. Matt stays on top of emerging technologies like Blazor United, which he loves for front-end web development.
 
-📱🖥️ Matt keeps up to date with emerging new technologies such as the upcoming Blazor Hybrid and loves Blazor for frontend web development. 
+As an excellent communicator, Matt values diverse perspectives in problem-solving and finding the best solutions. Also, keep an eye out for Matt at upcoming Brisbane User Group Presentations!
 
-An excellent communicator, Matt considers all viewpoints when solving an problem or reaching an ideal solution.
-
-Hire Matt to bring efficiency and innovation and to your team today! 🌟🚀
+Hire Matt to bring efficiency and innovation to your team! 🌟🚀
