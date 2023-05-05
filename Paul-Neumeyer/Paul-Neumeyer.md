@@ -60,7 +60,7 @@ Paul's client projects have included:
 
     Related Technology: SharePoint 2010, SQL Server 2008 R2, ASP.NET 4.0 
 
-*   **[McDonalds Asia Pacific](http://www.ssw.com.au/ssw/Company/OurClients.aspx#McDonaldsAsiaPacific)**   
+*   **McDonalds Asia Pacific**   
 
     A part of the McDonalds enterprise that provides meat inventory and logistics to the Asia Pacific region.  
 
