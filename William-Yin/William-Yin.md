@@ -44,7 +44,7 @@ William is a software developer at SSW. He specializes in developing solutions w
 - **Rydges Hotel** - Flexible booking system - Developed a complex backend and simple to use frontend that included a fast calendar date picker and brought much flexibility for users to book their favourite room type.  
   Related Technology: ASP.NET, MVC,  C#, CSS, JQuery and Web Services.
 
-- **[Carnival Australia](https://www.pocruises.com.au)** - Developed a public company portal which integrated with a backend cruise booking system. Upgraded SharePoint sites from 2007 to 2013 including both content and customized features. Developed an extranet for their agents and also developed an internal KB system, all powered by SharePoint.  
+- **Carnival Australia** - Developed a public company portal which integrated with a backend cruise booking system. Upgraded SharePoint sites from 2007 to 2013 including both content and customized features. Developed an extranet for their agents and also developed an internal KB system, all powered by SharePoint.  
   Related Technology: SharePoint, ASP.NET,  C#, CSS, JQuery, AngularJS, SQL Reporting Services and Web Services.
 
 - **[WorleyParsons](https://www.worley.com)** - An internal SharePoint collaboration and knowledge management system used by a global user base.  
