@@ -37,8 +37,8 @@ Some of his big projects are :
 *   Conquest - Silverlight web project with SQL Server 2008 database development 
 James also works on some of SSW products as product manager or developer:
 
-*   [SSW Exchange Reporter](http://www.ssw.com.au/ssw/ExchangeReporter) 
-*   [SSW Link Auditor](http://www.ssw.com.au/ssw/LinkAuditor) 
+*   SSW Exchange Reporter
+*   [SSW Link Auditor](https://www.ssw.com.au/ssw/LinkAuditor) 
 
 **User Group Presentations**
 
