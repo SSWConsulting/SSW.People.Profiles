@@ -1,7 +1,7 @@
 ---
 id: "08f3227b-9ae5-ed11-8847-00224818668d"
 
-qualifications: ""
+qualifications: "Bachelor of Engineering (Computer Systems) & Bachelor of IT (Applied Computer Science), Master of Computer Science"
 
 quote: "You must learn from the mistakes of others. You will never live long enough to make them all yourself."
 quoteAuthor: "Admiral Hyman Rickover, USN"
