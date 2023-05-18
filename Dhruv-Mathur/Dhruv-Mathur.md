@@ -9,8 +9,7 @@ quoteAuthor: "Jim Rohn"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Dhruv Mathur is a skilled software developer at SSW, specializing in creating exceptional software solutions and applications using cutting-edge technologies and frameworks such as .NET Core, ReactJS, Angular, NextJS, Docker container apps, and microservices. 
-At SSW, Dhruv thrives in an environment that fosters continuous learning. Beyond technical expertise, he values the opportunity to enhance his professional communication skills and engaging with clients and users. 
-&nbsp
-Dhruv understands that effective collaboration and understanding the needs of clients and end-users are pivotal to delivering successful software solutions.
-Driven by his dedication to excellence, Dhruv is committed to honing his skills and staying up-to-date with the latest advancements in the industry. With a solid foundation in both frontend and backend development, he brings a comprehensive understanding of the entire software development lifecycle to every project he undertakes.
+Dhruv Mathur is a skilled software developer at SSW, specializing in creating outstanding software solutions using modern technologies such as .NET Core, ReactJS, Angular, NextJS, Docker containers, and microservices. He enjoys working in a learning-focused environment at SSW, where he has the opportunity to enhance both his technical expertise and professional communication skills.
+  
+Dhruv recognizes the importance of collaboration and understanding client and user needs in delivering successful software solutions. He is dedicated to continuous improvement, staying up-to-date with the latest industry advancements, and bringing a comprehensive understanding of the entire software development lifecycle to every project.
+With expertise in both frontend and backend development, Dhruv's goal is to deliver high-quality software solutions that meet and exceed client expectations.
