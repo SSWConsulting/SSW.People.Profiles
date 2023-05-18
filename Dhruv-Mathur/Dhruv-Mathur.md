@@ -1,10 +1,10 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "5d215c62-f4dc-ed11-a7c7-00224818ac60"
 
-qualifications: ""
+qualifications: "B Tech. Electronics and Masters of IT Monash University (Ongoing)"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "Your level of intelligence is the average of the prople around you. Choose wisely."
+quoteAuthor: "Dhruv Mathur (Drew)"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
