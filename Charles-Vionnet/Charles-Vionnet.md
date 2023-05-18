@@ -7,6 +7,11 @@ quote: "Anyone who stops learning is old, whether at twenty or eighty. Anyone wh
 quoteAuthor: "Henry Ford"
 ---
 
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-fundamentals.png)
+
+---
+
 Charles is an SSW Software Developer based in our Sydney office.
 
 With over 20 years of experience, Charles' journey started in France where he became a seasoned software developer and manager across various industries such as accounting, finance, and construction. 
