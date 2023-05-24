@@ -11,10 +11,13 @@ quoteAuthor: "Elon Musk"
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
+| ![C-Sharp.png](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
 | ![angular-logo.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![Azure DevOps](../badges/Developer-ngrx.png)
+| ![Azure DevOps](../badges/Developer-node-js.png)
 
 [[imgBadge]]
 | ![Azure DevOps](../badges/Developer-github.png)
