@@ -37,3 +37,6 @@ I also have a beer brewing channel on youtube: [Mash Hacks](https://www.youtube.
 
 Specialties: Web Development, Cloud Applications, Payments, Startups 
 
+Videos:
+<iframe width="710" height="400" src="https://www.youtube.com/embed/bIGiUSMBwoo" frameborder="0"></iframe>
+
