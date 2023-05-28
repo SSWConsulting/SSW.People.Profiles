@@ -17,6 +17,13 @@ quoteAuthor: "Marcus Aurelius"
 [[imgBadge]]
 | ![C#](../badges/Developer-c-sharp.png)
 
-Brook Jeynes is a Software Developer currently working in the Brisbane SSW office. At SSW, he predominantly works in Javascript/Typescript, React, C#. In his spare time, Brook builds programs in Typescript, Rust, and Zig.
+[[imgBadge]]
+| ![Rust](../badges/Developer-rust.png)
 
-Brook is always trying to learn new things, whether that be about music, technology or general information in relation to science and engineering. In his spare time he enjoys playing games with his friend, hiking, or playing guitar.
+Brook Jeynes is a Software Developer currently working in the Brisbane SSW office. 
+At SSW, he predominantly works in Javascript/Typescript, React, and C#. In his spare 
+time, Brook builds programs using Typescript, Rust, and Zig.
+
+Brook is always trying to learn new things, whether that be about music, technology 
+or general information in relation to science and engineering. In his spare time 
+he enjoys playing games with friend, hiking, or playing guitar.
