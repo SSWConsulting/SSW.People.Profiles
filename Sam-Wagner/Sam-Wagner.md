@@ -55,3 +55,7 @@ Bugs be gone! 🐛🔫
 ## Blazor
 
 A talented .NET developer, Sam specializes in creating cutting-edge Blazor applications that transform businesses and captivate users while leveraging the safety and reliability of Microsoft's .NET.
+
+## Flutter
+
+Building mobile apps is a great way to flex all of the front-end, back-end, and low level coding skills in a platform that's robust, fun to work with and build upon. Flutter's Great! 🦋
