@@ -20,6 +20,9 @@ quoteAuthor: "Sam Wagner"
 | ![Blazor](../badges/Developer-blazor.png)
 
 [[imgBadge]]
+| ![Blazor](../badges/Developer-flutter.png)
+
+[[imgBadge]]
 | ![Scrum](../badges/Business-scrum.png)
 
 [[imgBadge]]
