@@ -51,6 +51,12 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![dotnet_foundation_logo.png](../badges/Developer-dotnet-foundation.png)
 
+[[imgBadge]]
+| ![OpenAI.png](../badges/Developer-OpenAI.png)
+
+[[imgBadge]]
+| ![OpenAI-ChatGPT.png](../badges/Developer-OpenAI-ChatGPT.png)
+
 ---
 
 <br/>
