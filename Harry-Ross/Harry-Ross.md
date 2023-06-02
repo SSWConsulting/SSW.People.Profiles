@@ -11,6 +11,9 @@ quoteAuthor: "Steve Jobs"
 | ![](../badges/Certification-microsoft-azure-ai-fundamentals.png)
 
 [[imgBadge]]
+| ![](../badges/Developer-OpenAI.png)
+
+[[imgBadge]]
 | ![](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
