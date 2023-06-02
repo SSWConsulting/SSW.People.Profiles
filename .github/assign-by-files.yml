@@ -3,8 +3,6 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
-'Adriana-Tavares/**':
-  - AdriT9
 'Alex-Rothwell/**':
   - AlexRothwell
 'Alvin-Shen/**':
@@ -19,14 +17,16 @@
   - drwharris
 'Anky-Che/**':
   - AnkyChe
+'Anton-Polkanov/**':
+  - AntPolkanov
+'Anton-Vojkovic/**':
+  - antonvojkovicssw
 'Ash-Anil/**':
   - AshAnil
 'Bahjat-Alaadel/**':
   - bahjatalaadelssw
 'Ben-Neoh/**':
   - Ben0189
-'Billy-Terblanche/**':
-  - billyterblanche
 'Brady-Stroud/**':
   - bradystroud
 'Brook-Jeynes/**':
@@ -39,6 +39,8 @@
   - camillars
 'Charles-Vionnet/**':
   - cvionnet
+'Chloe-Lin/**':
+  - Aibono1225
 'Chris-Clement/**':
   - christoment
 'Chris-Schultz/**':
@@ -49,10 +51,16 @@
   - danielmackay
 'David-Abraham/**':
   - DavidAbraham082
+'Dhruv-Mathur/**':
+  - Dhruv-0987
 'Eve-Cogan/**':
   - evecogan
+'Geordie-Robinson/**':
+  - Geordie88
 'Gert-Marx/**':
   - Marxoz
+'Gilles-Pothieu/**':
+  - PothieuG
 'Gordon-Beeming/**':
   - gordonbeeming
 'Harry-Ross/**':
@@ -63,12 +71,18 @@
   - duanxinhuan
 'Jack-Pettit/**':
   - JackDevAU
+'Jack-Reimers/**':
+  - jackreimers
 'Jake-Bayliss/**':
   - jakebayliss
+'Jane-Yang/**':
+  - JaneYangssw
 'Jayden-Alchin/**':
   - jaydenalchin
 'Jean-Thirion/**':
   - JeanThirion
+'Jeoffrey-Fischer/**':
+  - jeoffreyfischer
 'Jernej-Kavka/**':
   - jernejk
 'Jerry-Luo/**':
@@ -78,7 +92,7 @@
 'Jimmy-Chen/**':
   - JimmyChenSSW
 'John-Xu/**':
-  - johnxussw
+  - johnxu77
 'Jonty-Gardner/**':
   - jontygardner
 'Joseph-Fernandez/**':
@@ -97,6 +111,12 @@
   - landonmaxwell
 'Lee-Hawkins/**':
   - leehawkinsssw
+'Levi-Jackson/**':
+  - Levijj22
+'Lu-Zhang/**':
+  - zl24622
+'Lucia-Sirtori/**':
+  - LuciaSirtori
 'Luke-Cook/**':
   - lukecookssw
 'Luke-Mao/**':
@@ -105,28 +125,30 @@
   - Hona
 'Matt-Goldman/**':
   - matt-goldman
+'Matt-Parker/**':
+  - MattParkerDev
 'Matt-Wicks/**':
   - wicksipedia
 'Mehmet-Ozdemir/**':
   - ozdemir-mehmet
 'Nadee-Kodituwakku/**':
   - NadeekaJK
+'Nick-Curran/**':
+  - ncn-ssw
 'Ozair-Ashfaque/**':
   - ozairashfaqueSSW
 'Penny-Walker/**':
   - PennyWalker
 'Piers-Sinclair/**':
   - pierssinclairssw
-'Prem-Radhakrishnan/**':
-  - premradhakrishnan
 'Ravi-Dhaduk/**':
   - ravidhaduk
 'Sam-Smith/**':
   - samsmithssw
 'Sam-Wagner/**':
   - SamBWagner
-'Shane-Ye/**':
-  - yesihao
+'Seth-Daily/**':
+  - sethdailyssw
 'Sofie-Hong/**':
   - SofieHong
 'Stephan-Fako/**':
@@ -137,8 +159,14 @@
   - sylhuang
 'Tiago-Araujo/**':
   - tiagov8
+'Tino-Liu/**':
+  - SpookyBoogy2016
+'Toby-Churches/**':
+  - TobyChurches
 'Tom-Bui/**':
   - tombui99
+'Tom-Iwainski/**':
+  - tomek-i
 'Tylah-Kapa/**':
   - tkapa
 'Ulysses-Maclaren/**':
@@ -151,5 +179,7 @@
   - william-liebenberg
 'Yang-Shen/**':
   - Berber-Mama
+'Yazhi-Chen/**':
+  - YazhiChen
 'Zach-Keeping/**':
   - zacharykeeping

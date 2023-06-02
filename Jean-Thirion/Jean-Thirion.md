@@ -20,6 +20,9 @@ quoteAuthor: "Carl Sagan"
 | ![images.png](../badges/Developer-sharepoint-spfx.png)
 
 [[imgBadge]]
+| ![Certification-scrumalliance-master.png](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![MCSD_ShareApp_Blk.png](../badges/Certification-microsoft-developer-sharepoint.png)
 
 [[imgBadge]]

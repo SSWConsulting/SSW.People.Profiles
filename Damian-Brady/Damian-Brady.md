@@ -47,7 +47,7 @@ Damian worked on the public-facing website for the National Australia Day Counci
 **Damian's other work includes:**  
 
 *   [SQL Deploy MVC](http://nuget.org/packages/SSW.SQLDeploy.MVC): Conceived and Implemented with 
-      [Adam Stephensen](/AboutUs/Employees/Pages/AdamS.aspx)
+      [Adam Stephensen](https://ssw.com.au/people/alumni/adam-stephensen)
 
  **Damian's Presentations:**
 
@@ -57,17 +57,11 @@ Damian worked on the public-facing website for the National Australia Day Counci
 
 *   [Octopus Deploy and how to stop deploying like an idiot](http://tv.ssw.com/5522/octopus-deploy-and-how-to-stop-deploying-like-an-idiot-damien-brady-ddd-melbourne) - DDD Melbourne 2014
 
-*   What’s new for ALM in Visual Studio 2013 and Team Foundation Server 2013 - Presented with Adam Cogan at 
-      [Tech Ed Australia](http://channel9.msdn.com/Events/TechEd/Australia/2013/DEV211) and 
-      [Tech Ed NZ](http://channel9.msdn.com/Events/TechEd/NewZealand/2013/DEV101)
-*   Climbing the Agile Testing Ladder - Presented with Adam Cogan at [Tech Ed Australia](http://channel9.msdn.com/Events/TechEd/Australia/2013/DEV323B) and 
-      [Tech Ed NZ](http://channel9.msdn.com/Events/TechEd/NewZealand/2013/DEV303)
-*   SSW Enterprise MVC Courses 
-      [Part 1](http://www.ssw.com.au/ssw/events/Training/enterprise-MVC-part-1.aspx) and 
-      [Part 2](http://www.ssw.com.au/ssw/events/Training/Enterprise-MVC-Part-2.aspx) - Written and presented with 
-      [Adam Stephensen](/AboutUs/Employees/Pages/AdamS.aspx)
+*   **What’s new for ALM in Visual Studio 2013 and Team Foundation Server 2013** - Presented with Adam Cogan at Tech Ed Australia and Tech Ed NZ
+*   **Climbing the Agile Testing Ladder** - Presented with Adam Cogan at Tech Ed Australia and Tech Ed NZ
+*   **SSW Enterprise MVC Courses** - Written and presented with [Adam Stephensen](https://ssw.com.au/people/alumni/adam-stephensen)
 *   [Zero to Everywhere with ASP.NET MVC](http://tv.ssw.com/1785/ddd-brisbane-damian-brady-zero-to-everywhere "Zero to Everywhere with ASP.NET MVC")
 *   [Building Mobile Websites with ASP.NET MVC 3 and 4](http://www.slideshare.net/damovisa/building-mobile-websites-with-aspnet-mvc-3-4-11395594 "Building Mobile Websites with ASP.NET MVC 3 and 4")
 *   [How to be a good TFS Master](http://www.slideshare.net/damovisa/how-to-be-a-good-tfs-master "How to be a good TFS Master")
 *   More presentations can be found with the "Presentations" tag on my blog - 
-      [http://blog.damianbrady.com.au/category/technology/presentations/](http://blog.damianbrady.com.au/category/technology/presentations/)
+      [http://blog.damianbrady.com.au/category/technology/presentations/](https://damianbrady.com.au/speaking)

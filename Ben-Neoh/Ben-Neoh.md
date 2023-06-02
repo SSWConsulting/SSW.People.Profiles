@@ -6,9 +6,14 @@ qualifications: ""
 quote: "Before software can be reusable it first has to be usable."
 quoteAuthor: "Ralph Johnson"
 ---
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
 | ![](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-ngrx.png)
 
 [[imgBadge]]
 | ![](../badges/Designer-web-html5.png)

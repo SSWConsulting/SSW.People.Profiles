@@ -9,6 +9,15 @@ quoteAuthor: "Albert Einstein"
 ---
 
 [[imgBadge]]
+| ![Microsoft Certified: DevOps Engineer Expert](../badges/Certification-microsoft-azure-devops-engineer-expert.png)
+
+[[imgBadge]]
+| ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
+| ![Microsoft Certified: Azure Fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
+
+[[imgBadge]]
 | ![C Sharp image badge](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
@@ -19,7 +28,9 @@ quoteAuthor: "Albert Einstein"
 
 ---
 
-Vlad is a Full Stack Software Engineer working in the SSW Brisbane office. He has experience with variety of programming languages, but predominately works with C# with .Net and JavaScript with React.
+Vlad is a Full Stack Software Engineer working in the SSW Brisbane office, who is passionate about working with international clients on complex projects.
+
+Vlad has experience with variety of programming languages, but predominately works with C# with .Net and JavaScript with React. He also has experience with DevOps and Big Data Analytics.
 
 Vlad loves learning and is always looking for the new skills to become a better developer. 
 

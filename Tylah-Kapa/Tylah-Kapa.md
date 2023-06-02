@@ -10,6 +10,9 @@ quoteAuthor: "Patrick McKenzie"
 [Editing profiles]: https://github.com/SSWConsulting/SSW.People.Profiles/wiki/5.-Editing-profiles
 
 [[imgBadge]]
+| ![Azure_Fundamentals_Badge](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
 | ![Azure_Fundamentals_Badge](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]

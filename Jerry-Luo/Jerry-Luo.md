@@ -7,7 +7,10 @@ quote:  "The best preparation for tomorrow is doing your best today."
 ---
 
 [[imgBadge]]
-| ![](../badges/Certification-microsoft-azure-fundamentals.png)
+| ![Microsoft Certified: Azure Administrator Associate](../badges/Certification-microsoft-azure-administrator-associate.png)
+
+[[imgBadge]]
+| ![Microsoft Certified: DevOps Engineer Expert](../badges/Certification-microsoft-azure-devops-engineer-expert.png)
 
 With 15 years working experience in software industry, Jerry is a developer, technical lead, and architect. All round developer who is good at software architecture and back-end API development.  
 

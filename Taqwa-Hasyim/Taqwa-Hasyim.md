@@ -5,6 +5,8 @@ qualifications: "Electrician"
 
 quote: "Talent can fix tricky bugs, but teamwork and brains build great software."
 ---
+[[imgBadge]]
+| ![](../badges/Automation-Control4.png)
 
 Taqwa is one of two main electricians working out of the SSW Newcastle office. He is a fully qualified electrician, with over 4 years of experience in domestic, commercial, and industrial electrical work.
 

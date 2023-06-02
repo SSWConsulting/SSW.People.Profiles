@@ -9,6 +9,9 @@ quoteAuthor: "Winston Churchill"
 [[imgBadge]]
 | ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
 
+[[imgBadge]]
+| ![devops](../badges/Business-microsoft-azure-devops.png)
+
 Penny is the SSW State Manager of Queensland and International clients. Operating from the SSW office in Brisbane CBD, Penny is in charge of looking after SSW's global clients in the US, Europe, Asia, and beyond.
 
 Penny is an extremely driven problem solver, who loves to tackle a challenge.

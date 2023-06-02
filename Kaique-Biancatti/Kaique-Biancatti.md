@@ -16,6 +16,8 @@ quote:  "Until you're ready to look foolish, you'll never have the possibility o
 | ![](../badges/SysAdmin-microsoft-hyper-v.png)
 [[imgBadge]]
 | ![](../badges/Certification-scrumalliance-master.png)
+[[imgBadge]]
+| ![](../badges/Automation-Control4.png)
 
 Kiki is one of those rare SysAdmins who is a Powershell Guru. He has been a Systems Analyst at SSW for many years, and he has taken some of our processes from horse and carriage to more Tesla-like. He has supercharged SSW clients using PowerShell, Power Apps, Power Automate (was Microsoft Flow) and Zendesk. 
  

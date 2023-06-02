@@ -1,7 +1,7 @@
 ---
 id: "13d5c17a-d94d-ed11-bba3-00224818a8c8"
 
-qualifications: "Barchelor of Multimedia Systems, Advanced Diploma of Multimedia Design"
+qualifications: "Bachelor of Multimedia Systems, Advanced Diploma of Multimedia Design"
 
 quote: "My power is the ability to not be influenced."
 quoteAuthor: "Kanye West"

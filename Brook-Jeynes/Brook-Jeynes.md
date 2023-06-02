@@ -6,11 +6,21 @@ quoteAuthor: "Marcus Aurelius"
 ---
 
 [[imgBadge]]
+| ![Linux](../badges/Developer-linux.png)
+
+[[imgBadge]]
+| ![JS](../badges/Developer-js.png)
+
+[[imgBadge]]
 | ![React](../badges/Developer-react.png)
 
 [[imgBadge]]
 | ![C#](../badges/Developer-c-sharp.png)
 
-Brook Jeynes is a Software Developer currently working in the Brisbane SSW office. Brook has experience in a wide range of languages but predominantly works in Javascript/Typescript with React and is currently learning C# and ASP.Net.
+[[imgBadge]]
+| ![Rust](../badges/Developer-rust.png)
 
-Brook is always trying to learn about the latest technologies and ways code can be written more efficiently. In his spare time he enjoys playing tabletop games and video games with his friends or playing guitar and writing music.
+Brook Jeynes is a Software Developer currently working in the Brisbane SSW office. 
+At SSW, he predominantly works in Javascript/Typescript, React, and .NET. In his spare time, Brook builds programs using Typescript, Rust, and Zig.
+
+Brook is always trying to learn new things, whether that be about music, technology or general information in relation to science and engineering. In his spare time he enjoys playing games with friends, hiking, or playing guitar.
