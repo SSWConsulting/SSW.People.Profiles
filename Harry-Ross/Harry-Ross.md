@@ -8,6 +8,9 @@ quoteAuthor: "Steve Jobs"
 ---
 
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-ai-fundamentals.png)
+
+[[imgBadge]]
 | ![](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
@@ -21,6 +24,12 @@ quoteAuthor: "Steve Jobs"
 
 [[imgBadge]]
 | ![](../badges/Developer-node-js.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-flutter.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-python.png)
 
 
 Harry is an SSW Software Engineer working in the Sydney office. He has years of experience in building comprehensive software solutions built in C# and Javascript. Harry is highly proficient with a wide range of both frontend and backend frameworks including React, Angular, ASP.NET Core, NextJS and Svelte. He is currently learning .NET MAUI.  
