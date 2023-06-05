@@ -7,6 +7,27 @@ quote: "There were many ways down Mount Fuji, according to my guidebook, but onl
 quoteAuthor: "Phil Knight"
 ---
 
+[[imgBadge]]
+| ![Developer React](../badges/Developer-react.png)
+
+[[imgBadge]]
+| ![Developer Vue](../badges/Developer-Vue.png)
+
+[[imgBadge]]
+| ![Developer JS](../badges/Developer-js.png)
+
+[[imgBadge]]
+| ![Developer Html5](../badges/Designer-web-html5.png)
+
+[[imgBadge]]
+| ![Developer CSS3](../badges/Designer-web-css3.png)
+
+[[imgBadge]]
+| ![Developer github](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![Business Microsoft Azure](../badges/Business-microsoft-azure.png)
+
 
 Chloe is a highly skilled Software Developer based in the SSW Hangzhou office. With her expertise in React and Vue, she has successfully delivered projects ranging from responsive website designs to complex ERP systems for single-page applications.
 
