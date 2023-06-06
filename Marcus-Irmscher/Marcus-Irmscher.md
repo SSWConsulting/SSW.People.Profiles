@@ -1,7 +1,7 @@
 ---
 id: "f1df4603-64c4-ed11-83fd-00224818a84c"
 
-qualifications: "Videography, Directing, Editing and Visual Effect"
+qualifications: "Videography, Directing, Editing and Visual Effects"
 
 quote: "Be yourself; everyone else is already taken."
 quoteAuthor: "Oscar Wilde"
