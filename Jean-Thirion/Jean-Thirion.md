@@ -8,25 +8,25 @@ quoteAuthor: "Carl Sagan"
 ---
 
 [[imgBadge]]
-| ![angular.png](../badges/Developer-angular.png)
+| ![Angular](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![dotnet-core.png](../badges/Developer-dotnet-core.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![images.png](../badges/Developer-react.png)
+| ![React](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![images.png](../badges/Developer-sharepoint-spfx.png)
+| ![SharePoint](../badges/Developer-sharepoint-spfx.png)
 
 [[imgBadge]]
-| ![Certification-scrumalliance-master.png](../badges/Certification-scrumalliance-master.png)
+| ![Certification Scrum Alliance Master](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
-| ![MCSD_ShareApp_Blk.png](../badges/Certification-microsoft-developer-sharepoint.png)
+| ![MCSD_ShareApp_Blk](../badges/Certification-microsoft-developer-sharepoint.png)
 
 [[imgBadge]]
-| ![MCSD App Builder-logo-Blk.png](../badges/Certification-microsoft-developer-app-builder.png)
+| ![MCSD App Builder Blk](../badges/Certification-microsoft-developer-app-builder.png)
 
 ---
 
