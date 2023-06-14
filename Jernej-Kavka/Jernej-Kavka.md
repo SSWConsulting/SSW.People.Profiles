@@ -26,7 +26,7 @@ quoteAuthor: "Anonymous"
 | ![Angular](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![.NET](../badges/Developer-dotnet-machine-learning.png)
+| ![ML.NET](../badges/Developer-dotnet-machine-learning.png)
 
 [[imgBadge]]
 | ![Microsoft-Cognitive-Service-Logo.png](../badges/Developer-cognitive-services.png)
