@@ -44,7 +44,7 @@ quoteAuthor: "Anonymous"
 | ![Docker](../badges/Developer-docker.png)
 
 [[imgBadge]]
-| ![](../badges/Event-global-ai-community.jpg)
+| ![Global AI Community](../badges/Event-global-ai-community.jpg)
 
 [[imgBadge]]
 | ![.NET Foundation](../badges/Developer-dotnet-foundation.png)
