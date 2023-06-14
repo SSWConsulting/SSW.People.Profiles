@@ -8,19 +8,19 @@ quoteAuthor: "Andrew Hunt"
 ---
 
 [[imgBadge]]
-| ![dotnet-core.png](../badges/Developer-dotnet-core.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![c-sharp.png](../badges/Developer-c-sharp.png)
+| ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
-| ![microsoft-dynamics.png](../badges/Business-microsoft-dynamics.png)
+| ![Dynamics](../badges/Business-microsoft-dynamics.png)
 
 [[imgBadge]]
-| ![microsoft-dynamics-powerbi.png](../badges/Business-microsoft-dynamics-powerbi.png)
+| ![Power BI](../badges/Business-microsoft-dynamics-powerbi.png)
 
 [[imgBadge]]
-| ![Certification-scrumalliance-master.png](../badges/Certification-scrumalliance-master.png)
+| ![Certification Scrum Alliance Master](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
 | ![Blazor](../badges/Developer-blazor.png)
