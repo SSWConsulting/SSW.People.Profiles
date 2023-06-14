@@ -53,7 +53,7 @@ quoteAuthor: "Anonymous"
 | ![OpenAI](../badges/Developer-OpenAI.png)
 
 [[imgBadge]]
-| ![OpenAI-ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
+| ![OpenAI ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 
 ---
 
