@@ -47,7 +47,7 @@ quoteAuthor: "Anonymous"
 | ![](../badges/Event-global-ai-community.jpg)
 
 [[imgBadge]]
-| ![](../badges/Developer-dotnet-foundation.png)
+| ![.NET Foundation](../badges/Developer-dotnet-foundation.png)
 
 [[imgBadge]]
 | ![OpenAI](../badges/Developer-OpenAI.png)
