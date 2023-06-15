@@ -7,6 +7,10 @@ quote: "Everybody talks about the weather, but nobody does anything about it."
 quoteAuthor: "Mark Twain"
 ---
 
+[[imgBadge]]
+| ![Image Alt Text](../badges/Developer-OpenAI-ChatGPT.png)
+
+
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 Seth is an SSW Marketing Assistant and Account Manager. He has a particular interest in ChatGPT and other artificial intelligence tools, and their applications for content creation and  enhancing productivity in the workplace.
