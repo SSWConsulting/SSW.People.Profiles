@@ -19,7 +19,7 @@ quoteAuthor: "Kratos"
 
 Jord is a Software Engineer at the SSW Melbourne Office. He is a graduate from Monash University with a Bachelor of Computer Science majoring in Advanced Computer Science.
 
-He specialises in front-end development with experience in languages such as TypeScript + HTML + CSS + C#, libraries like React, and frameworks such as NextJS. He also has experience with back-end technologies like .Net Core.
+He specialises in front-end development with experience in languages such as TypeScript, HTML, CSS, C#, libraries like React, and frameworks such as NextJS. He also has experience with back-end technologies like .Net Core.
 
 He is interested in emerging technologies and keeps up with the latest tech news.
 
