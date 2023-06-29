@@ -44,9 +44,9 @@ Since joining SSW, Matt has worked on a number of projects for a range of client
 | ![.NET MAUI in Action](./Images/maui-ia-3d.png)    
 Matt [(author of .NET MAUI in Action)](https://www.manning.com/books/dot-net-maui-in-action?utm_source=goforgoldman&utm_medium=affiliate&utm_campaign=book_goldman_dot_5_10_22&a_aid=goforgoldman&a_bid=38933097) regularly presents at the [.NET User Group](https://www.ssw.com.au/ssw/Live/) in 3 states, has hosted SSW's [Xamarin Hack Day](https://xamarinhackday.com/Sydney/), has presented at [the .NET Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/NET-6-Superpowers-Tour.aspx), and regular co-hosts SSW's [Clean Architecture Superpowers and Clean Architecture Workshop](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx). Matt has also presented at [NDC Sydney](https://ndcsydney.com/agenda/cloudy-with-a-chance-of-mobile-05cf/0jj155ywh8t).
 
-Drawing on a combination of hands-on experience and enterprise governance practices, Matt is able to make connections between business and technology to deliver user and business focused outcomes.
+Drawing on a combination of hands-on experience and enterprise governance practices, Matt is able to make connections between business and technology to deliver user and business-focused outcomes.
 
-Matt has worked in IT for 15 years, and in addition to his developmenet work has a background in infrastructure and management, and has delivered security policies, IT strategies and disaster recovery plans to a number of high profile national and multi-national clients.
+Matt has worked in IT for 15 years, and in addition to his development work has a background in infrastructure and management, and has delivered security policies, IT strategies and disaster recovery plans to a number of high-profile national and multi-national clients.
 
 ## Internal Projects
 
