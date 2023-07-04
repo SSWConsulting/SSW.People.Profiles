@@ -20,6 +20,11 @@ Committed to continuous learning and growth, Khaled remains at the forefront of 
 
 When not engrossed in coding or admiring BMWs, Khaled can be found exploring scenic routes, indulging in spirited drives, and connecting with fellow car enthusiasts. Their genuine love for the automotive world extends beyond professional pursuits, making Khaled a well-rounded individual with an infectious enthusiasm for life.
 
-Join Khaled Albahsh on their journey as they merge technical prowess with an unwavering passion for cars, exemplifying the harmonious blend of software development and the captivating world of automobiles.🤖
+Join Khaled Albahsh on their journey as they merge technical prowess with an unwavering passion for cars, exemplifying the harmonious blend of software development and the captivating world of automobiles.🤖✨
+
+
+
+
+
 
 &nbsp;
