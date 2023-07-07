@@ -4,7 +4,7 @@ id: "b5d6c018-4c50-e911-820e-00155d012c5a"
 
 qualifications:  "MBA, B.Ec."
 
-quote:  "Tell them what you tell them. Tell them. And then tell them what you've told them!"
+quote:  "Tell 'em what you're gonna tell 'em. Tell 'em. Then tell 'em what you've told 'em!"
 quoteAuthor: "Andrew Forsyth"
 ---
 
