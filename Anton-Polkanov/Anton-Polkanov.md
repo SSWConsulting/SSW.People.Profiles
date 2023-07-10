@@ -33,6 +33,9 @@ quoteAuthor: "Martin Fowler"
 [[imgBadge]]
 | ![Angular](../badges/Developer-python.png)
 
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-ai-fundamentals.png)
+
 Anton is a Senior Software Engineer at SSW with more than 7 years of experience in professional software development. He enjoys designing and building quality software using the latest approaches and techniques. Anton applies thoughtful and holistic approach to solving problems aiming to meet the needs of end-users and the business.
 
 He is interested in mobile development, .NET platform, and performance engineering. Anton also runs a competitive programming club in Newcastle.
