@@ -7,7 +7,7 @@ quote: "A man who knows and knows he that he knows is a teacher, so listen to hi
 quoteAuthor: "Khalil Bin Ahmad Alfarahidi"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
+
 ---
 
 Introducing Khaled Albahsh, an accomplished Senior Power Platform Developer, known for his expertise in designing and implementing customized solutions that drive business growth. With a deep understanding of Power Apps, Power Automate, and Power BI, Khaled has consistently delivered scalable applications that enhance productivity and streamline processes. His meticulous attention to detail and problem-solving skills enable him to navigate complex challenges and exceed client expectations. Outside of work, Khaled indulges in his passion for automotive engineering, particularly his twin-turbo BMW F10. With his technical proficiency and personal touch, Khaled is an invaluable asset in leveraging the Power Platform for digital transformation.🤖✨
