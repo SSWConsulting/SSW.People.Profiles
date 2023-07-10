@@ -10,17 +10,7 @@ quoteAuthor: "Khalil Bin Ahmad Alfarahidi"
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 ---
 
-Introducing Khaled Albahsh, a skilled SSW Low-Code/Power Platform Senior Developer with a deep appreciation for cars, especially BMWs. Khaled's expertise lies in crafting efficient solutions while maintaining simplicity, and their enthusiasm for the automotive world adds a unique dimension to their profile.
-
-With extensive experience in Low-Code and Power Platform development, Khaled excels at creating streamlined applications and automating complex processes. Their proficiency in leveraging advanced tools and platforms empowers organizations to achieve enhanced productivity and efficiency.
-
-Beyond the realm of coding, Khaled's heart beats for the exhilaration of automobiles. The captivating designs and exceptional performance of BMWs have captivated their imagination and become a personal passion. Khaled finds joy in exploring the latest models, appreciating the timeless classics, and immersing themselves in the entire BMW experience.
-
-Committed to continuous learning and growth, Khaled remains at the forefront of the ever-evolving tech landscape. They consistently stay updated with emerging trends to ensure they deliver innovative and effective solutions to clients and organizations.
-
-When not engrossed in coding or admiring BMWs, Khaled can be found exploring scenic routes, indulging in spirited drives, and connecting with fellow car enthusiasts. Their genuine love for the automotive world extends beyond professional pursuits, making Khaled a well-rounded individual with an infectious enthusiasm for life.
-
-Join Khaled Albahsh on their journey as they merge technical prowess with an unwavering passion for cars, exemplifying the harmonious blend of software development and the captivating world of automobiles.🤖✨
+Introducing Khaled Albahsh, an accomplished Senior Power Platform Developer, known for his expertise in designing and implementing customized solutions that drive business growth. With a deep understanding of Power Apps, Power Automate, and Power BI, Khaled has consistently delivered scalable applications that enhance productivity and streamline processes. His meticulous attention to detail and problem-solving skills enable him to navigate complex challenges and exceed client expectations. Outside of work, Khaled indulges in his passion for automotive engineering, particularly his twin-turbo BMW F10. With his technical proficiency and personal touch, Khaled is an invaluable asset in leveraging the Power Platform for digital transformation.🤖✨
 
 
 
