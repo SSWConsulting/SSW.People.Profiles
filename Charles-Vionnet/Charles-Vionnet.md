@@ -9,6 +9,7 @@ quoteAuthor: "Henry Ford"
 
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-azure-fundamentals.png)
+
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-power-platform-fundamentals.png)
 
