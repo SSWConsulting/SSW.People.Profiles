@@ -3,7 +3,7 @@ id: "b216949d-e117-ee11-8f6c-6045bd3df7b2"
 
 qualifications: "SSW Low-Code/Power Platform Senior Developer"
 
-quote: "A man who knows and knows he that he knows is a teacher, so listen to him. A man who doesnt know and knows that he doesnt know is a student, so teach him. A man who knows and doesnt know he knows is doubting himself, so remind him. A man who doesnt know and doesnt know that he doesnt know is ignorant, so stay away from him"
+quote: "A man who knows and knows that he knows is a teacher, so listen to him. A man who doesnt know and knows that he doesnt know is a student, so teach him. A man who knows and doesnt know he knows is doubting himself, so remind him. A man who doesnt know and doesnt know that he doesnt know is ignorant, so stay away from him"
 quoteAuthor: "Khalil Bin Ahmad Alfarahidi"
 ---
 
