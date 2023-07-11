@@ -16,6 +16,9 @@ quoteAuthor: "Cliff Gladwin"
 [[imgBadge]]
 | ![](../badges/Certification-scrumalliance-master.png)
 
+[[imgBadge]]
+| ![OpenAI ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
+
 Jonty is a talented and experienced professional with a background in digital media production across a variety of platforms and channels. He excels in team collaboration, customer and stakeholder engagement, and consistently demonstrates strong communication skills.
 
 With a diverse portfolio of experience in industries such as weddings, film, education, and travel photography, Jonty brings a wealth of expertise to our team at SSW. He embraces a mindset of continuous growth and strives for excellence in all he does.
