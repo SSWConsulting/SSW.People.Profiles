@@ -1,11 +1,32 @@
 ---
 id: "bc06ea05-89ef-ec11-bb3c-002248185b80"
 
-qualifications: "Bachelor of Mechatronic Engneering, Master of IT"
+qualifications: "Bachelor of Mechatronic Engineering, Master of IT"
 
 quote: "Stay hungry, stay foolish."
 quoteAuthor: "Steve Jobs"
 ---
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-ai-fundamentals.png)
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-fundamentals.png)
+
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-python.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-blazor.png)
 
 Steven is a Software Architect at the SSW Sydney office. He is a graduate from UNSW with Master of IT. 
 
