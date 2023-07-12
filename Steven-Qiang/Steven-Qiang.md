@@ -28,6 +28,8 @@ quoteAuthor: "Steve Jobs"
 [[imgBadge]]
 | ![](../badges/Developer-blazor.png)
 
-Steven is a Software Architect at the SSW Sydney office. He is a graduate from UNSW with Master of IT. 
+Steven is a passionate software engineer located at the SSW Sydney office. With over 1 year of dedicated experience assisting clients in migrating from WindowsForms to Blazor.
 
-He has worked with numerous C, C++ and Python projects, and hence has a comprehesive understanding of low level systems. He is also very passionate about the latest technologies such as .Net, Angular and SQL Server.
+He is proficient in a range of programming languages including C, C++, C#, and Python, and has an extensive background in developing projects across these platforms.
+
+Steven's enthusiasm for the latest advancements in technology is evident through his keen interest in cutting-edge tools such as .Net, Blazor, React, and SQL Server. Always staying ahead of the curve, he remains driven to explore and leverage these innovative technologies to create exceptional software solutions.
