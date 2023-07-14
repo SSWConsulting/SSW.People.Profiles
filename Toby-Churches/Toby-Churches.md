@@ -3,7 +3,7 @@ id: "bc510722-b761-ed11-9561-00224818668d"
 
 qualifications: ""
 
-quote: ""Code is like humor. When you have to explain it, it's bad.""
+quote: "Code is like humor. When you have to explain it, it's bad."
 quoteAuthor: "ChatGPT"
 ---
 
