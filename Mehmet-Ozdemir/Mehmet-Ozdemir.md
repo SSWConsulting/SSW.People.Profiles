@@ -7,6 +7,9 @@ quote:  "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"
 ---
 
 [[imgBadge]]
+| ![](../badges/Certification-POTY-Finalist.png)
+
+[[imgBadge]]
 | ![](../badges/Certification-microsoft-developer-alm.png) 
 
 [[imgBadge]]
