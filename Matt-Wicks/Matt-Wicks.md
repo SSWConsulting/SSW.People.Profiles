@@ -33,7 +33,7 @@ quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace th
 [[imgBadge]]
 | ![devops](../badges/Business-microsoft-azure-devops.png)
 
-As an elite SSW Solution Architect and a Certified Scrum Master, Matt's illustrious career is marked by prestigious certifications, including those of Microsoft and GitHub DevOps fast track partner consultant. This dual accreditation underscores his extraordinary technical mastery and steadfast commitment to lifelong learning.
+As an elite SSW Solution Architect, Certified Scrum Master, and Octopus Insider, Matt's illustrious career is marked by prestigious certifications, including those of Microsoft and GitHub DevOps fast track partner consultant. These accreditations underscore his extraordinary technical mastery and steadfast commitment to lifelong learning.
 
 From the moment .NET 2 was a mere beta, Matt has been harnessing the full potential of the Microsoft stack, coding his way to ingenious solutions that deliver significant business value. His rich portfolio spans across diverse industry verticals, having partnered with small businesses as well as juggernauts listed on ASX from the realms of finance, engineering, and HR.
 
