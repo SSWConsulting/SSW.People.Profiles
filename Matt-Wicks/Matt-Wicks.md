@@ -41,7 +41,6 @@ Matt has had experience with companies ranging from small businesses to large AS
 - Build and Release Pipelines (upgrading from XCopy deploy processes to full CI/CD automation on GitHub or Azure DevOps)
 - Document automation
 - Process automation
-- Dynamics 365 CRM
 - B2B integrations (integrating with Banks and Multinational Petrol companies)
 - ALM setup and management (using Microsoft and Atlassian stacks)
 
