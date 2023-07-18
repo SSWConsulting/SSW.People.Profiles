@@ -13,9 +13,6 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 | ![](../badges/Certification-microsoft-regional-director.png)
 
 [[imgBadge]]
-| ![](../badges/Certification-POTY-Finalist.png)
-
-[[imgBadge]]
 | ![](../badges/Certification-scrumalliance-trainer.png)
 
 [[imgBadge]]
@@ -29,6 +26,9 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 
 [[imgBadge]]
 | ![](../badges/Business-microsoft-azure-devops.png)
+
+[[imgBadge]]
+| ![](../badges/Certification-POTY-Finalist.png)
 
 [[imgBadge]]
 | ![](../badges/Certification-POTY-Finalist.png)
