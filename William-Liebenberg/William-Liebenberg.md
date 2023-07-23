@@ -115,7 +115,7 @@ William has spoken at conferences such as:
 * [NDC Sydney](https://ndcsydney.com/speakers/william-liebenberg/)
 * [NDC Melbourne](https://ndcmelbourne.com/speakers/william-liebenberg/)
 * [DDD Brisbane](https://dddbrisbane.com/agenda/2019)
-* [Global AI on Tour - Melbourne](https://globalai.community/global-ai-on-tour/australia-melbourne-1)
+* [Global AI on Tour - Melbourne](https://globalai.community/events/global-ai-on-tour-june-2021)
 
 ## Community Events
 
