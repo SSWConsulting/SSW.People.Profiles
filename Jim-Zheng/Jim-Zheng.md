@@ -46,3 +46,11 @@ Jim helped the team with building a newer version of **[SophieBot](https://www.s
 One major use case for SophieBot is to help our SSW State Managers and Clients to find the right developer for any project simply by talking to a Bot using natural human language. SophieBot can determine which developers from any of our offices have the right skills for a project and if they are available to be booked for this project. All the information required to answer this simple query can be spread across multiple systems such as Dynamics CRM, TimePro, LinkedIn, SalesForce, Delve, and more. SophieBot has integrations that can collect all the relevant information and fulfill the seemingly simple query and save the SSW State Managers a lot of time and effort.
 
 Relevant technologies: Azure Bots, Language Understanding, QnA Maker, Azure Functions, Azure Table Storage, NodeJS, Dynamics 365, Power Platform, Logic App.
+
+### [SSW Website](https://www.ssw.com.au/)
+
+Jim joined the initial development of the 3rd generation of [SSW Website](https://github.com/SSWConsulting/SSW.Website), making use of the latest technologies including NextJS and TinaCMS.
+
+The CMS infrastructure as well as the content of SSW Website are completely open sourced and is till now being actively maintained. The 3rd version of the project provides designers and content managers with a great editing experience using a powerful and code-free WYSIWYG editor leveraging TinaCMS.
+
+Relevant technologies: NextJS, TinaCMS, React, Docker, Azure Front Door
