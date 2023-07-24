@@ -49,8 +49,8 @@ Relevant technologies: Azure Bots, Language Understanding, QnA Maker, Azure Func
 
 ### [SSW Website](https://www.ssw.com.au/)
 
-Jim joined the initial development of the 3rd generation of [SSW Website](https://github.com/SSWConsulting/SSW.Website), making use of the latest technologies including NextJS and TinaCMS.
+Jim joined the development of the 3rd generation of the [SSW Website](https://github.com/SSWConsulting/SSW.Website), making use of the latest technologies including NextJS and TinaCMS.
 
-The CMS infrastructure as well as the content of SSW Website are completely open sourced and is till now being actively maintained. The 3rd version of the project provides designers and content managers with a great editing experience using a powerful and code-free WYSIWYG editor leveraging TinaCMS.
+The CMS infrastructure as well as the content of the SSW Website are completely open-source and actively maintained. The 3rd version of the project provides designers and content managers with a great editing experience using a powerful and code-free WYSIWYG editor leveraging TinaCMS.
 
 Relevant technologies: NextJS, TinaCMS, React, Docker, Azure Front Door
