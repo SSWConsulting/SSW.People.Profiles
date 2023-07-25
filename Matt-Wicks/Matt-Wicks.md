@@ -33,9 +33,11 @@ quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace th
 [[imgBadge]]
 | ![devops](../badges/Business-microsoft-azure-devops.png)
 
-As an elite SSW Solution Architect, Certified Scrum Master, and Octopus Insider, Matt's illustrious career is marked by prestigious certifications, including those of Microsoft and GitHub DevOps fast track partner consultant. These accreditations underscore his extraordinary technical mastery and steadfast commitment to lifelong learning.
+Matt is an elite SSW Solution Architect who runs the Newcastle office. Matt stands out in the tech landscape as a certified Scrum Master, an Octopus Insider, and is GitHub accredited. From the early days when .NET 2 was still in beta, Matt has been capitalizing on the full potential of the Microsoft stack, coding his way to ingenious solutions that deliver significant business value.
 
-From the moment .NET 2 was a mere beta, Matt has been harnessing the full potential of the Microsoft stack, coding his way to ingenious solutions that deliver significant business value. His rich portfolio spans across diverse industry verticals, having partnered with small businesses as well as juggernauts listed on ASX from the realms of finance, engineering, and HR.
+His rich portfolio spans across diverse industry verticals, having partnered with small businesses as well as juggernauts listed on ASX from the realms of finance, engineering, and HR. Such accolades not only highlight his exceptional technical prowess but also his unwavering dedication to continuous education and innovation.
+
+Outside of his architectural accomplishments, Matt's holistic approach to software development is evident through his strong commitment to Clean Architecture and DevOps principles. Not just a silent developer, he’s an active voice in the tech community. Sharing his wealth of knowledge on his blog and engaging with peers on platforms such as [LinkedIn](https://www.linkedin.com/in/matt-wicks), [Twitter](https://twitter.com/matteightyate), and [GitHub](https://github.com/wicksipedia). Matt's influence stretches beyond code, making him a respected figure in the tech realm.
 
 Matt's core proficiencies include but are not limited to:
 
