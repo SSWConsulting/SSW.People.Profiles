@@ -33,7 +33,7 @@ quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace th
 [[imgBadge]]
 | ![devops](../badges/Business-microsoft-azure-devops.png)
 
-Matt is an elite SSW Solution Architect who runs the Newcastle office. Matt stands out in the tech landscape as a certified Scrum Master, an Octopus Insider, and is GitHub accredited. From the early days when .NET 2 was still in beta, Matt has been harnessing the full potential of the Microsoft stack, coding his way to ingenious solutions that deliver significant business value.
+Matt is an elite SSW Solution Architect who runs the Newcastle office. Matt stands out in the tech landscape as a certified Scrum Master, an Octopus Insider, and is GitHub accredited. From the early days when .NET 2 was still in beta, Matt has been capitalizing on the full potential of the Microsoft stack, coding his way to ingenious solutions that deliver significant business value.
 
 His rich portfolio spans across diverse industry verticals, having partnered with small businesses as well as juggernauts listed on ASX from the realms of finance, engineering, and HR. Such accolades not only highlight his exceptional technical prowess but also his unwavering dedication to continuous education and innovation.
 
