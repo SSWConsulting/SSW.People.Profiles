@@ -27,14 +27,14 @@ quoteAuthor: "ChatGPT 🤖"
 
 As a upcoming software developer at SSW Newcastle, Toby Churches brings a dynamic skill set and a passion for crafting innovative solutions to every project. With expertise in technologies such as .NET, Java, TypeScript, and Angular, Toby plays a pivotal role in delivering high-quality software solutions to clients.
 
-## Technical Proficiencies:
+## Technical Proficiencies
 
 Proficient in a range of programming languages and frameworks, Toby possesses a strong command of .NET, Java, TypeScript, and Angular. His ability to leverage these technologies allows him to build efficient, scalable, and user-centric software solutions that meet clients' unique needs.
 
-## Academic Pursuits:
+## Academic Pursuits
 
 Currently pursuing his fourth year of Software Engineering at the University of Newcastle, Toby is committed to continuous learning and academic excellence. His academic journey empowers him to stay updated with the latest industry trends, ensuring he remains at the forefront of technology.
 
-## Passion for Collaboration:
+## Passion for Collaboration
 
 Toby values teamwork and collaboration, recognizing the power of collective ideas in creating extraordinary results. He actively engages with teammates and clients to understand project requirements, offer valuable insights, and foster a cohesive work environment.
