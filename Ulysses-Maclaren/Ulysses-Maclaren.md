@@ -9,6 +9,8 @@ quote:  "Nothing in life is impossible. The biggest hurdles to success in life a
 [[imgBadge]]
 | ![Certified Scrum Master](../badges/Certification-scrumorg-master-1.png) 
    
+[Schedule a meeting with Ulysses](https://outlook.office.com/bookwithme/user/97ccb01d46744eed9ad7ff2c52c3ade6@ssw.com.au?anonymous&ep=plink)
+
 Ulysses is the General Manager of SSW and has been managing the team since 2006.
 
 Used to working under pressure, he is Adam Cogan's 2nd in charge, and keeps the company running smoothly while also dealing with SSW's clients and the development and design teams. His passion is making sure that all the guys at SSW feel like a family, while always improving their skill sets and challenging them to constantly expand their horizons.  
