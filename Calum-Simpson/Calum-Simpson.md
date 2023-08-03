@@ -8,7 +8,10 @@ quoteAuthor: Steve Ballmer
 ---
 
 [[imgBadge]]
-| ![](../badges/Certification-POTY-Finalists.svg)
+| ![](../badges/Certification-poty-finalist-inclusion.svg)
+
+[[imgBadge]]
+| ![](../badges/Certification-poty-finalist-education.svg)
 
 
 Calum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, Dynamics 365/Power Platform, C# .NET, plus experience in Angular and React. 
