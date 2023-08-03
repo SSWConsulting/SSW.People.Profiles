@@ -23,10 +23,8 @@ quoteAuthor: "Robert C. Martin"
 [[imgBadge]]
 | ![React](../badges/Developer-react.png)
 
-Matt, a skilled Software Engineer at SSW, leverages his expertise in .NET, Blazor, and Clean Architecture to deliver exceptional results for our clients. Currently, he is deeply involved in advancing our client's project, employing his skills to enhance system efficiency and drive maintainability, cost-effectiveness, and rigorous testing.
+Matt is a dedicated Software Engineer at SSW who leverages his expertise in .NET, Blazor, and Clean Architecture to deliver exceptional, modern solutions for our clients. Matt has successfully helped many small to large companies, utilizing his expertise to make sure they get the maximum value from their budget. Matt understands the importance of maintainability, system efficiency, cost-effectiveness, and rigorous testing, and he uses this expertise to build modern enterprise applications that clients can be proud of.
 
-He's passionate about creating efficient systems throughout the software lifecycle, with a focus on maintainability, cost, and testing. Matt stays on top of emerging technologies like Blazor United, to deliver the best value to our clients.
-
-In the realm of front-end web development, Matt loves employing Blazor to rapidly deliver fast and maintainable solutions. He actively explores the capabilities of Blazor United, a cutting-edge technology, and incorporates its innovative features into his work to create dynamic and responsive user interfaces.
+In the realm of front-end web development, Matt loves employing Blazor to rapidly deliver fast and maintainable solutions. He is forward-thinking and actively explores new cutting-edge technologies like Blazor United, to stay ahead of the curve and incorporates its innovative features into his work to create dynamic and responsive user interfaces.
 
 As an excellent communicator, Matt values diverse perspectives in problem-solving and finding the best solutions. Also, keep an eye out for Matt at upcoming Brisbane User Group Presentations!
