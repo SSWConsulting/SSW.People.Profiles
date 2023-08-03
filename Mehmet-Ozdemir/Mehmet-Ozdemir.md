@@ -16,7 +16,10 @@ quote:  "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"
 | ![azure-function-logo.png](../badges/Developer-azure-function.png)
 
 [[imgBadge]]
-| ![](../badges/Certification-POTY-Finalists.svg)
+| ![](../badges/Certification-poty-finalist-inclusion.svg)
+
+[[imgBadge]]
+| ![](../badges/Certification-poty-finalist-education.svg)
 
 Mehmet is a Solution Architect at SSW, a Microsoft Certified Solutions Developer specialising in Power BI, SSRS, Dynamics 365, and SharePoint solutions. Mehmet has extensive experience in Microsoft products both pre and post .NET and loves working with C#, Power Automate, Power Query, DAX, and SQL. In previous roles before SSW, Mehmet has worked with BI tools such as Teradata Data Warehouse, Oracle DRM (Master Data Management), Essbase and Cognos ReportNet.
 
