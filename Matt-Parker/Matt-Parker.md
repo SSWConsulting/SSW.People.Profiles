@@ -23,10 +23,8 @@ quoteAuthor: "Robert C. Martin"
 [[imgBadge]]
 | ![React](../badges/Developer-react.png)
 
-Matt is a skilled Software Engineer at SSW with expertise in .NET and Clean Architecture. 
+Matt is a dedicated Software Engineer at SSW who leverages his expertise in .NET, Blazor, and Clean Architecture to deliver exceptional, modern solutions for our clients. Matt has successfully helped many small to large companies, utilizing his expertise to make sure they get the maximum value from their budget. Matt understands the importance of maintainability, system efficiency, cost-effectiveness, and rigorous testing, and he uses this expertise to build modern enterprise applications that clients can be proud of.
 
-He's passionate about creating efficient systems throughout the software lifecycle, with a focus on maintainability, cost, and testing. Matt stays on top of emerging technologies like Blazor United, which he loves for front-end web development.
+In the realm of front-end web development, Matt loves employing Blazor to rapidly deliver fast and maintainable solutions. He is forward-thinking and actively explores new cutting-edge technologies like Blazor United, to stay ahead of the curve and incorporates its innovative features into his work to create dynamic and responsive user interfaces.
 
 As an excellent communicator, Matt values diverse perspectives in problem-solving and finding the best solutions. Also, keep an eye out for Matt at upcoming Brisbane User Group Presentations!
-
-Hire Matt to bring efficiency and innovation to your team! 🌟🚀
