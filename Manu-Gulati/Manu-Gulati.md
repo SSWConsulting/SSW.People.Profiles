@@ -1,10 +1,10 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "15c98cc8-791f-ee11-9966-6045bd3df3b1"
 
-qualifications: ""
+qualifications: "MS Computer Science; MBA"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "Everything should be made as simple as possible, but not simpler."
+quoteAuthor: "Albert Einstein"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
