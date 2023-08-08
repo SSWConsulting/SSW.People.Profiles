@@ -7,12 +7,7 @@ quote: "Everything should be made as simple as possible, but not simpler."
 quoteAuthor: "Albert Einstein"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
-
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
-
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
+Manu is a hands-on IT professional who loves using technology strategically to solve business problems. He enjoys applying the breadth of tech to provide a variety of solutions that help organizations run more efficiently and profitably. Manu especially enjoys architecting systems in a manner that ties them together gracefully to provide holistic solutions. Manu has expertise in data modeling and in designing sophisticated reports in Power BI. Additionally, he can effectively collaborate with business leaders to design low-code applications on Microsoft's Power Platform that help businesses quickly digitize parts of their processes. 
 
 ## Headings
 
