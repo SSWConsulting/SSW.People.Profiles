@@ -31,10 +31,12 @@ quoteAuthor: "Sun Tzu"
 [[imgBadge]]
 | ![dotnetcore.png](../badges/Business-scrum.png)
 
-Piers is an SSW Solution Architect with more than 9 years experiences in databases and software development. He is especially proficient in Scrum, .Net, Azure, SQL, DevOps and GitHub.
+Piers is a seasoned Delivery Lead with a strong background in software engineering. He excels in guiding teams and projects to success using Scrum methodologies, making him an invaluable asset for businesses seeking to enhance their project delivery processes.
 
-He has been involved in many industries including Retail, Logistics and Job Management. When it comes to developing software, Piers has a passion for efficient development processes, designing quality solutions and building robust software architecture. He is very interested in understanding the way systems work and coming up with innovative solutions to complex problems.
+His experience with diverse teams, both locally and internationally, has honed his skills in effective communication, resource allocation, and cross-cultural collaboration. Fluent in Chinese, Piers has a unique understanding of the Chinese market and has successfully led IT teams in China, serving as a vital bridge between Australian and Chinese operations.
 
-Piers has a lot of experience acting as Tech Lead, Product Owner and Scrum Master on a variety of projects and frequently mentors junior developers.
+One of Piers' key strengths is his ability to identify areas for process improvement and strategize effective solutions. He has a proven track record of enhancing efficiency and productivity within teams, ensuring high-quality project outcomes.
 
-He speaks Chinese and has a keen interest in China. In particular, he is passionate about the successful management of Chinese IT teams and is one part of the bridge that connects SSW Australia and SSW China.
+In addition to his Scrum expertise, Piers is skilled at handling a variety of tasks that contribute to the smooth running of operations. From managing communication channels to updating company standards, his commitment to efficiency and excellence is evident.
+
+With his blend of leadership, Scrum expertise, and strategic thinking, Piers is well-positioned to provide valuable consulting services to businesses seeking to improve their project delivery processes and overall operational efficiency. His unique understanding of the Chinese market adds an extra dimension to his consulting capabilities, particularly for businesses looking to expand or improve their operations in China.
