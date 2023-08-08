@@ -35,12 +35,12 @@ Piers is a seasoned Delivery Lead with a strong background in software engineeri
 
 Some examples of his experience include playing the role of Tech Lead for a project automating annual review processes, acting as Product Owner for enhancements to a recruitment pipeline system and performing the role of Scrum Master on a variety of projects, including content management systems, invoicing systems, and learning management systems.
 
-Piers is a dedicated mentor to junior developers. His mentorship extends beyond formal roles and seeps into every interaction. For example, he designed and delivered a structured internship program, focused on full-stack development in Angular and .Net. He also frequently coaches developers during sprint reviews and code reviews, fostering a culture of continuous learning and empowering developers to excel in their roles.
+Piers is a dedicated mentor to junior developers. His mentorship extends beyond formal roles and seeps into every interaction. For example, he designed and delivered a structured internship program focused on full-stack development in Angular and .Net. He also frequently coaches developers during sprint reviews and code reviews, fostering a culture of continuous learning and empowering developers to excel in their roles.
 
 Piers has a knack for identifying areas for process improvement and strategising effective solutions. Notably, he improved the candidate testing procedure for a company, drastically decreasing the time to hire. He also helped key stakeholders develop strategies to delegate tasks without a drop in quality, enhancing overall efficiency.
 
 In addition to his Scrum expertise, Piers is skilled at handling tasks that contribute to the smooth running of operations. Whether he's streamlining communication processes or refining company standards, Piers' dedication to efficiency and pursuit of excellence shines through in every task he undertakes.
 
-With conversational proficiency in Chinese, Piers has successfully led IT teams in China, even aiding a team pivot business strategies to increase profitability. This experience adds an extra dimension to his consulting capabilities, particularly for businesses looking to expand or improve their operations in China.
+With conversational proficiency in Chinese, Piers has successfully led IT teams in China, playing a pivotal role in transforming business strategies that significantly increased profitability. This experience adds an extra dimension to his consulting capabilities, particularly for businesses looking to expand or improve their operations in China.
 
 With his blend of leadership, Scrum expertise, and strategic thinking, Piers is well-positioned to provide valuable consulting services to businesses seeking to improve their project delivery processes and overall operational efficiency.
