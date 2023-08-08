@@ -31,12 +31,16 @@ quoteAuthor: "Sun Tzu"
 [[imgBadge]]
 | ![dotnetcore.png](../badges/Business-scrum.png)
 
-Piers is a seasoned Delivery Lead with a strong background in software engineering. He excels in guiding teams and projects to success using Scrum methodologies, making him an invaluable asset for businesses seeking to enhance their project delivery processes.
+Piers is a seasoned Delivery Lead with a strong background in software engineering. He has worn many hats throughout his career, gaining varied experience as a Tech Lead, Product Owner, and Scrum Master. This diverse experience equips him with a unique perspective and a comprehensive understanding of project delivery processes.
 
-His experience with diverse teams, both locally and internationally, has honed his skills in effective communication, resource allocation, and cross-cultural collaboration. Fluent in Chinese, Piers has a unique understanding of the Chinese market and has successfully led IT teams in China, serving as a vital bridge between Australian and Chinese operations.
+Some examples of his experience include playing the role of Tech Lead for a project automating annual review processes, acting as Product Owner for enhancements to a recruitment pipeline system and performing the role of Scrum Master on a variety of projects, including content management systems, invoicing systems, and learning management systems.
 
-One of Piers' key strengths is his ability to identify areas for process improvement and strategize effective solutions. He has a proven track record of enhancing efficiency and productivity within teams, ensuring high-quality project outcomes.
+Piers is a dedicated mentor to junior developers. His mentorship extends beyond formal roles and seeps into every interaction. For example, he designed and delivered a structured internship program, focused on full-stack development in Angular and .Net. He also frequently coaches developers during sprint reviews and code reviews, fostering a culture of continuous learning and empowering developers to excel in their roles.
 
-In addition to his Scrum expertise, Piers is skilled at handling a variety of tasks that contribute to the smooth running of operations. From managing communication channels to updating company standards, his commitment to efficiency and excellence is evident.
+Piers has a knack for identifying areas for process improvement and strategising effective solutions. Notably, he improved the candidate testing procedure for a company, drastically decreasing the time to hire. He also helped key stakeholders develop strategies to delegate tasks without a drop in quality, enhancing overall efficiency.
 
-With his blend of leadership, Scrum expertise, and strategic thinking, Piers is well-positioned to provide valuable consulting services to businesses seeking to improve their project delivery processes and overall operational efficiency. His unique understanding of the Chinese market adds an extra dimension to his consulting capabilities, particularly for businesses looking to expand or improve their operations in China.
+In addition to his Scrum expertise, Piers is skilled at handling tasks that contribute to the smooth running of operations. Whether he's streamlining communication processes or refining company standards, Piers' dedication to efficiency and pursuit of excellence shines through in every task he undertakes.
+
+With conversational proficiency in Chinese, Piers has successfully led IT teams in China, even aiding a team pivot business strategies to increase profitability. This experience adds an extra dimension to his consulting capabilities, particularly for businesses looking to expand or improve their operations in China.
+
+With his blend of leadership, Scrum expertise, and strategic thinking, Piers is well-positioned to provide valuable consulting services to businesses seeking to improve their project delivery processes and overall operational efficiency.
