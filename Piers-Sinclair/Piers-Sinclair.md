@@ -31,11 +31,11 @@ quoteAuthor: "Sun Tzu"
 [[imgBadge]]
 | ![dotnetcore.png](../badges/Business-scrum.png)
 
-Piers is a seasoned Delivery Lead with a strong background in software engineering. He has worn many hats throughout his career, gaining varied experience as a Tech Lead, Product Owner, and Scrum Master. This diverse experience equips him with a unique perspective and a comprehensive understanding of project delivery processes.
+Piers is a seasoned Delivery Lead with a strong background in Software Engineering. He has worn many hats throughout his career, gaining varied experience as a Tech Lead, Product Owner, and Scrum Master. This diverse experience equips him with a unique perspective and a comprehensive understanding of project delivery processes.
 
-Some examples of his experience include playing the role of Tech Lead for a project automating annual review processes, acting as Product Owner for enhancements to a recruitment pipeline system and performing the role of Scrum Master on a variety of projects, including content management systems, invoicing systems, and learning management systems.
+Some examples of his experience include playing the role of Tech Lead for a project automating Annual Review processes, acting as Product Owner for enhancements to a recruitment pipeline system and performing the role of Scrum Master on a variety of projects, including Content Management Systems (CMS), Invoicing Systems, and Learning Management Systems (LMS).
 
-Piers is a dedicated mentor to junior developers. His mentorship extends beyond formal roles and seeps into every interaction. For example, he designed and delivered a structured internship program focused on full-stack development in Angular and .Net. He also frequently coaches developers during Sprint Reviews and code reviews, fostering a culture of continuous learning and empowering developers to excel in their roles.
+Piers is a dedicated mentor to junior developers. His mentorship extends beyond formal roles and seeps into every interaction. For example, he designed and delivered a structured internship program focused on full-stack development in Angular and .Net. He also frequently coaches developers during Sprint Reviews and Code Reviews, fostering a culture of continuous learning and empowering developers to excel in their roles.
 
 Piers has a knack for identifying areas for process improvement and strategising effective solutions. Notably, he improved the candidate testing procedure for a company, drastically decreasing the time to hire. He also helped key stakeholders develop strategies to delegate tasks without a drop in quality, enhancing overall efficiency.
 
