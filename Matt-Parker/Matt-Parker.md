@@ -6,6 +6,9 @@ quoteAuthor: "Robert C. Martin"
 ---
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
 | ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
@@ -22,9 +25,6 @@ quoteAuthor: "Robert C. Martin"
 
 [[imgBadge]]
 | ![React](../badges/Developer-react.png)
-
-[[imgBadge]]
-| ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
 
 Matt is a dedicated Software Engineer at SSW who leverages his expertise in .NET, Blazor, and Clean Architecture to deliver exceptional, modern solutions for our clients. Matt has successfully helped many small to large companies, utilizing his expertise to make sure they get the maximum value from their budget. Matt understands the importance of maintainability, system efficiency, cost-effectiveness, and rigorous testing, and he uses this expertise to build modern enterprise applications that clients can be proud of.
 
