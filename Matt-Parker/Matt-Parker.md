@@ -15,6 +15,9 @@ quoteAuthor: "Robert C. Martin"
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
+| ![Azure Functions](../badges/Developer-azure-function.png)
+
+[[imgBadge]]
 | ![Blazor](../badges/Developer-blazor.png)
 
 [[imgBadge]]
