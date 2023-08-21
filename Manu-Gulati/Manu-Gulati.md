@@ -7,6 +7,6 @@ quote: "Everything should be made as simple as possible, but not simpler."
 quoteAuthor: "Albert Einstein"
 ---
 
-Manu is a hands-on IT professional who loves using technology strategically to solve business problems. He enjoys applying the breadth of tech to provide a variety of solutions that help organizations run more efficiently and profitably. Manu has expertise in data modeling and in designing sophisticated reports in Power BI. Additionally, he can effectively collaborate with business leaders to design low-code applications on Microsoft's Power Platform that help businesses quickly digitize parts of their processes. Manu has a Masters in Computer Science and an MBA. This helps him tie together both business and technical aspects of a problem and design holistic solutions. 
+Manu is a hands-on IT professional who thrives on strategically leveraging technology to solve complex business challenges. He enjoys applying the breadth of technology to deliver solutions that enhance operational efficiency and drive profitability for organizations. Manu has expertise in data modeling and in designing sophisticated reports in Power BI. He also loves collaborating with business leaders to design low-code applications on Microsoft's Power Platform to rapidly digitize and optimize various aspects of their processes. Holding both a Masters in Computer Science and an MBA, Manu adeptly ties together both business and technical aspects of a problem to design holistic solutions. 
 
 In his spare time he enjoys hiking and playing club cricket. 
