@@ -82,4 +82,4 @@ He also runs two very successful open source projects:
 * [Clean Architecture Solution Template](https://github.com/jasontaylordev/cleanarchitecture) <img src="https://img.shields.io/github/stars/jasontaylordev/cleanarchitecture?style=flat">
 * [Northwind Traders](https://github.com/jasontaylordev/northwindtraders) <img src="https://img.shields.io/github/stars/jasontaylordev/northwindtraders?style=flat" />
 
-[Click here](https://jasontaylor.dev/speaking/) to view upcoming and past speaking events.
+[View upcoming and past speaking events](https://jasontaylor.dev/speaking).

@@ -25,7 +25,13 @@ quoteAuthor: "Atlas"
 [[imgBadge]]
 | ![Blazor](../badges/Developer-j-query.png)
 
-👋 Jack is a 💻 Software Developer at SSW based in 🌞 Brisbane, QLD, with expertise in C#, .NET Core, .NET Core MVC, and Blazor.
+[[imgBadge]]
+| ![Blazor](../badges/Developer-OpenAI-ChatGPT.png)
+
+[[imgBadge]]
+| ![Blazor](../badges/Developer-OpenAI.png)
+
+👋 Jack is a 💻 Software Developer at SSW based in 🌞 Brisbane, QLD, with expertise in C#, .NET, and Blazor.
 
 In addition to Jack's technical proficiency, they are also an 🏋️ avid weightlifter, with a passion for staying active and pushing their physical limits. This dedication to fitness is reflected in their work ethic and commitment to achieving excellence in all aspects of their life.
 

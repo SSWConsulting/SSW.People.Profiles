@@ -76,7 +76,7 @@ PDS is a long time client with SSW. We helped develop their ruggedized mobile ap
 | ![](./Images/Bio/energetics_logo.png)  
 **Energetics (BRW Client Choice Award Winner for 2011)**  
 
-Energetics were looking towards SSW to take over the development of their existing One2Five web application from their previous vendor. We conducted a software audit, migration to .NET 4.0, code clean-up involving merging two separate code bases for English and Japanese into the one globalized version and implemented a many enhancements and bug fixes to streamline the use of the web application for facilitators and administrators. We implemented features into their offline Windows Forms application to bring it to parity with the web application and implemented a ClickOnce deployment mechanism for easier delivery. We worked using the scrum methodology and consistently met deadlines and delivered extra functionality.   
+Energetics were looking towards SSW to take over the development of their existing One2Five web application from their previous vendor. We conducted a software audit, migration to .NET 4.0, code clean-up involving merging two separate code bases for English and Japanese into the one globalized version and implemented a many enhancements and bug fixes to streamline the use of the web application for facilitators and administrators. We implemented features into their offline Windows Forms application to bring it to parity with the web application and implemented a ClickOnce deployment mechanism for easier delivery. We worked using the Scrum methodology and consistently met deadlines and delivered extra functionality.   
 
 [http://www.energetics.com.au](http://www.energetics.com.au/)  
 **Related Technology**: ASP.NET, Windows Forms, Click Once, jQuery, AJAX, Globalization  
@@ -198,8 +198,6 @@ TransGrid is a government utilities company with their own development teams. Th
 [https://www.transgrid.com.au/](https://www.transgrid.com.au/)  
 Related Technology: TFS, WCF, ASP.NET, Scrum, Agile  
 
-
-
 Some of Eric's highlights have been:
 
 *   **TFS 2010, 2012 & 2013 Migration**  
@@ -211,5 +209,3 @@ Related Technology: VB.NET, VSTO , Windows Form, Outlook, XML, XSL.
 *   **SSW Web Pager**  
 SSW Web Pager is a utility that sends any web page to your inbox. This utility has many applications - from emailing you the latest news daily to emailing daily and monthly HTML reports to your administrator. Everything you need will be in one centralized location - the Inbox, saving you from opening many web pages to view all the pages you visit daily.  
 Related Technology: C#, Windows Form, Socket Programming, Regular Expression, XML, XSL.
-
-##### You will grow to love this one!  

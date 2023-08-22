@@ -1,7 +1,7 @@
 ---
 id: "d427ead4-f1cc-ec11-a7b6-00224815890b"
 
-qualifications: "Bachelor of Computer Science and Biology"
+qualifications: "Bachelor of Computer Science and Biology, Master of Computer Science"
 
 quote: "It is never too late to be what you might have been."
 quoteAuthor: "George Eliot"

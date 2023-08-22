@@ -12,7 +12,7 @@ Taqwa is one of two main electricians working out of the SSW Newcastle office. H
 
 He also has experience with the automation of home and commercial electrical and security systems. 
 
-Taqwa’s work in both the commercial and industrial spheres means that he has a broad range of experience with all manner of project work, including home networking and IT systems, CCTV installation and maintenance, and Control electrical and wiring work.
+Taqwa’s work in both the commercial and industrial spheres means that he has a broad range of experience with all manner of project work, including home networking and IT systems, CCTV installation and maintenance, and Control4 electrical and wiring work.
 
 
 
