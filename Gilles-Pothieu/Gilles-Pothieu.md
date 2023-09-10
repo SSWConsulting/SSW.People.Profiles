@@ -23,4 +23,5 @@ quoteAuthor: "Aristotle"
 ---
 
 Gilles is a SSW Software Developer at SSW Europe (France), who has been working with the Angular/.NET Core environment for nearly 4 years. He began his career as a web developer and later joined an engineering team that worked on a large application for an insurance company using a .NET Core/Angular-AngularJS/MongoDB environment.  
+  
 Patient and passionate, Gilles enjoys creating responsive applications with user-friendly and optimized UX as much as he enjoys architecting a back-office. Being curious, he enjoys using his free time to explore new technologies by both creating small applications to learn new programming languages and experimenting with emerging frameworks.
