@@ -11,7 +11,6 @@ qualifications: "Bachelor of Information Technology"
 ---
 
 
-Of course, Warwick! Here's a revised and fleshed-out profile description for you:
 
 Warwick is a seasoned Systems Administrator and IT Solutions Architect with over two decades of experience in deploying, managing, and optimizing a diverse range of technology infrastructures. His depth of expertise encompasses the Azure ecosystem—including Azure Active Directory, Azure Virtual Network, Bicep, and Azure SQL. As a staunch advocate for automation, Warwick is proficient in using tools like PowerShell, GitHub Actions, and Power Automate to streamline system processes, ensuring efficient software compatibility and effortless system upgrades or installations.
 
