@@ -7,7 +7,7 @@ qualifications:  "Dip IT MCP"
 quote:  "Share your knowledge. It's the way to achieve immortality"
 ---
 
- 
+
 [[imgBadge]]
 | ![Sitefinity](../badges/Developer-sitefinity.png)
 
@@ -20,7 +20,7 @@ Some recent clients include:
 *   **Chubb**([www.chubb.com.au](http://www.chubb.com.au/))  
 Massive optimisation work on slow intranet/payroll site.  
 Related Technology: ASP.NET 2.0 Application, SQL Server 2005
-*   **Estate Master** 
+*   **Estate Master** ([https://www.altusgroup.com/argus/argus-estatemaster/](https://www.altusgroup.com/argus/argus-estatemaster/))
 Implementing registration and Sales Force integration into their product suite  
 Related Technology: ASP.NET 2.0 Application, VB.NET Application, SQL Server 2000, Web Services, MS Access
 *   **Westbus/Comfort Delgro Cabcharge** ([www.cdcbus.com.au](http://www.cdcbus.com.au/))  
