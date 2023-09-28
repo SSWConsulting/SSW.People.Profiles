@@ -8,6 +8,9 @@ quoteAuthor: "Steve Jobs"
 ---
 
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
 | ![](../badges/Certification-microsoft-azure-ai-fundamentals.png)
 
 [[imgBadge]]
@@ -35,6 +38,8 @@ quoteAuthor: "Steve Jobs"
 | ![](../badges/Developer-python.png)
 
 
-Harry is an SSW Software Engineer working in the Sydney office. He has years of experience in building comprehensive software solutions built in C# and Javascript. Harry is highly proficient with a wide range of both frontend and backend frameworks including React, Angular, ASP.NET Core, NextJS and Svelte. He is currently learning .NET MAUI.  
+Harry is an SSW Software Engineer working in the Sydney office. He has years of experience in building comprehensive software solutions built in C# and Javascript. Harry is highly proficient with a wide range of both frontend and backend frameworks including React, Angular, ASP.NET Core, Next.js and Svelte.
+
+He has worked on a significant migration from a complex legacy ASP.NET Framework Web Forms solution to a newer Next.js GitHub-based CMS-backed solution. Harry has a significant amount of experience working with Next.js to solve significant business problems.   
 
 Harry is passionate about learning new technologies and is always looking for the latest and greatest technology to sink his teeth into. He is always on the lookout for ways to build fast, scaleable applications and knows deeply the importance of authoring high quality software. 
