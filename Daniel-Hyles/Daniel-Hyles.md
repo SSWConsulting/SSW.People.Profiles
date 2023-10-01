@@ -3,10 +3,8 @@ id: "c86a67e8-f459-dd11-b3a3-00155d012206"
 role: "Developers"
 jobTitle:  "Solution Architect"
 qualifications:  "Dip IT MCP"
-
-quote:  "Share your knowledge. It's the way to achieve immortality"
+quote: "Share your knowledge. It's the way to achieve immortality"
 ---
-
 
 [[imgBadge]]
 | ![Sitefinity](../badges/Developer-sitefinity.png)
@@ -15,26 +13,36 @@ Daniel H is a Senior Software Architect at SSW, a Microsoft Certified Partner sp
 
 Daniel also helps many clients and SSW with network administration. Daniel helps develop internal products such as SSW Access Reporter.
 
-Some recent clients include:
+Some clients include:
 
-*   **Chubb**([www.chubb.com.au](http://www.chubb.com.au/))  
-Massive optimisation work on slow intranet/payroll site.  
-Related Technology: ASP.NET 2.0 Application, SQL Server 2005
-*   **Estate Master** ([https://www.altusgroup.com/argus/argus-estatemaster/](https://www.altusgroup.com/argus/argus-estatemaster/))
-Implementing registration and Sales Force integration into their product suite  
-Related Technology: ASP.NET 2.0 Application, VB.NET Application, SQL Server 2000, Web Services, MS Access
-*   **Westbus/Comfort Delgro Cabcharge** ([www.cdcbus.com.au](http://www.cdcbus.com.au/))  
-Data collaboration into SQL from many legacy database systems, Charter booking system, Customer service system  
-Related Technology: SQL Reporting Services, OLAP, ASP.NET
-*   **Sortstec** ([www.sportstec.com](http://www.sportstec.com/Profile_About_Sportstec.htm))  
-High Definition Video upload/Download site, Game coding logging device for PDAs  
-Related Technology: C# PDA Application, ASP.NET Application, Web Services
-*   **Grays Online**([www.graysonline.com](http://www.graysonline.com/))  
-Warehousing PDA barcode system  
-Related Technology: C# PDA Application, Web Services
-*   **Quicken** (Micrcosoft Work Smart Tag plug-in)
-*   **Toyota** (Upsize Access application to SQL, DTS)
-*   **Colonial First State** (ASP, SQL, Intranet application)
-*   **Bradcorp** (Migration from Exchange 5.5, Network Admin, ASP.NET)
+* **Chubb**   
+  Massive optimisation work on slow intranet/payroll site.   
+  Related Technologies: ASP.NET 2.0 Application, SQL Server 2005
 
-His favourite quote is *"Share your knowledge. It's the way to achieve immortality".*
+* **Estate Master**  
+  Implementing registration and Sales Force integration into their product suite.   
+  Related Technologies: ASP.NET 2.0 Application, VB.NET Application, SQL Server 2000, Web Services, MS Access
+
+* **Westbus/Comfort Delgro Cabcharge**   
+  Data collaboration into SQL from many legacy database systems, Charter booking system, Customer service system.   
+  Related Technologies: SQL Reporting Services, OLAP, ASP.NET
+
+* **Sortstec**   
+  High Definition Video upload/Download site, Game coding logging device for PDAs.   
+  Related Technologies: C# PDA Application, ASP.NET Application, Web Services
+
+* **Grays Online**  
+  Warehousing PDA barcode system.    
+  Related Technologies: C# PDA Application, Web Services
+  
+* **Quicken**  
+  Micrcosoft Work Smart Tag plug-in.
+
+* **Toyota**  
+  Upsize Access application to SQL, DTS.
+
+* **Colonial First State**  
+  ASP, SQL, Intranet application.
+
+* **Bradcorp**   
+  Migration from Exchange 5.5, Network Admin, ASP.NET.
