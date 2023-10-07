@@ -13,6 +13,9 @@ quoteAuthor: "Henry Ford"
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-power-platform-fundamentals.png)
 
+[[imgBadge]]
+| ![](../badges/Certification-microsoft-power-platform-developer-associate.png)
+
 ---
 
 Charles is an SSW Software Developer based in our Sydney office.
