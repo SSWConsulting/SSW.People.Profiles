@@ -31,7 +31,7 @@ quoteAuthor: "Atlas"
 [[imgBadge]]
 | ![Blazor](../badges/Developer-OpenAI.png)
 
-Jack is a Software Engineer in 🌞 Brisbane. He's passionate about C#, .NET and Blazor and I love crafting innovative software solutions that make a real impact. Outside the coding world, you'll find him in the gym as an 🏋️ avid weightlifter, always challenging himself to push beyond limits.
+Jack is a Software Engineer in 🌞 Brisbane. He's passionate about C#, .NET and Blazor and loves crafting innovative software solutions that make a real impact. Outside the coding world, you'll find him in the gym as an 🏋️ avid weightlifter, always challenging himself to push beyond limits.
 
 Jack is also one of the developers behind SSW's [RulesGPT bot](https://rulesgpt.ssw.com.au/) and is ready to help you with your AI needs.
 
