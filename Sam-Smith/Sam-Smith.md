@@ -9,7 +9,7 @@ quoteAuthor: "Dr. Suess"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Sam is the Account Manager for Victoria and also handles leads from Queensland, WA, and South Australia.
+Sam is the Account Manager for Victoria and also handles leads from Queensland, Western Australia, and South Australia.
 
 Involved in the foundations of every new project, Sam is the first port of call for a new client. He discusses your needs in an Initial Meeting, assessing which of our developers are best suited to help with the project. After this he spearheads a Specification Review, with two talented developers, to lay out a roadmap for the project ahead. Finally, he hands over to your new Development team, who will take the reigns and start work on your new solution. Every step of the way he's there to talk to and relay updates to-and-from the team.
 
