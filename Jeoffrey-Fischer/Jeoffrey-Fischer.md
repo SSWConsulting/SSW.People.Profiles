@@ -7,8 +7,6 @@ quote: "Don't believe everything you read on the internet."
 quoteAuthor: "Abraham Lincoln"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
-
 Jeoffrey Fischer (PhD) is a **Software Engineer** based at SSW's Sydney office. 
 
 In 2023, fueled by a growing interest in Software Development, Jeoffrey embarked on a career transition by participating in the **FireBootCamp program** at SSW, which provided valuable training and preparation for the world of software engineering. 
