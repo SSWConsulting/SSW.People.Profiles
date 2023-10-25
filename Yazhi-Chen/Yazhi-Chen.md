@@ -14,7 +14,7 @@ quoteAuthor: "Peter Drucker"
 | ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
-| ![C#](../badges/Developer-c-sharp.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
 | ![Angular](../badges/Developer-angular.png)
