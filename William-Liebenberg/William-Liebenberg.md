@@ -74,27 +74,27 @@ His technology toolbelt includes:
 * Distributed Systems / Microservices
 * Event Driven Architecture
 * DevOps
- * Azure DevOps
- * GitHub
- * Octopus Deploy
+  * Azure DevOps
+  * GitHub
+  * Octopus Deploy
 * Software Development
- * ASP.NET Core
- * Blazor
- * Docker
- * [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
+  * ASP.NET Core
+  * Blazor
+  * Docker
+  * [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
 * Cloud
- * Azure Cosmos DB
- * Azure SQL
- * Azure Networking
- * Azure App Services
- * Azure Functions
- * Azure Container Instances (ACI)
- * Azure Container Apps (ACA)
- * [Azure Kubernetes Services](https://www.ssw.com.au/consulting/kubernetes)
+  * Azure Cosmos DB
+  * Azure SQL
+  * Azure Networking
+  * Azure App Services
+  * Azure Functions
+  * Azure Container Instances (ACI)
+  * Azure Container Apps (ACA)
+  * [Azure Kubernetes Services](https://www.ssw.com.au/consulting/kubernetes)
 * Infrastructure as Code (IaC)
- * Azure Bicep
- * Terraform
- * Pulumi
+  * Azure Bicep
+  * Terraform
+  * Pulumi
 * and more...
 
 Software Development and DevOps aren't his only strong points. He is a highly motivated [Scrum](https://www.ssw.com.au/ssw/Consulting/Scrum.aspx) practitioner, [Event Storming](https://www.ssw.com.au/rules/event-storming) [Facilitator](https://www.ssw.com.au/rules/event-storming-workshop) and strong team player that thinks outside of the box! William has had great success in both starting new Scrum teams, and also upskilling and mentoring existing development teams.
