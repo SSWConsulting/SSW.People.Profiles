@@ -50,19 +50,19 @@ quote:  "Make a plan! Make it happen!"
 
 ---
 
-William is a **Solution Architect** with over 18 years of professional experience spanning multiple industries such as Heavy Engineering, Mining, 3D Graphics, Education and Finance.
+William is a **Solution Architect** with over 20 years of professional experience spanning multiple industries such as Heavy Engineering, Mining, 3D Graphics, Education and Finance.
 
 With his many years of experience, William has learnt how to adapt to new industries, and this gives him a unique talent for synchronizing with his clients' business languages and processes to successfully build their solutions.
 
 ## Application Modernization and Cloud Adoption
 
-He is one of the core engineers at SSW and specializes in developing [Enterprise Cloud Applications](https://www.ssw.com.au/ssw/Consulting/Web-Applications.aspx) hosted on [Azure](https://www.ssw.com.au/ssw/Consulting/Azure.aspx).
+He is one of the core engineers at SSW and specializes in developing [Enterprise Cloud Applications](https://www.ssw.com.au/consulting/web-applications) hosted on [Azure](https://www.ssw.com.au/consulting/azure).
 
-William is a specialist in [Application Modernization](https://www.ssw.com.au/ssw/Consulting/Strategic-Architecture.aspx) and helped some of Australia's largest software companies and financial institutions through digital transformation processes to successfully [migrate to Azure](https://www.ssw.com.au/ssw/Consulting/Azure.aspx) and take full advantage of the Cloud.
+William has helped some of Australis's largest software companies and financial institutions through Application Modernization processes, [.NET Migrations](https://www.ssw.com.au/consulting/net-8), and [Cloud Adoptions](https://www.ssw.com.au/consulting/azure).
 
 ## DevOps Technologies
 
-William has a passion for automating DevOps processes with GitHub and Azure DevOps. Definitely not a fan of ClickOps!
+William has a passion for automating [DevOps](https://www.ssw.com.au/rules/rules-to-better-devops) processes with [GitHub](https://www.ssw.com.au/rules/rules-to-better-github) and [Azure DevOps](https://www.ssw.com.au/rules/rules-to-better-devops-using-azure-devops). Definitely not a fan of ClickOps!
 
 He also has experience in using other tools such as VSTS/TFS, BitBucket, TeamCity, Jenkins, Bamboo and Octopus Deploy.
 
@@ -70,26 +70,34 @@ He also has experience in using other tools such as VSTS/TFS, BitBucket, TeamCit
 
 His technology toolbelt includes:
 
-* Azure DevOps
-* GitHub
-* Octopus Deploy
-* ASP.NET Core
-* Blazor
-* Docker
-* [Kubernetes](https://www.ssw.com.au/ssw/Consulting/Kubernetes.aspx)
 * Serverless Computing
-  * Azure Functions
-  * Azure Container Instances (ACI)
-  * Azure Container Apps (ACA)
 * Distributed Systems / Microservices
-* [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
 * Event Driven Architecture
-* Azure Cosmos DB
-* Azure SQL
-* Azure Networking
+* DevOps
+ * Azure DevOps
+ * GitHub
+ * Octopus Deploy
+* Software Development
+ * ASP.NET Core
+ * Blazor
+ * Docker
+ * [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
+* Cloud
+ * Azure Cosmos DB
+ * Azure SQL
+ * Azure Networking
+ * Azure App Services
+ * Azure Functions
+ * Azure Container Instances (ACI)
+ * Azure Container Apps (ACA)
+ * [Azure Kubernetes Services](https://www.ssw.com.au/consulting/kubernetes)
+* Infrastructure as Code (IaC)
+ * Azure Bicep
+ * Terraform
+ * Pulumi
 * and more...
 
-Development and DevOps aren't his only strong points. He is a highly motivated [Scrum](https://www.ssw.com.au/ssw/Consulting/Scrum.aspx) practitioner, strong team player and thinks outside of the box! William has had great success in both starting new Scrum teams, and also upskilling and mentoring existing development teams.
+Software Development and DevOps aren't his only strong points. He is a highly motivated [Scrum](https://www.ssw.com.au/ssw/Consulting/Scrum.aspx) practitioner, [Event Storming](https://www.ssw.com.au/rules/event-storming) [Facilitator](https://www.ssw.com.au/rules/event-storming-workshop) and strong team player that thinks outside of the box! William has had great success in both starting new Scrum teams, and also upskilling and mentoring existing development teams.
 
 ## Internal Projects
 
@@ -103,7 +111,7 @@ Relevant technologies: Azure Functions, Azure Bots, Google DialogFlow Firebase, 
 
 ## Training
 
-William is a trainer on the [SSW Azure Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Azure-Superpowers-Tour.aspx) at major cities around Australia and Online, and has received top evaluation scores!
+William is a trainer on the [SSW Azure Superpowers Tour](https://www.ssw.com.au/events/azure-superpowers-tour) at major cities around Australia and Online, and has received top evaluation scores!
 
 [[imgLg]]
 | ![SSW Azure Superpowers Tour](./Images/Bio/azure-superpowers-banner.png)
