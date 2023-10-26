@@ -51,6 +51,6 @@ Check out Tylah's talk on how easy it is to get started with Vercel:
 # Internal Projects
 
 ## SSW.TimePro
-Tylah leads a team to modernize an invoicing application from .NET Framework and AngularJS to .NET 7 and Angular 14.
+Tylah leads a team to modernize an invoicing application from .NET Framework and AngularJS to .NET 8 and Angular 14.
 
 **SSW.TimePro** is the primary application used by SSW employees every single day to track timesheets, create invoices for clients, and generate reports. This application actively communicates with Dynamics CRM, Azure DevOps and Xero to deliver a quick and easy user experience.
