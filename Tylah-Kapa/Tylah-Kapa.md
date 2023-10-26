@@ -10,7 +10,7 @@ quoteAuthor: "Patrick McKenzie"
 [Editing profiles]: https://github.com/SSWConsulting/SSW.People.Profiles/wiki/5.-Editing-profiles
 
 [[imgBadge]]
-| ![Azure_Fundamentals_Badge](../badges/Certification-microsoft-azure-developer-associate.png)
+| ![Azure_Developer_Badge](../badges/Certification-microsoft-azure-developer-associate.png)
 
 [[imgBadge]]
 | ![Azure_Fundamentals_Badge](../badges/Certification-microsoft-azure-fundamentals.png)
@@ -36,9 +36,17 @@ quoteAuthor: "Patrick McKenzie"
 [[imgBadge]]
 | ![React image badge](../badges/Developer-react.png)
 
-Tylah is an SSW Software Engineer specialising in developing web applications using .NET Core, ASP.NET Core and EF Core. Tylah has experience with a range of modern front-end technologies including Angular, React and Blazor, and has a background in games development with the Unity Engine.
+Tylah is an SSW Software Engineer specialising in developing web applications using .NET Core, ASP.NET Core and EF Core. Tylah has experience with a range of modern front-end technologies including NextJs, Angular and Blazor, and has a background in games development with the Unity Engine.
 
 Tylah is invested in keeping applications up to date with the latest tech, and applying [Clean Architecture](https://www.ssw.com.au/rules/rules-to-better-clean-architecture) best practices to his work. 
+
+# Community Events
+
+Tylah strives to be a part of the local and global development community. If you keep a keen eye at events such as [DDD Brisbane](https://www.dddbrisbane.com/) or [NDC Sydney](https://ndcsydney.com/), you'll be sure to spot him.
+
+Check out Tylah's talk on how easy it is to get started with Vercel:
+
+<iframe width="710" height="400" src="https://www.youtube.com/embed/YqbdwNxA_sI?si=h40LxCwMwZWM4nBH" frameborder="0"></iframe>
 
 # Internal Projects
 
@@ -46,6 +54,3 @@ Tylah is invested in keeping applications up to date with the latest tech, and a
 Tylah leads a team to modernize an invoicing application from .NET Framework and AngularJS to .NET 7 and Angular 14.
 
 **SSW.TimePro** is the primary application used by SSW employees every single day to track timesheets, create invoices for clients, and generate reports. This application actively communicates with Dynamics CRM, Azure DevOps and Xero to deliver a quick and easy user experience.
-
-# Community Events
-Tylah strives to be a part of the local and global development community. If you keep a keen eye at events such as [DDD Brisbane](https://www.dddbrisbane.com/) or [NDC Sydney](https://ndcsydney.com/), you'll be sure to spot him.
