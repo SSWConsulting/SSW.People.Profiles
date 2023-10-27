@@ -1,7 +1,7 @@
 ---
 id: "7fd87bba-9f10-ee11-8f6d-6045bd3df63e"
 
-qualifications: "Bachelors of Science in Computer Science and Technology"
+qualifications: "SSW FireBootCamp Graduate"
 
 quote: "Be the hero of your own story"
 quoteAuthor: "Joe Rogan"
