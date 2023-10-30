@@ -8,6 +8,9 @@ quoteAuthor: "Elon Musk"
 
 ---
 [[imgBadge]]
+| ![.NET Core](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
