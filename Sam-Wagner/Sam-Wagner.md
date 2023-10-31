@@ -47,19 +47,19 @@ quoteAuthor: "Sam Wagner"
 
 Having honed his expertise in low-level programming, Sam seamlessly transitioned into the realm of web development, where he brings his acute understanding of system mechanics to the higher-level frameworks. With comprehensive hands-on experience in ASP.NET Core, EF Core, and Angular, he excels in crafting state-of-the-art web applications.
 
-**ASP.NET Core**
+## ASP.NET Core
 As a proficient .NET developer, Sam has an inherent passion for developing WebAPIs with ASP.NET Core. His commitment lies in constructing robust, secure, and efficient backends, ensuring they serve as a reliable foundation for the applications they power.
 
-**Angular & Front-End Design**
+## Angular & Front-End Design
 Bridging his software engineering skills with an innate design sensibility, Sam finds joy in front-end development. His dedication to aesthetics and functionality is evident in every project, turning complex challenges into beautifully orchestrated user experiences.
 
-**Blazor**
+## Blazor
 Harnessing the power and reliability of Microsoft's .NET, Sam specializes in crafting transformative Blazor applications. His solutions not only enhance business operations but also provide intuitive interfaces that resonate with end-users.
 
-**Flutter**
+## Flutter
 Diving into the mobile domain, Sam adopts Flutter for its versatility. By integrating his front-end, back-end, and low-level coding prowess, he develops mobile applications that are robust, dynamic, and user-centric.
 
-**Team Dynamics & Agile Methodologies**
+## Team Dynamics & Agile Methodologies
 In addition to his technical acumen, Sam is a seasoned team player. He believes in the power of collaborative synergy, especially within Agile environments. As an advocate of the Scrum framework, he ensures that projects are timely, adaptive, and aligned with stakeholder expectations.
 
 ---
