@@ -43,22 +43,25 @@ quoteAuthor: "Sam Wagner"
 [[imgBadge]]
 | ![SQL Server](../badges/Developer-sql-server.png)
 
-Sam comes from a background of low-level programming, but he has cut his teeth on web development using ASP.NET core, EF Core and Angular. He's also worked with the Microsoft Power Platform using PowerApps, PowerAutomate and the Dataverse to build Dynamics CRMs.
+*Sam Wagner: Full-stack Software Engineer with a Flair for Front-End Excellence*
 
-## .NET
+Having honed his expertise in low-level programming, Sam seamlessly transitioned into the realm of web development, where he brings his acute understanding of system mechanics to the higher-level frameworks. With comprehensive hands-on experience in ASP.NET Core, EF Core, and Angular, he excels in crafting state-of-the-art web applications.
 
-Sam's loves building WebAPIs with ASP.NET Core, working to build fast, safe and reliable backends that last.
+**ASP.NET Core**
+As a proficient .NET developer, Sam has an inherent passion for developing WebAPIs with ASP.NET Core. His commitment lies in constructing robust, secure, and efficient backends, ensuring they serve as a reliable foundation for the applications they power.
 
-## Angular
+**Angular & Front-End Design**
+Bridging his software engineering skills with an innate design sensibility, Sam finds joy in front-end development. His dedication to aesthetics and functionality is evident in every project, turning complex challenges into beautifully orchestrated user experiences.
 
-Front-end web development is a subtle love of Sam's. A sneaky designer at heart 🦝, he loves all the trials and tribulations that come with building a beautiful front-end.
+**Blazor**
+Harnessing the power and reliability of Microsoft's .NET, Sam specializes in crafting transformative Blazor applications. His solutions not only enhance business operations but also provide intuitive interfaces that resonate with end-users.
 
-Bugs be gone! 🐛🔫
+**Flutter**
+Diving into the mobile domain, Sam adopts Flutter for its versatility. By integrating his front-end, back-end, and low-level coding prowess, he develops mobile applications that are robust, dynamic, and user-centric.
 
-## Blazor
+**Team Dynamics & Agile Methodologies**
+In addition to his technical acumen, Sam is a seasoned team player. He believes in the power of collaborative synergy, especially within Agile environments. As an advocate of the Scrum framework, he ensures that projects are timely, adaptive, and aligned with stakeholder expectations.
 
-A talented .NET developer, Sam specializes in creating cutting-edge Blazor applications that transform businesses and captivate users while leveraging the safety and reliability of Microsoft's .NET.
+---
 
-## Flutter
-
-Building mobile apps is a great way to flex all of the front-end, back-end, and low level coding skills in a platform that's robust, fun to work with and build upon. Flutter's Great! 🦋
+In a world of ever-evolving tech, Sam remains at the forefront, blending his love for coding with a commitment to excellence. Whether it's exterminating bugs or innovating solutions, he's the tech maestro every team needs.
