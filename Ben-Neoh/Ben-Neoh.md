@@ -40,7 +40,7 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Developer-dotnet-mvc.png)
 
 ---
-Ben is an software developer based in the Sydney office and one of the top students in the UTS engineering faculty, currently pursuing a bachelor's degree in software engineering at the University of Technology Sydney. He is a quick learner and favours front-end technologies. His strongest area of expertise is Angular, and he is always eager to learn about new technologies.
+Ben is an software developer based in the Sydney office and one of the top students in the UTS engineering faculty, currently pursuing a bachelor's degree in software engineering at the University of Technology Sydney. He is a quick learner, his strongest area of expertise is Angular and frontend technologies. He recently initiated his exploration of cloud technology.
 
 His Favourite tools include: 
 - **Angular** + **NgRx**
@@ -50,5 +50,11 @@ His Favourite tools include:
 - Docker/Containerization
 - Azure
 
-  
+## Frontend  
+He has experience handling complex state management within Angular projects, specifically by implementing NgRx on an invoicing system. Implemented complex timesheet forms in Angular using reactive forms and custom value accessors
 
+## Backend + Third party integration
+He's been implementing Xero Accounting integration to internal invoicing projects to enhance financial management and reporting. Ben is actively involved in the ongoing .NET 8 migration project, contributing to the transition from .NET Framework to .NET 8 and upgrading project dependencies to ensure optimal compatibility. In detail, replacing the legacy EDMX technology with EF Core and refactoring legacy code into clean architecture patterns with best practices.
+
+## Internal Role
+He is also one of the tech leads for SSW FireBootCamp, guiding interns to follow best practices, maintain code quality through PR reviews, and share his extensive knowledge in Angular and full-stack development with the intern.
