@@ -28,6 +28,9 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
+| ![](../badges/Developer-docker.png)
+
+[[imgBadge]]
 | ![](../badges/Developer-node-js.png)
 
 [[imgBadge]]
