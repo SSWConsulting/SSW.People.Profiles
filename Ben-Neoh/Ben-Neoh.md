@@ -19,6 +19,9 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Developer-rxjs.png)
 
 [[imgBadge]]
+| ![](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
 | ![](../badges/Designer-web-css3.png)
 
 [[imgBadge]]
@@ -34,10 +37,18 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![](../badges/Developer-dotnet-core.png)
-
-[[imgBadge]]
 | ![](../badges/Developer-dotnet-mvc.png)
 
 ---
-Ben is a software developer working in the Sydney office, pursuing a bachelor's degree in software engineering at the University of Technology Sydney. He is a quick learner and favours front-end development. His strongest area of expertise is Angular, and he is always eager to learn about new technologies.
+Ben is an software developer based in the Sydney office and one of the top students in the UTS engineering faculty, currently pursuing a bachelor's degree in software engineering at the University of Technology Sydney. He is a quick learner and favours front-end technologies. His strongest area of expertise is Angular, and he is always eager to learn about new technologies.
+
+His Favourite tools include: 
+- **Angular** + **NgRx**
+- **RXJS**
+- **.NET**
+- Git
+- Docker/Containerization
+- Azure
+
+  
+
