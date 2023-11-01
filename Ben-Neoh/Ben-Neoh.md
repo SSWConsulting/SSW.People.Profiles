@@ -16,7 +16,7 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Developer-ngrx.png)
 
 [[imgBadge]]
-| ![](../badges/Designer-web-html5.png)
+| ![](../badges/Developer-rxjs.png.png)
 
 [[imgBadge]]
 | ![](../badges/Designer-web-css3.png)
