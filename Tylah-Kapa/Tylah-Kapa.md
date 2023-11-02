@@ -46,7 +46,7 @@ Tylah strives to be a part of the local and global development community. If you
 
 Check out Tylah's talk on how easy it is to get started with Vercel:
 
-<iframe width="710" height="400" src="https://www.youtube.com/embed/YqbdwNxA_sI?si=h40LxCwMwZWM4nBH" frameborder="0"></iframe>
+`youtube: https://www.youtube.com/embed/YqbdwNxA_sI`
 
 # Internal Projects
 
