@@ -43,9 +43,9 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Developer-dotnet-mvc.png)
 
 ---
-Ben is an software developer based in the Sydney office and one of the top students in the UTS engineering faculty, currently pursuing a bachelor's degree in software engineering at the University of Technology Sydney. He is a quick learner, his strongest area of expertise is Angular and frontend technologies. He recently initiated his exploration of cloud technology.
+Ben is a software developer based in the Sydney office. He is currently pursuing a bachelor's degree in Software Engineering at the Univeristy of Technology Sydney (UTS), and is one of the top students in the engineering faculty. Ben is an exceptional full-stack developer, specializing in Angular apps with complex state management requirements. Ben is always expanding his skillset, with his current focus on the cloud and building enterprise-grade applications using Azure.
 
-His Favourite tools include: 
+His favourite tools include: 
 - **Angular** + **NgRx**
 - **RXJS**
 - **.NET**
@@ -54,10 +54,10 @@ His Favourite tools include:
 - Azure
 
 ## Frontend  
-He has experience handling complex state management within Angular projects, specifically by implementing NgRx on an invoicing system. Implemented complex timesheet forms in Angular using reactive forms and custom value accessors
+Ben has a great deal of experience handling complex state management, and he loves working with Angular and NgRx to build rich client-side apps with a focus on amazing UX.
 
 ## Backend + Third party integration
-He's been implementing Xero Accounting integration to internal invoicing projects to enhance financial management and reporting. Ben is actively involved in the ongoing .NET 8 migration project, contributing to the transition from .NET Framework to .NET 8 and upgrading project dependencies to ensure optimal compatibility. In detail, replacing the legacy EDMX technology with EF Core and refactoring legacy code into clean architecture patterns with best practices.
+Ben loves building Web APIs with .NET and EF Core, and has experience integrating various 3rd party systems such as Xero, Power BI, and SRSS. He's often busy helping clients with their .NET migrations, moving large projects from older .NET Frameworks to modern .NET.
 
-## Internal Role
-He is also one of the tech leads for SSW FireBootCamp, guiding interns to follow best practices, maintain code quality through PR reviews, and share his extensive knowledge in Angular and full-stack development with the intern.
+## Mentoring
+Ben is always happy to mentor other developers, and is currently a Tech Lead for SSW's internship program - SSW FireBootCamp. He helps educate interns (and other SSW developers!) on development best practices, code quality, and Scrum processes.
