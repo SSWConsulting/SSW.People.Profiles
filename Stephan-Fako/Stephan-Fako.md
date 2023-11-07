@@ -7,10 +7,10 @@ quote: "Leadership is the art of getting someone else to do something you want d
 quoteAuthor: "Dwight D. Eisenhower"
 ---
 
-I'm the Senior Accountant at SSW, bringing with me over five years of accounting experience, along with a fervent enthusiasm for technology and a proven track record of solving intricate accountancy challenges. 
+I serve as the Senior Accountant at SSW, bringing more than seven years of dedicated accounting experience and a deep passion for leveraging technology to solve complex financial challenges. 
 
-My professional journey, rooted in the realm of chartered accounting, has led me to a close partnership with our Financial Controller at SSW. Our collaborative efforts ensure the seamless operation of SSW, with my responsibilities encompassing leadership in financial reporting and the adept management of our general finance and administrative duties.
+My professional journey, grounded in the world of chartered accounting, has led to a close collaboration with our Financial Controller at SSW. Our partnership ensures the seamless operation of SSW, encompassing my responsibilities as a leader in financial reporting and the adept manager of our general finance and administrative functions.
 
-Finance is not just my job; it's my passion. I am well-equipped to assist you with specialized expertise in Xero Accounting, automation, and the intricate world of management accounting. Feel free to connect if you're seeking innovative financial solutions.  
+For me, finance isn't just a job; it's a passion. I come equipped with specialized expertise in Xero Accounting, automation, and the intricate world of management accounting. If you're seeking innovative financial solutions, don't hesitate to reach out. 
 
-In my downtime, I find joy in engaging with both friends and family through boardgames. Another passion of mine is the world of literature, as I enjoy the journey offered by the pages of a good book. 
+In my downtime, I find joy in connecting with friends and family through board games. Another passion of mine is the world of literature, as I enjoy the journey offered by the pages of a good book. 
