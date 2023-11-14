@@ -8,22 +8,22 @@ quoteAuthor: "Karl Barth"
 ---
 
 [[imgBadge]]
-| ![UX](../badges/Designer-web-ux.png)
+| ![Image Alt Text](../badges/Designer-web-ux.png)
 
 [[imgBadge]]
-| ![Figma](../badges/Designer-figma.png)
+| ![Image Alt Text](../badges/Designer-adobe-figma.png)
 
 [[imgBadge]]
-| ![HTML5](../badges/Designer-web-html5.png)
+| ![Image Alt Text](../badges/Designer-web-html5.png)
 
 [[imgBadge]]
-| ![CSS3](../badges/Designer-web-css3.png)
+| ![Image Alt Text](../badges/Designer-web-css3.png)
 
 [[imgBadge]]
-| ![Adobe Photoshop](../badges/Designer-adobe-photoshop.png)
+| ![Image Alt Text](../badges/Designer-adobe-photoshop.png)
 
 [[imgBadge]]
-| ![Adobe Premiere Pro](../badges/Designer-adobe-premiere.png)
+| ![Image Alt Text](../badges/Designer-adobe-premiere.png)
 
 ---
 
