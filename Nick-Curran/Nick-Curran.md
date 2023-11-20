@@ -7,7 +7,7 @@ quote: "You must learn from the mistakes of others. You will never live long eno
 quoteAuthor: "Admiral Hyman Rickover, USN"
 ---
 
-[![imgBadge]]
+[[imgBadge]]
 | ![Microsoft Certified: Azure Data Scientist Associate](../badges/Certification-microsoft-azure-data-scientist-associate.png)
 
 [[imgBadge]]
