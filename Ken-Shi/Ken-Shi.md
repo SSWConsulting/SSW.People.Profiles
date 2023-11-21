@@ -6,7 +6,34 @@ qualifications:  "Bachelor of Commerce"
 quote:  "You gotta see the world before you can change it."
 ---
 
-Ken is a Product Designer at SSW Hangzhou Office. He has been working in the interactive design industry for more than 10 years, both in China and Australia. After graduating from the University of Queensland, he co-founded 2 startups over 7 years before joining SSW in 2019. At SSW he has been focusing on media and creation experiences, working on SSW products like SugarLearning.  
+[[imgBadge]]
+| ![](../badges/Designer-web-ux.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-web-html5.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-web-css3.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-sketch.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-adobe-photoshop.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-adobe-illustrator.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-adobe-premiere.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-camera.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-figma.png)
+
+Ken is a Senior UI/UX Designer at SSW Hangzhou Office. He has been working in the interactive design industry for more than 10 years, both in China and Australia. After graduating from the University of Queensland, he co-founded 2 startups over 7 years before joining SSW in 2019. At SSW he has been focusing on media and creation experiences, working on SSW products like SugarLearning.  
 
 Ken conceptualize ideas that bring simplicity and user-friendliness to complex design roadblocks to define innovative solutions for the product direction, visuals and experience. Ken design with people in mind and the goal to create immersive experiences that are simple, clear and effortless.
 

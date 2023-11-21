@@ -7,9 +7,9 @@ qualifications:  "BSc Computer Studies, Microsoft Certified Professional, Micros
 quote:  "“Program testing can be used to show the presence of bugs, but never to show their absence!”"
 ---
 
-Martin is a Solution Architect at SSW, and also one of three [Microsoft Visual Studio ALM MVP](https://mvp.support.microsoft.com/profile/Martin.Hinshelwood) in the UK and has over 9 years experience in the software industry. He regularly writes on his [ALM blog](http://blog.hinshelwood.com/), has many articles published on [Code Project](http://www.codeproject.com/Members/Martin-Hinshelwood) and is a moderator on Microsoft forums. His expertise includes (but is not exclusive to) Team Foundation Server, Scrum, WPF, Silverlight, SharePoint, VB.NET, C#, WCF, ASP.NET. 
+Martin is a Solution Architect at SSW, and also one of three [Microsoft Visual Studio ALM MVP](https://mvp.support.microsoft.com/profile/Martin.Hinshelwood) in the UK and has over 9 years experience in the software industry. He regularly writes on his [ALM blog](http://blog.hinshelwood.com/), has many articles published on [Code Project](https://www.codeproject.com/Members/Martin-Hinshelwood) and is a moderator on Microsoft forums. His expertise includes (but is not exclusive to) Team Foundation Server, Scrum, WPF, Silverlight, SharePoint, VB.NET, C#, WCF, ASP.NET. 
 
-Martin speaks at [DDD Scotland](http://www.developerdeveloperdeveloper.com/scotland2010/Schedule.aspx), one of the top events in the UK along with a number of User Groups across UK and Europe. And is excited to be presenting the [Professional Scrum Developer](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx) course which he is one of only three qualified trainers in the UK. 
+Martin speaks at [DDD Scotland](https://www.developerdeveloperdeveloper.com), one of the top events in the UK along with a number of User Groups across UK and Europe. And is excited to be presenting the [Professional Scrum Developer](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx) course which he is one of only three qualified trainers in the UK. 
 
 He aims to continue improve the engineering practices of development teams in the UK and Europe. He does this by migrating them to, and coaching them in the use of, Microsoft’s ALM offering in combination with Scrum. These offerings include Team Foundation Server (TFS) and Visual Studio.
 
@@ -17,10 +17,10 @@ Some of Martin’s highlights have been:
 
 *   **TFS2010 Beta 2 Migration**   
 
-    Martin was on the team that gave SSW the distinction of being the [first](http://blog.hinshelwood.com/archive/2009/10/25/deploying-visual-studio-2010-team-foundation-server-beta-2.aspx) company in the world to be in production with Visual Studio 2010 Team Foundation Server. 
+    Martin was on the team that gave SSW the distinction of being the [first](https://nkdagility.com/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done) company in the world to be in production with Visual Studio 2010 Team Foundation Server. 
 *   **TFS2010 RC Migration**   
 
-    Again SSW was the [first](http://blog.hinshelwood.com/archive/2010/02/10/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc.aspx) company in the world, outside of Microsoft, to deploy the Visual Studio 2010 Team Foundation Server to production. Martin used his expertise of migrating process templates and updating the SharePoint portal. 
+    Again SSW was the [first](https://nkdagility.com/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done) company in the world, outside of Microsoft, to deploy the Visual Studio 2010 Team Foundation Server to production. Martin used his expertise of migrating process templates and updating the SharePoint portal. 
 *   **First Scrum project at SSW**  
 
     Martin was involved in finally removing the 'scrum buts' so SSW could use the good engineering practices of Scrum at 100%.   
@@ -36,11 +36,11 @@ Martin’s open source projects:
 
 *   **TFS Event Handler**   
 
-    If you assign someone a work item, they should always receive an email. The [TFS Event Handler](http://tfseventhandler.codeplex.com/) makes it easier to notify users of changes to Work Items in Team Foundation Server. You will no longer need to add individual alerts to users.   
+    If you assign someone a work item, they should always receive an email. The TFS Event Handler makes it easier to notify users of changes to Work Items in Team Foundation Server. You will no longer need to add individual alerts to users.   
 
     Related Technology: Team Foundation Server, VB.NET, WCF, Windows Services 
 *   **TFS Sticky Buddy**   
 
-    [TFS Sticky Buddy](http://tfsstickybuddy.codeplex.com/) makes it easier for all members of the development team to visualise the current state of their project by utilising a graphical view of Work Items. (Only for TFS 2005 & 2008. This is not relevant in VS2010 since Telerik’s work item manager has taken this idea to next step.)  
+    TFS Sticky Buddy makes it easier for all members of the development team to visualise the current state of their project by utilising a graphical view of Work Items. (Only for TFS 2005 & 2008. This is not relevant in VS2010 since Telerik’s work item manager has taken this idea to next step.)  
 
     Related Technology: Team Foundation Server, VB.NET, WPF 

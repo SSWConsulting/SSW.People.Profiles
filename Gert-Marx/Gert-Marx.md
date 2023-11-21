@@ -8,25 +8,32 @@ quoteAuthor: "Andrew Hunt"
 ---
 
 [[imgBadge]]
-| ![dotnet-core.png](../badges/Developer-dotnet-core.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![c-sharp.png](../badges/Developer-c-sharp.png)
+| ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
-| ![microsoft-dynamics.png](../badges/Business-microsoft-dynamics.png)
+| ![Dynamics](../badges/Business-microsoft-dynamics.png)
 
 [[imgBadge]]
-| ![microsoft-dynamics-powerbi.png](../badges/Business-microsoft-dynamics-powerbi.png)
+| ![Power BI](../badges/Business-microsoft-dynamics-powerbi.png)
 
 [[imgBadge]]
-| ![Certification-scrumalliance-master.png](../badges/Certification-scrumalliance-master.png)
+| ![Certification Scrum Alliance Master](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
 
 ---
 
-Gert is an intelligent and driven IT professional with experience across the full solution delivery lifecycle, he possesses in-depth technical skills and is a team leader – a talented all-round technologist! Fittingly, he is highly skilled in business requirement gathering, estimation, design and delivery - all strengthened by his consultative approach and agile way of working.
+Gert is an SSW Solution Architect with over 18 years of experience and has worked across multiple industries including healthcare, telecommunications, finance, and government agencies. His expertise lies in developing software solutions that leverage Oracle, SQL, and .NET technologies to provide powerful and efficient solutions to complex business problems.
 
-Gert has a strong consultative demeanour working collaboratively with key stakeholders and other team members. He is well presented with excellent communication skills. He maintains an effective and efficient approach to deliver solutions that aims to accomplish significant business outcome or process improvements.
+Throughout his career, Gert has demonstrated a strong understanding of database design and implementation, with a particular focus on Oracle and SQL Server. He has experience in developing database-driven applications, including data modelling, stored procedures, triggers, and indexing. Being proficient in these technologies has enabled Gert to design and implement high-performance systems that can handle large data sets and complex data relationships. 
 
-With strong domain and industry knowledge in telecommunications, finance and health care, he is noted for his analytical and creative approach towards all aspects of the development life cycle.  Gert is a client-focused individual always seeking further opportunity to enhance the business value to the client, aided by a wide interest in new technologies and social trends.
+With extensive experience developing applications using .NET technologies, Gert has worked with various versions of .NET, including ASP.NET, MVC, Blazor and Web API. He has designed and implemented web-based applications that offer excellent performance and user experience while maintaining high levels of security. 
+
+As a certified Scrum Master, Gert loves guiding agile development teams to deliver high-quality software products and has successfully led complex projects that required coordination between multiple teams. 
+
+Gert is passionate about working with teams to design and implement software solutions that meet business needs and is committed to delivering high-quality products that meet the needs of end users.
 

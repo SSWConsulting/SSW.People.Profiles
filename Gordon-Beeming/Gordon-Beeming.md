@@ -38,4 +38,4 @@ He's co-authored many guidance docs as part of the ALM Rangers, written 2 books 
 
 When he's not pushing technology limits you'll find him training for the next swim/bike/run event or relaxing with his family. 
 
-You can connect with him on his [social platforms](https://devstarops.com/) or take a look at his [YouTube channel (Dev⭐Ops)](https://www.youtube.com/c/DevStarOps) to see what he's playing with currently.
+You can connect with him on his [social platforms](https://gordonbeeming.com/) or take a look at his [YouTube channel (@gordonbeeming)](https://www.youtube.com/@gordonbeeming) to see what he's playing with currently.

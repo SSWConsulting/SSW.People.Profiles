@@ -4,12 +4,12 @@ id: "b5d6c018-4c50-e911-820e-00155d012c5a"
 
 qualifications:  "MBA, B.Ec."
 
-quote:  "It is hard enough to remember my opinions, without also remembering my reasons for them!"
-quoteAuthor: "Friedrich Nietzsche"
+quote:  "Tell 'em what you're gonna tell 'em. Tell 'em. Then tell 'em what you've told 'em!"
+quoteAuthor: "Andrew Forsyth"
 ---
 
-Andrew has ten+ years experience creating video content for the web, mobile devices, sales engagements and events. Prior to that he held senior positions in sales & marketing roles with Microsoft and Canon in Australia, USA and Singapore.   
+Andrew has 15 years experience creating video content for the web, mobile devices, sales engagements and events. Prior to that he held senior positions in sales & marketing roles with Microsoft and Canon in Australia, USA and Singapore.   
 
-After starting his career with Canon Australia and completing an MBA at Macquarie Graduate School of Management, he started a new division at Canon Singapore marketing digital imaging devices across SE Asia. Then, after seven years with Microsoft including three as a senior marketing manager in the US subsidiary, Andrew started Pemberton Productions with the aim of producing high quality video & marketing communications that deliver business results.  
+After starting his career with Canon Australia and completing an MBA at Macquarie Graduate School of Management, he started a new division at Canon Singapore marketing digital imaging devices across SE Asia. Then, upon his return to Sydney, Andrew joined Microsoft's OEM team.  After 4 years with Microsoft Australia, he took up a position heading up Anti Piracy and License Compliance in the US subsidiary.  From there, Andrew started Pemberton Productions with the aim of producing high quality video & marketing communications that deliver business results.  
 
 In 2019 Andrew joined forces with SSW and works with SSW TV to produce high quality technical education and business value content.  

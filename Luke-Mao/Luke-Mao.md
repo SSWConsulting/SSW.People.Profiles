@@ -6,6 +6,9 @@ quoteAuthor: "Mahatma Gandhi"
 ---
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure Solutions Architect Expert](../badges/Certification-microsoft-azure-solutions-architect-expert.png)
+
+[[imgBadge]]
 | ![Microsoft Certified: Azure Administrator Associate](../badges/Certification-microsoft-azure-administrator-associate.png)
 
 Luke is a Software Engineer with more than 4 years of development experience. He has a broad technology stack and is especially good at using React for web development.
