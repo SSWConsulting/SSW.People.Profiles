@@ -8,6 +8,9 @@ quoteAuthor: "Anonymous"
 ---
 
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-fundamentals.png)
+
+[[imgBadge]]
 | ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
