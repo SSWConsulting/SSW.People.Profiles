@@ -29,4 +29,4 @@ Gilles is a SSW Software Developer at SSW Europe (France), who has been working 
   
 Always attuned to the latest advancements in the field of development, he is enthusiastic about the emergence of AI that promise to revolutionize not only this domain but also the world at large.
   
-Patient and passionate, Gilles enjoys creating responsive applications with user-friendly and optimized UX as much as he enjoys architecting a back-office. Being curious, he enjoys using his free time to explore new technologies by both creating small applications to learn new programming languages and experimenting with emerging frameworks.
+Patient and passionate, Gilles enjoys creating responsive applications with user-friendly and optimized UX as much as he enjoys architecting a back-end. Being curious, he enjoys using his free time to explore new technologies by both creating small applications to learn new programming languages and experimenting with emerging frameworks.
