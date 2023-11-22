@@ -8,6 +8,9 @@ quoteAuthor: "Anonymous"
 ---
 
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-fundamentals.png)
+
+[[imgBadge]]
 | ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
@@ -15,8 +18,12 @@ quoteAuthor: "Anonymous"
 
 ---
 
-Hugo is a SSW Solution Architect and Local Manager for SSW EU.
+Hugo isn't your typical SSW Solution Architect and Local Manager; he's a seasoned professional with over a decade of hands-on experience in Angular and .NET Core.
 
-He comes from a background in Mobile Development and now is focused on technology like Angular and .NET Core. What matters the most in an application for him is UI and UX and he is really passionate about front-end problems.
+Beyond the coding screen, Hugo has another passion: music. You might catch him strumming his guitar during downtime, adding a touch of rhythm to his tech-savvy life.
 
-Hugo has had experiences with companies ranging from small businesses to large banking and insurances companies.
+One of Hugo's standout achievements involves spearheading the development of a game-changing tool for brokers in the funeral insurance sector. Over an impressive 4-5 year span, he played a pivotal role in every phase of the project, from the initial lines of code to the final implementation, showcasing not only technical expertise but unwavering dedication and leadership.
+
+In his daily work, Hugo excels in front-end development. Beyond coding, he crafts user experiences blending aesthetics with functionality. Engaging clients in UX/UI challenges, Hugo ensures the end result exceeds expectations. His passion for intuitive interfaces is a commitment to solutions resonating with both clients and end-users. In a dynamic tech landscape, Hugo remains a steady hand, consistently producing work that not only functions flawlessly but also elevates the user experience.
+
+When it comes to the ever-evolving world of tech, Hugo isn't here to be the hero – he's here to make things work, make them look good, and make sure everyone understands it. Because, at the end of the day, it's not just about the code; it's about creating solutions that people can actually use and enjoy.
