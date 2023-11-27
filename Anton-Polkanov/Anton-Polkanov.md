@@ -34,6 +34,9 @@ quoteAuthor: "Martin Fowler"
 | ![Angular](../badges/Developer-python.png)
 
 [[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
+
+[[imgBadge]]
 | ![Azure](../badges/Certification-microsoft-azure-ai-fundamentals.png)
 
 [[imgBadge]]
