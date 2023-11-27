@@ -7,6 +7,9 @@ quote: "Leadership is the art of getting someone else to do something you want d
 quoteAuthor: "Dwight D. Eisenhower"
 ---
 
+[[imgBadge]]
+| ![CPA](../badges/CPA-Australia.png)
+
 I serve as the Senior Accountant at SSW, bringing more than seven years of dedicated accounting experience and a deep passion for leveraging technology to solve complex financial challenges. 
 
 My professional journey, grounded in the world of chartered accounting, has led to a close collaboration with our Financial Controller at SSW. Our partnership ensures the seamless operation of SSW, encompassing my responsibilities as a leader in financial reporting and the adept manager of our general finance and administrative functions.
