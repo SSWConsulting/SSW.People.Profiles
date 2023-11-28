@@ -4,8 +4,8 @@ id: "b5d6c018-4c50-e911-820e-00155d012c5a"
 
 qualifications:  "MBA, B.Ec."
 
-quote:  "Tell 'em what you're gonna tell 'em. Tell 'em. Then tell 'em what you've told 'em!"
-quoteAuthor: "Andrew Forsyth"
+quote:  "Reason is the slave of the passions"
+quoteAuthor: "Nietzsche"
 ---
 
 Andrew has 15 years experience creating video content for the web, mobile devices, sales engagements and events. Prior to that he held senior positions in sales & marketing roles with Microsoft and Canon in Australia, USA and Singapore.   
