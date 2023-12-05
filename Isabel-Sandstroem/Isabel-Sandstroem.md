@@ -19,6 +19,6 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![](../badges/Developer-python.png)
 
-Isabel is a SSW Software Engineer working in the Sydney office. With a background in computational science and statistical analysis she transition to a backend developer in 2022, specializing in .NET. She is expanding her skill set to include Angular, aspiring to become a proficient full-stack developer. 
+Isabel is a SSW Software Engineer working in the Sydney office. With a background in computational science and statistical analysis she transition to development in 2022, specializing as a backend developer in .NET. She is expanding her skill set to include Angular, aspiring to become a proficient full-stack developer. 
 
 Driven by curiosity and an eagerness to learn, Isabel is passionate about unraveling the complexities of software development as well as the intricacies of the world around her. Her approach to problem-solving is methodical and structured, allowing her to tackle challenges in a systematic and effective manner.
