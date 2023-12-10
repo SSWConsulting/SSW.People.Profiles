@@ -1,11 +1,14 @@
 ---
 id: "487f6b90-432b-ed11-9db1-00224818a84c"
 
-qualifications: "MProfAcct, Associate CPA"
+qualifications: "MProfAcct, CPA"
 
 quote: "Not everything that counts can be counted, and not everything that can be counted counts"
 quoteAuthor: "Albert Einstein"
 ---
+
+[[imgBadge]]
+| ![CPA](../badges/CPA-Australia.png)
 
 Introducing the financial wizard of SSW's Sydney headquarters! 🧙
 
