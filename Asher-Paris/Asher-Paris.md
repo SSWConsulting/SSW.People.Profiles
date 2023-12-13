@@ -7,7 +7,7 @@ quote: "We should reward people, not ridicule them, for thinking the impossible.
 quoteAuthor: "Winston Churchill"
 ---
 
-Asher is a SSW copywriter and Marketing Assistant who loves anything and everything to do with copywriting. Why? Because the opportunityisnowhere.
+Asher is an SSW copywriter and Marketing Assistant who loves anything and everything to do with copywriting. Why? Because the opportunityisnowhere.
 
 Asher cut his teeth working at FinTech startups during his university studies. Once he finished his law degree, he was admitted to the Supreme Court of NSW and worked as a lawyer for several years. During this time he sued the government, protected franchisees from banks and fought crime with the aid of gadgets and vehicles to keep the city of Gotham safe 🦇  
 
