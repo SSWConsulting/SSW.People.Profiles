@@ -21,14 +21,14 @@ quoteAuthor: "Mark Twain"
 
 Seth is an SSW Marketing Assistant and Account Manager who loves artificial intelligence and applying it for productivity.
 
-⌛ He's always coming up with time-saving tools using ChatGPT and other AI services, and stays up to date on the latest in the AI world.
+⌛ He makes time-saving tools using ChatGPT and other AI, and follows the AI world closely.
 
-📏 He likes improving [SSW Rules](https://www.ssw.com.au/rules/) because best practice standards are the fastest way to the optimization of every process.
+📏 He likes improving [SSW Rules](https://www.ssw.com.au/rules/) because best practice standards optimize every process.
 
-🎊 He contributes to the [SSW Website](https://www.ssw.com.au/), organizes [events](https://www.ssw.com.au/ssw/Events/?tech=all&type=all) and is learning account management skills under the guidance of [Uly](https://www.ssw.com.au/people/uly/).
+🎊 He contributes to the [SSW Website](https://www.ssw.com.au/), organizes [events](https://www.ssw.com.au/ssw/Events/?tech=all&type=all) and is learning account management under the guidance of [Uly](https://www.ssw.com.au/people/uly/).
 
-🌎 Originally from California, he lived for a stint in Switzerland and now has a second home in Australia.
+🌎 Raised in California, he has lived in Switzerland and now makes Australia his home.
 
-🎓 Always learning - in his free time he practices martial arts, plays guitar and piano, and enjoys surfing (which might be why he is based in the great surfing region of Newcastle 😏)
+🎓 In his free time he is always learning - martial arts, guitar and piano, and surfing (which might be why he lives in the great surfing region of Newcastle 😏)
 
 🖥️ If you work in software and are looking for a job in Newcastle - email sethdaily@ssw.com.au!
