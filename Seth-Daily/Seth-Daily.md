@@ -27,7 +27,7 @@ Seth is an SSW Marketing Assistant and Account Manager who loves artificial inte
 
 🎊 He contributes to the [SSW Website](https://www.ssw.com.au/), organizes [events](https://www.ssw.com.au/ssw/Events/?tech=all&type=all) and is learning account management under the guidance of [Uly](https://www.ssw.com.au/people/uly/).
 
-🌎 Raised in California, he has lived in Switzerland and now his second home is Australia.
+🌎 Raised in California, he has lived in Switzerland and now makes Australia his home.
 
 🎓 In his free time he is always learning - martial arts, guitar and piano, and surfing (which might be why he lives in the great surfing region of Newcastle 😏)
 
