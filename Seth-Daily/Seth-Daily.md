@@ -21,7 +21,7 @@ quoteAuthor: "Mark Twain"
 
 Seth is an SSW Marketing Assistant and Account Manager who loves artificial intelligence and applying it for productivity.
 
-⌛ He makes time-saving tools using ChatGPT and other AI, and follows AI world closely.
+⌛ He makes time-saving tools using ChatGPT and other AI, and follows the AI world closely.
 
 📏 He likes improving [SSW Rules](https://www.ssw.com.au/rules/) because best practice standards optimize every process.
 
