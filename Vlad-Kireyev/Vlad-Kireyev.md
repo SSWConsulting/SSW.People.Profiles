@@ -18,6 +18,9 @@ quoteAuthor: "Albert Einstein"
 | ![Microsoft Certified: Azure Fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure AI Fundamentals](../badges/Certification-microsoft-azure-ai-fundamentals.png)
+
+[[imgBadge]]
 | ![C Sharp image badge](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
@@ -25,6 +28,12 @@ quoteAuthor: "Albert Einstein"
 
 [[imgBadge]]
 | ![react.png](../badges/Developer-react.png)
+
+[[imgBadge]]
+| ![Azure Functions](../badges/Developer-azure-function.png)
+
+[[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
 
 ---
 

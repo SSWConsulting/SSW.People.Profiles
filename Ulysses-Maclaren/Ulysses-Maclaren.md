@@ -15,6 +15,8 @@ Ulysses is the General Manager of SSW and has been managing the team since 2006.
 
 Used to working under pressure, he is Adam Cogan's 2nd in charge, and keeps the company running smoothly while also dealing with SSW's clients and the development and design teams. His passion is making sure that all the guys at SSW feel like a family, while always improving their skill sets and challenging them to constantly expand their horizons.  
 
+**Expert in Business Applications of AI:** Ulysses has completed the "Career Essentials in Generative AI by Microsoft" course and is a subject matter expert in the business applications of AI, particularly generative AI. Whether it's automating workflows, data analysis, or customer engagement, he is the go-to person for leveraging AI to solve complex business challenges.
+
 Ulysses is the Scrum Master for internal development teams, the design, video, and marketing teams, as well as some client projects. Integrity, transparency, and a smooth running team are all very important to him. He's also a [Power BI](http://adamcogan.com/2016/10/13/power-bi-no-more-guessing/) and ChatGPT guru. 
 
    <iframe width="800" height="450" src="https://www.youtube.com/embed/Y4tvF0DWEec" frameborder="0"></iframe> 

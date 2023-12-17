@@ -31,8 +31,8 @@ quoteAuthor: "Atlas"
 [[imgBadge]]
 | ![Blazor](../badges/Developer-OpenAI.png)
 
-👋 Jack is a 💻 Software Developer at SSW based in 🌞 Brisbane, QLD, with expertise in C#, .NET, and Blazor.
+Jack is a Software Engineer in 🌞 Brisbane. He's passionate about C#, .NET and Blazor and loves crafting innovative software solutions that make a real impact. Outside the coding world, you'll find him in the gym as an 🏋️ avid weightlifter, always challenging himself to push beyond limits.
 
-In addition to Jack's technical proficiency, they are also an 🏋️ avid weightlifter, with a passion for staying active and pushing their physical limits. This dedication to fitness is reflected in their work ethic and commitment to achieving excellence in all aspects of their life.
+Jack is also one of the developers behind SSW's [RulesGPT bot](https://rulesgpt.ssw.com.au/) and is ready to help you with your AI needs.
 
-Whether you're located in Brisbane or elsewhere in 🇦🇺 Australia, Jack is available to work with you remotely or on-site to build custom software solutions or enhance your existing systems. 💬 Contact SSW today to learn more about their services and how they can help your business thrive.
+Contact SSW today 💬 to learn more about his services and how he can help your business thrive.

@@ -17,8 +17,11 @@ quoteAuthor: "Albert Einstein"
 [[imgBadge]]
 | ![Power Platform App Maker](../badges/Certification-microsoft-power-platform-app-maker-associate.png)
 
-Jake is a Software Architect originally from New Zealand, now working out of Sydney. He works with a wide range of technologies, including .NET, React, SQL, the Power Platform and Azure. He has a huge passion for creating progressive web apps using the latest tech stack.
+[[imgBadge]]
+| ![Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
 
-Jake has built many well-presented, client-facing Power BI reports with a story-telling twist and loves pushing Power BI to it's limits. He loves creating custom visuals for use in Power BI - if there is a visual that doesn't exist yet, then Jake would love to build it himself!
+Jake is a Software Engineer originally from New Zealand, now working out of Sydney. He now has more than 5 years experience helping companies build great software. He has a wide skillset, including .NET, React, SQL, the Power Platform and Azure.
+
+Jake primarily specialises as a .NET engineer but has recently dedicated significant effort to mastering the Power Platform, showcasing his versatility and commitment to staying current with emerging technologies.
 
 When Jake isn't working you'll find him doing 1 of 5 things: playing football, chess, surfing, in the gym or doing a home project/learning a new tech.

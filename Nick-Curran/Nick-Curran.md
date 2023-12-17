@@ -8,6 +8,9 @@ quoteAuthor: "Admiral Hyman Rickover, USN"
 ---
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure Data Scientist Associate](../badges/Certification-microsoft-azure-data-scientist-associate.png)
+
+[[imgBadge]]
 | ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
 
 Nick is a Software Engineer with a Master of Computer Science from the University of Queensland,

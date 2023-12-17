@@ -35,7 +35,7 @@ William is a software developer at SSW. He specializes in developing solutions w
 - **[Coffey](http://www.coffey.com)** - Integrated "project management system CPN" and "SharePoint sites" with trusted domain from "tetratech", automate permission setting for switched domain users. Also provided technical support for data conversion.  
   Related Technology: SharePoint (2007, 2010 and SharePoint online in Office 365), ASP.NET C# and SQL.
 
-- **[Aftercare](http://www.aftercare.com.au)** - Upgraded SharePoint intranet from 2010 to 2013 and enhanced it with My Site portal configuration, search enhancement, SSL setting up, Office Web App and Active Directory integration. Users gained centralized locations for documents storage, collaboration, enterprise search as well as in-browser documents editing experience.  
+- **Aftercare** - Upgraded SharePoint intranet from 2010 to 2013 and enhanced it with My Site portal configuration, search enhancement, SSL setting up, Office Web App and Active Directory integration. Users gained centralized locations for documents storage, collaboration, enterprise search as well as in-browser documents editing experience.  
   Related Technology: SharePoint, Office Web App, Active Directory.
 
 - **[Bupa](https://www.bupa.com.au/)** - Developed a "claim case management" web system which is used to replace Excel client to manage "insurance claim cases". The system provides modern responsive UI, better claim case status control and search experience.  

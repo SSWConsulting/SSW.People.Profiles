@@ -6,10 +6,16 @@ quoteAuthor: "Robert C. Martin"
 ---
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
 | ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![Azure Functions](../badges/Developer-azure-function.png)
 
 [[imgBadge]]
 | ![Blazor](../badges/Developer-blazor.png)
