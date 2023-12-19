@@ -10,8 +10,12 @@ quoteAuthor: "Randall Munroe"
 [[imgBadge]]
 | [![](../badges/Certification-microsoft-azure-fundamentals.png)](https://www.credly.com/badges/55060296-b73c-4040-a1a8-affac658aded/public_url)
 
-Chris Schultz is the Senior Systems Administrator at SSW. He's a creative problem solver with experience in a wide range of infrastructure related technologies.
+Chris Schultz is the Senior Systems Administrator at SSW. He's a creative problem solver with experience in a wide range of infrastructure related technologies.  
 
-Chris gained most of his experience working in the Education sector, building and maintaining systems to support hundreds of staff and students. Now, he's utilising this experience and translating his skills into cloud technologies.
+Chris Schultz is a Senior Systems Administrator at SSW, bringing a wealth of experience in a wide array of infrastructure-related technologies. With a knack for creative problem-solving, Chris has demonstrated his expertise in the Education sector, where he built and maintained systems to support hundreds of staff and students. Now, he's leveraging this experience to excel in the realm of cloud technologies.  
+
+Chris's background in the Education sector has equipped him with a deep understanding of the unique needs and challenges in this environment. His experience in managing large-scale systems has honed his skills in problem-solving, project management, and strategic planning.  
+
+In his current role at SSW, Chris is responsible for managing and maintaining the company's IT infrastructure. He's adept at implementing new technologies, optimizing system performance, and ensuring the security and integrity of the company's data. His technical expertise, coupled with his strategic thinking and problem-solving skills, makes him a valuable asset to any project.  
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisschultzssw&theme=dark)](https://github.com/chrisschultzssw/github-readme-stats)
