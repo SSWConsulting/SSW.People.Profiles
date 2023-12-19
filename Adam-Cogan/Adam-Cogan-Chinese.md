@@ -27,7 +27,7 @@ quote: "天才可以解决棘手的错误，但团队合作和智慧才能创造
 | ![](../badges/Certification-scrumorg-trainer.png)
 
 [[imgBanner]]
-| ![](../badges/Business-microsoft-azure-devops-banner.png)
+| ![](../badges/Business-microsoft-azure-devops.png)
 
 Adam Cogan是SSW的首席架构师，专注于Azure定制，Azure DevOps（前身是TFS），.NET，SharePoint，Business Intelligence 领域定制方案的微软认证金牌合作伙伴。从1990年起，Adam就在SSW为各行业 (如政府、建筑业、银行、保险和制造业等) 开发定制的解决方案，主要客户有微软、Worley Parsons 和 Aurecon等。
 

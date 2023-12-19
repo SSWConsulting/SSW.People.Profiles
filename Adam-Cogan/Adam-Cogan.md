@@ -27,11 +27,17 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 [[imgBadge]]
 | ![](../badges/Business-microsoft-azure-devops.png)
 
+[[imgBadge]]
+| ![](../badges/Certification-poty-finalist-inclusion.svg)
+
+[[imgBadge]]
+| ![](../badges/Certification-poty-finalist-education.svg)
+
 Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [SSW TV](https://tv.ssw.com/) frequently. He is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom enterprise .NET and Azure solutions mostly using Angular and React. His solutions also involve Office365, SharePoint, Dynamics 365, and Power BI. 
 
 **Clients** - At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, CBA, and Aurecon.  
 
-**Scrum** - Adam is a Certified Scrum Trainer with scrum.org, trains developers in Australia, the US, UK and Europe, and contributes to scrum.org thinking. He consults with development teams on improving their scrum process through mentoring and being an SSW Solution Architect and Scrum Master. He has written many rules around Scrum best practices. 
+**Scrum** - Adam is a Certified Scrum Trainer with Scrum.org, trains developers in Australia, the US, UK and Europe, and contributes to Scrum.org thinking. He consults with development teams on improving their Scrum process through mentoring and being an SSW Solution Architect and Scrum Master. He has written many rules around Scrum best practices. 
 
 **China** - Adam has also run multiple consulting firms in China for the last 12 years. Adam has seen the whole Chinese software ecosystem develop and understands the differences that the Chinese market requires in order to be successful. Adam helps western companies modernize their software, so they are not only servicing the USA and European markets, but also grabbing a slice of the Chinese market of 1.4 billion consumers. 
 
@@ -91,7 +97,7 @@ In addition, Adam is a regular speaker at the SSW User Group and other conferenc
 
 Adam does many videos for tv.ssw.com.au and has recorded many interviews with technology experts around the world – his most popular videos are: 
 
-- [Azure Superpowers](https://www.youtube.com/watchv=5qFgqTLLRjo&list=PLpiOR7CBNvlp0L_t5Mq7kqeSgvlpl4mQh)
+- [Azure Superpowers](https://www.youtube.com/playlist?list=PLpiOR7CBNvlp0L_t5Mq7kqeSgvlpl4mQh)
 - [9 Knights of Azure](https://youtu.be/-Ac7z3YEkNI)
 - [Chinafy your apps + Lessons you can steal from China](https://youtu.be/NtuFfWVJF_w)
 - [What's New in Visual Studio9](https://youtu.be/4F0B1GdqK5c)
@@ -101,4 +107,4 @@ Adam does many videos for tv.ssw.com.au and has recorded many interviews with te
 [[imgMd]]
 | ![Adam is a proud "Bondi Iceberg" every Sunday throughout the winter, rain, hail or shine!](./Images/Bio/figureIce.jpg)
 
-More at [www.adamcogan.com](https://adamcogan.com/)
+More at [adamcogan.com](https://adamcogan.com)

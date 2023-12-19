@@ -9,23 +9,28 @@ quoteAuthor: "Doug Linder"
 | ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
+| ![Azure](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
+
+[[imgBadge]]
+| ![C#](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![Dev Ops](../badges/Developer-devops.png)
+
+[[imgBadge]]
 | ![React](../badges/Developer-react.png)
 
 [[imgBadge]]
 | ![Azure Functions](../badges/Developer-azure-function.png)
 
-[[imgBadge]]
-| ![C#](../badges/Developer-c-sharp.png)
 
-Brady Stroud is a young, driven Software Developer starting his career at SSW Brisbane. He is fascinated by the constant growth of the IT industry, and enjoys working in a team to solve complex problems.
+📍 Proficient in .NET, Blazor, MAUI (Previously Xamarin), and React, he not only excels in software engineering but also takes on the responsibility of managing internal projects with a focus on process improvement. He appreciates the advantages of open source technology, emphasizing its flexibility, cost-efficiency, and access to a comprehensive range of tools and technologies.
 
-He has been a major contributor to the addition of community features on the new SSW Rules site, using a variety of technologies such as React, Azure Functions and Cosmos DB. Brady has also previously used .NET, Angular and Python in his personal projects.
+💻 Always on the cutting edge, he’s been exploring AI technologies such as Semantic Kernel, LangChain, and OpenAI in personal projects. He’s continuously looking for opportunities to integrate these advancements into client projects for enhanced innovation. As a certified Scrum Master, he effectively manages Agile development teams.
 
-Brady's key skills include:
+🌟 Brady's diverse skills in both tech and management make him invaluable for client projects. His expertise ensures he can handle complex challenges, while his knack for innovation brings fresh solutions. Certified in Scrum, he also keeps the team on point. All this makes him a go-to asset for delivering real results.
 
-* React
-* JavaScript
-* .NET
-* Flutter
-
-In his personal time, you can find Brady expanding his skillset by learning about the latest technologies and frameworks, or out mountain biking with his friends.
+🌊 In his free time, he enjoys outdoor activities such as 🚵‍♂️ mountain biking, 🧗‍♂️ climbing, 🏄‍♂️ surfing, and 🚤 wakeboarding.

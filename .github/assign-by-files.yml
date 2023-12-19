@@ -3,8 +3,6 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
-'Adriana-Tavares/**':
-  - AdriT9
 'Alex-Rothwell/**':
   - AlexRothwell
 'Alvin-Shen/**':
@@ -19,14 +17,22 @@
   - drwharris
 'Anky-Che/**':
   - AnkyChe
+'Anton-Polkanov/**':
+  - AntPolkanov
 'Ash-Anil/**':
   - AshAnil
+'Asher-Paris/**':
+  - ae-cher-ssw
+'Baba-Kamyljanov/**':
+  - babakamyljanovssw
 'Bahjat-Alaadel/**':
   - bahjatalaadelssw
+'Ben-Dunkerley/**':
+  - BenDunkerleySSW
 'Ben-Neoh/**':
   - Ben0189
-'Billy-Terblanche/**':
-  - billyterblanche
+'Betty-Bondoc/**':
+  - bettybondoc
 'Brady-Stroud/**':
   - bradystroud
 'Brook-Jeynes/**':
@@ -39,6 +45,8 @@
   - camillars
 'Charles-Vionnet/**':
   - cvionnet
+'Chloe-Lin/**':
+  - Aibono1225
 'Chris-Clement/**':
   - christoment
 'Chris-Schultz/**':
@@ -47,26 +55,36 @@
   - christianmorfordwaitessw
 'Daniel-Mackay/**':
   - danielmackay
-'David-Abraham/**':
-  - DavidAbraham082
+'Dhruv-Mathur/**':
+  - Dhruv-0987
 'Eve-Cogan/**':
   - evecogan
+'Geordie-Robinson/**':
+  - Geordie88
 'Gert-Marx/**':
   - Marxoz
+'Gilles-Pothieu/**':
+  - PothieuG
 'Gordon-Beeming/**':
   - gordonbeeming
+'Harry-Ross/**':
+  - Harry-Ross
 'Hugo-Pernet/**':
   - Freego1783
 'Jack-Duan/**':
   - duanxinhuan
 'Jack-Pettit/**':
   - JackDevAU
+'Jack-Reimers/**':
+  - jackreimers
 'Jake-Bayliss/**':
   - jakebayliss
 'Jayden-Alchin/**':
   - jaydenalchin
 'Jean-Thirion/**':
   - JeanThirion
+'Jeoffrey-Fischer/**':
+  - jeoffreyfischer
 'Jernej-Kavka/**':
   - jernejk
 'Jerry-Luo/**':
@@ -76,9 +94,11 @@
 'Jimmy-Chen/**':
   - JimmyChenSSW
 'John-Xu/**':
-  - johnxussw
+  - johnxu77
 'Jonty-Gardner/**':
   - jontygardner
+'Jord-Gui/**':
+  - Jord-Gui
 'Joseph-Fernandez/**':
   - 2fernandez
 'Kaha-Mason/**':
@@ -95,36 +115,46 @@
   - landonmaxwell
 'Lee-Hawkins/**':
   - leehawkinsssw
+'Levi-Jackson/**':
+  - Levijj22
+'Lu-Zhang/**':
+  - zl24622
 'Luke-Cook/**':
   - lukecookssw
 'Luke-Mao/**':
   - AttackOnMorty
 'Luke-Parker/**':
   - Hona
+'Manu-Gulati/**':
+  - divgul
+'Marcus-Irmscher/**':
+  - MarcusIrmscherSSW
 'Matt-Goldman/**':
   - matt-goldman
+'Matt-Parker/**':
+  - MattParkerDev
 'Matt-Wicks/**':
   - wicksipedia
 'Mehmet-Ozdemir/**':
   - ozdemir-mehmet
 'Nadee-Kodituwakku/**':
   - NadeekaJK
+'Nick-Curran/**':
+  - ncn-ssw
 'Ozair-Ashfaque/**':
   - ozairashfaqueSSW
 'Penny-Walker/**':
   - PennyWalker
 'Piers-Sinclair/**':
   - pierssinclairssw
-'Prem-Radhakrishnan/**':
-  - premradhakrishnan
-'Ravi-Dhaduk/**':
-  - ravidhaduk
+'Rick-Su/**':
+  - ricksu978
 'Sam-Smith/**':
   - samsmithssw
 'Sam-Wagner/**':
   - SamBWagner
-'Shane-Ye/**':
-  - yesihao
+'Seth-Daily/**':
+  - sethdailyssw
 'Sofie-Hong/**':
   - SofieHong
 'Stephan-Fako/**':
@@ -135,8 +165,14 @@
   - sylhuang
 'Tiago-Araujo/**':
   - tiagov8
+'Tino-Liu/**':
+  - SpookyBoogy2016
+'Toby-Churches/**':
+  - TobyChurches
 'Tom-Bui/**':
   - tombui99
+'Tom-Iwainski/**':
+  - tomek-i
 'Tylah-Kapa/**':
   - tkapa
 'Ulysses-Maclaren/**':
@@ -149,5 +185,7 @@
   - william-liebenberg
 'Yang-Shen/**':
   - Berber-Mama
+'Yazhi-Chen/**':
+  - YazhiChen
 'Zach-Keeping/**':
   - zacharykeeping

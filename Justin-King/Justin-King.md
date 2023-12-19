@@ -3,21 +3,21 @@ id: "88785899-f459-dd11-b3a3-00155d012206"
 role: "Developers"
 jobTitle:  "Senior Software Architect"
 qualifications:  "B App Science"
-
 quote:  "List<ScottGu> throws an exception - there is only one ScottGu!"
+
 ---
 
 With over 13 years Software and Database development experience, Justin has worked on many large and small projects with varying technologies. Justin started out developing in CPM in the early 80's but professionally since 1996 from Visual Basic 3.0 moving into the web world in asp/asp.net 1.0 then 5 years as a Java Swing developer. During this time also providing interop solutions between C# and Java Axis webservices and legacy systems.
 
 For the last 3 years Justin's focus has been purely on .NET Solutions with SQL Server from ASP.NET to WPF/Silverlight, Business Intelligence/PerformancePoint, SQL Server 2000/2005/2008 Disaster Recovery, Specification gathering and Solution Architecture. 
 
-Justin is SSW's ***Group Project Manager*** with responsibility of reviewing and working with Project Managers to ensure projects meet their realase goals.
+Justin is SSW's **Group Project Manager** with responsibility of reviewing and working with Project Managers to ensure projects meet their realase goals.
 
 Whilst at SSW Justin has worked with over 30 clients as well as providing training and code audit solutions.
 
 Below are some of Justin's larger projects:
 
-**<e.law>**
+**e.law**
 
 ASP.NET 2.0 Application with a Windows Workflow foundation distributed system for document processing
 

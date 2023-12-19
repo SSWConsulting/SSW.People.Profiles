@@ -10,20 +10,49 @@ quoteAuthor: "Anonymous"
 <br/>
 
 [[imgBadge]]
-| ![angular.png](../badges/Developer-angular.png)
+| ![.NET Core](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
-| ![react.png](../badges/Developer-react.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![node js](../badges/Developer-node-js.png)
+| ![C-Sharp.png](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![angular-logo.png](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Developer-node-js.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Developer-react.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Developer-sql-server.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Designer-web-html5.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Designer-web-css3.png)
 
 <br/>
 
-Tom is a Senior Software Developer at the SSW Melbourne Office. He is a recent graduate from Monash University with a bachelor of IT majoring in Software Development. He specialises in front-end development with various modern JavaScript framework such as Angular, React, and Svelte. He also has experience with back-end technologies such as .Net Core and NodeJs.
+Tom is working as a Software Engineer at the SSW Melbourne Office, having recently graduated from Monash University with a Bachelor of Information Technology, specializing in Software Development and Business Information Systems. His expertise lies in front-end development, demonstrating proficiency in contemporary JavaScript frameworks including Angular, React, and Svelte. Furthermore, Tom possesses valuable experience in back-end technologies, encompassing .Net Core and NodeJs.
 
-He is a very motivated person that loves to work and be around his peers. He enjoys learning and trying out new technologies.
+His noteworthy contributions include:
 
-He loves to share things that he is passionate about. He likes to read technology news and articles to keep himself updated with the latest technologies and trends.
+- Developing GitHub Actions and Azure DevOps Pipeline to automate the deployment process, which reduced time to production and minimized the risk of deployment failure.
+- Consulting and developing new features and building new web applications using Fullstack technology stacks
+- Designing and implementing Database Schema  
+- Optimizing SQL Stored Procedures, reducing retrieval times from several minutes to several seconds, significantly enhancing system performance.
+- Crafting a Power Automate flow triggered by customer callback requests on a website, which creates a record in Dynamics 365 to track the lead and emails relevant stakeholders for timely follow-up.
 
-When he is not working, he likes to play games, hang out with friends, play team sports, go on road trips, and photography.
+He is a highly motivated individual who thrives in collaborative work environments and values continuous learning, eagerly exploring and adopting emerging technologies.
+
+His enthusiasm extends to sharing his passions, regularly engaging with technology news and articles to stay abreast of the latest industry advancements and trends.
+
+Outside of professional pursuits, he enjoys recreational activities such as gaming, socializing with friends, participating in team sports such as basketball, embarking on road trips, and pursuing photography as a leisure interest.

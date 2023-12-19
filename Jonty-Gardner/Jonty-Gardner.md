@@ -16,12 +16,11 @@ quoteAuthor: "Cliff Gladwin"
 [[imgBadge]]
 | ![](../badges/Certification-scrumalliance-master.png)
 
-Jonty is a creative, skilled, and a versatile individual with production experience in digital media across mutliple playforms and channels. 
+[[imgBadge]]
+| ![OpenAI ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 
-Jonty is highly capable of working effectively with teams, customers, and stakeholders. Over the years, Jonty has grown to intimately understand people’s needs and expectations, the importance of collaborating, and value open and honest communication.
+Jonty is a talented and experienced professional with a background in digital media production across a variety of platforms and channels. He excels in team collaboration, customer and stakeholder engagement, and consistently demonstrates strong communication skills.
 
-Jonty has a rich set of skills and experience drawn form working with established businesses across multiple industries, including: the wedding industry, film industry, childcare industry, and the education industry.
+With a diverse portfolio of experience in industries such as weddings, film, education, and travel photography, Jonty brings a wealth of expertise to our team at SSW. He embraces a mindset of continuous growth and strives for excellence in all he does.
 
-Like the rest of the team at SSW, he believes in striving for excellence and having the humility to realise there is always room to grow.
-
-In the order to achieve the best results you need to strive to be the best version of yourself - that's why when he's not in the office you can find Jonty working on his filmmaking craft, running a half-marathon, or praticing Brazilian Jiu Jitsu.
+When not in the office, Jonty actively cultivates his skills and well-being, dedicating time to honing his filmmaking craft, participating in athletic pursuits like half-marathons, and spending quality time with friends and family. 
