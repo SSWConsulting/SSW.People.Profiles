@@ -20,6 +20,4 @@ Chris Schultz is a Senior Systems Administrator at SSW, bringing a wealth of exp
 
 Chris's background in the Education sector has equipped him with a deep understanding of the unique needs and challenges in this environment. His experience in managing large-scale systems has honed his skills in problem-solving, project management, and strategic planning.  
 
-In his current role at SSW, Chris is responsible for managing and maintaining the company's IT infrastructure. He's adept at implementing new technologies, optimizing system performance, and ensuring the security and integrity of the company's data. His technical expertise, coupled with his strategic thinking and problem-solving skills, makes him a valuable asset to any project.  
-
-[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisschultzssw&theme=dark)](https://github.com/chrisschultzssw/github-readme-stats)
+In his current role at SSW, Chris is responsible for managing and maintaining the company's IT infrastructure. He's adept at implementing new technologies, optimizing system performance, and ensuring the security and integrity of the company's data. His technical expertise, coupled with his strategic thinking and problem-solving skills, makes him a valuable asset to any project.
