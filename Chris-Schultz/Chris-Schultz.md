@@ -9,6 +9,10 @@ quoteAuthor: "Randall Munroe"
 
 [[imgBadge]]
 | [![](../badges/Certification-microsoft-azure-fundamentals.png)](https://www.credly.com/badges/55060296-b73c-4040-a1a8-affac658aded/public_url)
+[[imgBadge]]
+| ![](../badges/Business-microsoft-azure.png)
+[[imgBadge]]
+| ![](../badges/SysAdmin-microsoft-hyper-v.png)
 
 Chris Schultz is the Senior Systems Administrator at SSW. He's a creative problem solver with experience in a wide range of infrastructure related technologies.  
 
