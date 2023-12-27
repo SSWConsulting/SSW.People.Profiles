@@ -36,4 +36,8 @@ quoteAuthor: "Uncle Iroh"
 
 ---
 
-As a Software Engineer at SSW in Melbourne, Yalal holds degrees in Computer Engineering and Electrical and Electronics Engineering. With 2 years of experience as a Full Stack Engineer in banking and IT, Yalal specializes in Angular, C#, .NET Framework, SQL, and more. She has contributed to various projects, including IoT, embedded systems and .NET MVC initiatives, and has been a key member of the YU Automotive team. Yalal is known for problem-solving, self-learning, effective team communication, and a passion for automation and exploring new technologies. Beyond work, she enjoys walking, playing games and doing puzzles in her personal time.
+As a Software Engineer at SSW in Melbourne, Yalal holds degrees in Computer Engineering and Electrical and Electronics Engineering. 
+
+With 2 years of experience as a Full Stack Engineer in banking and IT, Yalal specializes in Angular, C#, .NET Framework, SQL, and more. She has contributed to various projects, including IoT, embedded systems and .NET MVC initiatives, and has been a key member of the YU Automotive team. Yalal is known for problem-solving, self-learning, effective team communication, and a passion for automation and exploring new technologies. 
+
+Beyond work, she enjoys walking, playing games and doing puzzles in her personal time.
