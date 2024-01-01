@@ -7,6 +7,9 @@ quote: "A good programmer looks both ways before crossing a one-way street"
 ---
 
 [[imgBadge]]
+| ![microsoft-power-bi-data-analyst-associate.png](../badges/Certification-microsoft-power-bi-data-analyst-associate.png)
+
+[[imgBadge]]
 | ![dotnetcore.png](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
