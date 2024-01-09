@@ -17,10 +17,10 @@ quoteAuthor: "Imran Khan"
 | ![NgRx](../badges/Developer-ngrx.png)
 
 <br/>
-Ozair is a Web Developer working at SSW Melbourne with experience building responsive and scalable web applications.
+Ozair is an SSW Web Developer working from the Melbourne office. He brings a unique mix of technical acumen and thoughtful problem-solving to his role. With a Master's in Network Systems with a specialization in Cyber Security from Swinburne University, his expertise spans both front-end and back-end development, particularly in Angular, React, and .NET.
 
-He holds a master's degree in Network Systems with a specialization in Cyber Security from Swinburne University of Technology. He specializes in front-end development using JavaScript frameworks such as Angular and React and has experience in back-end development using .NET
+Throughout his career, Ozair has contributed to projects across various sectors, including healthcare, start-up environments, and large organizations, enhancing user experiences and meeting specific business needs. At SSW, Ozair's focus has been on developing web solutions that are both user-centric and technically sound. He is adept in Agile methodologies, ensuring projects are delivered efficiently and align with client goals.
 
-Ozair excels as a collaborative team member who utilizes the Scrum methodology to work with others in delivering projects that meet the needs of both stakeholders and developers
+Beyond his professional pursuits, Ozair is passionate about computer games, reading, and keeping abreast of the latest technological advancements. 
 
-In his free time, he likes reading, meeting friends, and traveling.
+Ozair is committed to a team-oriented approach in creating and implementing software solutions that fulfill business requirements and consistently strives to deliver quality products that meet user expectations.
