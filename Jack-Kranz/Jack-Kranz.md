@@ -7,7 +7,7 @@ quote:  "The definition of genius is taking the complex and making it simple."
 quoteAuthor: "Albert Einstein"
 ---
 
-Jack is an experienced web/mobile application developer, React trainer and Scrumpractitioner.  
+Jack is an experienced web/mobile application developer, React trainer and Scrum practitioner.  
 
 Jack has delivered successful projects ranging in scale from large digital transformation projects to minimum viable products for tech startups. He has a keen eye for detail, a drive for results and strives for quality and robustnes. Being a trainer/developer means Jack is always familiar with latest technologies and best practices.   
 

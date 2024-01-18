@@ -20,7 +20,7 @@ Michael is the SSW State Manager for Victoria, supporting the growth of the Melb
 
 He has worked with a broad range of organisations, from tech start-ups to multi-national companies, to help them build businesses that are profitable. 
 
-Mike's project management expertise, as well as his experience implementing Scrumprocesses and migrating on-premises apps to azure cloud, means he is extremely versatile and will help drive your business to succeed.
+Mike's project management expertise, as well as his experience implementing Scrum processes and migrating on-premises apps to azure cloud, means he is extremely versatile and will help drive your business to succeed.
 
 Mike specialises in:
 
@@ -30,6 +30,6 @@ Mike specialises in:
 
 - Building business cases and cost-benefit analysis
 
-- Implementing Scrumprocesses
+- Implementing Scrum processes
 
 - Building happy, motivated, and productive teams
