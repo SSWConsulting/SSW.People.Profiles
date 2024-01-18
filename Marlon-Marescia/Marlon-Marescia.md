@@ -15,6 +15,6 @@ Marlon and the SSW marketing team has been successfully using Facebook Advertisi
 
 Marlon was instrumental in starting and promoting the first [FireBootCamp ](http://www.firebootcamp.com/) which won the FireBootCamp won the [Microsoft Australia Partner Award for Excellence in Learning](https://firebootcamp.com/firebootcamp-won-the-microsoft-australia-partner-award-for-excellence-in-learning/) in 2015.
 
-Marlon and members of the SSW TV team (Raj and Titus) in their spare time created a rap music video [Oh Holy Night](http://www.jojorock.com/oh-holy-night/) for Marlon's 8 year old son JoJo. This project helps raise money so JoJo can sponsor children from [Compassion](http://compassion.com.au/). The music has been featured in the media on Channel 7, radio station 2GB and News Limited to name a few . You can find out more at [JoJoRock.com](http://jojorock.com/).
+Marlon and members of the SSW TV team (Raj and Titus) in their spare time created a rap music video **Oh Holy Night** for Marlon's 8 year old son JoJo. This project helps raise money so JoJo can sponsor children from [Compassion](http://compassion.com.au/). The music has been featured in the media on Channel 7, radio station 2GB and News Limited to name a few . You can find out more at [JoJoRock.com](http://jojorock.com/).
 
 In his spare time Marlon enjoys learning to surf, watching movies, cooking Thai food, thinking about getting fit, and rapping with his 4 boys.
