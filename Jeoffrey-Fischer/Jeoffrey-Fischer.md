@@ -13,4 +13,4 @@ In 2023, fueled by a growing interest in Software Development, Jeoffrey embarked
 
 Jeoffrey brings a growing enthusiasm to his current role, showcasing proficiency in various technologies, including **.NET, EF Core, Angular, React, NextJS, SQL databases** and **Microsoft Azure**, all of which contribute to his evolving skills as a valuable team member.
 
-Outside of the office, Jeoffrey is either wrestling with the intricacies of mastering those wild John Mayer **guitar** solos or honing his bottoms-up technique at the SSW weekly Friday **pub** sessions. Alternatively, you might catch him at the **gym** or in the comfort of his home, immersed in some **video game**.
+Outside of the office, Jeoffrey is either wrestling with the intricacies of mastering those wild John Mayer **guitar** solos or honing his bottoms-up technique at the SSW weekly Friday **pub** sessions. Alternatively, you might catch him at the **gym** or in the comfort of his home, immersed in **video game**.
