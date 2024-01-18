@@ -51,9 +51,9 @@ Damian worked on the public-facing website for the National Australia Day Counci
 
  **Damian's Presentations:**
 
-*   [Diving into Team Foundation Server Extensibility](http://search.channel9.msdn.com/content/result?sid=38a2fe9e-312c-44a1-81ad-14b04a911731&rid=6e9526bb-c526-4fac-9082-a39d00f30586) - Tech Ed New Zealand 2014
+*   Diving into Team Foundation Server Extensibility - Tech Ed New Zealand 2014
 
-*   [Release Management for the Enterprise](http://search.channel9.msdn.com/content/result?sid=38a2fe9e-312c-44a1-81ad-14b04a911731&rid=b6182d1f-a29b-40f0-bfbf-a39d00f3023e) - Tech Ed New Zealand 2014
+*   Release Management for the Enterprise - Tech Ed New Zealand 2014
 
 *   [Octopus Deploy and how to stop deploying like an idiot](http://tv.ssw.com/5522/octopus-deploy-and-how-to-stop-deploying-like-an-idiot-damien-brady-ddd-melbourne) - DDD Melbourne 2014
 
