@@ -23,7 +23,7 @@ He has been working with TFS consultant 5 years, with many years as a senior sof
 
  **SGM**(Shanghai General Motors) - Help client build TFS environment, provide TFS solution and training.
 
- **Microsoft**- Work shop, scrum nav training and build Microsoft CIE environment.
+ **Microsoft**- Work shop, Scrum nav training and build Microsoft CIE environment.
 
  **SCRCU**(SiChuan Rural Credit Union) - Help them build the process of requirement management.
 

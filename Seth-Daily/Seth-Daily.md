@@ -25,7 +25,7 @@ Seth is an SSW Marketing Assistant and Account Manager who loves artificial inte
 
 📏 He likes improving [SSW Rules](https://www.ssw.com.au/rules/) because best practice standards optimize every process.
 
-🎊 He contributes to the [SSW Website](https://www.ssw.com.au/), organizes [events](https://www.ssw.com.au/ssw/Events/?tech=all&type=all) and is learning account management under the guidance of [Uly](https://www.ssw.com.au/people/uly/).
+🎊 He contributes to the [SSW Website](https://www.ssw.com.au/), organizes [events](https://www.ssw.com.au/ssw/Events/?tech=all&type=all) and is learning account management under the guidance of [Uly](/uly/).
 
 🌎 Raised in California, he has lived in Switzerland and now makes Australia his home.
 

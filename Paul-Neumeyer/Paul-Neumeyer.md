@@ -16,7 +16,7 @@ Customer Benefits: **Improved project management and optimised developement proc
 
 Favourite SSW Rules: **[Rules to Better Scrum with Azure DevOps](https://ssw.com.au/rules/rules-to-better-scrum-using-azure-devops/)**
 
-Dr. Paul Neumeyer is the go to man when your project is in trouble. He experience with the scrum methodology and deep software experience allows him to pinpoint imporovements and help your team get back on track.  
+Dr. Paul Neumeyer is the go to man when your project is in trouble. He experience with the Scrum methodology and deep software experience allows him to pinpoint imporovements and help your team get back on track.  
 
  Paul is enthusiastic about innovating and streamlining technology so that real value is transferred to companies around Australia. He has enjoyed consulting to a wide range of IT Sectors for over 10 years including the banking sector, health sector, finance and online businesses. His experience managing projects has lead him to focus on using the best of the Scrum and Agile methods and the results are unparalleled.   
 

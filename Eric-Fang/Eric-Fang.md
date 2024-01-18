@@ -17,7 +17,7 @@ Eric's client projects:
 Related Technology: C#, ASP.NET 2.0, Code Generation, DB2/400 and SQL Server 2005.
 *   **Law Cover**'s internal web application.  
 Related Technology: C#, ASP.NET 2.0 and SQL Server 2005.
-*   **Warringah Council's** web site.  
+*   **Warringah Council's** website.  
 Related Technology: C#, DotNetNuke, ASP.NET 2.0 and SQL Server 2005.
 *   **Hills Transport**'s secure website and windows application T2.  
 Deals with Point of Delivery, scanning Consignment notes and Barcode reading.  
