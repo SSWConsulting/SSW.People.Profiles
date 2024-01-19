@@ -9,5 +9,5 @@ quoteAuthor: "Al Pacino as Tony Montana"
 
 Lloyd Collins is a System Administrator from the UK, with a variety of experience of working in the UK and Australia. Lloyd worked in a variety of IT departments from large corporations such as worldcom and IBM, to SME's and individuals. As a new member of the team, Lloyd is keen to learn more GitHub and video production.
 
-Good problem solving amd windows server skills. Focusing on Microsoft Intune deployment, which has followed on from SOE creation in previous roles and maintaining a good laptop image as a basis for consistent working environment.
+Lloyd has good problem solving and Windows server skills, focusing on Microsoft Intune deployment, which has followed on from SOE creation in previous roles and maintaining a good laptop image as a basis for a consistent working environment.
 
