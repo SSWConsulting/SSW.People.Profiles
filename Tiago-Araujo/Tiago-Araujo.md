@@ -30,19 +30,22 @@ quoteAuthor: "Henry David Thoreau"
 
 ---
 
-Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: "OK, but you're still working remotely for us". We couldn't let him go. After a few years in Brazil, he now lives and works in Canada.  
+Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: _"OK, but you're still working remotely for us"_. We couldn't let him go. This was 10+ years before the pandemic, so we are proud to say Tiago is a remote worker pioneer. After a few years in Brazil, he now lives and works in the west coast of Canada.  
 
-Tiago is a creative individual who enjoys a challenge. He has 10+ years experience working as a designer for both print and web projects. He also loves spending time designing in Sketch or writing clean HTML/CSS for our websites and apps... while listening to old songs. Here are some of his skills:
+With 15+ years experience working as a designer for both print and web projects, he loves spending time designing in Sketch or writing clean HTML/CSS for websites and apps... while listening to old songs. Tiago has developed responsive websites and apps ranging from concept, layout, mark-up, implementation, testing, and maintenance.
+
+He is also a Scrum Master and the driving force behind keeping [SSW Rules](https://ssw.com.au/rules) up-to-date. 
+
+Here are some of his skills:
 
 * **User Interface Design** - Websites, apps, and social media assets
-* **User Experience** - Research, testing and prototyping
+* **User Experience** - Research, testing, and prototyping
 * **Graphic Design** - Visual identity, and marketing materials
-* **Semantic HTML, CSS, Markdown, and JavaScript/JS frameworks** - Accessible, reusable and clean code
+* **Semantic HTML, CSS, Markdown, and JavaScript/JS frameworks** - Accessible, reusable, and clean code
 * **CMS** - WordPress, SharePoint, and more
 * **Photography** - Production, editing, manipulation, and optimization
+* **Copy writing** - Focused on SEO, formatting, and accuracy
 
-Tiago has developed responsive websites and apps ranging from concept, layout, mark-up, implementation, testing, and maintenance.
-
-Besides SSW's design enhancement projects, Tiago's past clients include Energy Australia, FastAs, WorleyParsons, The Home Loan Company, Carmody Group, Vulcan Steel, AirRoad, Tapp, Nutripath, and Karras.
+Besides SSW's design enhancement projects, Tiago's past clients include FastAs, WorleyParsons, The Home Loan Company, Carmody Group, Vulcan Steel, AirRoad, Tapp, Nutripath, Berkley, and Karras.
 
 Apart from work, Tiago is an amateur runner, a Volkswagen Beetle enthusiast, loves to travel, and hates olives 🙃
