@@ -30,7 +30,7 @@ quoteAuthor: "Henry David Thoreau"
 
 ---
 
-Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: _"OK, but you're still working remotely for us"_. We couldn't let him go. This was 10+ years before the pandemic, so we are proud to say Tiago is a remote worker pioneer. After a few years in Brazil, he now lives and works in the west coast of Canada.  
+Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: _"OK, but you're still working remotely for us"_. We couldn't let him go. This was 10+ years before the pandemic, so we are proud to say Tiago is a trailblazer in the realm of remote work. After a few years in Brazil, he now lives and works in the west coast of Canada.  
 
 With 15+ years experience working as a designer for both print and web projects, he loves spending time designing in Sketch or writing clean HTML/CSS for websites and apps... while listening to old songs. Tiago has developed responsive websites and apps ranging from concept, layout, mark-up, implementation, testing, and maintenance.
 
@@ -46,6 +46,6 @@ Here are some of his skills:
 * **Photography** - Production, editing, manipulation, and optimization
 * **Copy writing** - Focused on SEO, formatting, and accuracy
 
-Besides SSW's design enhancement projects, Tiago's past clients include FastAs, WorleyParsons, The Home Loan Company, Carmody Group, Vulcan Steel, AirRoad, Tapp, Nutripath, Berkley, and Karras.
+Besides SSW's design enhancement projects, Tiago's past clients include FastAs, WorleyParsons, The Home Loan Company, Carmody Group, Vulcan Steel, AirRoad, Tapp, Nutripath, Berkley, Karras, and more.
 
-Apart from work, Tiago is an amateur runner, a Volkswagen Beetle enthusiast, loves to travel, and hates olives 🙃
+Apart from work, Tiago is an amateur runner, a Volkswagen Beetle enthusiast, a passionate traveler, and a declared hater of olives 🙃
