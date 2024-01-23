@@ -3,6 +3,8 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
+'Alex-Lee/**':
+  - alexleessw
 'Alex-Rothwell/**':
   - AlexRothwell
 'Alvin-Shen/**':
@@ -71,6 +73,10 @@
   - Harry-Ross
 'Hugo-Pernet/**':
   - Freego1783
+'Isaac-Lombard/**':
+  - isaaclombardssw
+'Isabel-Sandstroem/**':
+  - synnoveisabel
 'Jack-Duan/**':
   - duanxinhuan
 'Jack-Pettit/**':
@@ -94,13 +100,13 @@
 'Jimmy-Chen/**':
   - JimmyChenSSW
 'John-Xu/**':
-  - johnxu77
-'Jonty-Gardner/**':
-  - jontygardner
+  - johnxu16
 'Jord-Gui/**':
   - Jord-Gui
 'Joseph-Fernandez/**':
   - 2fernandez
+'Josh-Berman/**':
+  - joshbermanssw
 'Kaha-Mason/**':
   - KahaMason
 'Kaique-Biancatti/**':
@@ -117,6 +123,8 @@
   - leehawkinsssw
 'Levi-Jackson/**':
   - Levijj22
+'Lloyd-Collins/**':
+  - lloydcollinsssw
 'Lu-Zhang/**':
   - zl24622
 'Luke-Cook/**':
@@ -137,6 +145,8 @@
   - wicksipedia
 'Mehmet-Ozdemir/**':
   - ozdemir-mehmet
+'Michael-Smedley/**':
+  - miichaelsmedley
 'Nadee-Kodituwakku/**':
   - NadeekaJK
 'Nick-Curran/**':
@@ -154,7 +164,7 @@
 'Sam-Wagner/**':
   - SamBWagner
 'Seth-Daily/**':
-  - sethdailyssw
+  - sethdaily
 'Sofie-Hong/**':
   - SofieHong
 'Stephan-Fako/**':
@@ -166,7 +176,7 @@
 'Tiago-Araujo/**':
   - tiagov8
 'Tino-Liu/**':
-  - SpookyBoogy2016
+  - tino-liu
 'Toby-Churches/**':
   - TobyChurches
 'Tom-Bui/**':
@@ -183,6 +193,8 @@
   - leahy268
 'William-Liebenberg/**':
   - william-liebenberg
+'Yalal-Cakir/**':
+  - YalalCakirSSW
 'Yang-Shen/**':
   - Berber-Mama
 'Yazhi-Chen/**':
