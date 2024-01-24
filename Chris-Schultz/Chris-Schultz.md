@@ -14,8 +14,6 @@ quoteAuthor: "Randall Munroe"
 [[imgBadge]]
 | ![](../badges/SysAdmin-microsoft-hyper-v.png)
 
-Chris Schultz is the Senior Systems Administrator at SSW. He's a creative problem solver with experience in a wide range of infrastructure related technologies.  
-
 Chris Schultz is a Senior Systems Administrator at SSW, bringing a wealth of experience in a wide array of infrastructure-related technologies. With a knack for creative problem-solving, Chris has demonstrated his expertise in the Education sector, where he built and maintained systems to support hundreds of staff and students. Now, he's leveraging this experience to excel in the realm of cloud technologies.  
 
 Chris's background in the Education sector has equipped him with a deep understanding of the unique needs and challenges in this environment. His experience in managing large-scale systems has honed his skills in problem-solving, project management, and strategic planning.  
