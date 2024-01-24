@@ -31,7 +31,7 @@ quoteAuthor: "Martin Fowler"
 | ![Angular](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![Angular](../badges/Developer-python.png)
+| ![MongoDb](../badges/Developer-mongodb-atlas.png)
 
 [[imgBadge]]
 | ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
