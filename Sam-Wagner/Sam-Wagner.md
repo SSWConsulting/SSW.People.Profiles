@@ -8,9 +8,6 @@ quoteAuthor: "Sam Wagner"
 ---
 
 [[imgBadge]]
-| ![Azure](../badges/Business-microsoft-azure.png)
-
-[[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
@@ -24,6 +21,9 @@ quoteAuthor: "Sam Wagner"
 
 [[imgBadge]]
 | ![Scrum](../badges/Business-scrum.png)
+
+[[imgBadge]]
+| ![Azure](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
 | ![Angular](../badges/Developer-angular.png)
