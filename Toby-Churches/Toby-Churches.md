@@ -33,7 +33,7 @@ Proficient in a range of programming languages and frameworks, Toby possesses a 
 
 ## Academic Pursuits
 
-Currently pursuing his fourth year of Software Engineering at the University of Newcastle, Toby is committed to continuous learning and academic excellence. His academic journey empowers him to stay updated with the latest industry trends, ensuring he remains at the forefront of technology.
+Toby recently graduated with Class 1 honors in Software Engineering from the University of Newcastle. This significant academic achievement is a testament to his dedication to continuous learning and academic excellence. As a graduate, Toby combines his strong theoretical foundation with practical skills, ensuring he stays at the forefront of technology and industry trends. His academic success further solidifies his ability to deliver innovative and effective software solutions.
 
 ## Passion for Collaboration
 
