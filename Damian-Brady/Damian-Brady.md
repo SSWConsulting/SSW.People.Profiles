@@ -28,8 +28,7 @@ With well over ten years of experience both in software development and business
 His main loves are helping Scrum teams run smoothly and effectively using TFS, and delivering great ASP.NET MVC web applications. He has also had extensive experience in .Net WinForms applications, mobile-targeted websites, and SQL Server.  
 
 Damian is very active in the Brisbane developer community and runs both the [Brisbane .Net User Group](http://www.meetup.com/Brisbane-Net-User-Group/ "Brisbane .Net User Group") (formerly Qld MSDN User Group and the 
-[DeveloperDeveloperDeveloper Brisbane](http://www.dddbrisbane.com/ "DDD Brisbane") conference.  He is also a regular speaker at the 
-[Queensland ALM](http://www.qalmug.org/ "Qld ALM User Group") user group and various conferences and user groups in other states. He's also a co-author of "[Professional Team Foundation Server 2013](http://brdy.in/ProTFS2013)".  
+[DeveloperDeveloperDeveloper Brisbane](https://www.dddbrisbane.com/) conference. He is also a regular speaker at the Queensland ALM User Group and various conferences and user groups in other states. He's also a co-author of "[Professional Team Foundation Server 2013](https://www.amazon.com/Professional-Team-Foundation-Server-2013/dp/1118836340)".  
 
  In his spare time, Damian plays indoor and beach volleyball, and is an avid St. Kilda AFL supporter. 
 
