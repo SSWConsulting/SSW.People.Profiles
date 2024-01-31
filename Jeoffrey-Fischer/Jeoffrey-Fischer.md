@@ -8,6 +8,15 @@ quoteAuthor: "Abraham Lincoln"
 ---
 
 [[imgBadge]]
+| ![.NET Core](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![Angular](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![React](../badges/Developer-react.png)
+
+[[imgBadge]]
 | ![Certification Scrum Alliance Master](../badges/Certification-scrumalliance-master.png)
 
 ---
