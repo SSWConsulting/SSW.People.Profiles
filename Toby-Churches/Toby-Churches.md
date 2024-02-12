@@ -38,3 +38,5 @@ Toby recently graduated with Class 1 honors in Software Engineering from the Uni
 ## Passion for Collaboration
 
 Toby values teamwork and collaboration, recognizing the power of collective ideas in creating extraordinary results. He actively engages with teammates and clients to understand project requirements, offer valuable insights, and foster a cohesive work environment.
+
+In his spare time, Toby immerses himself in his passions for cooking and motorcycles, seizing every opportunity to embark on a ride or whip up something new in the kitchen.
