@@ -16,6 +16,12 @@ quoteAuthor: "Imran Khan"
 [[imgBadge]]
 | ![NgRx](../badges/Developer-ngrx.png)
 
+[[imgBadge]]
+| ![NgRx](../badges/Developer-react.png)
+
+[[imgBadge]]
+| ![NgRx](../badges/Developer-c-sharp.png)
+
 <br/>
 Ozair is an SSW Software Developer working from the Melbourne office. He brings a unique mix of technical acumen and thoughtful problem-solving to his role. With a Master's in Network Systems with a specialization in Cyber Security from Swinburne University, his expertise spans both front-end and back-end development, particularly in Angular, React, and .NET.
 
