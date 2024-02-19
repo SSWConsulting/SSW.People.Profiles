@@ -6,6 +6,10 @@ qualifications: "Master of Engineering Science"
 quote: "Learning is a lifetime lesson - keep yourself open to learn something new!"
 
 ---
+
+[[imgBadge]]
+| ![Azure_Developer_Badge](../badges/Certification-microsoft-azure-developer-associate.png)
+
 [[imgBadge]]
 | ![Angular](../badges/Developer-angular.png)
 
