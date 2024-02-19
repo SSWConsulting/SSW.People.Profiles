@@ -23,10 +23,14 @@ quoteAuthor: "Imran Khan"
 | ![NgRx](../badges/Developer-c-sharp.png)
 
 <br/>
-Ozair is an SSW Software Developer working from the Melbourne office. He brings a unique mix of technical acumen and thoughtful problem-solving to his role. With a Master's in Network Systems with a specialization in Cyber Security from Swinburne University, his expertise spans both front-end and back-end development, particularly in Angular, React, and .NET.
-
-Throughout his career, Ozair has contributed to projects across various sectors, including healthcare, start-up environments, and large organizations, enhancing user experiences and meeting specific business needs. At SSW, Ozair's focus has been on developing web solutions that are both user-centric and technically sound. He is adept in Agile methodologies, ensuring projects are delivered efficiently and align with client goals.
-
-Beyond his professional pursuits, Ozair is passionate about computer games, reading, and keeping abreast of the latest technological advancements. 
-
-Ozair is committed to a team-oriented approach in creating and implementing software solutions that fulfill business requirements and consistently strives to deliver quality products that meet user expectations.
+Ozair is an innovative SSW Software Developer based in the Melbourne office, known for his unique blend of technical prowess and problem-solving skills. Holding a Master's in Network Systems with a specialization in Cyber Security from Swinburne University, he excels in both front-end and back-end development, with a particular focus on Angular, React, and .NET technologies.
+ 
+In a recent challenge, Ozair and his team were tasked with migrating a large-scale project from .NET Framework to .NET 8. They wanted to avoid a feature freeze and reduce risk by ensuring old parts of the app were retired as soon as possible. To accomplish this feat, they utilized a reverse proxy (YARP) to run both versions in tandem, allowing for a seamless transition and immediate use of new features.
+ 
+Ozair has also significantly impacted operational efficiencies in various sectors. For example, on one of his projects, the client was utilizing a physical document to assign tasks to people. He worked with the client to move these tasks into a web app, eliminating the need for physical documents. This solution meant the client could track and manage tasks in real-time. Moreover, the client had a level of transparency and efficiency that was previously unattainable.
+ 
+Throughout his diverse career, Ozair has been passionate about leveraging technology to solve real-world problems, particularly in healthcare and startup environments. His work at SSW is characterized by a dedication to developing web solutions that prioritize user needs and follow technical best practices. A proponent of Agile methodologies, Ozair ensures that projects are not only delivered efficiently but also align perfectly with client objectives.
+ 
+Beyond his professional pursuits, Ozair is passionate about computer games, reading, and keeping abreast of the latest technological advancements.
+ 
+In every project, Ozair adopts a team-oriented approach, focusing on creating and implementing quality solutions that meet business requirements and exceed user expectations.
