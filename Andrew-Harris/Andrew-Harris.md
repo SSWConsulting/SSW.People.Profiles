@@ -33,7 +33,7 @@ He is a passionate mentor combining his years of experience and his Scrum Master
 
 Andrew favourite tools and technologies include:
 
-* .NET Core
+* .NET
 * Azure
 * Docker
 * Node.js
