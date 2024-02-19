@@ -36,5 +36,5 @@ Andrew favourite tools and technologies include:
 * .NET Core
 * Azure
 * Docker
-* Node.Js
+* Node.js
 * SQL Server
