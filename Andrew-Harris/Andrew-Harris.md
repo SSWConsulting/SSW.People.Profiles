@@ -25,16 +25,14 @@ quoteAuthor: "Leonardo Da Vinci"
 [[imgBadge]]
 | ![SQL Server](../badges/Developer-sql-server.png)
 
-Andrew is a **Senior Software Architect** with more than 25 years experience creating robust and performant solutions from the ground up. He has has worked in industries including Banking, Finance, Retail, People Management & eCommerce and has worked across platforms including Telephony, CRM, ERP, Payroll, Accounting and Banking.
+Andrew is a seasoned **Senior Software Architect** with over 25 years of experience modernisation and integrating Telephony, CRM, ERP, Payroll, Accounting, and Banking systems across sectors such as Banking, Finance, Retail, Hospitality, Sporting, People Management, and eCommerce. 
 
-Andrew has a strong background in integration and application modernisation using technology including:
+He is a passionate mentor combining his years of experience and his Scrum Master certification (CSM) to help guide developers through the intricacies of Scrum and the software development lifecycle. Blending technical and business acumen with a collaborative ethos, Andrew fosters environments where ideas flourish, and developers thrive, one line of code at a time.
+
+Andrew favourite tools and technologies include:
 
 * .NET Core
-* Angular
-* [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
+* Azure
 * Docker
 * Node.Js
 * SQL Server
-* TypeScript
-
-Andrew is passionate about understanding a problem and finding the right solution for that problem.
