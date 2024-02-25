@@ -46,7 +46,7 @@ With a rich background in systems engineering and management, complemented by a 
 
 * **Innovate with Purpose:** From crafting secure authentication systems for educational clients to enhancing app engagement with AI, my aim is always to deliver solutions that marry innovation with user-centric design.
 * **Bridge Gaps:** Beyond technical development, I excel in translating complex concepts into digestible insights, creating a synergy between technical and non-technical teams towards shared objectives.
-* **Inspire and Educate:** Through my book, _[.NET MAUI in Action](https://www.manning.com/books/dot-net-maui-in-action?utm_source=goforgoldman&utm_medium=affiliate&utm_campaign=book_goldman_dot_5_10_22&a_aid=goforgoldman&a_bid=38933097)_, I share my expertise and experiences, aiming to empower and guide the developer community in leveraging .NET to its full potential.
+* **Inspire and Educate:** Through my book, [_.NET MAUI in Action_](https://www.manning.com/books/dot-net-maui-in-action?utm_source=goforgoldman&utm_medium=affiliate&utm_campaign=book_goldman_dot_5_10_22&a_aid=goforgoldman&a_bid=38933097), I share my expertise and experiences, aiming to empower and guide the developer community in leveraging .NET to its full potential.
 
 ### Projects & Achievements
 
