@@ -1,16 +1,36 @@
 ---
-id: "ff414a69-2fe8-eb11-bacb-0022481575ab"
+id: "1971846c-a5c4-ee11-9079-000d3acab861"
 
-qualifications: ""
+qualifications: "Bachelor of Information Technology"
 
 quote: "You miss 100% of the shots you don't take"
 quoteAuthor: "Wayne Gretzky"
 ---
 
-Andrew is completing a Bachelor of Information Technology at RMIT for a career change after 10+ years as a mechanic.
+[[imgBadge]]
+| ![](../badges/Developer-react.png)
 
-He is passionate about learning as much as possible in the world of software development to help solve all sorts of problems for clients.
+[[imgBadge]]
+| ![](../badges/Developer-angular.png)
 
-So far he has contributed to maintenance and development of [SSW TimePro](https://sswtimepro.com) and is looking forward to working on some of the many fun and challenging projects that come through SSW.
+[[imgBadge]]
+| ![](../badges/Developer-c-sharp.png)
 
-When not working or studying, Andrew is playing video games 🕹️, learning French 🥐 or practising violin 🎻.
+[[imgBadge]]
+| ![](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![](../badges/Business-microsoft-azure.png)
+
+After switching from a career in the automotive trade, Andrew has already accomplished a lot in Software Development, specializing in Frontend using React and Angular. His expertise extends to Backend development with .NET and proficiency in cloud technologies, particularly AWS and Azure.
+
+Andrew has successfully delivered impactful solutions for large global clients and national government entities. His versatile skill set has enabled him to navigate complex projects, consistently meeting and exceeding client expectations.
+
+Beyond his technical prowess, Andrew has a keen interest in great design and is passionate about ensuring accessibility in websites. He believes that combining functionality with an intuitive and aesthetically pleasing design is crucial for creating a positive UX.
+
+Andrew is committed to leveraging modern methods and frameworks to create lasting and efficient tech solutions. His dedication to accessibility highlights his belief in inclusive design, making technology accessible to all users.
+
+When not working or learning, Andrew is playing video games 🕹️, learning French 🥐 or practising violin 🎻.
