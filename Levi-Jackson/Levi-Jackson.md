@@ -1,10 +1,14 @@
 ---
 id: "db425c88-023b-ed11-9db1-00224818a8c8"
 
-qualifications: ""
+qualifications: "Certified ScrumMaster® (CSM®)"
 
 quote: "If everyone is moving forward together, then success takes care of itself."
 quoteAuthor: "Henry Ford"
+---
+[[imgBadge]]
+| ![Image Alt Text](../badges/Certification-scrumalliance-master.png)
+
 ---
 
 Levi is an SSW Account Manager located in Sydney, Australia.
