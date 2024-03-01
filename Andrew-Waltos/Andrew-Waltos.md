@@ -28,6 +28,8 @@ quoteAuthor: "Wayne Gretzky"
 [[imgBadge]]
 | ![](../badges/Certification-aws-cloud-practitioner-foundational.png)
 
+---
+
 After switching from a career in the automotive trade, Andrew has already accomplished a lot in Software Development, specializing in Frontend using React and Angular. His expertise extends to Backend development with .NET and proficiency in cloud technologies, particularly AWS and Azure.
 
 Andrew has successfully delivered impactful solutions for large global clients and national government entities. His versatile skill set has enabled him to navigate complex projects, consistently meeting and exceeding client expectations.
