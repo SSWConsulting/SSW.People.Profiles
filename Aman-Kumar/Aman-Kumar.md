@@ -9,7 +9,7 @@ quoteAuthor: "Elon Musk"
 ---
 
 [[imgBadge]]
-| ![.NET Core](../badges/Certification-microsoft-azure-developer-associate.png)
+| ![Azure_Developer_Badge](../badges/Certification-microsoft-azure-developer-associate.png)
 [[imgBadge]]
 | ![.NET Core](../badges/Business-microsoft-azure.png)
 
