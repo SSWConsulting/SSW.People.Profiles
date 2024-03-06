@@ -7,6 +7,9 @@ quote: "Failure is an option here. If things are not failing, you are not innova
 quoteAuthor: "Elon Musk"
 
 ---
+
+[[imgBadge]]
+| ![.NET Core](../badges/Certification-microsoft-azure-developer-associate.png)
 [[imgBadge]]
 | ![.NET Core](../badges/Business-microsoft-azure.png)
 
