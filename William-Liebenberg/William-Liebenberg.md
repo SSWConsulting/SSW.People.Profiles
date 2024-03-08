@@ -7,6 +7,9 @@ quote:  "Make a plan! Make it happen!"
 
 ---
 [[imgBadge]]
+| [![Microsoft MVP - .NET Developer Technologies](../badges/Certification-microsoft-mvp.png)](https://mvp.microsoft.com/en-US/MVP/profile/f0925581-7aab-4869-89d3-87452b5c0f0a)
+
+[[imgBadge]]
 | ![azure-logo.png](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
@@ -50,7 +53,7 @@ quote:  "Make a plan! Make it happen!"
 
 ---
 
-William is a **Solution Architect** with over 20 years of professional experience spanning multiple industries such as Heavy Engineering, Mining, 3D Graphics, Education and Finance.
+William is a **Solution Architect** and Microsoft MVP for .NET Developer Technologies with over 20 years of professional experience spanning multiple industries such as Heavy Engineering, Mining, 3D Graphics, Education and Finance.
 
 With his many years of experience, William has learnt how to adapt to new industries, and this gives him a unique talent for synchronizing with his clients' business languages and processes to successfully build their solutions.
 
