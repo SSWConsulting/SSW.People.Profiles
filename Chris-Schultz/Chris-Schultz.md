@@ -10,6 +10,8 @@ quoteAuthor: "Randall Munroe"
 [[imgBadge]]
 | [![](../badges/Certification-microsoft-azure-fundamentals.png)](https://www.credly.com/badges/55060296-b73c-4040-a1a8-affac658aded/public_url)
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-network-engineer.png)
+[[imgBadge]]
 | ![](../badges/Business-microsoft-azure.png)
 [[imgBadge]]
 | ![](../badges/SysAdmin-microsoft-hyper-v.png)
