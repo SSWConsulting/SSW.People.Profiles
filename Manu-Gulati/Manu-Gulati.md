@@ -7,6 +7,9 @@ quote: "Everything should be made as simple as possible, but not simpler."
 quoteAuthor: "Albert Einstein"
 ---
 [[imgBadge]]
+| ![power-platform-functional-consultant.png](../badges/Certification-microsoft-power-platform-functional-consultant-associate.png)
+
+[[imgBadge]]
 | ![power-apps-logo.png](../badges/Business-microsoft-dynamics-powerapps.png)
 
 [[imgBadge]]
