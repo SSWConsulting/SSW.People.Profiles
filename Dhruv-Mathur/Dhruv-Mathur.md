@@ -28,9 +28,19 @@ quoteAuthor: "Jim Rohn"
 | ![Docker](../badges/Developer-docker.png)
 
 [[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
+
+[[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
-Dhruv Mathur is a skilled software developer at SSW, specializing in creating outstanding software solutions using modern technologies such as .NET Core, ReactJS, Angular, NextJS, Docker containers, and microservices. He enjoys working in a learning-focused environment at SSW, where he has the opportunity to enhance both his technical expertise and professional communication skills.
+Dhruv Mathur is a skilled software developer at SSW, specializing in creating outstanding software solutions using modern technologies such as .NET Core, ReactJS, Angular, Blazor, NextJS, ASP .NET Identity and IdentityServer. He enjoys working in a learning-focused environment at SSW, where he has the opportunity to enhance both his technical expertise and professional communication skills.
   
-Dhruv recognizes the importance of collaboration and understanding client and user needs in delivering successful software solutions. He is dedicated to continuous improvement, staying up-to-date with the latest industry advancements, and bringing a comprehensive understanding of the entire software development lifecycle to every project.
-With expertise in both frontend and backend development, Dhruv's goal is to deliver high-quality software solutions that meet and exceed client expectations.
+## Internal Projects
+
+### SSW SugarLearning
+
+Dhruv has played a key part in maintaining SugarLearning and migrating it to .NET 8 with amazing new features. This is our own Learning Management System (LMS) that we've built to make online learning better. It is now running on .NET 8 with the latest features, showing our dedication to using the latest technology in education.
+
+### SSW.Identity
+
+Dhruv has also done work on SSW.Identity, our own identity server. This server, which is based on Duende IdentityServer and built using .NET 8, acts as the central sign-in point for all our internal apps. It's what makes single sign-on (SSO) possible for us, streamlining access across our various applications.
