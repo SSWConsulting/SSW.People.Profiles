@@ -32,6 +32,8 @@ Camilla is the SSW Marketing Manager and she is constantly working towards the b
 
 With over 10 years of experience, Camilla brings to the table a solid background in Business, Marketing and Strategy Consultancy, sprinkled with a generous dose of passion for art and fashion. 👩‍💼🎨 This rich background makes her a creative and resourceful member of the team. When she's not crushing it in the marketing realm, Camilla is also the mastermind behind some of the most outstanding events and overseeing SSW's global footprint in Australia, France, and China. 🌏
 
+She is currently working on [TinaCMS](https://tina.io/) - the world's best Markdown GitHub editor.
+
 Camilla's specialities are:
 
 - Content Marketing & Strategy
