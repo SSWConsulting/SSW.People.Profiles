@@ -35,7 +35,7 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 
 Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [SSW TV](https://tv.ssw.com/) frequently. He is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom enterprise .NET and Azure solutions mostly using Angular and React. His solutions also involve Office365, SharePoint, Dynamics 365, and Power BI. 
 
-**Currently** - Adam is working on the world's best Markdown GitHub editor - [TinaCMS](https://tina.io/).
+Adam is currently working on [TinaCMS](https://tina.io) - the world's best Markdown GitHub editor.
 
 **Clients** - At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, CBA, and Aurecon.  
 
