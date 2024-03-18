@@ -28,7 +28,7 @@ quoteAuthor: "Jim Rohn"
 | ![Docker](../badges/Developer-docker.png)
 
 [[imgBadge]]
-| ![Docker](../badges/Developer-blazor.png)
+| ![Blazor](../badges/Developer-blazor.png)
 
 [[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
