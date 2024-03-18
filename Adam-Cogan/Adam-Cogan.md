@@ -35,6 +35,8 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 
 Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [SSW TV](https://tv.ssw.com/) frequently. He is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom enterprise .NET and Azure solutions mostly using Angular and React. His solutions also involve Office365, SharePoint, Dynamics 365, and Power BI. 
 
+**Currently** - Adam is working on the world's best Markdown GitHub editor - [TinaCMS](https://tina.io/).
+
 **Clients** - At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, CBA, and Aurecon.  
 
 **Scrum** - Adam is a Certified Scrum Trainer with Scrum.org, trains developers in Australia, the US, UK and Europe, and contributes to Scrum.org thinking. He consults with development teams on improving their Scrum process through mentoring and being an SSW Solution Architect and Scrum Master. He has written many rules around Scrum best practices. 
@@ -46,7 +48,7 @@ Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [S
 [[imgMd]]
 | ![Adam has spoken at user groups/conferences in these countries](./Images/Bio/figureMap.jpg)
 
-**Software Architecture** - Adam enjoys working with teams, improving their usage of Scrum and DevOps, reviewing the architecture of large .NET and Azure projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s FireBootCamp, an intensive 9-week .NET training course where developers are retrained learning developer and architecture best practices. 
+**Software Architecture** - Adam enjoys working with teams, improving their usage of Scrum and DevOps, reviewing the architecture of large .NET and Azure projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](https://firebootcamp.com/), an intensive 9-week .NET training course where developers are retrained learning developer and architecture best practices. 
 
 Some of Adam's career highlights have been: 
 
@@ -54,10 +56,10 @@ Some of Adam's career highlights have been:
 - Growing the career of hundreds of SSW employees over 3 decades 
 - Seeing many of Adam Cogan’s former employees go on to do great things 
   - Tatham Oddie – CEO of Telstra Purple - was readify.net 
-  - Paul Stovell – CEO of octopus.com 
-  - Damian Brady – Mr. Devops at GitHub - was Microsoft Worldwide 
-  - Adam Stephensen – Mr. Azure at Microsoft Australia 
-- Being the Product Owner of many SSW products, such as SugarLearning.com and SSWTimePro.com  
+  - Paul Stovell – CEO of [octopus.com](https://octopus.com/)
+  - Damian Brady – Mr. Devops at [GitHub](https://github.com/) - was Microsoft Worldwide
+  - Adam Stephensen – Mr. Azure at Microsoft Australia
+- Being the Product Owner of many SSW products, such as [SugarLearning](https://sugarlearning.com/) and [TimePro](https://sswtimepro.com/) 
 - Being the Azure DevOps (was TFS) MVP of the year, proving his leadership in demonstrating the value of the ALM tools 
 - Leading the SSW-Telerik Event Cinema website redesign using Scrum 
 - Being lead developer on Australia's first live ASP.NET site - using a version that was pre-Beta 
