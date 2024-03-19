@@ -17,7 +17,10 @@ Used to working under pressure, he is Adam Cogan's 2nd in charge, and keeps the 
 
 **Expert in Business Applications of AI:** Ulysses has completed the "Career Essentials in Generative AI by Microsoft" course and is a subject matter expert in the business applications of AI, particularly generative AI. Whether it's automating workflows, data analysis, or customer engagement, he is the go-to person for leveraging AI to solve complex business challenges.
 
-Ulysses is the Scrum Master for internal development teams, the design, video, and marketing teams, as well as some client projects. Integrity, transparency, and a smooth running team are all very important to him. He's also a [Power BI](http://adamcogan.com/2016/10/13/power-bi-no-more-guessing/) and ChatGPT guru. 
+* He is the Scrum Master for internal development teams, the design, video, and marketing teams, as well as some client projects
+* He is a strong advocate for integrity, transparency, and smooth running teams
+* He is a [Power BI](http://adamcogan.com/2016/10/13/power-bi-no-more-guessing/) and ChatGPT guru
+* He works on the SSW website using the world's best website editor - [TinaCMS](https://tina.io/)
 
    <iframe width="800" height="450" src="https://www.youtube.com/embed/Y4tvF0DWEec" frameborder="0"></iframe> 
 
