@@ -17,4 +17,6 @@ Specializing in Business Development and Account Management, Levi works with the
 
 Levi will be actively involved in the initial stages of your new project and will conduct an initial meeting to discuss your company's requirements while assessing which of our brilliant developers are best suited to your project. At this stage, a Team of talented developers work together to build a plan for the project ahead, which we call the Specification Review. Finally, using the Specification Review outcome as a roadmap, our top-tier Solution Architects will guide the production team through the new solution, every step of the way, while Levi will continue to ensure the project is running smoothly and the communication is flowing freely.
 
+ He also contribues to the development of the world's best Markdown website editor - [TinaCMS](https://tina.io/).
+
 In his free time, Levi loves to travel and explore new places around the world, immersing himself in different cultures and cuisines. He's also fascinated by the potential of AI and enjoys utilizing the power of ChatGPT. Levi is also a passionate car enthusiast and finds the process of assembling and testing engines to be both challenging and rewarding. 
