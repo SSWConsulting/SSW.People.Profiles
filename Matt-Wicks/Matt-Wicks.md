@@ -41,6 +41,7 @@ Outside of his architectural accomplishments, Matt's holistic approach to softwa
 
 Matt's core proficiencies include but are not limited to:
 
+- Pivotal decision making on the development of the world's best Markdown website editor - [TinaCMS](https://tina.io/).
 - Transfiguring ancient XCopy deploy processes into state-of-the-art CI/CD automation pipelines on platforms like GitHub and Azure DevOps.
 - Document and process automation to transform everyday business workflows into highly efficient systems.
 - Nurturing customer relationships with Dynamics 365 CRM.
