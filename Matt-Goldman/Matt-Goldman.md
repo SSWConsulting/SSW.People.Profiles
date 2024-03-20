@@ -61,6 +61,8 @@ With a rich background in systems engineering and management, complemented by a 
 [[imgLg]]
 | ![.NET MAUI in Action](./Images/maui-ia-3d.png)
 
+* **[TinaCMS](https://tina.io/):** Lead the ongoing development of Tina Cloud, the server that supports the world's best GitHub Markdown editor.
+
 ### Skills & Expertise
 
 * **Technologies:** .NET, Xamarin/.NET MAUI, security/authentication, AI applications, and crafting secure, user-friendly systems.
