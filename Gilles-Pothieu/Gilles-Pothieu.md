@@ -25,7 +25,7 @@ quoteAuthor: "Aristotle"
 
 ---
 
-🖥️ Gilles is a SSW Software Developer at SSW Europe (France), who has been working with the Angular/.NET Core environment for nearly 4 years. He began his career as a web developer and later joined an engineering team that worked on a large application for an insurance company using a .NET Core/Angular-AngularJS/MongoDB environment.  
+🖥️ Gilles is a SSW Software Engineer at SSW Europe (France), who has been working with the Angular/.NET Core environment for nearly 4 years. He began his career as a web developer and later joined an engineering team that worked on a large application for an insurance company using a .NET Core/Angular-AngularJS/MongoDB environment.  
   
 🚀 Always attuned to the latest advancements in the field of development, he is enthusiastic about the emergence of AI that promise to revolutionize not only this domain but also the world at large.
   
