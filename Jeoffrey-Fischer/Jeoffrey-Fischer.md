@@ -23,7 +23,7 @@ quoteAuthor: "Abraham Lincoln"
 
 Jeoffrey Fischer (PhD) is a **Software Engineer** based at SSW's Sydney office. He was born in Strasbourg, France.
 
-**Tech skills** - Jeoffrey embarked on a career transition by participating in the **FireBootCamp** program at SSW, which provided valuable training and preparation for the world of software engineering. He brings a tremendous enthusiasm to his current role, showcasing proficiency in various technologies, including **.NET, EF Core, Angular, React, NextJS, SQL databases** and **Microsoft Azure**, all of which contribute to his evolving skills as a valuable team member.
+**Tech skills** - Jeoffrey originally started with SSW through the **FireBootCamp** program, which provided valuable training and preparation for the world of software engineering. He brings a tremendous enthusiasm to his current role, showcasing proficiency in various technologies, including **.NET, EF Core, Angular, React, NextJS, SQL databases** and **Microsoft Azure**, all of which contribute to his evolving skills as a valuable team member.
 
 **Scrum** - Jeoffrey is a certified **Scrum Master**. He enjoys the challenge of balancing his team's happiness with their productivity while making sure the Scrum process flows smoothly during each Sprint. Keeping constant communication within the Team members is his mantra to ensure the three pillars of Scrum are continuously followed: Transparency, Inspection and Adaptation. 
 
