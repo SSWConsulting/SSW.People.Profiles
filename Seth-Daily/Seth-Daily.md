@@ -25,12 +25,12 @@ Seth is an SSW Marketing Assistant and Account Manager who loves artificial inte
 
 📏 He likes improving [SSW Rules](https://www.ssw.com.au/rules/) because best practice standards optimize every process
 
-🎊 He contributes to the [SSW Website](https://www.ssw.com.au/), organizes [events](https://www.ssw.com.au/ssw/Events/?tech=all&type=all) and is learning account management under the guidance of [Uly](/uly/)
+🎊 He contributes to the [SSW Website](https://www.ssw.com.au/) and organizes [events](https://www.ssw.com.au/ssw/Events/?tech=all&type=all) for SSW Australia offices
 
-🧪 He is an active tester for the development of the world's best GitHub Markdown editor - [TinaCMS](https://tina.io)
+🗣️ He is an active contributor to the development of the world's best GitHub Markdown editor - [TinaCMS](https://tina.io)
 
 🌎 Raised in California, he has lived in Switzerland and now makes Australia his home
 
-🎓 In his free time he is always learning - martial arts, guitar, piano, and surfing (which might be why he lives in the great surfing region of Newcastle 😏)
+🎓 In his free time, he is always learning - martial arts, guitar, piano, and surfing (which might be why he lives in the great surfing region of Newcastle 😏)
 
-🖥️ If you work in software and want a job in Newcastle - email sethdaily@ssw.com.au
+🖥️ If you work in software and want a job in Newcastle, send him an email.
