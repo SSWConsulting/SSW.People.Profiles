@@ -6,7 +6,17 @@ qualifications: ""
 quote: "Embrace each day as a new canvas, where your choices paint the masterpiece of your life"
 quoteAuthor: "ChatGPT4"
 ---
+[[imgBadge]]
+| ![](../badges/Designer-adobe-premiere.png)
 
+[[imgBadge]]
+| ![](../badges/Designer-adobe-illustrator.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-adobe-aftereffects.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-camera.png)
 
 
 Alex is a multifaceted talent in the SSW TV Team, specializing in Scriptwriting, Directing, Editing, and Camera work. With over 10 years of experience in video production, he has honed his skills in crafting corporate videos and a diverse range of marketing video content.
