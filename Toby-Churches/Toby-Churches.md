@@ -1,7 +1,7 @@
 ---
 id: "bc510722-b761-ed11-9561-00224818668d"
 
-qualifications: ""
+qualifications: "Bachelor of Software Engineering with Honours Class 1 | University of Newcastle"
 
 quote: "Code is like humor. When you have to explain it, it's bad."
 quoteAuthor: "ChatGPT 🤖"
