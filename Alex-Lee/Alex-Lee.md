@@ -14,3 +14,5 @@ Alex is a multifaceted talent in the SSW TV Team, specializing in Scriptwriting,
 Alex possesses a comprehensive skill set in video production, adept at managing projects from inception to completion, mastering each aspect of the production process. His proficiency extends to visual storytelling, where he focuses on creating emotionally resonant narratives.
 
 With a positive and proactive attitude, Alex’s primary aim is to engage audiences through powerful visual storytelling, fostering teamwork, and delivering top-tier media productions.
+
+Alex's hobbies include training at his local MMA gym and watching fights!
