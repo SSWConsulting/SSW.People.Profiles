@@ -7,6 +7,9 @@ quote: "Before software can be reusable it first has to be usable."
 quoteAuthor: "Ralph Johnson"
 ---
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-azure-database-administrator-associate.png)
+
+[[imgBadge]]
 | ![](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
