@@ -32,7 +32,7 @@ quoteAuthor: "Grace Hopper"
 | ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
-| ![CSM_Badge](../badges/Business-Inrule.png)
+| [![InRule](../badges/Business-Inrule.png)](https://inrule.com/)
 
 ---
 
