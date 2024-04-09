@@ -23,15 +23,15 @@ quote:  "​​I build web applications that are lightning fast and dressed to i
 *   [ How to Use Twitter Bootstrap with Ben | Dev SuperPowers Episode 4 ](https://www.youtube.com/watch?v=DbdvWHkSEZo)
 
 *   [ AngularJS - How to make web applications with AngularJS and ASP.NET MVC | Dev SuperPowers Episode 7 ](https://www.youtube.com/watch?v=vwF1mxZH_hE)
-*   [ASP.NET Identity using vNext | Dev Superpowers Episode 11 ](http://tv.ssw.com/5980/asp-net-identity-using-vnext-dev-superpowers-episode-11)
+*   [ASP.NET Identity using vNext | Dev Superpowers Episode 11 ](https://tv.ssw.com/5980/asp-net-identity-using-vnext-dev-superpowers-episode-11)
 *   ASP.NET 5 and MVC6 : Where's My Cheese? | Dev SuperPowers Episode  15 
 
 I'm also quite into startups and have plenty of experience with rapid prototyping, especially in the payments space.
 
 *   [Taking other people's money: The state of payments in Australia - Ben | DDD Melbourne ](https://www.youtube.com/watch?v=U_zi2wto9xo)
-*   [NDC Oslo 2015 - Taking Other People's Money](http://benjii.me/2015/06/ndc-oslo-2015-taking-other-peoples-money/)
+*   [NDC Oslo 2015 - Taking Other People's Money](https://benjii.me/2015/06/ndc-oslo-2015-taking-other-peoples-money/)
 
- In my spare time you'll find me having a cold beer and tinkering with the latest technologies. At the moment I'm building some cross platform mobile applications using [Xamarin](http://xamarin.com/).  
+ In my spare time you'll find me having a cold beer and tinkering with the latest technologies. At the moment I'm building some cross platform mobile applications using [Xamarin](https://xamarin.com/).  
 
 I also have a beer brewing channel on youtube: [Mash Hacks](https://www.youtube.com/user/mashhacks).  
 

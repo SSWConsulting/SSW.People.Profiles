@@ -36,4 +36,4 @@ Chris is a Senior Software Developer, who heads up IoT at SSW . Based in Brisban
 
 *   Technologies used: A wide range of different penetration testing tools including MetaSploit. 
 
-[Click here for a full list of Chris' past presentations & interviews.](http://blog.chrisbriggsy.com/about/)
+[Click here for a full list of Chris' past presentations & interviews.](https://blog.chrisbriggsy.com/about/)

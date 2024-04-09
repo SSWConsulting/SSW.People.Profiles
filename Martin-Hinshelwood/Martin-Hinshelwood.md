@@ -7,9 +7,9 @@ qualifications:  "BSc Computer Studies, Microsoft Certified Professional, Micros
 quote:  "“Program testing can be used to show the presence of bugs, but never to show their absence!”"
 ---
 
-Martin is a Solution Architect at SSW, and also one of three [Microsoft Visual Studio ALM MVP](https://mvp.support.microsoft.com/profile/Martin.Hinshelwood) in the UK and has over 9 years experience in the software industry. He regularly writes on his [ALM blog](http://blog.hinshelwood.com/), has many articles published on [Code Project](https://www.codeproject.com/Members/Martin-Hinshelwood) and is a moderator on Microsoft forums. His expertise includes (but is not exclusive to) Team Foundation Server, Scrum, WPF, Silverlight, SharePoint, VB.NET, C#, WCF, ASP.NET. 
+Martin is a Solution Architect at SSW, and also one of three [Microsoft Visual Studio ALM MVP](https://mvp.support.microsoft.com/profile/Martin.Hinshelwood) in the UK and has over 9 years experience in the software industry. He regularly writes on his [ALM blog](https://blog.hinshelwood.com/), has many articles published on [Code Project](https://www.codeproject.com/Members/Martin-Hinshelwood) and is a moderator on Microsoft forums. His expertise includes (but is not exclusive to) Team Foundation Server, Scrum, WPF, Silverlight, SharePoint, VB.NET, C#, WCF, ASP.NET. 
 
-Martin speaks at [DDD Scotland](https://www.developerdeveloperdeveloper.com), one of the top events in the UK along with a number of User Groups across UK and Europe. And is excited to be presenting the [Professional Scrum Developer](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx) course which he is one of only three qualified trainers in the UK. 
+Martin speaks at [DDD Scotland](https://www.developerdeveloperdeveloper.com), one of the top events in the UK along with a number of User Groups across UK and Europe. And is excited to be presenting the [Professional Scrum Developer](https://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx) course which he is one of only three qualified trainers in the UK. 
 
 He aims to continue improve the engineering practices of development teams in the UK and Europe. He does this by migrating them to, and coaching them in the use of, Microsoft’s ALM offering in combination with Scrum. These offerings include Team Foundation Server (TFS) and Visual Studio.
 

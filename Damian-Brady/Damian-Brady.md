@@ -17,7 +17,7 @@ quote: "If you look at something you did a year ago and can't think of a better 
 | ![Google Ads Mobile Awards](../badges/Certification-scrumorg-master-1.png) 
 
 [[imgBadge]]
-| [![cover_small.png](./Images/Bio/cover_small.png)](http://brdy.in/ProTFS2013) 
+| [![cover_small.png](./Images/Bio/cover_small.png)](https://brdy.in/ProTFS2013) 
 
 ---
 
@@ -27,7 +27,7 @@ With well over ten years of experience both in software development and business
 
 His main loves are helping Scrum teams run smoothly and effectively using TFS, and delivering great ASP.NET MVC web applications. He has also had extensive experience in .Net WinForms applications, mobile-targeted websites, and SQL Server.  
 
-Damian is very active in the Brisbane developer community and runs both the [Brisbane .Net User Group](http://www.meetup.com/Brisbane-Net-User-Group/ "Brisbane .Net User Group") (formerly Qld MSDN User Group and the 
+Damian is very active in the Brisbane developer community and runs both the [Brisbane .Net User Group](https://www.meetup.com/Brisbane-Net-User-Group/ "Brisbane .Net User Group") (formerly Qld MSDN User Group and the 
 [DeveloperDeveloperDeveloper Brisbane](https://www.dddbrisbane.com/) conference. He is also a regular speaker at the Queensland ALM User Group and various conferences and user groups in other states. He's also a co-author of "[Professional Team Foundation Server 2013](https://www.amazon.com/Professional-Team-Foundation-Server-2013/dp/1118836340)".  
 
  In his spare time, Damian plays indoor and beach volleyball, and is an avid St. Kilda AFL supporter. 
@@ -45,7 +45,7 @@ A long-running project, Damian came on board to help bring the software to compl
 
 **Damian's other work includes:**  
 
-* [SQL Deploy MVC](http://nuget.org/packages/SSW.SQLDeploy.MVC): Conceived and Implemented with [Adam Stephensen](https://ssw.com.au/people/alumni/adam-stephensen)
+* [SQL Deploy MVC](https://nuget.org/packages/SSW.SQLDeploy.MVC): Conceived and Implemented with [Adam Stephensen](https://ssw.com.au/people/alumni/adam-stephensen)
 
  **Damian's Presentations:**
 
@@ -53,12 +53,12 @@ A long-running project, Damian came on board to help bring the software to compl
 
 * Release Management for the Enterprise - Tech Ed New Zealand 2014
 
-* [Octopus Deploy and how to stop deploying like an idiot](http://tv.ssw.com/5522/octopus-deploy-and-how-to-stop-deploying-like-an-idiot-damien-brady-ddd-melbourne) - DDD Melbourne 2014
+* [Octopus Deploy and how to stop deploying like an idiot](https://tv.ssw.com/5522/octopus-deploy-and-how-to-stop-deploying-like-an-idiot-damien-brady-ddd-melbourne) - DDD Melbourne 2014
 
 * **What’s new for ALM in Visual Studio 2013 and Team Foundation Server 2013** - Presented with Adam Cogan at Tech Ed Australia and Tech Ed NZ
 * **Climbing the Agile Testing Ladder** - Presented with Adam Cogan at Tech Ed Australia and Tech Ed NZ
 * **SSW Enterprise MVC Courses** - Written and presented with [Adam Stephensen](https://ssw.com.au/people/alumni/adam-stephensen)
-* [Zero to Everywhere with ASP.NET MVC](http://tv.ssw.com/1785/ddd-brisbane-damian-brady-zero-to-everywhere "Zero to Everywhere with ASP.NET MVC")
-* [Building Mobile Websites with ASP.NET MVC 3 and 4](http://www.slideshare.net/damovisa/building-mobile-websites-with-aspnet-mvc-3-4-11395594 "Building Mobile Websites with ASP.NET MVC 3 and 4")
-* [How to be a good TFS Master](http://www.slideshare.net/damovisa/how-to-be-a-good-tfs-master "How to be a good TFS Master")
+* [Zero to Everywhere with ASP.NET MVC](https://tv.ssw.com/1785/ddd-brisbane-damian-brady-zero-to-everywhere "Zero to Everywhere with ASP.NET MVC")
+* [Building Mobile Websites with ASP.NET MVC 3 and 4](https://www.slideshare.net/damovisa/building-mobile-websites-with-aspnet-mvc-3-4-11395594 "Building Mobile Websites with ASP.NET MVC 3 and 4")
+* [How to be a good TFS Master](https://www.slideshare.net/damovisa/how-to-be-a-good-tfs-master "How to be a good TFS Master")
 * More presentations can be found with the ["Presentations" tag on my blog](https://damianbrady.com.au/speaking)

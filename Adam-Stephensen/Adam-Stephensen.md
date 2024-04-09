@@ -30,13 +30,13 @@ Adam loves a puzzle. His favourite is how to transform complex business requirem
  **Adam's training gigs Include:**
 
 - University of Technology Sydney - .Net Course Coordinator 
- [http://www.ssw.com.au/ssw/training/VisualStudio.aspx](http://www.ssw.com.au/ssw/training/VisualStudio.aspx)
+ [https://www.ssw.com.au/ssw/training/VisualStudio.aspx](https://www.ssw.com.au/ssw/training/VisualStudio.aspx)
 
 - Enterprise MVC - Going Beyond the Demos (Sold out in Brisbane, Sydney, Melbourne, Adelaide)
- [http://www.ssw.com.au/ssw/events/Training/enterprise-MVC-part-1.aspx](http://www.ssw.com.au/ssw/events/Training/enterprise-MVC-part-1.aspx)
+ [https://www.ssw.com.au/ssw/events/Training/enterprise-MVC-part-1.aspx](https://www.ssw.com.au/ssw/events/Training/enterprise-MVC-part-1.aspx)
 
 - Enterprise MVC - Maintainability and Testability (Sold out in Brisbane, Sydney, Melbourne, Adelaide)
- [http://www.ssw.com.au/ssw/events/Training/Enterprise-MVC-Part-2.aspx](http://www.ssw.com.au/ssw/events/Training/Enterprise-MVC-Part-2.aspx) 
+ [https://www.ssw.com.au/ssw/events/Training/Enterprise-MVC-Part-2.aspx](https://www.ssw.com.au/ssw/events/Training/Enterprise-MVC-Part-2.aspx) 
 
  **Adam's presentations:**
 
@@ -48,15 +48,15 @@ Adam loves a puzzle. His favourite is how to transform complex business requirem
 
  **Adam's products:**
 
-- SQL Deploy: Product Owner [http://www.ssw.com.au/ssw/SQLDeploy/](http://www.ssw.com.au/ssw/SQLDeploy/)
+- SQL Deploy: Product Owner [https://www.ssw.com.au/ssw/SQLDeploy/](https://www.ssw.com.au/ssw/SQLDeploy/)
 
-- SQL Deploy MVC: Imagined and Implemented [http://nuget.org/packages/SSW.SQLDeploy.MVC](http://nuget.org/packages/SSW.SQLDeploy.MVC)
+- SQL Deploy MVC: Imagined and Implemented [https://nuget.org/packages/SSW.SQLDeploy.MVC](https://nuget.org/packages/SSW.SQLDeploy.MVC)
 
  **Adam's community involvement**
 
-- President Canberra.Net User Group [http://www.meetup.com/Canberra-NET-User-Group/](http://www.meetup.com/Canberra-NET-User-Group/)
+- President Canberra.Net User Group [https://www.meetup.com/Canberra-NET-User-Group/](https://www.meetup.com/Canberra-NET-User-Group/)
 
-- Co-ordinator Sydney .Net User Group [http://www.meetup.com/Sydney-NET-User-Group/](http://www.meetup.com/Sydney-NET-User-Group/)
+- Co-ordinator Sydney .Net User Group [https://www.meetup.com/Sydney-NET-User-Group/](https://www.meetup.com/Sydney-NET-User-Group/)
 
  **Adam's Client Projects Include:**
 
@@ -71,10 +71,10 @@ Adam loves a puzzle. His favourite is how to transform complex business requirem
  **Adam's Webinars:**
 
 - How to make hiring and working with software developers less risky
- [http://tv.ssw.com/2191/webinar-hiring-working-with-software-developers-less-risky](http://tv.ssw.com/2191/webinar-hiring-working-with-software-developers-less-risky) 
+ [https://tv.ssw.com/2191/webinar-hiring-working-with-software-developers-less-risky](https://tv.ssw.com/2191/webinar-hiring-working-with-software-developers-less-risky) 
 
 - RedGate SQL Compare Demo  
- [http://tv.ssw.com/1175/redgates-sql-compare-demo](http://tv.ssw.com/1175/redgates-sql-compare-demo)
+ [https://tv.ssw.com/1175/redgates-sql-compare-demo](https://tv.ssw.com/1175/redgates-sql-compare-demo)
 
 - SQL Deploy Demo  
- [http://tv.ssw.com/969/adam-stephensen-sql-deploy-demo](http://tv.ssw.com/969/adam-stephensen-sql-deploy-demo)  
+ [https://tv.ssw.com/969/adam-stephensen-sql-deploy-demo](https://tv.ssw.com/969/adam-stephensen-sql-deploy-demo)  
