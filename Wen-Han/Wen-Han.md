@@ -1,39 +1,33 @@
 ---
 id: "7f34ba74-8af9-de11-a523-00155d011611"
-
 name: "Wen Han"
 role: "Developers"
 jobTitle:  "Software Developer"
 qualifications:  "B.IT - Internet Application,  M.IT - Database"
+quote:  "Limits, like fears, are often just an illusion"
 
-quote:  "Limits, like fears, are often just an illusion "
 ---
 
 Wen is a Senior Software Developer at SSW. He specializes in developing solutions with ASP.NET (prefers C# over VB.net), SQL Server, SilverLight and SharePoint 2010.  
- **  
- Some of Wenshuo's client projects: **  
- **  
- NRMA   
- **ASP.NET Dynamic Data application providing funding for Community Grants and Reporting with SQL 2005 back end.
 
-**ENERGETICS  
- **ASP.NET application with LINQ to SQL provding a strategic management tool to address business response for climate change.  
+**Some of Wenshuo's client projects:**  
 
- **UTS   
- **Assist and teach [UTS Short Courses](https://www.feit.uts.edu.au/courses/short/index.html) in .NET, SQL Server 2008  
+ * **NRMA** - ASP.NET Dynamic Data application providing funding for Community Grants and Reporting with SQL 2005 back end.
 
- **Wen's internal projects: **
+ * **ENERGETICS** - ASP.NET application with LINQ to SQL provding a strategic management tool to address business response for climate change.  
 
-*   [**SSW Code Auditor**](https://www.ssw.com.au/ssw/codeauditor/)** -** one of the best tool for developers to audit their code.  
+ * **UTS** - Assist and teach UTS Short Courses in .NET, SQL Server 2008.  
 
-    Related Technology: C#, Windows Forms, SQL Server 2005, Reporting Services, ADO.NET, MS Sync Framework, Regular Expression, Web Services(WCF). 
-*   **SSW SQL Deploy  
+**Wen's internal projects:**
 
-    **Helps you automatically deploy schema changes to your backend SQL Server.  
+* **[SSW Code Auditor](https://www.ssw.com.au/ssw/codeauditor/)** - One of the best tool for developers to audit their code.  
 
-    Related Technologies: C#, SQL Server, Windows Forms 
-*   **SSW Website**   
+    Related Technology: C#, Windows Forms, SQL Server 2005, Reporting Services, ADO.NET, MS Sync Framework, Regular Expression, Web Services(WCF).
+  
+* **SSW SQL Deploy** - Helps you automatically deploy schema changes to your backend SQL Server.  
 
-    SSW's official website. Help to upgrade our website with Faceook Integration in SharePoint 2010.  
+    Related Technologies: C#, SQL Server, Windows Forms
+  
+* **SSW Website** - SSW's official website. Help to upgrade our website with Faceook Integration in SharePoint 2010.  
 
     Related Technology: SharePoint 2010, XML,ASP.NET 3.5,C#,VB.NET,Web Service,TFS 
