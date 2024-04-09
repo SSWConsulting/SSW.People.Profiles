@@ -11,7 +11,7 @@ Sumesh is a Senior Software Developer at SSW. He specializes in developing solut
 
 Sumesh's client projects:  
 
-*   [**FastAs**](https://www.fastas.com/) - A site that provides search services for businesses people.  
+*   **FastAs** - A site that provides search services for businesses people.  
 
     Related Technology: ASP.NET 2.0, Web Services, Windows Forms, SQL Server 2000, ADO.NET.
 *   **NRMA** - Community help grant program, a dynamic data website to apply for the community grant.  
