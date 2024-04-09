@@ -11,14 +11,14 @@ Stanley is an IT professional with over ten years industry experience, a graduat
 
 Past projects include working with clients such as Virgin Active, BP, Blockbuster Australia, Woolworths and St George Bank. Technology used includes:
 
-*   [Microsoft Office 365](http://www.ssw.com.au/ssw/Consulting/Office365.aspx)
-*   [Microsoft Azure](http://www.ssw.com.au/ssw/Consulting/Azure.aspx)
-*   [Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx)
-*   [Microsoft SQL Server](http://www.ssw.com.au/ssw/Consulting/DatabaseDevelopment.aspx)
-*   [Microsoft SharePoint](http://www.ssw.com.au/ssw/Consulting/SharePoint.aspx)
-*   [Microsoft Hyper-V](http://www.ssw.com.au/ssw/Consulting/HyperV.aspx)  
+*   [Microsoft Office 365](https://www.ssw.com.au/ssw/Consulting/Office365.aspx)
+*   [Microsoft Azure](https://www.ssw.com.au/ssw/Consulting/Azure.aspx)
+*   [Microsoft Lync](https://www.ssw.com.au/ssw/Consulting/Lync.aspx)
+*   [Microsoft SQL Server](https://www.ssw.com.au/ssw/Consulting/DatabaseDevelopment.aspx)
+*   [Microsoft SharePoint](https://www.ssw.com.au/ssw/Consulting/SharePoint.aspx)
+*   [Microsoft Hyper-V](https://www.ssw.com.au/ssw/Consulting/HyperV.aspx)  
 
-*   [Microsoft System Centre - Data Protection Manager](http://www.ssw.com.au/ssw/Consulting/Data-Protection-Manager.aspx)  
+*   [Microsoft System Centre - Data Protection Manager](https://www.ssw.com.au/ssw/Consulting/Data-Protection-Manager.aspx)  
 
 *   [Microsoft Team Foundation Server](https://www.ssw.com.au/ssw/Consulting/alm-tfs.aspx)  
 
@@ -29,7 +29,7 @@ Past projects include working with clients such as Virgin Active, BP, Blockbuste
   
 **Stanley**'s selected client projects:  
 
-*   [Department of Industry](http://www.industry.nsw.gov.au/)   
+*   [Department of Industry](https://www.industry.nsw.gov.au/)   
 Team Foundation Server 2013 to Team Foundation Server 2015 upgrade.
 *   **Griffith University**  
 Team Foundation Server 2013 migration to a new Team Foundation Server 2015. Migration of XAML build definition to vNext Build definition. Establishing continous delivery practice where each check-in resulted in a new setup package  

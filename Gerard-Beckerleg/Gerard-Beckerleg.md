@@ -24,17 +24,17 @@ As a qualified Professional Scrum Developer, Gerard is capable of working as par
 
 **Vulcan Steel** - Migrate existing back end to Web Services including auto generating clients and documentation. Solution included .NET Async, Swagger, Web API 2, OWIN, Octopus Deploy.  
 
-**FireBootCamp** - Mentor of 9 week full immersion .NET and AngularJS course. Topics included enterprise architecture, SOLID principles, JavaScript, TypeScript, Entity Framework, MVC 5, Web API, Octopus Deploy, Scrum. See [http://firebootcamp.com ](http://firebootcamp.com/) 
+**FireBootCamp** - Mentor of 9 week full immersion .NET and AngularJS course. Topics included enterprise architecture, SOLID principles, JavaScript, TypeScript, Entity Framework, MVC 5, Web API, Octopus Deploy, Scrum. See [https://firebootcamp.com ](https://firebootcamp.com/) 
 
 **Undisclosed Client** - Designed and implemented enterprise wide ADFS Single Sign On solution encompassing WinForms, Web API and MVC applications. Solution included custom OWIN modules to generate and process JWT bearer tokens.  
 **Vulcan Steel **- Anvil ERP System, Mobile App and IntranetUsing AngularJS, MVC 5, Octopus Deploy, TeamCity, Web API, Kendo mobile, Selenium page object pattern, Winforms, SQL Server 2012, Firebird, DDD, jQuery, SharePoint 2013, ADFS  
-**Toll Linehaul **- Vehicle Planning and Monitoring SystemUsing MVC 4, Knockout js, Entity framework, Typescript, Kendo UI, Google maps API, SQL Server 2008 R2, Twitter Bootstrap, jQuery, see [http://bit.ly/1hx7NjE](http://bit.ly/1hx7NjE) 
+**Toll Linehaul **- Vehicle Planning and Monitoring SystemUsing MVC 4, Knockout js, Entity framework, Typescript, Kendo UI, Google maps API, SQL Server 2008 R2, Twitter Bootstrap, jQuery, see [https://bit.ly/1hx7NjE](https://bit.ly/1hx7NjE) 
 
 **Pre-Paid Services Pty Ltd** - Barcode Scanning SystemUsing MVC 3, SQL Server 2008 R2. Twitter Bootstrap, jQuery 
 
-**University of Technology Sydney** - TrainingLecturer for .NET MVC course [http://bit.ly/1kb6ma5](http://bit.ly/1kb6ma5) Lecturer for SharePoint course [http://bit.ly/1hEUAPS](http://bit.ly/1hEUAPS)   
+**University of Technology Sydney** - TrainingLecturer for .NET MVC course [https://bit.ly/1kb6ma5](https://bit.ly/1kb6ma5) Lecturer for SharePoint course [https://bit.ly/1hEUAPS](https://bit.ly/1hEUAPS)   
 
-**FireBootcamp** - TrainingMentor jQuery and Twitter Bootstrap [http://firebootcamp.com/mentors/ ](http://firebootcamp.com/mentors/)  
+**FireBootcamp** - TrainingMentor jQuery and Twitter Bootstrap [https://firebootcamp.com/mentors/ ](https://firebootcamp.com/mentors/)  
 
 **Johnson and Johnson** - SharePoint consultant and SharePoint trainer  
 
@@ -56,4 +56,4 @@ As a qualified Professional Scrum Developer, Gerard is capable of working as par
 Delivered SharePoint 2010 CourseTopics included: Administration, Security, Deployment, Business Data Connectivity Services, Forms, Excel Services, Publishing, Work flows, Document Management, Search and Navigation  
 Delivered .NET CourseTopics included: MVC, Silverlight, AJAX, jQuery, SQL Server Reporting Services 
 
-**Community**TFS [http://bit.ly/1hnAvT3](http://bit.ly/1hnAvT3) Software estimation [http://bit.ly/1hEWO1Z](http://bit.ly/1hEWO1Z)
+**Community**TFS [https://bit.ly/1hnAvT3](https://bit.ly/1hnAvT3) Software estimation [https://bit.ly/1hEWO1Z](https://bit.ly/1hEWO1Z)

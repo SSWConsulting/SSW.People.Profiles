@@ -18,7 +18,7 @@ Julian's client projects:
 *   **MAC** - A logistic company that distributes beef around the world.  
 
     Related Technology: C#, SQL Server 2005, LINQ, Reporting Services, Web Services, and MS Access 
-*   [**FastAs**](http://www.fastas.com) - A site that provides search services for businesses people.  
+*   [**FastAs**](https://www.fastas.com) - A site that provides search services for businesses people.  
 
     Related Technology: ASP.NET 2.0, Web Services, Windows Forms, SQL Server 2008, ADO.NET. 
 *   **UTS .NET Short Course**  

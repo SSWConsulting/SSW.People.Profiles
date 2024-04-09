@@ -51,7 +51,7 @@ Mehmet worked with the carnival team to implement new data warehouse loads. This
 Feature enhancements and maintenance on internal logistics database. Syncing SQL database from remote systems, adding new database feeds. Recently Mehmet has migrated Mac from SQL Server 2005 to current version of SQL Server. The upgrade also includes upgrading connections to all remote systems.  
     *Related Technologies: SQL Server, Great Plains, SQL Server Integration Services*
 
-* **[Hong Kong Aviation](http://www.hongkongaviation.com/)**  
+* **[Hong Kong Aviation](https://www.hongkongaviation.com/)**  
  Migration of MS Access based asset tracking system to SQL Server 2008 R2  
     *Related Technologies: SQL Server 2008 R2, SQL Server Integration Services 2014, Web Services*
 

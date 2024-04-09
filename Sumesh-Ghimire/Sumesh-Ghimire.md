@@ -11,7 +11,7 @@ Sumesh is a Senior Software Developer at SSW. He specializes in developing solut
 
 Sumesh's client projects:  
 
-*   [**FastAs**](http://www.fastas.com/) - A site that provides search services for businesses people.  
+*   [**FastAs**](https://www.fastas.com/) - A site that provides search services for businesses people.  
 
     Related Technology: ASP.NET 2.0, Web Services, Windows Forms, SQL Server 2000, ADO.NET.
 *   **NRMA** - Community help grant program, a dynamic data website to apply for the community grant.  
@@ -21,6 +21,6 @@ Sumesh's client projects:
 
 Sumesh's internal projects: 
 
-*   **[SSW Code Auditor](http://www.ssw.com.au/ssw/codeauditor/)** - one of the best tool for developers to audit their code.  
+*   **[SSW Code Auditor](https://www.ssw.com.au/ssw/codeauditor/)** - one of the best tool for developers to audit their code.  
 
     Related Technology: C#, Windows Forms, SQL Server 2005, Reporting Services, ADO.NET, MS Sync Framework, Regular Expression, Web Services.

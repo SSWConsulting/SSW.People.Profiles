@@ -16,4 +16,4 @@ Andrew is also one of our resident Angular trainers who enjoys seeing our studen
 
 Andrew has spent years wearing various hats which has allowed him to gain insights into all facets of software and he enjoys nothing more than pushing concepts to their extremes.  
 
-When not at SSW Andrew spends his days with his partner and their two Beagles, fostering the occasional furry addition through [http://www.beaglerescuevic.org](http://www.beaglerescuevic.org/), or playing on his custom built Arcade Machine!  
+When not at SSW Andrew spends his days with his partner and their two Beagles, fostering the occasional furry addition through [https://www.beaglerescuevic.org](https://www.beaglerescuevic.org/), or playing on his custom built Arcade Machine!  

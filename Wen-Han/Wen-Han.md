@@ -20,11 +20,11 @@ Wen is a Senior Software Developer at SSW. He specializes in developing solution
  **ASP.NET application with LINQ to SQL provding a strategic management tool to address business response for climate change.  
 
  **UTS   
- **Assist and teach [UTS Short Courses](http://www.feit.uts.edu.au/courses/short/index.html) in .NET, SQL Server 2008  
+ **Assist and teach [UTS Short Courses](https://www.feit.uts.edu.au/courses/short/index.html) in .NET, SQL Server 2008  
 
  **Wen's internal projects: **
 
-*   [**SSW Code Auditor**](http://www.ssw.com.au/ssw/codeauditor/)** -** one of the best tool for developers to audit their code.  
+*   [**SSW Code Auditor**](https://www.ssw.com.au/ssw/codeauditor/)** -** one of the best tool for developers to audit their code.  
 
     Related Technology: C#, Windows Forms, SQL Server 2005, Reporting Services, ADO.NET, MS Sync Framework, Regular Expression, Web Services(WCF). 
 *   **SSW SQL Deploy  

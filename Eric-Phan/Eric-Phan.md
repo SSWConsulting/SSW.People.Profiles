@@ -44,7 +44,7 @@ Since successfully launching Comply First Time to a client base of some of Austr
 
 We've also helped PwC take this product global, brining it into the Malaysian, New Zealand, Swiss and other European jurisdictions. This platform has also been chosen as the standard global platform for PwC indirect taxes (initially there were many competing products developed internally by other PwC divisions)   
 
-[http://www.pwc.com.au/goods-and-services-tax/comply-first-time.html](http://www.pwc.com.au/goods-and-services-tax/comply-first-time.html)  
+[https://www.pwc.com.au/goods-and-services-tax/comply-first-time.html](https://www.pwc.com.au/goods-and-services-tax/comply-first-time.html)  
 **Related Technology**: MVC 5, SignalR, SQL Server 2016 , AngularJS, Azure, WebAPI  
 
 ---
@@ -67,7 +67,7 @@ Event Cinemas was looking to revamp their website with a new look and feel with 
 
 PDS is a long time client with SSW. We helped develop their ruggedized mobile application for dealing with Asset management, Inspections and Wear Management at mining sites. We also helped build their flagship Windows Forms application managing the same systems. More recently we helped PDS migrate their Windows Forms application to the web with a new MVC website, using WebAPIs. This allowed us to make the application cross platform and tablet ready.  
 
-[http://pdsonline.com.au/](http://pdsonline.com.au/)  
+[https://pdsonline.com.au/](https://pdsonline.com.au/)  
 **Related Technology**: MVC 5, SQL Server 2014 , Reporting Services, We bAPI, AngularJS  
 
 ---
@@ -78,7 +78,7 @@ PDS is a long time client with SSW. We helped develop their ruggedized mobile ap
 
 Energetics were looking towards SSW to take over the development of their existing One2Five web application from their previous vendor. We conducted a software audit, migration to .NET 4.0, code clean-up involving merging two separate code bases for English and Japanese into the one globalized version and implemented a many enhancements and bug fixes to streamline the use of the web application for facilitators and administrators. We implemented features into their offline Windows Forms application to bring it to parity with the web application and implemented a ClickOnce deployment mechanism for easier delivery. We worked using the Scrum methodology and consistently met deadlines and delivered extra functionality.   
 
-[http://www.energetics.com.au](http://www.energetics.com.au/)  
+[https://www.energetics.com.au](https://www.energetics.com.au/)  
 **Related Technology**: ASP.NET, Windows Forms, Click Once, jQuery, AJAX, Globalization  
 
 ---
@@ -89,7 +89,7 @@ Energetics were looking towards SSW to take over the development of their existi
 
 Delivered a two day training course on VSTO to help transition the Treasury from VBA and macros in their Word and Excel applications into managed .NET code.  
 
-[http://www.treasury.nsw.gov.au/](http://www.treasury.nsw.gov.au/)  
+[https://www.treasury.nsw.gov.au/](https://www.treasury.nsw.gov.au/)  
 **Related Technology**: VSTO  
 
 ---
@@ -146,7 +146,7 @@ Snack Brands is the largest distributor of chips in Australia and has recently g
 
 Eric created a software as a service application to deliver a HR Management system that facilitates career management, selection, surveys and performance management.  
 
-[http://maximus.com.au/ ](http://maximus.com.au/)   
+[https://maximus.com.au/ ](https://maximus.com.au/)   
 
 **Related Technology**: (ASP.NET Application, NHibernate, SQL Server,  XMLFO Reports, LMS Integration)  
 
@@ -165,7 +165,7 @@ A transport company looking to establish a greater web presence and automate it
 
 A media company looking to develop an intranet site to manage their media directory.  
 
-[http://www.mediamonitors.com](http://www.mediamonitors.com/)  
+[https://www.mediamonitors.com](https://www.mediamonitors.com/)  
 **Related Technology**: Intranet ASP.NET Website - with ComponentArt and AJAX  
 
 ---
@@ -175,7 +175,7 @@ A media company looking to develop an intranet site to manage their media direct
 **Anglican Care - Developer Training**  
 Ran a four day training course on ASP.NET Web Development with Visual Studio Team System.   
 
-[http://www.anglicancare.com.au/](http://www.anglicancare.com.au/)  
+[https://www.anglicancare.com.au/](https://www.anglicancare.com.au/)  
 **Related Technology:** Visual Studio Team Suite, Visual Studio Team Foundation Server, ASP.NET 2, Web Services  
 
 ---
@@ -185,7 +185,7 @@ Ran a four day training course on ASP.NET Web Development with Visual Studio Te
 **UTS .NET Short Course**  
 Developed and lectured the UTS .NET Short Course.  
 
-[http://www.uts.edu.au](http://www.uts.edu.au/)  
+[https://www.uts.edu.au](https://www.uts.edu.au/)  
 **Related Technology**: .NET Framework, AJAX, Click Once, SQL Server, ADO.NET, Visual Studio Team Suite, Visual Studio Team Foundation Server, Windows Forms, ASP.NET, Web Services  
 
 ---

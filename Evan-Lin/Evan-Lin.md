@@ -11,13 +11,13 @@ Evan is a software developer at SSW. He specializes in developing solutions in A
 
 Client projects: 
 
-* **[Westlink](http://www.westlinkconsulting.com.au)** - A large independent valuation and property consultancy practice in Australia.  
+* **[Westlink](https://www.westlinkconsulting.com.au)** - A large independent valuation and property consultancy practice in Australia.  
   Related Technologies: ASP.NET 1.1, Web Services, Windows Forms, SQL Server 2000, ADO.NET
 
 * **Swift** - A heavy engineering company looking to build an ERP like internal management system.  
    Related Technologies: ASP.NET 3.5, C#, WPF, WCF, Web Service, Workflow, LINQ, SQL Server 2005
 
-* **[FastAs](http://www.fastas.com)**- A site that provides search services for businesses people.  
+* **[FastAs](https://www.fastas.com)**- A site that provides search services for businesses people.  
    Related Technologies: ASP.NET 2.0, Web Services, Windows Forms, SQL Server 2000, ADO.NET
 
 * **NSWHealthWaitingList** - The NSW Health waiting List website.  
