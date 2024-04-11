@@ -33,7 +33,11 @@ quoteAuthor: "Jim Rohn"
 [[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
-Dhruv Mathur is a skilled software developer at SSW, specializing in creating outstanding software solutions using modern technologies such as .NET Core, ReactJS, Angular, Blazor, NextJS, ASP .NET Identity and IdentityServer. He enjoys working in a learning-focused environment at SSW, where he has the opportunity to enhance both his technical expertise and professional communication skills.
+Dhruv Mathur is our go-to software developer here at SSW, especially when it comes to anything .NET MVC, .NET Web APIs, ASP.NET, and .NET Core. He's got a real talent for piecing together applications that are not just powerful, but also user-friendly. Thanks to his solid skills with Angular, React, and the essentials like CSS, Bootstrap, Tailwind, and HTML5, the apps he works on are easy on the eyes and a breeze to use.
+
+But there's more to Dhruv than just making things look good and work well. He's also big on keeping them secure, which is super important. He knows the ins and outs of application security, especially with IdentityServer, making sure that the data and privacy in the apps he builds are locked down tight.
+
+Around SSW, Dhruv is known for constantly leveling up his skills in an environment that's all about learning and growing. He's the kind of guy who makes sure the technical stuff is spot on and that everyone's on the same wavelength. When Dhruv's on your project, you're not just getting an ace developer; you're getting a team player who's committed to nailing the project and making sure everyone walks away happy.
   
 ## Internal Projects
 
