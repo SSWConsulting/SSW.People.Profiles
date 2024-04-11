@@ -39,7 +39,7 @@ But there's more to Dhruv than just making things look good and work well. He's 
 
 Around SSW, Dhruv is known for constantly leveling up his skills in an environment that's all about learning and growing. He's the kind of guy who makes sure the technical stuff is spot on and that everyone's on the same wavelength. When Dhruv's on your project, you're not just getting an ace developer; you're getting a team player who's committed to nailing the project and making sure everyone walks away happy.
   
-## Internal Projects
+## Projects
 
 ### SSW SugarLearning
 
