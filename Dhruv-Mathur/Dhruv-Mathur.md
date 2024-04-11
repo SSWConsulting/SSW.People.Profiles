@@ -41,10 +41,10 @@ Around SSW, Dhruv is known for constantly leveling up his skills in an environme
   
 ## Projects
 
-### SSW SugarLearning
+### SugarLearning
 
-Dhruv has played a key part in maintaining SugarLearning and migrating it to .NET 8 with amazing new features. This is our own Learning Management System (LMS) that we've built to make online learning better. It is now running on .NET 8 with the latest features, showing our dedication to using the latest technology in education.
+Dhruv has been crucial in advancing the technology behind SugarLearning, particularly in its shift to .NET 8. His work involved making the system more efficient, strengthening its security, and adding new features that make it simpler for users to navigate. He also transitioned the application's user identity checks to IdentityServer, which separated the authentication process from the main application, enhancing both security and functionality. Additionally, Dhruv upgraded the application's front-end, moving it from Angular version 8 to the latest version 17, significantly improving the user interface and experience.
 
 ### SSW.Identity
 
-Dhruv has also done work on SSW.Identity, our own identity server. This server, which is based on Duende IdentityServer and built using .NET 8, acts as the central sign-in point for all our internal apps. It's what makes single sign-on (SSO) possible for us, streamlining access across our various applications.
+Dhruv has contributed significantly to the development of SSW.Identity, our dedicated identity server utilizing Duende IdentityServer and .NET 8. His efforts were focused on customizing the user interface for the SignUp/SignIn processes, tailoring them to each client application for a personalized experience. Additionally, he was responsible for configuring the authentication settings specifically for SugarLearning, ensuring seamless integration and functionality.
