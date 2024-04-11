@@ -42,7 +42,7 @@ Her proficiency extends across the .NET stack, Azure, Blazor with a strong comma
 
 During her time in Microsoft, Nadee contributed as a Software Engineer II and then as a SDET Lead. Nadee was part of the SharePoint team that built the search component which we use in SharePoint today. Apart from the search component her contribution includes SharePoint cmdlets, the Active Directory user connector, and building an inhouse test framework for Microsoft.
 As an SDET Lead her responsibilities include managing a team of SDETs and delivering hot fixes, patches and cumulative updates for SharePoint. 
-After Microsoft she also worked as a SharePoint Developer based in Melbourne.
+After Microsoft she worked as a SharePoint Developer where she was able to utilize her knowledge in building comprehensive SharePoint solutions for her clients.
 
 Some of the notable achievements include:
 
