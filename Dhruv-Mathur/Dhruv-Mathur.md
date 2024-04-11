@@ -33,7 +33,7 @@ quoteAuthor: "Jim Rohn"
 [[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
-Dhruv Mathur is our go-to software developer here at SSW, especially when it comes to anything .NET MVC, .NET Web APIs, ASP.NET, and .NET Core. He's got a real talent for piecing together applications that are not just powerful, but also user-friendly. Thanks to his solid skills with Angular, React, and the essentials like CSS, Bootstrap, Tailwind, and HTML5, the apps he works on are easy on the eyes and a breeze to use.
+Dhruv Mathur is a superstar developer, especially when it comes to anything .NET MVC, .NET Web APIs, ASP.NET, and .NET Core. He's got a real talent for piecing together applications that are not just powerful, but also user-friendly. Thanks to his solid skills with Angular, React, and the essentials like CSS, Bootstrap, Tailwind, and HTML5, the apps he works on are easy on the eyes and a breeze to use.
 
 But there's more to Dhruv than just making things look good and work well. He's also big on keeping them secure, which is super important. He knows the ins and outs of application security, especially with IdentityServer, making sure that the data and privacy in the apps he builds are locked down tight.
 
