@@ -40,9 +40,9 @@ Nadee brings over 12 years of comprehensive expertise encompassing the entire so
 
 Her proficiency extends across the .NET stack, Azure, Blazor with a strong command of SharePoint in both administration and development capacities, knowledge of Design Patterns, SOLID Principles, and Clean Architecture. Additionally, she possesses adeptness in managing databases such as SQL Server, Oracle and MySQL. 
 
-During her time in Microsoft, Nadee contributed as a Software Engineer II and then as a SDET Lead. Nadee was part of the SharePoint team that built the search component which we use in SharePoint today. Apart from the search component her contribution includes SharePoint cmdlets, the Active Directory user connector, and building an inhouse test framework for Microsoft.
+During her time in Microsoft, Nadee contributed to the SharePoint team as a Software Engineer II and then as a SDET Lead. Some of her work include developement of the SharePoint search component we use today, SharePoint cmdlets, the Active Directory User Connector, and building an inhouse test framework for Microsoft.
 As an SDET Lead her responsibilities include managing a team of SDETs and delivering hot fixes, patches and cumulative updates for SharePoint. 
-After Microsoft she worked as a SharePoint Developer where she was able to utilize her knowledge in building comprehensive SharePoint solutions for her clients.
+After Microsoft she worked as a SharePoint Developer where she was able to utilize her SharePoint knowledge in building comprehensive solutions for her clients.
 
 Some of the notable achievements include:
 
