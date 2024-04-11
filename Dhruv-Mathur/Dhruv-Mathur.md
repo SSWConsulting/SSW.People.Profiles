@@ -33,14 +33,18 @@ quoteAuthor: "Jim Rohn"
 [[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
-Dhruv Mathur is a skilled software developer at SSW, specializing in creating outstanding software solutions using modern technologies such as .NET Core, ReactJS, Angular, Blazor, NextJS, ASP .NET Identity and IdentityServer. He enjoys working in a learning-focused environment at SSW, where he has the opportunity to enhance both his technical expertise and professional communication skills.
+Dhruv Mathur is a superstar developer, especially when it comes to anything .NET MVC, .NET Web APIs, ASP.NET, and .NET Core. He's got a real talent for piecing together applications that are not just powerful, but also user-friendly. Thanks to his solid skills with Angular, React, and the essentials like CSS, Bootstrap, Tailwind, and HTML5, the apps he works on are easy on the eyes and a breeze to use.
+
+But there's more to Dhruv than just making things look good and work well. He's also big on keeping them secure, which is super important. He knows the ins and outs of application security, especially with IdentityServer, making sure that the data and privacy in the apps he builds are locked down tight.
+
+Around SSW, Dhruv is known for constantly leveling up his skills in an environment that's all about learning and growing. He's the kind of guy who makes sure the technical stuff is spot on and that everyone's on the same wavelength. When Dhruv's on your project, you're not just getting an ace developer; you're getting a team player who's committed to nailing the project and making sure everyone walks away happy.
   
-## Internal Projects
+## Projects
 
-### SSW SugarLearning
+### SugarLearning
 
-Dhruv has played a key part in maintaining SugarLearning and migrating it to .NET 8 with amazing new features. This is our own Learning Management System (LMS) that we've built to make online learning better. It is now running on .NET 8 with the latest features, showing our dedication to using the latest technology in education.
+Dhruv has been crucial in advancing the technology behind SugarLearning, particularly in its shift to .NET 8. His work involved making the system more efficient, strengthening its security, and adding new features that make it simpler for users to navigate. He also transitioned the application's user identity checks to IdentityServer, which separated the authentication process from the main application, enhancing both security and functionality. Additionally, Dhruv upgraded the application's front-end, moving it from Angular version 8 to the latest version 17, significantly improving the user interface and experience.
 
 ### SSW.Identity
 
-Dhruv has also done work on SSW.Identity, our own identity server. This server, which is based on Duende IdentityServer and built using .NET 8, acts as the central sign-in point for all our internal apps. It's what makes single sign-on (SSO) possible for us, streamlining access across our various applications.
+Dhruv has contributed significantly to the development of SSW.Identity, our dedicated identity server utilizing Duende IdentityServer and .NET 8. His efforts were focused on customizing the user interface for the SignUp/SignIn processes, tailoring them to each client application for a personalized experience. Additionally, he was responsible for configuring the authentication settings specifically for SugarLearning, ensuring seamless integration and functionality.
