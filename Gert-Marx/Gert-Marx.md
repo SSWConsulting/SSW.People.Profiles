@@ -25,6 +25,12 @@ quoteAuthor: "Andrew Hunt"
 [[imgBadge]]
 | ![Blazor](../badges/Developer-blazor.png)
 
+[[imgBadge]]
+| ![OpenAI-ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
+
+[[imgBadge]]
+| ![OpenAI](../badges/Developer-OpenAI.png)
+
 ---
 
 Gert is an SSW Solution Architect with over 18 years of experience and has worked across multiple industries including healthcare, telecommunications, finance, and government agencies. His expertise lies in developing software solutions that leverage Oracle, SQL, and .NET technologies to provide powerful and efficient solutions to complex business problems.
