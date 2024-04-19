@@ -34,7 +34,7 @@ jobs:
             echo "Running Build - CRM Updated"
             export AZURE_DEVOPS_EXT_PAT=${{ secrets.AZURE_DEVOPS_TOKEN }}
             chmod +x .workflow/build-production.sh
-            bash ./.workflow/build-production.sh            
+            bash ./.workflow/build-production.sh ${{ github.token }}
         else
             echo "Skipping Build - CRM Data Ok"
         fi
