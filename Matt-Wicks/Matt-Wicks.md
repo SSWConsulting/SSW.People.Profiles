@@ -41,13 +41,13 @@ Outside of his architectural accomplishments, Matt's holistic approach to softwa
 
 Matt's core proficiencies include but are not limited to:
 
-- Pivotal decision making on the development of the [world's best headless CMS that is powered by Markdown and GitHub - TinaCMS](https://tina.io/).
-- Transfiguring ancient XCopy deploy processes into state-of-the-art CI/CD automation pipelines on platforms like GitHub and Azure DevOps.
-- Document and process automation to transform everyday business workflows into highly efficient systems.
-- Nurturing customer relationships with Dynamics 365 CRM.
-- Facilitating seamless B2B integrations with key players like banks and multinational petrol companies.
-- Setting up and managing ALM using a blend of Microsoft and Atlassian stacks.
-- DevOps isn't just a buzzword for Matt - it's an obsession. He thrives on the adrenaline of deploying code with high-precision tools like GitHub Actions, Azure DevOps Build Pipelines, and Octopus. Right-click deployment? That's a relic of the past for him.
+- Pivotal decision making on the development of the [world's best headless CMS that is powered by Markdown and GitHub - TinaCMS](https://tina.io/)
+- Transfiguring ancient XCopy deploy processes into state-of-the-art CI/CD automation pipelines on platforms like GitHub and Azure DevOps
+- Document and process automation to transform everyday business workflows into highly efficient systems
+- Nurturing customer relationships with Dynamics 365 CRM
+- Facilitating seamless B2B integrations with key players like banks and multinational petrol companies
+- Setting up and managing ALM using a blend of Microsoft and Atlassian stacks
+- DevOps isn't just a buzzword for Matt - it's an obsession. He thrives on the adrenaline of deploying code with high-precision tools like GitHub Actions, Azure DevOps Build Pipelines, and Octopus. Right-click deployment? That's a relic of the past for him
 
 Matt has an uncompromising eye for clean architecture, always picking the perfect tool to fit the task at hand. He is an advocate for empowering developers to push changes to production confidently, knowing that automated tests have their back. Building on Azure is his playground, and he's bid a fond farewell to the days of reminiscing about Web Forms.
 
