@@ -69,7 +69,7 @@ fi
 echo "Latest release branch: ${latest_branch}"
 
 echo triggering AzDO build
-az pipelines build queue --org $azdo_org_name --project $azdo_project_name --definition-name $azdo_pipeline_name --branch $branch_name
-az pipelines build queue --org $azdo_org_name --project $azdo_project_name --definition-name "$azdo_pipeline_name_cn" --branch $branch_name
+az pipelines build queue --org $azdo_org_name --project $azdo_project_name --definition-name $azdo_pipeline_name --branch $latest_branch
+az pipelines build queue --org $azdo_org_name --project $azdo_project_name --definition-name "$azdo_pipeline_name_cn" --branch $latest_branch
 
 echo done
