@@ -20,7 +20,7 @@ quoteAuthor: "Abraham Lincoln"
 | ![Certification Scrum Alliance Master](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
-| ![Certification Scrum Alliance Master](../badges/Certification-microsoft-azure-ai-fundamentals.png)
+| ![Certification Azure AI fundamentals](../badges/Certification-microsoft-azure-ai-fundamentals.png)
 
 ---
 
