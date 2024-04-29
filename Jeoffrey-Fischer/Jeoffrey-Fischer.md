@@ -19,6 +19,9 @@ quoteAuthor: "Abraham Lincoln"
 [[imgBadge]]
 | ![Certification Scrum Alliance Master](../badges/Certification-scrumalliance-master.png)
 
+[[imgBadge]]
+| ![Certification Scrum Alliance Master](../badges/Certification-microsoft-azure-ai-fundamentals.png)
+
 ---
 
 Jeoffrey Fischer (PhD) is a **Software Engineer** based at SSW's Sydney office. He was born in Strasbourg, France.
