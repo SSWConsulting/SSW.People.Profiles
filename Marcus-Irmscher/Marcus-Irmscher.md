@@ -15,6 +15,12 @@ quoteAuthor: "Oscar Wilde"
 [[imgBadge]]
 | ![](../badges/Designer-camera.png)
 
+[[imgBadge]]
+| ![](../badges/Designer-adobe-illustrator.png)
+
+[[imgBadge]]
+| ![](../badges/Designer-adobe-photoshop.png)
+
 Marcus is a seasoned professional in motion graphics, videography, and production with the SSW TV team. With a 15-year background in Television, specializing in News and Sport, he has a wealth of experience in creating content for various platforms.
 
 Experienced in videography, editing, and the creation of striking motion graphics for television and electronic media, Marcus has a knack for bringing projects to life. He skillfully collaborates with directors, project managers, and creative teams, ensuring that each project is a success.
