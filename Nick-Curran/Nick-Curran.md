@@ -8,6 +8,9 @@ quoteAuthor: "Admiral Hyman Rickover, USN"
 ---
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
 | ![Microsoft Certified: Azure AI Engineer Associate](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
 
 [[imgBadge]]
