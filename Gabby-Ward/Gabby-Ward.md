@@ -1,18 +1,21 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "8a94e484-16fe-ee11-a1fe-0022489217b3"
 
 qualifications: ""
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "The future cannot be predicted, but futures can be invented. It was man’s ability to invent which has made human society what it is."
+quoteAuthor: "Dennis Gabor"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
+Gabby Ward is an experienced Data Engineer with a multifaceted background ranging from mechanical engineering, Physics and software engineering. Currently based in the Brisbane Office, she thrives in the realm of data management, cybersecurity, data visualization, and business analytics.
 
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
+Proficient in a plethora of tools and languages, including Microsoft SQL Server, PowerBI, Tableau, Python, and more, she excels in crafting comprehensive data solutions that drive informed decision-making processes. With a keen eye for detail and a knack for problem-solving, Gabby navigates complex datasets with ease, ensuring data integrity and security at every turn.
+
+Beyond the realm of data, Gabby is an avid learner, constantly seeking to expand their knowledge horizon. Whether it's delving into the intricacies of machine learning algorithms or exploring the latest trends in cybersecurity, she is always at the forefront of technological innovation.
+
+In their spare time, Gabby can often be found playing games with friends, rock-climbing, resin crafting and 3D printing.
 
 ## Headings
 
