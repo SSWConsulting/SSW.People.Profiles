@@ -9,13 +9,13 @@ quoteAuthor: "Dennis Gabor"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Gabby Ward is an experienced Data Engineer with a multifaceted background ranging from mechanical engineering, Physics and software engineering. Currently based in the Brisbane Office, she thrives in the realm of data management, cybersecurity, data visualization, and business analytics.
+Gabby Ward is an experienced Data Engineer with a multifaceted background ranging from Mechanical Engineering, Physics and Software Engineering. Currently based in the Brisbane Office, she thrives in the realm of data management, cybersecurity, data visualization, and business analytics.
 
-Proficient in a plethora of tools and languages, including Microsoft SQL Server, PowerBI, Tableau, Python, and more, she excels in crafting comprehensive data solutions that drive informed decision-making processes. With a keen eye for detail and a knack for problem-solving, Gabby navigates complex datasets with ease, ensuring data integrity and security at every turn.
+Proficient in a plethora of tools and languages, Gabby excels in crafting comprehensive data solutions alongside her clients to drive informed decision-making processes. 
 
-Beyond the realm of data, Gabby is an avid learner, constantly seeking to expand their knowledge horizon. Whether it's delving into the intricacies of machine learning algorithms or exploring the latest trends in cybersecurity, she is always at the forefront of technological innovation.
+Beyond the realm of data, Gabby is an avid learner, constantly seeking to expand their knowledge on areas of machine learning algorithms, latest cybersecurity trends, and developing new skills to expand her areas of expertise.
 
-In their spare time, Gabby can often be found playing games with friends, rock-climbing, resin crafting and 3D printing.
+In their spare time, Gabby can often be found playing tabletop games with friends, rock-climbing, resin crafting and 3D printing.
 
 ## Headings
 
