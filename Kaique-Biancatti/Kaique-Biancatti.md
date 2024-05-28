@@ -7,7 +7,9 @@ quote:  "Until you're ready to look foolish, you'll never have the possibility o
 ---
 
 [[imgBadge]]
-| [![](../badges/Certification-microsoft-azure-fundamentals.png)](https://www.youracclaim.com/badges/adcacd3d-efa9-4a5d-8dc4-77b4ec46cd79/public_url)
+| [![](../badges/Certification-microsoft-azure-fundamentals.png)](https://learn.microsoft.com/api/credentials/share/en-us/kikibianc/4EF22D38E6ACCB05?sharingId=79DA7DDE24C9E1D8)
+[[imgBadge]]
+| [![](../badges/Certification-microsoft-azure-virtual-desktop.png)](https://learn.microsoft.com/api/credentials/share/en-us/kikibianc/E0F3B3C306F8BEC3?sharingId=79DA7DDE24C9E1D8)
 [[imgBadge]]
 | ![](../badges/Business-zendesk.png)
 [[imgBadge]]
@@ -24,4 +26,4 @@ Kiki is one of those rare SysAdmins who is a Powershell Guru. He has been a Syst
 He has a Bachelor's Degree in Computer Science and many years of experience working as a Customer Experience Analyst before tackling greater things, giving him the necessary skill-set to give SSW clients the best possible customer service and support.
 This includes helping many clients transform their customer service - generally from using a shared mailbox - to getting top-of-the-line reporting, ticketing and automation tools with Zendesk, which SSW is partner with.
  
-When Kaíque Biancatti is not automating SSW’s processes, he is working with his bread and butter, using Windows and Windows Server, Active Directory, Networking, Office 365 applications, Azure, Teams, Skype, automation, hardware maintenance and plenty more!  
+When Kiki Biancatti is not automating SSW’s processes, he is working with his bread and butter, using Windows and Windows Server, Active Directory, Networking, Office 365 applications, Azure, Teams, Skype, automation, hardware maintenance and plenty more!  
