@@ -33,7 +33,7 @@ quoteAuthor: "Andrew Hunt"
 
 ---
 
-Gert is an SSW Solution Architect with over 18 years of experience and has worked across multiple industries including healthcare, telecommunications, finance, and government agencies. His expertise lies in developing software solutions that leverage Oracle, SQL, and .NET technologies to provide powerful and efficient solutions to complex business problems.
+Gert is an SSW Solution Architect with over 20 years of experience and has worked across multiple industries including healthcare, telecommunications, finance, and government agencies. His expertise lies in developing software solutions that leverage Oracle, SQL, and .NET technologies to provide powerful and efficient solutions to complex business problems.
 
 Throughout his career, Gert has demonstrated a strong understanding of database design and implementation, with a particular focus on Oracle and SQL Server. He has experience in developing database-driven applications, including data modelling, stored procedures, triggers, and indexing. Being proficient in these technologies has enabled Gert to design and implement high-performance systems that can handle large data sets and complex data relationships. 
 
