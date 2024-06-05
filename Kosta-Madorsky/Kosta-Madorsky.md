@@ -40,9 +40,13 @@ quote: "A good programmer looks both ways before crossing a one-way street"
 
 <br/>
 
-Kosta is a skilled and passionate Senior Software Engineer based in SSW's Sydney office with more than 8 years of experience in software development and data analysis. His passion and expertise have resulted in the successful delivery of numerous projects across a diverse range of industries, including advertising, logistics, education, radiology, internet providers, insurance, retail and news.
+Kosta is a highly skilled and passionate Senior Software Engineer based in SSW Sydney office, with over 10 years of experience in software development and data analysis. His expertise has led to the successful delivery of numerous projects across diverse industries, including advertising, logistics, education, radiology, internet services, insurance, retail, news, and more.
 
-In addition to his proficiency in software development, Kosta has also worked on multiple projects requiring Power BI reporting and complex Zendesk integrations and modifications. SSW is a Zendesk Partner and Kosta is one of our Zendesk experts.
+He has extensive experience modernizing legacy .NET systems with large codebases to modern .NET Core versions, refactoring and cleaning up code using custom-built tools and Roslyn analyzers, and solving complex build problems with the power of MSBuild.
+
+Beyond his software development expertise, Kosta has excelled in projects involving Power BI reporting and complex Zendesk integrations.
+
+As a capable mentor and team player, Kosta is dedicated to helping developers improve their skills and smoothly integrating new team members.
 
 One of Kosta's notable achievements was his work for the University of Sydney on the BREAST project. Check out the BREAST project testimonial video:
 
