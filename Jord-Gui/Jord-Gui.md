@@ -13,6 +13,9 @@ quoteAuthor: "Kratos"
 | ![React](../badges/Developer-react.png)
 
 [[imgBadge]]
+| ![JavaScript](../badges/Developer-js.png)
+
+[[imgBadge]]
 | ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
@@ -25,7 +28,13 @@ quoteAuthor: "Kratos"
 | ![GitHub](../badges/Developer-github.png)
 
 [[imgBadge]]
+| ![Devops](../badges/Developer-devops.png)
+
+[[imgBadge]]
 | ![Azure AI Engineer Associate](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
+
+[[imgBadge]]
+| ![Cognitive Services](../badges/Developer-cognitive-services.png)
 
 <br/>
 
