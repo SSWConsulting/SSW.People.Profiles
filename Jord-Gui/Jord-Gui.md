@@ -1,7 +1,7 @@
 ---
 id: "8ea72bd0-cbfd-ed11-8f6d-00224818668d"
 
-qualifications: "Bachelor of Computer Science, AWS Certified Cloud Practitioner, ICAgile Certified Professional"
+qualifications: "Bachelor of Computer Science, AWS Certified Cloud Practitioner, ICAgile Certified Professional, Azure AI Engineer Associate"
 
 quote: "Don't be sorry, be better."
 quoteAuthor: "Kratos"
@@ -13,16 +13,28 @@ quoteAuthor: "Kratos"
 | ![React](../badges/Developer-react.png)
 
 [[imgBadge]]
+| ![JavaScript](../badges/Developer-js.png)
+
+[[imgBadge]]
 | ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
-| ![C#](../badges/Developer-dotnet-core.png)
+| ![Dotnet Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![C#](../badges/Developer-blazor.png)
+| ![Blazor](../badges/Developer-blazor.png)
 
 [[imgBadge]]
 | ![GitHub](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![Devops](../badges/Developer-devops.png)
+
+[[imgBadge]]
+| ![Azure AI Engineer Associate](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
+
+[[imgBadge]]
+| ![Cognitive Services](../badges/Developer-cognitive-services.png)
 
 <br/>
 
