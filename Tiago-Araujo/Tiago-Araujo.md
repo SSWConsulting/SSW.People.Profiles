@@ -32,7 +32,7 @@ quoteAuthor: "Henry David Thoreau"
 
 Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: _"OK, but you're still working remotely for us"_. We couldn't let him go. This was 10+ years before the pandemic, so we are proud to say Tiago is a trailblazer in the realm of remote work. After a few years in Brazil, he now lives and works in the west coast of Canada.  
 
-With 15+ years experience working as a designer for both print and web projects, he loves spending time designing in Sketch or writing clean HTML/CSS for websites and apps... while listening to old songs. Tiago has developed responsive websites and apps ranging from concept, layout, mark-up, implementation, testing, and maintenance.
+With 15+ years experience working as a designer for both print and web projects, he loves spending time designing in Figma or writing clean HTML/CSS for websites and apps... while listening to old songs. Tiago has developed responsive websites and apps ranging from concept, layout, mark-up, implementation, testing, and maintenance.
 
 He is also a Scrum Master and the driving force behind keeping [SSW Rules](https://ssw.com.au/rules) up-to-date. 
 
