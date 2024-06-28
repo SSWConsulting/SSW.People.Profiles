@@ -33,13 +33,13 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 [[imgBadge]]
 | ![](../badges/Certification-poty-finalist-education.svg)
 
-Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [SSW TV](https://tv.ssw.com/) frequently. He is the Chief Architect at SSW, a Microsoft Certified Gold Partner specializing in custom enterprise .NET and Azure solutions mostly using Angular and React. His solutions also involve Office365, SharePoint, Dynamics 365, and Power BI. 
+Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [SSW TV](https://tv.ssw.com/) frequently. He is the Chief Architect at SSW, a Microsoft Solutions Partner specializing in custom enterprise .NET and Azure solutions mostly using Blazor, Angular, and React. His solutions also involve AI, Office 365, SharePoint, Dynamics 365, and the Power Platform. 
 
 Adam is currently working on [TinaCMS](https://tina.io) - the world's best Markdown GitHub editor.
 
 **Clients** - At SSW, Adam has been developing custom solutions for businesses across a range of industries such as Government, engineering, banking, insurance, and manufacturing since 1990 for clients such as Microsoft, CBA, and Aurecon.  
 
-**Scrum** - Adam is a Certified Scrum Trainer with Scrum.org, trains developers in Australia, the US, UK and Europe, and contributes to Scrum.org thinking. He consults with development teams on improving their Scrum process through mentoring and being an SSW Solution Architect and Scrum Master. He has written many rules around Scrum best practices. 
+**Scrum** - Adam is a Certified Scrum Trainer with Scrum.org, trains developers in Australia, the US, UK and Europe, and contributes to Scrum.org thinking. He consults with development teams on improving their Scrum process through mentoring and being an SSW Solution Architect and Scrum Master. He has written many [rules around Scrum best practices](https://www.ssw.com.au/rules/rules-to-better-scrum). 
 
 **China** - Adam has also run multiple consulting firms in China for the last 12 years. Adam has seen the whole Chinese software ecosystem develop and understands the differences that the Chinese market requires in order to be successful. Adam helps western companies modernize their software, so they are not only servicing the USA and European markets, but also grabbing a slice of the Chinese market of 1.4 billion consumers. 
 
@@ -48,7 +48,7 @@ Adam is currently working on [TinaCMS](https://tina.io) - the world's best Markd
 [[imgMd]]
 | ![Adam has spoken at user groups/conferences in these countries](./Images/Bio/figureMap.jpg)
 
-**Software Architecture** - Adam enjoys working with teams, improving their usage of Scrum and DevOps, reviewing the architecture of large .NET and Azure projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](https://firebootcamp.com/), an intensive 9-week .NET training course where developers are retrained learning developer and architecture best practices. 
+**Software Architecture** - Adam enjoys working with teams, improving their usage of Scrum and DevOps, reviewing the architecture of large .NET and Azure projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](https://firebootcamp.com/), an intensive 12-week .NET training course where developers are retrained, learning development and architecture best practices. 
 
 Some of Adam's career highlights have been: 
 
