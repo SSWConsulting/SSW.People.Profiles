@@ -33,10 +33,8 @@ quoteAuthor: "Musashi"
 
 ---
 
-<!-- 🤖 I had some assistance with this one, but I think it paints me in a favorable light without being misleading about my competencies -->
-
-Isaac is a Full-Stack SSW Software Developer, in the Sydney office. He is in his honours year of a Bachelor of Engineering Degree at the University of Sydney. Having chosen to specialise in Software Engineering, he has built up knowledge of the theory behind quality system design, object oriented methodologies, and engineering practices. To complement his studies, Isaac completed the SSW FireBootCamp as an intern, where he gained deep insights into industry software development practices and acclimated to the .NET and Angular tech stack. 
+Isaac is a Full-Stack SSW Software Developer, in the Sydney office. He is in his honours year of a Bachelor of Engineering Degree at the University of Sydney. Having chosen to specialise in Software Engineering, he has built up knowledge of the theory behind quality system design, object-oriented methodologies, and engineering practices. To complement his studies, Isaac completed the SSW FireBootCamp as an intern, where he gained deep insights into industry software development practices and acclimated to the .NET and Angular tech stack. 
 
 Isaac is known for his dedication to practical learning and collaboration, fostering creativity in teams he is part of to create high-quality, sustainable software. He also has a keen interest in frontend development and is enthusiastic about tools in that field, including React, Angular, CSS3, and Tailwind.
 
-Outside of the software world, Isaac engages with creative indeavours including classical composition 🎻 and songwriting 🎼. He is always keen to flex his mind with puzzles and board games ♟️, and finds consistency through physical activity such as in hiking and fitness training.
+Outside of the software world, Isaac engages with creative endeavours including classical composition 🎻 and songwriting 🎼. He is always keen to flex his mind with puzzles and board games ♟️, and finds consistency through physical activity such as in hiking and fitness training.
