@@ -33,7 +33,7 @@ quoteAuthor: "Musashi"
 
 ---
 
-Isaac is a Full-Stack SSW Software Developer, in the Sydney office. He is in his honours year of a Bachelor of Engineering Degree at the University of Sydney. Having chosen to specialise in Software Engineering, he has built up knowledge of the theory behind quality system design, object-oriented methodologies, and engineering practices. To complement his studies, Isaac completed the SSW FireBootCamp as an intern, where he gained deep insights into industry software development practices and acclimated to the .NET and Angular tech stack. 
+Isaac is a Full-Stack SSW Software Developer, in the Sydney office. He is in his honours year of a Bachelor of Engineering degree at the University of Sydney. Having chosen to specialise in Software Engineering, he has built up knowledge of the theory behind quality system design, object-oriented methodologies, and engineering practices. To complement his studies, Isaac completed the SSW FireBootCamp as an intern, where he gained deep insights into industry software development practices and acclimated to the .NET and Angular tech stack. 
 
 Isaac is known for his dedication to practical learning and collaboration, fostering creativity in teams he is part of to create high-quality, sustainable software. He also has a keen interest in frontend development and is enthusiastic about tools in that field, including React, Angular, CSS3, and Tailwind.
 
