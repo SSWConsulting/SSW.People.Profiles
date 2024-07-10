@@ -13,8 +13,7 @@ He is currently working on [TinaCMS](https://tina.io/) - the world's best Markdo
 
 Josh joined SSW through the FireBoot Camp work experience scheme, where he honed his skills in both front-end and back-end development, working with Angular, C#, .NET Framework, SQL, and various other technologies on SSW's internal projects. He takes pride in his effective communication and problem-solving abilities, always striving to enhance efficiency and reduce redundancy.
 
-In his spare time, Josh is always staying active - whether he is in the gym, out in the surf or on the pitch playing football.
----
+Outside of software development, Josh is always finding a way to stay active. Whether in the gym, out in the surf, or on the pitch playing football. He has a natural passion for strengthening both his mind and body.
 
 [[imgBadge]]
 | ![](../badges/Developer-angular.png)
