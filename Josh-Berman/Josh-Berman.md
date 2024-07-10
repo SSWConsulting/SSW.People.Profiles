@@ -11,5 +11,23 @@ Josh is an SSW Software Developer working in the Sydney Office. He is currently 
 
 He is currently working on [TinaCMS](https://tina.io/) - the world's best Markdown website editor.
 
-Josh joined the SSW team via the FireBoot Camp work experience scheme - whereby he began refining his skills and bredth of knowledge in both the front-end and back-end with: Angular, C#, .NET Framework, SQL, and various others within SSW internal projects. Josh prides himself on his effective communication and problem-solving, always seeking to make processes more efficient and reduce redundancy. 
+Josh joined SSW through the FireBoot Camp work experience scheme, where he honed his skills in both front-end and back-end development, working with Angular, C#, .NET Framework, SQL, and various other technologies on SSW's internal projects. He takes pride in his effective communication and problem-solving abilities, always striving to enhance efficiency and reduce redundancy.
 
+In his spare time, Josh is always staying active - whether he is in the gym, out in the surf or on the pitch playing football.
+---
+
+[[imgBadge]]
+| ![](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-react.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-js.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-dotnet-mvc.png)
+---
