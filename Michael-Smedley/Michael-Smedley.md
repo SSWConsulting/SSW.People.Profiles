@@ -42,6 +42,6 @@ Michael Specialises in:
 
 - Building happy and productive teams
 
-Michael has 2 hopbies that are worth noting:
+Michael has 2 hobbies that are worth noting:
 1. Fitness: Daily workouts for nearly 30 years mounts up, (Don't ask Michael... you wont shut him up about running and weight training :-)
 2. Music: Michael plays in a Tribute band, he can play multiple instruments, sings and has been a frontman in the past, plays bass mainly in the Tribute band. The band is called Adele Show.
