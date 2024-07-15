@@ -40,7 +40,7 @@ jobs:
         fi
       
     # Update the CRM Flag so the build is triggered on next change  
-    - uses: fixpoint/azblob-upload-artifact@v3
+    - uses: fixpoint/azblob-upload-artifact@v4.6
       with:
         connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         name: 'flags'  
