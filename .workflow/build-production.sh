@@ -1,17 +1,10 @@
-#! /bin/bash
+#!/bin/bash
 github_org_name=sswconsulting
 github_repo_name=SSW.People
-azdo_org_name=https://ssw.visualstudio.com
-azdo_project_name=ssw.people
-azdo_pipeline_name=Production
-azdo_pipeline_name_cn='Production China'
 github_access_token=$1
 
 # exit when any command fails
 set -e
-
-# ensure devops extension is available
-az extension add -n azure-devops
 
 # Get release/x branch with the latest commit.
 res=$(curl -X POST \
@@ -68,8 +61,23 @@ fi
 
 echo "Latest release branch: ${latest_branch}"
 
-echo triggering AzDO build
-az pipelines build queue --org $azdo_org_name --project $azdo_project_name --definition-name $azdo_pipeline_name --branch $latest_branch
-az pipelines build queue --org $azdo_org_name --project $azdo_project_name --definition-name "$azdo_pipeline_name_cn" --branch $latest_branch
+# Trigger GitHub Actions workflow
+trigger_response=$(curl -X POST \
+  -H "Authorization: Bearer ${github_access_token}" \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/repos/${github_org_name}/${github_repo_name}/actions/workflows/build-deploy-staging.yml/dispatches \
+  -d @- <<EOF
+{
+  "ref": "${latest_branch}"
+}
+EOF
+)
 
+# Check for cURL errors.
+if [ $? -ne 0 ]; then
+  echo "::error cURL request to trigger workflow failed. Check your internet connection or GitHub API status."
+  exit 1
+fi
+
+echo "GitHub Actions workflow triggered successfully."
 echo done
