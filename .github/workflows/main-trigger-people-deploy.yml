@@ -30,7 +30,5 @@ jobs:
         with:
           workflow: build-deploy-staging.yml
           repo: SSWConsulting/SSW.People
-          # For testing, just use main for now
-          ref: main
-          # ref: ${{ steps.find_branch.outputs.branch_name }}
+          ref: ${{ steps.find_branch.outputs.branch_name }}
           token: "${{ steps.generate-token.outputs.token }}"
