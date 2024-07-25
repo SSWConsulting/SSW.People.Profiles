@@ -1,19 +1,18 @@
 name: Rolling Production Build
 
-# The workflow runs every 15 mins and check if CRM Skills were updated
+# The workflow runs every 15 mins and checks if CRM Skills were updated
 # It downloads a file from Azure Blob Storage that has "TRUE" or "FALSE" text.
 # If the file contains "TRUE", the workflow will trigger the main-trigger-people-deploy.yml
 # When build is triggered, the file with "FALSE" will be uploaded to Azure Blob Storage
 on:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  check-and-prepare:
     runs-on: ubuntu-latest
 
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     steps:
     - uses: actions/checkout@v2
     
@@ -24,7 +23,7 @@ jobs:
         file-url: ${{ secrets.CRM_SKILLS_FLAG_URL }}
 
     # Check if we need to run a build on production
-    - name: Run the Build if CRM has updated
+    - name: Determine Deployment Trigger
       run: |
         # Check if the file contains "TRUE" string
         if grep -q TRUE "CRM_SkillsUpdatedFlag.txt"; then
@@ -40,16 +39,11 @@ jobs:
         else
             echo "should_trigger_deploy=FALSE" >> $GITHUB_ENV
             echo "Skipping Build - CRM Data Ok"
-      
+
     # Trigger the other workflow if the CRM data was updated
     - name: Build and deploy People
       if: env.should_trigger_deploy == 'TRUE'
-      uses: benc-uk/workflow-dispatch@v1
-      with:
-        workflow: main-trigger-people-deploy.yml
-        repo: SSWConsulting/SSW.People.Profiles
-        ref: ${{ env.branch_name }}
-        token: "${{ secrets.GITHUB_TOKEN }}"
+      uses: ./.github/workflows/main-trigger-people-deploy.yml
 
     # If deployment was triggered, upload the file to Azure Blob Storage
     # The value of the file should be "FALSE" if deployment was triggered
