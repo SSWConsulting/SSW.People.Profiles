@@ -1,5 +1,15 @@
 name: Trigger-People-Build
 on:
+  push:
+    branches:
+    - main
+    paths-ignore:
+    # Ignore files that have no impact on the build
+    - '.github/assign-by-files.yml'
+    - '.github/pull_request_template.md'
+    - '.github/instructions/*'
+    - '_docs/*'
+    - 'README.md'
   workflow_dispatch:
 
 jobs:
@@ -16,6 +26,7 @@ jobs:
         id: find_branch
         run: echo "branch_name=$(git ls-remote --heads origin | grep -oe 'refs/heads/release/.*' | sort -V | tail -n 1 | sed 's|refs/heads/||')" >> $GITHUB_OUTPUT          
 
+        # SSW GitHub App - Trigger Workflows
       - name: Generate a token
         id: generate-token
         uses: actions/create-github-app-token@v1
