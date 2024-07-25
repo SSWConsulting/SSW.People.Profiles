@@ -14,16 +14,7 @@ jobs:
 
       - name: Find latest branch
         id: find_branch
-        run: echo "branch_name=$(git ls-remote --heads origin | grep -oe 'refs/heads/release/.*' | sort -V | tail -n 1 | sed 's|refs/heads/||')" >> $GITHUB_OUTPUT          
-
-      - name: Generate a token
-        id: generate-token
-        uses: actions/create-github-app-token@v1
-        with:
-          app-id: ${{ vars.APP_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
-          owner: SSWConsulting
-          repositories: SSW.People
+        run: echo "branch_name=$(git ls-remote --heads origin | grep -oe 'refs/heads/release/.*' | sort -V | tail -n 1 | sed 's|refs/heads/||')" >> $GITHUB_OUTPUT
 
       - name: Build and deploy People
         uses: benc-uk/workflow-dispatch@v1
@@ -31,4 +22,4 @@ jobs:
           workflow: build-deploy-staging.yml
           repo: SSWConsulting/SSW.People
           ref: ${{ steps.find_branch.outputs.branch_name }}
-          token: "${{ steps.generate-token.outputs.token }}"
+          token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
