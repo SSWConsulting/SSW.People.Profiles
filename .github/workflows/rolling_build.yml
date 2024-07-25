@@ -1,29 +1,26 @@
-# This is Rolling Build for Production
 name: Rolling Production Build
 
-# The workflow runs every 15 mins
+# The workflow runs every 15 mins and check if CRM Skills were updated
+# It downloads a file from Azure Blob Storage that has "TRUE" or "FALSE" text.
+# If the file contains "TRUE", the workflow will trigger the main-trigger-people-deploy.yml
+# When build is triggered, the file with "FALSE" will be uploaded to Azure Blob Storage
 on:
   schedule:
-    # * is a special character in YAML so you have to quote this string
     - cron:  '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    steps:
     - uses: actions/checkout@v2
     
-    # Download the file that contains the boolean flag indicating a CRM update
+    # Download the file that contains "TRUE" if CRM Skills were updated
     - name: Check CRM Skills Updated Flag
       uses: carlosperate/download-file-action@v1.0.3
       with:
-        # URL of the file to download
         file-url: ${{ secrets.CRM_SKILLS_FLAG_URL }}
 
     # Check if we need to run a build on production
