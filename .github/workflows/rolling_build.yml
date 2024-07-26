@@ -30,10 +30,8 @@ jobs:
           # Setup variables for the next steps
           echo "should_trigger_deploy=TRUE" >> $GITHUB_ENV
           echo "branch_name=main" >> $GITHUB_ENV
-          
           # Avoid triggering the build again by overriding the file with FALSE
           echo FALSE > CRM_SkillsUpdatedFlag.txt
-
           echo "Running Build - CRM Updated"
           echo "Dispatching main-trigger-people-deploy workflow"
         else
