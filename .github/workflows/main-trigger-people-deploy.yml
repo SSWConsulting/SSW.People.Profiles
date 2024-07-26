@@ -1,3 +1,8 @@
+# This workflow is to start a new production build on SSW.People.
+# It is triggered by:
+# - A push to the main branch
+# - A manual trigger (workflow_dispatch)
+# - A call from another workflow like rolling_build.yml (workflow_call)
 name: Trigger-People-Build
 on:
   push:
@@ -10,6 +15,7 @@ on:
     - '.github/instructions/*'
     - '_docs/*'
     - 'README.md'
+  workflow_call:
   workflow_dispatch:
 
 jobs:
