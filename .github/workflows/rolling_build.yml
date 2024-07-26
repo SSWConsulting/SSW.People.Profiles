@@ -24,16 +24,23 @@ jobs:
 
     # Check if we need to run a build on production
     - name: Determine Deployment Trigger
+      id: determine-deployment-trigger
       run: |
+        # Check if the file contains "TRUE" string
         if grep -q TRUE "CRM_SkillsUpdatedFlag.txt"; then
-          echo "should_trigger_deploy=TRUE" >> $GITHUB_ENV;
-          echo "branch_name=main" >> $GITHUB_ENV;
-          echo FALSE > CRM_SkillsUpdatedFlag.txt;
-          echo "Running Build - CRM Updated";
-          echo "Dispatching main-trigger-people-deploy workflow";
+          # Setup variables for the next steps
+          echo "should_trigger_deploy=TRUE" >> $GITHUB_ENV
+          echo "branch_name=main" >> $GITHUB_ENV
+          
+          # Avoid triggering the build again by overriding the file with FALSE
+          echo FALSE > CRM_SkillsUpdatedFlag.txt
+
+          echo "Running Build - CRM Updated"
+          echo "Dispatching main-trigger-people-deploy workflow"
         else
-          echo "should_trigger_deploy=FALSE" >> $GITHUB_ENV;
-          echo "Skipping Build - CRM Data Ok";
+          echo "should_trigger_deploy=FALSE" >> $GITHUB_ENV
+          echo "Skipping Build - CRM Data Ok"
+        fi
       shell: bash
 
     # Trigger the other workflow if the CRM data was updated
