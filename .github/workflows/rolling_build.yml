@@ -29,29 +29,28 @@ jobs:
         # Check if the file contains "TRUE" string
         if grep -q TRUE "CRM_SkillsUpdatedFlag.txt"; then
           # Setup variables for the next steps
-          echo "should_trigger_deploy=TRUE" >> $GITHUB_ENV
-          echo "branch_name=main" >> $GITHUB_ENV
+          echo "should_trigger_deploy=TRUE" >> $GITHUB_OUTPUT
           
           # Avoid triggering the build again by overriding the file with FALSE
           echo FALSE > CRM_SkillsUpdatedFlag.txt
 
-          echo "Running Build - CRM Updated"
+          echo "Running Build - CRM Change Detected"
           echo "Dispatching main-trigger-people-deploy workflow"
         else
-          echo "should_trigger_deploy=FALSE" >> $GITHUB_ENV
+          echo "should_trigger_deploy=FALSE" >> $GITHUB_OUTPUT
           echo "Skipping Build - CRM Data Ok"
         fi
       shell: bash
 
     # Trigger the other workflow if the CRM data was updated
     - name: Build and deploy People
-      if: env.should_trigger_deploy == 'TRUE'
+      if: steps.determine-deployment-trigger.outputs.should_trigger_deploy == 'TRUE'
       uses: ./.github/workflows/main-trigger-people-deploy.yml
 
     # If deployment was triggered, upload the file to Azure Blob Storage
     # The value of the file should be "FALSE" if deployment was triggered
     - uses: fixpoint/azblob-upload-artifact@v4.6
-      if: env.should_trigger_deploy == 'TRUE'
+      if: steps.determine-deployment-trigger.outputs.should_trigger_deploy == 'TRUE'
       with:
         connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
         name: 'flags'
