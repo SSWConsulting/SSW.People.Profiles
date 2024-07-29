@@ -14,8 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    
     # Download the file that contains "TRUE" if CRM Skills were updated
     - name: Check CRM Skills Updated Flag
       uses: carlosperate/download-file-action@v1.0.3
@@ -30,6 +28,7 @@ jobs:
         if grep -q TRUE "CRM_SkillsUpdatedFlag.txt"; then
           # Setup variables for the next steps
           echo "should_trigger_deploy=TRUE" >> $GITHUB_OUTPUT
+          echo "branch_name=main" >> $GITHUB_OUTPUT
           
           # Avoid triggering the build again by overriding the file with FALSE
           echo FALSE > CRM_SkillsUpdatedFlag.txt
@@ -45,11 +44,17 @@ jobs:
     # Trigger the other workflow if the CRM data was updated
     - name: Build and deploy People
       if: steps.determine-deployment-trigger.outputs.should_trigger_deploy == 'TRUE'
-      uses: ./.github/workflows/main-trigger-people-deploy.yml
+      uses: benc-uk/workflow-dispatch@v1
+      with:
+        workflow: main-trigger-people-deploy.yml
+        repo: SSWConsulting/SSW.People.Profiles
+        ref: ${{ steps.determine-deployment-trigger.outputs.branch_name }}
+        token: "${{ secrets.GITHUB_TOKEN }}"
 
     # If deployment was triggered, upload the file to Azure Blob Storage
     # The value of the file should be "FALSE" if deployment was triggered
-    - uses: fixpoint/azblob-upload-artifact@v4.6
+    - name: Update CRM Skills Updated Flag File
+      uses: fixpoint/azblob-upload-artifact@v4.6
       if: steps.determine-deployment-trigger.outputs.should_trigger_deploy == 'TRUE'
       with:
         connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
