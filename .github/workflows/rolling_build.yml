@@ -14,8 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    
     # Download the file that contains "TRUE" if CRM Skills were updated
     - name: Check CRM Skills Updated Flag
       uses: carlosperate/download-file-action@v1.0.3
