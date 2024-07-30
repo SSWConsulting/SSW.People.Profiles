@@ -19,7 +19,7 @@ quoteAuthor: "Mark Twain"
 [[imgBadge]]
 | ![Image Alt Text](../badges/Business-zendesk.png)
 
-Seth is an SSW Marketing Assistant and Account Manager who loves artificial intelligence and applying it for productivity.
+Seth is an SSW Marketing Specialst and Account Manager who loves artificial intelligence and applying it for productivity.
 
 ⌛ He makes time-saving tools using ChatGPT and other AI, and follows the AI world closely
 
