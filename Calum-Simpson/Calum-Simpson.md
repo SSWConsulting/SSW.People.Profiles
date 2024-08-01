@@ -8,7 +8,7 @@ quoteAuthor: Steve Ballmer
 ---
 
 [[imgBadge]]
-| ![](../badges/Certification-poty-finalist-education.png)
+| ![](../badges/Certification-poty-finalist-inclusion.png)
 
 [[imgBadge]]
 | ![](../badges/Certification-poty-finalist-education.png)

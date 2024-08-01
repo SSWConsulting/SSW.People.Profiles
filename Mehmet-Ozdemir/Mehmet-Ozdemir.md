@@ -16,7 +16,7 @@ quote: "I like the simplicity of the satellites 'Beep, beep, beep' - Sputnik"
 | ![azure-function-logo.png](../badges/Developer-azure-function.png)
 
 [[imgBadge]]
-| ![](../badges/Certification-poty-finalist-education.png)
+| ![](../badges/Certification-poty-finalist-inclusion.png)
 
 [[imgBadge]]
 | ![](../badges/Certification-poty-finalist-education.png)
