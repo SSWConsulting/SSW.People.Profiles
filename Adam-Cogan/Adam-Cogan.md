@@ -28,7 +28,7 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 | ![](../badges/Business-microsoft-azure-devops.png)
 
 [[imgBadge]]
-| ![](../badges/Certification-poty-finalist-education.png)
+| ![](../badges/Certification-poty-finalist-inclusion.png)
 
 [[imgBadge]]
 | ![](../badges/Certification-poty-finalist-education.png)
