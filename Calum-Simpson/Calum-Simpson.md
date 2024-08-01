@@ -1,18 +1,17 @@
 ---
 id: "6e4242c5-6414-e911-81cd-00155d012c51"
 
-qualifications:  "BBA, BIT"
+qualifications: "BBA, BIT"
 
-quote:  "Developers developers developers!"
+quote: "Developers developers developers!"
 quoteAuthor: Steve Ballmer
 ---
 
 [[imgBadge]]
-| ![](../badges/Certification-poty-finalist-inclusion.svg)
+| ![](../badges/Certification-poty-finalist-education.png)
 
 [[imgBadge]]
-| ![](../badges/Certification-poty-finalist-education.svg)
-
+| ![](../badges/Certification-poty-finalist-education.png)
 
 Calum is a distinguished enterprise software consultant specialising in Microsoft technologies, including Azure, SharePoint, Dynamics 365/Power Platform, and C# .NET. He also brings a strong proficiency in both Angular and React to his diverse skill set.
 
