@@ -22,6 +22,9 @@ quoteAuthor: "Abraham Lincoln"
 [[imgBadge]]
 | ![Certification Azure AI fundamentals](../badges/Certification-microsoft-azure-ai-fundamentals.png)
 
+[[imgBadge]]
+| ![Certification Azure fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
+
 ---
 
 Jeoffrey Fischer (PhD) is a **Software Engineer** based at SSW's Sydney office. He was born in Strasbourg, France.
