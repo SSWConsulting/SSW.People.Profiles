@@ -28,10 +28,10 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 | ![](../badges/Business-microsoft-azure-devops.png)
 
 [[imgBadge]]
-| ![](../badges/Certification-poty-finalist-inclusion.png)
+| ![](../badges/Certification-poty-finalist-inclusion-shrunk.png)
 
 [[imgBadge]]
-| ![](../badges/Certification-poty-finalist-education.png)
+| ![](../badges/Certification-poty-finalist-education-shrunk.png)
 
 Adam Cogan blogs at [adamcogan.com](https://adamcogan.com) and interviews for [SSW TV](https://tv.ssw.com/) frequently. He is the Chief Architect at SSW, a Microsoft Solutions Partner specializing in custom enterprise .NET and Azure solutions mostly using Blazor, Angular, and React. His solutions also involve AI, Office 365, SharePoint, Dynamics 365, and the Power Platform.
 
