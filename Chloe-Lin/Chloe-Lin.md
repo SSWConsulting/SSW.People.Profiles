@@ -29,7 +29,7 @@ quoteAuthor: "Phil Knight"
 | ![Business Microsoft Azure](../badges/Business-microsoft-azure.png)
 
 
-Chloe is a highly skilled Software Developer based in the SSW Hangzhou office. With her expertise in React and Vue, she has successfully delivered projects ranging from responsive website designs to complex ERP systems for single-page applications.
+Chloe is a highly skilled Software Developer based in the SSW Hangzhou office, specializing in React and Vue. She has successfully delivered projects ranging from responsive website designs to complex ERP systems for single-page applications.
 
-Chloe's passion for front-end technology is evident in her commitment to creating outstanding UX. Her attention to detail and dedication to excellence have earned her a reputation for consistently delivering high-quality results that leave a lasting impact. With Chloe is a driven developer who will go above and beyond to exceed your expectations.
+With a strong passion for front-end technology, Chloe is dedicated to creating outstanding user experiences. Her attention to detail and commitment to excellence have earned her a reputation for consistently delivering high-quality results. As a driven developer, Chloe goes above and beyond to exceed client expectations and make a lasting impact with her work.
 
