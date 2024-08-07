@@ -33,3 +33,4 @@ Chloe is a highly skilled Software Developer based in the SSW Hangzhou office, s
 
 With a strong passion for front-end technology, Chloe is dedicated to creating outstanding user experiences. Her attention to detail and commitment to excellence have earned her a reputation for consistently delivering high-quality results. As a driven developer, Chloe goes above and beyond to exceed client expectations and make a lasting impact with her work.
 
+In her free time, she likes jogging, climbing, playing video games, and reading books.
