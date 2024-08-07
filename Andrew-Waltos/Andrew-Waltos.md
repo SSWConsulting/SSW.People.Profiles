@@ -28,14 +28,49 @@ quoteAuthor: "Wayne Gretzky"
 [[imgBadge]]
 | ![](../badges/Certification-aws-cloud-practitioner-foundational.png)
 
+[[imgBadge]]
+| ![](../badges/Developer-blazor.png)
+
 ---
 
-After switching from a career in the automotive trade, Andrew has already accomplished a lot in Software Development, specializing in Frontend using React and Angular. His expertise extends to Backend development with .NET and proficiency in cloud technologies, particularly AWS and Azure.
+## Professional Background
 
-Andrew has successfully delivered impactful solutions for large global clients and national government entities. His versatile skill set has enabled him to navigate complex projects, consistently meeting and exceeding client expectations.
+After switching from a career in the automotive trade, Andrew has already accomplished a lot in Software Development. His journey into tech has been marked by rapid growth and impactful contributions to the field.
 
-Beyond his technical prowess, Andrew has a keen interest in great design and is passionate about ensuring accessibility in websites. He believes that combining functionality with an intuitive and aesthetically pleasing design is crucial for creating a positive UX.
+## Technical Expertise
 
-Andrew is committed to leveraging modern methods and frameworks to create lasting and efficient tech solutions. His dedication to accessibility highlights his belief in inclusive design, making technology accessible to all users.
+### Frontend Development
 
-When not working or learning, Andrew is playing video games 🕹️, learning French 🥐 or practising violin 🎻.
+Andrew specializes in Frontend development, with deep expertise in frameworks such as React and Angular. He has a keen eye for detail and a passion for creating seamless, user-friendly interfaces that provide an exceptional user experience.
+
+### Backend Development
+
+His technical proficiency extends to Backend development with .NET. Andrew is adept at building robust and scalable backend systems that ensure smooth and efficient data processing and management.
+
+### Cloud Technologies
+
+Andrew has a strong command of cloud technologies, particularly AWS and Azure. His knowledge in this area allows him to design, deploy, and manage cloud-based solutions that are both secure and highly performant.
+
+## Industry Experience
+
+### Global Clients and National Government Entities
+
+Andrew has successfully delivered impactful solutions for large global clients and national government entities. His versatile skill set and ability to navigate complex projects have consistently led to the successful completion of projects that meet and exceed client expectations.
+
+### Agile Scrum Teams
+
+Andrew has extensive experience working in Agile Scrum teams, which has honed his ability to collaborate effectively, adapt to changing requirements, and deliver high-quality software in iterative cycles. His understanding of Agile principles ensures that projects are completed efficiently and flexibly, with continuous feedback and improvement.
+
+## Design and Accessibility
+
+### Passion for Design
+
+Beyond his technical prowess, Andrew has a keen interest in great design. He believes that combining functionality with an intuitive and aesthetically pleasing design is crucial for creating a positive user experience.
+
+### Commitment to Accessibility
+
+Andrew is passionate about ensuring accessibility in websites. His dedication to inclusive design reflects his belief in making technology accessible to all users, regardless of their abilities.
+
+### Personal Interests
+
+When not working or learning, Andrew enjoys playing video games 🕹️, learning French 🥐, and practicing the violin 🎻. These hobbies not only provide a creative outlet but also contribute to his well-rounded approach to problem-solving and innovation in his professional work.
