@@ -13,6 +13,15 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
+| ![](../badges/Developer-docker.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-devops.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-github.png)
+
+[[imgBadge]]
 | ![](../badges/Developer-angular.png)
 
 [[imgBadge]]
@@ -22,28 +31,15 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Developer-rxjs.png)
 
 [[imgBadge]]
+| ![](../badges/Developer-react.png)
+
+[[imgBadge]]
 | ![](../badges/Developer-dotnet-core.png)
-
-[[imgBadge]]
-| ![](../badges/Designer-web-css3.png)
-
-[[imgBadge]]
-| ![](../badges/Developer-c-sharp.png)
-
-[[imgBadge]]
-| ![](../badges/Developer-docker.png)
 
 [[imgBadge]]
 | ![](../badges/Developer-node-js.png)
 
-[[imgBadge]]
-| ![](../badges/Developer-js.png)
 
-[[imgBadge]]
-| ![](../badges/Developer-react.png)
-
-[[imgBadge]]
-| ![](../badges/Developer-dotnet-mvc.png)
 
 ---
 Ben is a software developer based in the Sydney office. He is currently pursuing a bachelor's degree in Software Engineering at the Univeristy of Technology Sydney (UTS), and is one of the top students in the engineering faculty. Ben is an exceptional full-stack developer, specializing in Angular apps with complex state management requirements. Ben is always expanding his skillset, with his current focus on the cloud and building enterprise-grade applications using Azure.
