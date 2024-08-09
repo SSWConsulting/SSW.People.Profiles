@@ -41,11 +41,21 @@ After switching from a career in the automotive trade, Andrew has already accomp
 
 ### Frontend Development
 
-Andrew specializes in Frontend development, with deep expertise in frameworks such as React and Angular. He has a keen eye for detail and a passion for creating seamless, user-friendly interfaces that provide an exceptional user experience.
+Andrew specializes in Frontend development, with deep expertise in frameworks such as React and Angular. He has a keen eye for detail and a passion for creating seamless, user-friendly interfaces that provide an exceptional user experience. Some FE tech that Andrew has worked with:
+- React
+- Angular
+- Next.js
+- Blazor
+- CSS
+- Redux
+- RxJS
 
 ### Backend Development
 
-His technical proficiency extends to Backend development with .NET. Andrew is adept at building robust and scalable backend systems that ensure smooth and efficient data processing and management.
+His technical proficiency extends to Backend development. Andrew is adept at building robust and scalable backend systems that ensure smooth and efficient data processing and management. Some BE tech that Andrew has worked with:
+- .NET
+- SQL
+- Node.js
 
 ### Cloud Technologies
 
@@ -71,6 +81,6 @@ Beyond his technical prowess, Andrew has a keen interest in great design. He bel
 
 Andrew is passionate about ensuring accessibility in websites. His dedication to inclusive design reflects his belief in making technology accessible to all users, regardless of their abilities.
 
-### Personal Interests
+## Personal Interests
 
-When not working or learning, Andrew enjoys playing video games 🕹️, learning French 🥐, and practicing the violin 🎻. These hobbies not only provide a creative outlet but also contribute to his well-rounded approach to problem-solving and innovation in his professional work.
+When not working or learning about tech, Andrew enjoys playing video games 🕹️, learning French 🥐, and practicing guitar 🎸️ and violin 🎻. These hobbies not only provide a creative outlet but also contribute to his well-rounded approach to problem-solving and innovation in his professional work.
