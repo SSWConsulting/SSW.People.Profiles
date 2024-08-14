@@ -21,7 +21,7 @@ quoteAuthor: "Henri Bergson"
 [[imgBadge]]
 | ![Certification Microsoft Azure Solutions Architect Expert](../badges/Certification-microsoft-azure-solutions-architect-expert.png)
 
-Jim Zheng is a **Software Engineer** based in the SSW Hangzhou office. With more than 6 years of development experience in web application and over 3 years in cloud native application, he has worked as a technical lead and been involved in multiple projects with complex requirements and varying structures. He's also a certificated [Scrum](https://www.ssw.com.au/consulting/scrum) Master who sticks to the best practices of the Agile methodology to maximize value delivery.
+Jim Zheng is a **Senior Software Engineer** based in the SSW Hangzhou office. With more than 6 years of development experience in web application and over 3 years in cloud native application, he has worked as a technical lead and been involved in multiple projects with complex requirements and varying structures. He's also a certificated [Scrum](https://www.ssw.com.au/consulting/scrum) Master who sticks to the best practices of the Agile methodology to maximize value delivery.
 
 He has been continuously striving to understand the best practices for designing robust, applicable and maintainable projects by leveraging outstanding methodologies such as domain-driven design, with the ultimate aim of minimum cost and maximum product lifetime. He is also passionate about digging into systems to understanding how things work.
 
