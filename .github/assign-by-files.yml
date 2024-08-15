@@ -3,10 +3,6 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
-'Alex-Lee/**':
-  - alexleessw
-'Alex-Rothwell/**':
-  - AlexRothwell
 'Alvin-Shen/**':
   - AlvinShenSSW
 'Aman-Kumar/**':
@@ -43,10 +39,6 @@
   - Calinator444
 'Calum-Simpson/**':
   - calumjs
-'Camilla-Rosa Silva/**':
-  - camillars
-'Charles-Vionnet/**':
-  - cvionnet
 'Chloe-Lin/**':
   - Aibono1225
 'Chris-Clement/**':
@@ -121,10 +113,6 @@
   - lukecookssw
 'Luke-Mao/**':
   - AttackOnMorty
-'Luke-Parker/**':
-  - Hona
-'Manu-Gulati/**':
-  - divgul
 'Marcus-Irmscher/**':
   - MarcusIrmscherSSW
 'Matt-Goldman/**':
@@ -147,8 +135,8 @@
   - piers-sinclair
 'Rick-Su/**':
   - ricksu978
-'Sam-Smith/**':
-  - samsmithssw
+'Rob-Thomlinson/**':
+  - RobJT-wq
 'Sam-Wagner/**':
   - SamBWagner
 'Seth-Daily/**':
@@ -169,8 +157,6 @@
   - tino-liu
 'Toby-Churches/**':
   - TobyChurches
-'Tom-Bui/**':
-  - tombui99
 'Tom-Iwainski/**':
   - tomek-i
 'Tylah-Kapa/**':
@@ -183,8 +169,6 @@
   - leahy268
 'William-Liebenberg/**':
   - william-liebenberg
-'Yalal-Cakir/**':
-  - YalalCakirSSW
 'Yang-Shen/**':
   - Berber-Mama
 'Zach-Keeping/**':
