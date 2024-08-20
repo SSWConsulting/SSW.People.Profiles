@@ -12,7 +12,7 @@ quoteAuthor: "Douglas Adams"
 [[imgBadge]]
 | ![](../badges/SysAdmin-microsoft-hyper-v.png)
 [[imgBadge]]
-| ![](../badges/ITIL-Foundation.png)
+| ![](../badges/Certification-ITIL-Foundation.png)
 [[imgBadge]]
 | [![](../badges/Certification-microsoft-certified-fundamentals.png)](https://learn.microsoft.com/api/credentials/share/en-us/RobertThomlinson-1985/7FC5A8DB2431E241?sharingId=146BE5D86BD5E11)
 [[imgBadge]]
