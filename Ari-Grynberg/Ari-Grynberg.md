@@ -7,10 +7,10 @@ quote: "Working together to provide solutions to problems proactively every day,
 quoteAuthor: "Anonymous"
 ---
 
-## Overview
-As the CPO it is my intention to be across all property matters for all offices – whether that be scheduled maintenance, urgent repairs, planned upgrades, and / or designed relocations or expansions.  I would envisage visiting and checking in on all our offices periodically over time. As is the nature of construction and maintenance, some projects will be small easy fast and seamless, and some will be larger more complex, time consuming, and annoying to staff. Whichever the path, I will always attempt to be in front of the process and demand SSW interests prevail. 
+As the Chief Property Officer at SSW, I am committed to ensuring that every aspect of our property management—ranging from routine maintenance and urgent repairs to planned upgrades and strategic relocations—is handled with precision and efficiency. My role involves overseeing all property-related matters across our offices, including periodic site visits to stay attuned to the needs of each location.
 
+With a robust background in project management, estimation, supervision, negotiations, and quality control, I am adept at navigating the complexities of construction and maintenance projects. Whether dealing with straightforward tasks or intricate, time-consuming projects, my focus is always on preemptive planning and safeguarding SSW’s interests to deliver optimal outcomes.
 
-## About me
-I am born bred and based in Sydney, and will work from the Sydney office. I will get to all the SSW offices over time. In my spare time I love to get out into nature, and get into the water. I follow all sports (bring back the Bears), a cricket tragic, follow current affairs & politics, and Im a father to 3 teenage kids and 2 irascible mutts. 
+Based in Sydney, I will be working from our Sydney office while making it a point to visit each SSW location over time. Outside of work, I enjoy immersing myself in nature, indulging in water activities, and keeping up with sports, especially cricket. As a passionate sports fan, I am also an advocate for the return of the Bears. Additionally, I stay engaged with current affairs and politics. I am a father to three teenage children and share my home with two lively dogs.
 
+Feel free to connect with me to discuss property matters or just to share your thoughts on sports and current events!
