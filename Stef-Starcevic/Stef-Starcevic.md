@@ -1,18 +1,17 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "6ed524e2-8933-eb11-a813-000d3a79983b"
 
-qualifications: ""
+qualifications: "Bachelor of Commerce Majoring in Marketing Management"
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "The reward for good work is more work"
+quoteAuthor: "Tom Sachs"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-This is an example account to show you what is possible for a profile page. 
-Below you will see everything you need to create an awesome page. 
-
-[Mr Bob Northwind is the owner of Northwind Traders Limited](https://www.ssw.com.au/rules/use-generic-consistent-names-on-examples). He is the toughest Product Owner we have ever come across :) He was the main star at the FireBootcamp.
+Stefan is one of the Marketing Assistants at SSW, working closely with various teams to support strategic goals. He is passionate about incoporating what he's learnt from his Hospitality and Marketing roles into his new world of software development and artificial intelligence. 
+At SSW, Stefan is focused on optimising Google and Meta Ads for maximum performance, focusing on smart strategies and a diligent workflow to ensure consistent leads. Whether he's working on a new form of advertising or gathering data for anayltical purposes, he loves problem solving and making work better.
+In his free time, you will often find Stefan driving,breaking and fixing his project vehicles.  
 
 ## Headings
 
