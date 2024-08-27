@@ -13,6 +13,6 @@ Stefan is one of the Marketing Assistants at SSW, working closely with various t
 
 At SSW, Stefan is focused on optimising Google and Meta Ads for maximum performance, focusing on smart strategies and a diligent workflow to ensure consistent leads. Whether he's working on a new form of advertising or gathering data for anayltical purposes, he loves problem solving and making work better.
 
-In his free time, you will often find Stefan driving,breaking and fixing his project vehicles.  
+In his free time, you will often find Stefan driving, breaking and fixing his project vehicles.  
 
 
