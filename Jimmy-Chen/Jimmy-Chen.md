@@ -12,7 +12,7 @@ quoteAuthor: "Albert Einstein"
 
 Introducing the financial wizard of SSW's Sydney headquarters! 🧙
 
-Meet our tech-savvy accountant extraordinaire, armed with a Bachelor of Law and a Master of Professional Accounting from UNSW, and six years of specialized experience in e-commerce and the IT industry, he's not your average number-cruncher.
+Meet our tech-savvy accountant extraordinaire, armed with a Bachelor of Law and a Master of Professional Accounting from UNSW, and 8 years of specialized experience in e-commerce and the IT industry, he's not your average number-cruncher.
 
 What sets him apart is his insatiable curiosity for technology and his remarkable tech-savviness. Always at the forefront of the latest advancements, he fearlessly embraces innovation to tackle accounting challenges head-on. From implementing state-of-the-art software solutions to streamlining financial processes.
 
