@@ -25,18 +25,28 @@ quoteAuthor: "ChatGPT 🤖"
 [[imgBadge]]
 | ![](../badges/Developer-dotnet-core.png)
 
-As a upcoming software developer at SSW Newcastle, Toby Churches brings a dynamic skill set and a passion for crafting innovative solutions to every project. With expertise in technologies such as .NET, Java, TypeScript, and Angular, Toby plays a pivotal role in delivering high-quality software solutions to clients.
+[[imgBadge]]
+| ![](../badges/Developer-ngrx.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-rxjs.png)
+
+[[imgBadge]]
+| ![](../badges/Business-microsoft-azure-devops.png)
+
+As an emerging software developer at SSW Newcastle, Toby Churches is passionate about crafting innovative, scalable, and user-centric software solutions. With expertise in .NET, TypeScript, and Angular, Toby is an integral part of the team, consistently delivering high-quality outcomes for clients.
 
 ## Technical Proficiencies
 
-Proficient in a range of programming languages and frameworks, Toby possesses a strong command of .NET, Java, TypeScript, and Angular. His ability to leverage these technologies allows him to build efficient, scalable, and user-centric software solutions that meet clients' unique needs.
+Toby’s technical toolkit includes deep proficiency in .NET, TypeScript, and Angular. Leveraging these technologies, he has contributed to various client projects, focusing on building efficient, secure, and high-performance software solutions. His hands-on experience spans across developing robust web applications, optimizing backend systems, and ensuring seamless user interfaces. Additionally, Toby has experience with Java and Spring Boot, further enhancing his versatility as a developer.
 
 ## Academic Pursuits
 
-Toby recently graduated with Class 1 honors in Software Engineering from the University of Newcastle. This significant academic achievement is a testament to his dedication to continuous learning and academic excellence. As a graduate, Toby combines his strong theoretical foundation with practical skills, ensuring he stays at the forefront of technology and industry trends. His academic success further solidifies his ability to deliver innovative and effective software solutions.
+Graduating with Class 1 honors in Software Engineering from the University of Newcastle, Toby's academic background provides a strong foundation for his technical skills. His academic success reflects his ability to combine theory with practical, real-world problem-solving, making him a versatile asset in any software development project.Toby actively pursues learning opportunities, remaining at the forefront of technology and industry trends.
 
 ## Passion for Collaboration
 
-Toby values teamwork and collaboration, recognizing the power of collective ideas in creating extraordinary results. He actively engages with teammates and clients to understand project requirements, offer valuable insights, and foster a cohesive work environment.
+Toby values teamwork and fosters a collaborative environment, where open communication and diverse perspectives lead to innovative solutions. He works closely with clients and colleagues to understand their unique needs, offering strategic insights and delivering projects with high business impact.
 
+## Personal Interests
 In his spare time, Toby immerses himself in his passions for cooking and motorcycles, seizing every opportunity to embark on a ride or whip up something new in the kitchen.
