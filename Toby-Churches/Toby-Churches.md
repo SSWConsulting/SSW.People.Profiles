@@ -34,11 +34,11 @@ quoteAuthor: "ChatGPT 🤖"
 [[imgBadge]]
 | ![](../badges/Business-microsoft-azure-devops.png)
 
-As an emerging software developer at SSW Newcastle, Toby Churches is passionate about crafting innovative, scalable, and user-centric software solutions. With expertise in .NET, Java, TypeScript, and Angular, Toby is an integral part of the team, consistently delivering high-quality outcomes for clients.
+As an emerging software developer at SSW Newcastle, Toby Churches is passionate about crafting innovative, scalable, and user-centric software solutions. With expertise in .NET, TypeScript, and Angular, Toby is an integral part of the team, consistently delivering high-quality outcomes for clients.
 
 ## Technical Proficiencies
 
-Toby’s technical toolkit includes deep proficiency in .NET, Java, TypeScript, and Angular. Leveraging these technologies, he has contributed to various client projects, focusing on building efficient, secure, and high-performance software solutions. His hands-on experience spans across developing robust web applications, optimizing backend systems, and ensuring seamless user interfaces.
+Toby’s technical toolkit includes deep proficiency in .NET, TypeScript, and Angular. Leveraging these technologies, he has contributed to various client projects, focusing on building efficient, secure, and high-performance software solutions. His hands-on experience spans across developing robust web applications, optimizing backend systems, and ensuring seamless user interfaces. Additionally, Toby has experience with Java and Spring Boot, further enhancing his versatility as a developer.
 
 ## Academic Pursuits
 
