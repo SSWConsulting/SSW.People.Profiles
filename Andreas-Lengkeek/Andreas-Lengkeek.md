@@ -1,9 +1,6 @@
 ---
 id: "a7e7a4d2-6923-e911-81e4-00155d012b45"
-
-
 qualifications: "Bachelor of Science in IT, Majoring in Enterprise Systems Development"
-
 quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."
 quoteAuthor: "Franklin D. Roosevelt"
 ---
@@ -45,13 +42,12 @@ His technology toolbelt includes:
 * ASP.NET Core
 * Blazor
 * Serverless Functions
-* [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
+* Clean Architecture
 * GitHub Actions
 * Microservices
-* React
-* and more...
+* React and more...
 
-Development and DevOps aren't his only strong points. He is a highly motivated [Scrum](https://www.ssw.com.au/ssw/Consulting/Scrum.aspx) practitioner, strong team player and thinks outside of the box! Andreas has had great success in both starting new Scrum teams, and also upskilling and mentoring existing development teams.
+Development and DevOps aren't his only strong points. He is a highly motivated [Scrum](https://www.ssw.com.au/consulting/scrum) practitioner, strong team player and thinks outside of the box! Andreas has had great success in both starting new Scrum teams, and also upskilling and mentoring existing development teams.
 
 Andreas has had experience with companies ranging from small businesses to large ASX listed companies in the finance, engineering and insurance sectors, helping them with:
 
@@ -63,11 +59,10 @@ Andreas has had experience with companies ranging from small businesses to large
 
 ## Training
 
-Andreas is a trainer on the [SSW Angular Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx) at major cities around Australia and Online, and has received top evaluation scores!
+Andreas is a trainer on the [SSW Angular Superpowers Tour](https://www.ssw.com.au/events/angular-superpowers-tour) at major cities around Australia and Online, and has received top evaluation scores!
 
 [[imgLg]]
 | ![SSW Angular Superpowers Tour](./Images/Angular-Superpowers-Tour.jpg)
-
 
 His recent interests include learning mobile development with Xamarin cross platform mobile apps on the SSW Rewards app. 
 
