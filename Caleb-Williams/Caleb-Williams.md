@@ -31,6 +31,9 @@ quoteAuthor: 'James Clear'
 [[imgBadge]]
 | ![Github](../badges/Developer-github.png)
 
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-fundamentals.png)
+
 ---
 
 **Professional Career** - Toward the end of his degree, Caleb undertook a full-time 5-month [coding bootcamp](https://firebootcamp.com/). This pivotal experience not only improved his coding abilities, but also refined his communication skills and gave him a respect for the core tenets of Scrum in a practical environment. He learned the value of being transparent with stakeholders, communicative with his team, and respectful of the product owner's vision throughout the software development process. He is a qualified developer with skills in Azure who is committed to building secure web apps with clean, maintainable code and excellent user experiences. Caleb strives to broaden his horizons and stay up to date with the latest web development technologies.
