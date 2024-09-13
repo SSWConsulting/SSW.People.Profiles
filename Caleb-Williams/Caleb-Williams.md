@@ -33,6 +33,20 @@ quoteAuthor: 'James Clear'
 
 ---
 
-Caleb graduated with a Bachelor's degree in Information Technology with Distinction, a journey that spanned five years of part-time study. Throughout this period, he meticulously honed in on a diverse set of valuable skills, inlcuding computer networking, communication, project management, and system design. Alongside his main course work he completed pursued alternative interests in his electives, including mobile application development, game prototyping and ludology, and business analysis. However, his primary area of interest was full-stack web development.
+**Professional Career** - Toward the end of his degree, Caleb undertook a full-time 5-month [coding bootcamp](https://firebootcamp.com/). This pivotal experience not only improved his coding abilities, but also refined his communication skills and gave him a respect for the core tenets of Scrum in a practical environment. He learned the value of being transparent with stakeholders, communicative with his team, and respectful of the product owner's vision throughout the software development process. He is a qualified developer with skills in Azure who is committed to building secure web apps with clean, maintainable code and excellent user experiences. Caleb strives to broaden his horizons and stay up to date with the latest web development technologies.
 
-Toward the end of his degree, Caleb undertook a full-time 5-month full stack development internship, pivotal experience that not only improved his coding abilities but also refined his communication skills and gave him a respect for the core tenets of scrum process in a practical environment. He learned the value of being transparent with stakeholders, communicative with his team, and respectful of the product owner's vision throughout the software development process. He is a qualified software developer with skills in Azure who is committed to building secure web apps with clean, maintainable code and excellent user experiences. Caleb is committed to broadenin his horizons and the latest web development technologies.
+**Education** - Caleb graduated with a Bachelor of Information Technology with Distinction in 2024, a journey that spanned five years of part-time study. Throughout this period, he meticulously honed a diverse set of valuable skills, including:
+
+- Computer networking
+- Communication
+- Project management
+- System design
+- Business analysis
+
+Although Caleb's primary area of interest was full-stack web development, he also pursued alternative interests in his elective courses, including:
+
+- Mobile application development
+- Game prototyping
+- Ludology
+- Multimedia creation
+- Photo editing
