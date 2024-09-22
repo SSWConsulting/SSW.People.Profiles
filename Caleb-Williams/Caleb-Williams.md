@@ -14,7 +14,13 @@ quoteAuthor: 'James Clear'
 | ![C-Sharp.png](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
+| ![Certification Scrum Master](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![angular-logo.png](../badges/Developer-c-plusplus.png)
+
+[[imgBadge]]
+| ![Python](../badges/Developer-python.png)
 
 [[imgBadge]]
 | ![React](../badges/Developer-react.png)
