@@ -28,14 +28,16 @@ quoteAuthor: "David Goggins"
 
 ---
 
-Gordon is a SSW Solution Architect and has been a Microsoft MVP since 2014 for Developer Technologies.
+Gordon Beeming is a passionate SSW Solution Architect and Microsoft MVP (Developer Technologies) who lives and breathes DevOps.  He's dedicated to helping teams transform their development processes and achieve greater agility, collaboration, and success.
 
-He's uber passionate about helping people really understand DevOps and how they approach their problems with a DevOps mindset.
+With deep roots in the Microsoft ecosystem since .NET 2.0, Gordon has been leveraging Azure DevOps (and its predecessors) from the early days. He's not just a user; he's actively contributed to the community, co-authoring numerous ALM Rangers guidance documents and even penning books on TFS customization and agile project management.
 
-He's used the Microsoft stack for many years starting with .net 2.0 in 2008. He's worked with Azure DevOps since the early on-premises TFS days and used the cloud version since available as tfpreview. 
+Gordon also enjoys sharing his knowledge and experiences through talks and workshops, hoping to make DevOps a bit less daunting and a lot more accessible for everyone.
 
-He's co-authored many guidance docs as part of the ALM Rangers, written 2 books on Customization TFS and a co-authored of Managing Agile Open-Source Software Projects with Visual Studio Online (now Azure DevOps Services).
+When he's not pushing technology limits, you'll find him training for his next triathlon or enjoying quality time with his family.
 
-When he's not pushing technology limits you'll find him training for the next swim/bike/run event or relaxing with his family. 
+**Connect with Gordon:**
 
-You can connect with him on his [social platforms](https://gordonbeeming.com/) or take a look at his [YouTube channel (@gordonbeeming)](https://www.youtube.com/@gordonbeeming) to see what he's playing with currently.
+Subscribe to his YouTube channel: [@gordonbeeming](https://www.youtube.com/@gordonbeeming).   
+Follow him on his [social platforms](https://gordonbeeming.com/).   
+Let's talk DevOps!
