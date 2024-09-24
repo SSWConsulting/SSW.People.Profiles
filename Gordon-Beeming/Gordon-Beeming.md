@@ -38,6 +38,6 @@ When he's not pushing technology limits, you'll find him training for his next t
 
 **Connect with Gordon:**
 
-Subscribe to his YouTube channel: [@gordonbeeming](https://www.youtube.com/@gordonbeeming)
-Follow him on his [social platforms](https://gordonbeeming.com/)
+Subscribe to his YouTube channel: [@gordonbeeming](https://www.youtube.com/@gordonbeeming).   
+Follow him on his [social platforms](https://gordonbeeming.com/).   
 Let's talk DevOps!
