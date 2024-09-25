@@ -35,3 +35,7 @@ Luke thrives on unraveling intricate business processes and streamlining them fo
 Luke is also heavily involved in SSW's mentoring programmes, often leading SSW's internship programme FireBootCamp, ushering in the next generation of exceptional SSW developers.
 
 When he's not working, you can often find him on two wheels riding NSW's back roads and racing tracks, tinkering with low-level embedded systems, and enjoying live music. You may even see him play at some secluded venues from time to time (if you know where to look!).
+
+`https://www.youtube.com/embed/AqeItD8JfJA`
+
+**Video: Come Visit Us in Oz**
