@@ -1,9 +1,7 @@
 ---
 
-id: "05daa2a9-8768-446e-b9d3-580c8a6f9b8b"
-
+id: "38cf8d10-8b69-ef11-a670-00224896c3f4"
 qualifications: "Master of Information Technology"
-
 quote: "It's not just beauty at this dimension, at one centimeter; there's also beauty at smaller dimensions, the inner structure, also the processes."
 quoteAuthor: "Richard P. Feynman"
 
