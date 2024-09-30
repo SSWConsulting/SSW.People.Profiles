@@ -12,8 +12,6 @@ qualifications: "Bachelor of Information Technology"
 | ![Kusto Detective Agencey Season1](../badges/kusto-detective-agency-complete-season1.png)
 [[imgBadge]]
 | ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
-[[imgBadge]]
-| ![Azure](../badges/Cloud-Azure.png)
 
 ---
 
