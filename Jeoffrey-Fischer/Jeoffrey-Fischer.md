@@ -27,10 +27,25 @@ quoteAuthor: "Abraham Lincoln"
 
 ---
 
-Jeoffrey Fischer (PhD) is a **Software Engineer** based at SSW's Sydney office. He was born in Strasbourg, France.
+## About Jeoffrey  
 
-**Tech skills** - Jeoffrey originally started with SSW through the **FireBootCamp** program, which provided valuable training and preparation for the world of software engineering. He brings a tremendous enthusiasm to his current role, showcasing proficiency in various technologies, including **.NET, EF Core, Angular, React, NextJS, SQL databases** and **Microsoft Azure**, all of which contribute to his evolving skills as a valuable team member.
+Jeoffrey Fischer is a skilled **Software Engineer** at SSW’s Sydney office. Born in Strasbourg, France, he has a diverse background in both technical expertise and team leadership. After completing the FireBootCamp program, Jeoffrey joined SSW and has since contributed his strong technical proficiency and passion for technology to the team.
 
-**Scrum** - Jeoffrey is a certified **Scrum Master**. He enjoys the challenge of balancing his team's happiness with their productivity while making sure the Scrum process flows smoothly during each Sprint. Keeping constant communication within the Team members is his mantra to ensure the three pillars of Scrum are continuously followed: Transparency, Inspection and Adaptation. 
+## Tech skills  
 
-**Other interests** - Jeoffrey is a certified **Personal Trainer** (Certificate III & IV of Fitness). Outside of the office, he is either wrestling with the intricacies of mastering those wild John Mayer **guitar** solos or honing his bottoms-up technique at the SSW weekly Friday **pub** sessions. Alternatively, you might catch him at the **gym** or in the comfort of his home, immersed in **video games**.
+Jeoffrey has a broad and evolving skill set, specializing in the following technologies:  
+
+- **Backend**: .NET, EF Core  
+- **Frontend**: Angular, React, Next.js  
+- **Databases**: SQL  
+- **Cloud**: Microsoft Azure  
+
+His continuous learning and enthusiasm for new challenges make him a valuable team player at SSW.  
+
+## Scrum Master 
+
+As a **certified Scrum Master**, Jeoffrey takes pride in guiding his team through the Scrum process. He balances productivity with team morale, ensuring that the three pillars of Scrum—Transparency, Inspection, and Adaptation—are consistently upheld. His focus on open communication and collaboration helps his team deliver successful outcomes each Sprint.
+
+## Interests  
+
+Outside of work, Jeoffrey has a passion for fitness, holding a **Certificate III & IV in Personal Training**. When he’s not perfecting his John Mayer guitar solos, you can find him either at the gym or indulging in video games. On Fridays, Jeoffrey enjoys relaxing with his colleagues during SSW's weekly pub sessions.
