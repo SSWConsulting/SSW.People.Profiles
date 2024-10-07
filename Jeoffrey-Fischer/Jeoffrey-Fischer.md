@@ -44,7 +44,7 @@ His continuous learning and enthusiasm for new challenges make him a valuable te
 
 ## Scrum Master 
 
-As a **certified Scrum Master**, Jeoffrey takes pride in guiding his team through the Scrum process. He balances productivity with team morale, ensuring that the three pillars of Scrum—Transparency, Inspection, and Adaptation—are consistently upheld. His focus on open communication and collaboration helps his team deliver successful outcomes each Sprint.
+As a **Certified Scrum Master**, Jeoffrey takes pride in guiding his team through the Scrum process. He balances productivity with team morale, ensuring that the three pillars of Scrum—Transparency, Inspection, and Adaptation—are consistently upheld. His focus on open communication and collaboration helps his team deliver successful outcomes each Sprint.
 
 ## Interests  
 
