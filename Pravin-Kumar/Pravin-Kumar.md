@@ -3,15 +3,15 @@ id: "25abfe97-8a71-ef11-a670-000d3a6b3d0f"
 
 qualifications: ""
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
-quoteAuthor: "Anonymous"
+quote: "Creativity takes courage"
+quoteAuthor: "Henri Matisse"
 ---
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 Pravin Kumar is an accomplished SSW Graphic Designer renowned for his expertise in both digital and print design. With a keen focus on human-centric design, he brings a unique blend of creativity and empathy to every project, ensuring that user experiences are at the forefront of his work. His ability to translate complex ideas into visually compelling designs has earned him a reputation for excellence in the industry.
+
 Outside of his professional pursuits, Pravin is an avid bushwalker who enjoys capturing the beauty of nature through photography. His adventures in the great outdoors inspire his creative vision, allowing him to see the world from unique perspectives. This love for nature translates into his design work, infusing it with authenticity and depth.
+
 In addition to his graphic design skills, Pravin has a passion for clay modelling and sketching, further showcasing his artistic versatility. With a commitment to continuous learning and innovation, he is not only shaping the visual landscape but also inspiring others through his multifaceted talents and dedication to understanding user needs.
 
-
-- [Example Rule + Markdown Cheatsheet](https://www.ssw.com.au/rules/rule)
