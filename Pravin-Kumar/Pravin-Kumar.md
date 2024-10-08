@@ -7,6 +7,20 @@ quote: "Creativity takes courage"
 quoteAuthor: "Henri Matisse"
 ---
 
+[[imgBadge]]
+| ![UX](../badges/Designer-web-ux.png)
+
+[[imgBadge]]
+| ![Figma](../badges/Designer-figma.png)
+
+[[imgBadge]]
+| ![Adobe Photoshop](../badges/Designer-adobe-photoshop.png)
+
+[[imgBadge]]
+| ![Adobe Illustrator](../badges/Designer-adobe-illustrator.png)
+
+---
+
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 Pravin Kumar is an accomplished SSW Graphic Designer renowned for his expertise in both digital and print design. With a keen focus on human-centric design, he brings a unique blend of creativity and empathy to every project, ensuring that user experiences are at the forefront of his work. His ability to translate complex ideas into visually compelling designs has earned him a reputation for excellence in the industry.
