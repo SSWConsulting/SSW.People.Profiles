@@ -27,7 +27,7 @@ quoteAuthor: "Abraham Lincoln"
 
 ---
 
-Jeoffrey is an accomplished Software Engineer at SSW’s Sydney office, where he combines his expertise in backend development and cloud architecture to deliver top-tier solutions. Born in Strasbourg, France, Jeoffrey earned his PhD in AeroAcoustics and spent 8 years at UNSW Sydney conducting cutting-edge research, including projects for the Australian Department of Defense. His transition from academia to the tech industry reflects his relentless pursuit of innovation and excellence. A graduate of SSW FireBootCamp, Jeoffrey quickly made his mark at SSW by driving technical advancements across projects, leveraging his deep expertise in .NET, Angular, and Microsoft Azure to solve complex challenges.
+Jeoffrey is an accomplished Software Engineer at SSW’s Sydney office, where he combines his expertise in backend development and cloud architecture to deliver top-tier solutions. Born in Strasbourg, France, Jeoffrey earned his PhD in AeroAcoustics and spent 8 years at UNSW Sydney conducting cutting-edge research, including projects for the Australian Department of Defense. His transition from academia to the tech industry reflects his relentless pursuit of innovation and excellence. A graduate of [SSW FireBootCamp](https://firebootcamp.com/), Jeoffrey quickly made his mark at SSW by driving technical advancements across projects, leveraging his deep expertise in .NET, Angular, and Microsoft Azure to solve complex challenges.
 
 Jeoffrey’s background in engineering and research continues to inform his work in transforming digital landscapes, as he guides teams through complex technical challenges and consistently delivering impactful solutions.
 
