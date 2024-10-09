@@ -23,9 +23,9 @@ quoteAuthor: "Henri Matisse"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Pravin Kumar is an accomplished SSW Graphic Designer renowned for his expertise in both digital and print design. With a keen focus on human-centric design, he brings a unique blend of creativity and empathy to every project, ensuring that user experiences are at the forefront of his work. His ability to translate complex ideas into visually compelling designs has earned him a reputation for excellence in the industry.
+Pravin Kumar is an accomplished SSW Graphic Designer known for his expertise in digital and print design. With a focus on human-centric design, he blends creativity and empathy in every project, ensuring user experiences are prioritized. His talent for translating complex ideas into visually compelling designs has earned him a reputation for excellence in the industry.
 
-Outside of his professional pursuits, Pravin is an avid bushwalker who enjoys capturing the beauty of nature through photography. His adventures in the great outdoors inspire his creative vision, allowing him to see the world from unique perspectives. This love for nature translates into his design work, infusing it with authenticity and depth.
+Outside of work, Pravin is an avid bushwalker and nature photographer. His outdoor adventures inspire his creative vision, allowing him to view the world from unique perspectives. This love for nature infuses his design work with authenticity and depth.
 
-In addition to his graphic design skills, Pravin has a passion for clay modelling and sketching, further showcasing his artistic versatility. With a commitment to continuous learning and innovation, he is not only shaping the visual landscape but also inspiring others through his multifaceted talents and dedication to understanding user needs.
+In addition to graphic design, Pravin enjoys clay modeling and sketching, showcasing his artistic versatility. Committed to continuous learning and innovation, he shapes the visual landscape while inspiring others through his multifaceted talents and dedication to understanding user needs.
 
