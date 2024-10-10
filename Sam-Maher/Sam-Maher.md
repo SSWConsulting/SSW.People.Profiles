@@ -11,7 +11,7 @@ quoteAuthor: "Richard P. Feynman"
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![Vue](../badges/Developer-vue.png)
+| ![Vue](../badges/Developer-Vue.png)
 
 [[imgBadge]]
 | ![Angular](../badges/Developer-angular.png)
