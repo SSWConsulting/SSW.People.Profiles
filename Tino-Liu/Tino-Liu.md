@@ -26,4 +26,6 @@ Tino is a multifaceted Software Engineer boasting over three years of experience
 
 Holding a degree from an US institution and having extensive experience in the finance industry, Tino has successfully spearheaded projects encompassing severance tax services, asset stress tests, wealth projections, and risk analyses. Proficient in cutting-edge technologies such as React, Next.js, Angular, and Highcharts, Tino consistently delivers robust and innovative applications.
 
+At SSW, Tino looks after Chinafy projects which help international companies bring their websites and products to the China market of 1.4 billion people.
+
 In addition to his technological prowess, Tino possesses a genuine passion for people. He enthusiastically embraces cultural diversity and serves as a true team player, demonstrating exceptional adaptability and precision in his work. Tino also enjoys cruising through the city on his electric skateboard, cooking his own meals, and playing guitar.
