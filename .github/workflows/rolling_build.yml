@@ -1,47 +1,62 @@
-# This is Rolling Build for Production
-
 name: Rolling Production Build
 
-# The workflow runs every 15 mins
+# The workflow runs every 15 mins and checks if CRM Skills were updated
+# It downloads a file from Azure Blob Storage that has "TRUE" or "FALSE" text.
+# If the file contains "TRUE", the workflow will trigger the main-trigger-people-deploy.yml
+# When build is triggered, the file with "FALSE" will be uploaded to Azure Blob Storage
 on:
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '*/15 * * * *'
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  check-and-prepare:
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-    
-    # Download the file that contains the boolean flag indicating a CRM update
+    # Download the file that contains "TRUE" if CRM Skills were updated
     - name: Check CRM Skills Updated Flag
       uses: carlosperate/download-file-action@v1.0.3
       with:
-        # URL of the file to download
-        file-url:  ${{ secrets.CRM_SKILLS_FLAG_URL }}
+        file-url: ${{ secrets.CRM_SKILLS_FLAG_URL }}
 
     # Check if we need to run a build on production
-    - name: Run the Build if CRM has updated
+    - name: Determine Deployment Trigger
+      id: determine-deployment-trigger
       run: |
+        # Check if the file contains "TRUE" string
         if grep -q TRUE "CRM_SkillsUpdatedFlag.txt"; then
-            echo FALSE > CRM_SkillsUpdatedFlag.txt
-            echo "Running Build - CRM Updated"
-            export AZURE_DEVOPS_EXT_PAT=${{ secrets.AZURE_DEVOPS_TOKEN }}
-            chmod +x .workflow/build-production.sh
-            bash ./.workflow/build-production.sh            
+          # Setup variables for the next steps
+          echo "should_trigger_deploy=TRUE" >> $GITHUB_OUTPUT
+          echo "branch_name=main" >> $GITHUB_OUTPUT
+          
+          # Avoid triggering the build again by overriding the file with FALSE
+          echo FALSE > CRM_SkillsUpdatedFlag.txt
+
+          echo "Running Build - CRM Change Detected"
+          echo "Dispatching main-trigger-people-deploy workflow"
         else
-            echo "Skipping Build - CRM Data Ok"
+          echo "should_trigger_deploy=FALSE" >> $GITHUB_OUTPUT
+          echo "Skipping Build - CRM Data Ok"
         fi
-      
-    # Update the CRM Flag so the build is triggered on next change  
-    - uses: fixpoint/azblob-upload-artifact@v3
+      shell: bash
+
+    # Trigger the other workflow if the CRM data was updated
+    - name: Build and deploy People
+      if: steps.determine-deployment-trigger.outputs.should_trigger_deploy == 'TRUE'
+      uses: benc-uk/workflow-dispatch@v1
+      with:
+        workflow: main-trigger-people-deploy.yml
+        repo: SSWConsulting/SSW.People.Profiles
+        ref: ${{ steps.determine-deployment-trigger.outputs.branch_name }}
+        token: "${{ secrets.GITHUB_TOKEN }}"
+
+    # If deployment was triggered, upload the file to Azure Blob Storage
+    # The value of the file should be "FALSE" if deployment was triggered
+    - name: Update CRM Skills Updated Flag File
+      uses: fixpoint/azblob-upload-artifact@v4.6
+      if: steps.determine-deployment-trigger.outputs.should_trigger_deploy == 'TRUE'
       with:
         connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
-        name: 'flags'  
+        name: 'flags'
         path: CRM_SkillsUpdatedFlag.txt

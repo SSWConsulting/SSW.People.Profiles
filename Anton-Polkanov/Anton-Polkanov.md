@@ -16,6 +16,9 @@ quoteAuthor: "Martin Fowler"
 | ![Flutter](../badges/Developer-flutter.png)
 
 [[imgBadge]]
+| ![Android](../badges/Designer-mobile-android.png)
+
+[[imgBadge]]
 | ![dotnetcore.png](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
@@ -34,11 +37,22 @@ quoteAuthor: "Martin Fowler"
 | ![Angular](../badges/Developer-python.png)
 
 [[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
+
+[[imgBadge]]
 | ![Azure](../badges/Certification-microsoft-azure-ai-fundamentals.png)
 
 [[imgBadge]]
 | ![Azure](../badges/Certification-microsoft-azure-fundamentals.png)
 
-Anton is a Senior Software Engineer at SSW with more than 7 years of experience in professional software development. He enjoys designing and building quality software using the latest approaches and techniques. Anton applies thoughtful and holistic approach to solving problems aiming to meet the needs of end-users and the business.
+[[imgBadge]]
+| ![Microsoft](../badges/Certification-microsoft-professional.jpg)
 
-He is interested in mobile development, .NET platform, and performance engineering. Anton also runs a competitive programming club in Newcastle.
+
+Anton is a results-driven Senior Software Engineer at SSW with over 7 years of experience in professional software development. He has a proven track record of delivering high-quality solutions that meet the needs of both end-users and the business. Anton's expertise lies in designing and building robust software applications using cutting-edge approaches and techniques.
+
+Throughout his career, Anton has spearheaded several impactful projects, including building a mobile application for a regional Australian bank. His careful attention to detail and commitment to excellence have consistently resulted in improved performance and user satisfaction.
+
+Anton is passionate about mobile development, specializing in the .NET platform and performance engineering. He stays updated on the latest advancements in technology to ensure he delivers solutions that are at the forefront of innovation. Additionally, Anton actively contributes to the tech community as the organizer of a competitive programming club in Newcastle.
+
+Certified in Azure and proficient in .NET, Anton is well-equipped to tackle complex challenges and drive success in software development projects.

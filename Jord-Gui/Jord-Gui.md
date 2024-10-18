@@ -1,7 +1,7 @@
 ---
 id: "8ea72bd0-cbfd-ed11-8f6d-00224818668d"
 
-qualifications: "Bachelor of Computer Science, AWS Certified Cloud Practitioner, ICAgile Certified Professional"
+qualifications: "Bachelor of Computer Science, AWS Certified Cloud Practitioner, ICAgile Certified Professional, Azure AI Engineer Associate"
 
 quote: "Don't be sorry, be better."
 quoteAuthor: "Kratos"
@@ -13,14 +13,33 @@ quoteAuthor: "Kratos"
 | ![React](../badges/Developer-react.png)
 
 [[imgBadge]]
+| ![JavaScript](../badges/Developer-js.png)
+
+[[imgBadge]]
+| ![C#](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![Dotnet Core](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
+
+[[imgBadge]]
 | ![GitHub](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![Devops](../badges/Developer-devops.png)
+
+[[imgBadge]]
+| ![Azure AI Engineer Associate](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
+
+[[imgBadge]]
+| ![Cognitive Services](../badges/Developer-cognitive-services.png)
 
 <br/>
 
-Jord is a Software Engineer at the SSW Melbourne Office. He is a graduate from Monash University with a Bachelor of Computer Science majoring in Advanced Computer Science.
+Jord is a proficient Software Engineer specializing in full-stack development with expertise in TypeScript, HTML, CSS, C#, NextJS, and Blazor. Based in the SSW Melbourne office, Jord graduated from Monash University with a Bachelor of Computer Science, majoring in Advanced Computer Science.
 
-He specialises in front-end development with experience in languages such as TypeScript, HTML, CSS, C#, libraries like React, and frameworks such as NextJS. He also has experience with back-end technologies like .Net Core.
+Passionate about staying on the cutting edge, Jord actively follows emerging technologies and remains abreast of the latest developments in the tech industry. This commitment to continuous learning ensures that he stays at the forefront of advancements, bringing innovative solutions to his work.
 
-He is interested in emerging technologies and keeps up with the latest tech news.
-
-When he is not working, he likes to play games, hang out with friends, play with his cats, go on road trips, and gardening.
+Outside of coding, Jord's interests span gaming, quality time with friends, cat companionship, and travelling. These diverse pursuits infuse both his professional and personal life with a vibrant energy.

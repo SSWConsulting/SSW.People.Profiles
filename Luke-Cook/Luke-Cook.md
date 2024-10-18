@@ -3,9 +3,10 @@ id: "97143d3e-9c7c-ec11-8d21-0022481818d4"
 
 qualifications: ""
 
-quote: "She may not look like much, but she's got it where it counts, kid!"
-quoteAuthor: "Han Solo"
+quote: "I need your clothes, your boots, and your motorcycle."
+quoteAuthor: "T800"
 ---
+
 [[imgBadge]]
 | ![Image Alt Text](../badges/Business-microsoft-azure.png)
 
@@ -21,11 +22,20 @@ quoteAuthor: "Han Solo"
 [[imgBadge]]
 | ![Image Alt Text](../badges/Developer-angular.png)
 
+[[imgBadge]]
+| ![Image Alt Text](../badges/Developer-c.png)
 
-Luke has spent the last 15 years in the Fintech and Paytech industry, designing and building software solutions that are used by thousands of Australian businesses. He has worked closely with the ATO in many of their industry initiatives, including SuperStream and Single Touch Payroll. Luke enjoys solving complex business processes in ways that make things easy for everyday users.
+[[imgBadge]]
+| ![Image Alt Text](../badges/Developer-github.png)
 
 
-Luke has worked with .NET Framework since 2.0, and continues to follow the .NET and .NET Core development community closely. Having attended various SSW training courses and User Groups since 2008, he decided to make the jump to SSW in 2022. His favourite tech stack is .NET WebAPIs coupled with SPA front-ends, specifically Angular and Blazor.
+Luke is a seasoned professional with over 15 years of dedicated experience in the dynamic realms of Fintech and Paytech. Throughout his career, he has been instrumental in crafting cutting-edge software solutions tailored to the needs of numerous Australian businesses.  His collaborative efforts with the Australian Taxation Office (ATO) and Superannuation funds on pivotal industry initiatives such as SuperStream and Single Touch Payroll underscore his deep engagement and influence within the sector.
 
+Luke thrives on unraveling intricate business processes and streamlining them for seamless user experiences. He has been actively involved in .NET since its 2.0 iteration. Maintaining a pulse on the latest advancements, Luke remains closely connected to the .NET community, drawing inspiration from its vibrant ecosystem. His tech stack of choice is .NET WebAPIs with single-page application (SPA) frameworks such as Angular and Blazor, enabling him to craft robust and modern solutions.
+Luke is also heavily involved in SSW's mentoring programmes, often leading SSW's internship programme FireBootCamp, ushering in the next generation of exceptional SSW developers.
 
-When he's not working, Luke can be found around Sydney playing his guitar with friends, running TTRPG sessions and mentoring junior developers.
+When he's not working, you can often find him on two wheels riding NSW's back roads and racing tracks, tinkering with low-level embedded systems, and enjoying live music. You may even see him play at some secluded venues from time to time (if you know where to look!).
+
+`youtube: https://www.youtube.com/embed/AqeItD8JfJA`
+
+**Video: Come Visit Us in Oz**

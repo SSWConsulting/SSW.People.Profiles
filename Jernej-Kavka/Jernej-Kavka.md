@@ -8,7 +8,10 @@ quoteAuthor: "Anonymous"
 ---
 
 [[imgBadge]]
-| ![](../badges/Certification-microsoft-mvp.png)
+| ![Microsoft Most Valuable Professional (MVP)](../badges/Certification-microsoft-mvp.png)
+
+[[imgBadge]]
+| ![Sessionize Most Active Speaker 2023](../badges/Awards_Sessionize_Most_Active_Speaker2023.png)
 
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-professional.jpg)

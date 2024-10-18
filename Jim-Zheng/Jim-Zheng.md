@@ -13,18 +13,6 @@ quoteAuthor: "Henri Bergson"
 | ![Business Microsoft Azure](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
-| ![Business Microsoft Azure DevOps](../badges/Business-microsoft-azure-devops.png)
-
-[[imgBadge]]
-| ![Developer Angular](../badges/Developer-angular.png)
-
-[[imgBadge]]
-| ![Developer Blazor](../badges/Developer-blazor.png)
-
-[[imgBadge]]
-| ![Developer Azure Function](../badges/Developer-azure-function.png)
-
-[[imgBadge]]
 | ![Developer Dotnet Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
@@ -33,7 +21,7 @@ quoteAuthor: "Henri Bergson"
 [[imgBadge]]
 | ![Certification Microsoft Azure Solutions Architect Expert](../badges/Certification-microsoft-azure-solutions-architect-expert.png)
 
-Jim Zheng is a **Software Engineer** based in the SSW Hangzhou office. With more than 5 years of development experience in web application and over 2 years in cloud native application, he has worked as a technical lead and been involved in multiple projects with complex requirements and varying structures. He's also a certificated [Scrum](https://www.ssw.com.au/consulting/scrum) Master who sticks to the best practices of the Agile methodology to maximize value delivery.
+Jim Zheng is a **Senior Software Engineer** based in the SSW Hangzhou office. With more than 6 years of development experience in web application and over 3 years in cloud native application, he has worked as a technical lead and been involved in multiple projects with complex requirements and varying structures. He's also a certificated [Scrum](https://www.ssw.com.au/consulting/scrum) Master who sticks to the best practices of the Agile methodology to maximize value delivery.
 
 He has been continuously striving to understand the best practices for designing robust, applicable and maintainable projects by leveraging outstanding methodologies such as domain-driven design, with the ultimate aim of minimum cost and maximum product lifetime. He is also passionate about digging into systems to understanding how things work.
 
@@ -54,3 +42,9 @@ Jim joined the development of the 3rd generation of the [SSW Website](https://gi
 The CMS infrastructure as well as the content of the SSW Website are completely open-source and actively maintained. The 3rd version of the project provides designers and content managers with a great editing experience using a powerful and code-free WYSIWYG editor leveraging TinaCMS.
 
 Relevant technologies: NextJS, TinaCMS, React, Docker, Azure Front Door
+
+### [SSW SugarLearning Chinafy](https://sugarlearning.com/)
+
+Jim joined as one of the core members to mordernize the architecture of [SSW SugarLearning China](https://sugarlearning.cn/) which leverages the latest cloud-native web development techniques, and helped the team to conduct a DevOps upgrade which better supports the deployment of an internationalized application.
+
+Relevant technologies: .NET 8, Azure App Service, Azure AI Search, Octopus Deploy

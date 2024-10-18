@@ -10,19 +10,27 @@ quoteAuthor: "Mark Twain"
 [[imgBadge]]
 | ![Image Alt Text](../badges/Developer-OpenAI-ChatGPT.png)
 
+[[imgBadge]]
+| ![Image Alt Text](../badges/Developer-github.png)
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
+[[imgBadge]]
+| ![Image Alt Text](../badges/Business-microsoft-azure-devops.png)
 
-Seth is an SSW Marketing Assistant and Account Manager. He has an interest in artificial intelligence and its applications for creativity and productivity. He's always making the best prompts for ChatGPT and Midjourney and stays up to date on the latest AI techniques. He likes contributing to [SSW Rules](https://www.ssw.com.au/rules/) because the ultimate goal is optimization of everything, and in pursuit of that grand design, best practices are the most advanced blueprint that we have.
+[[imgBadge]]
+| ![Image Alt Text](../badges/Business-zendesk.png)
 
-He also contributes in other ways, from marketing initiatives to organizing [events](https://www.ssw.com.au/ssw/Events/?tech=all&type=all) and learning account management skills under the guidance of [Uly](https://www.ssw.com.au/people/uly/).
+Seth is an SSW Marketing Specialst and Account Manager who loves artificial intelligence and applying it for productivity.
 
+⌛ He makes time-saving tools using ChatGPT and other AI, and follows the AI world closely
 
-He grew up in the United States, lived for a stint in Switzerland, and is now creating a second home in Australia. In his free time he practices martial arts, plays music, and enjoys surfing - which he likes so much that he has done it in 4 continents and is now based in the great surfing region of Newcastle.
+📏 He likes improving [SSW Rules](https://www.ssw.com.au/rules/) because best practice standards optimize every process
 
-If you work in software and are looking for a job in Newcastle - send an email to sethdaily@ssw.com.au!
+🎊 He contributes to the [SSW Website](https://www.ssw.com.au/) and organizes [events](https://www.ssw.com.au/ssw/Events/?tech=all&type=all) for SSW Australia offices
 
+🗣️ He is an active contributor to the development of the world's best GitHub Markdown editor - [TinaCMS](https://tina.io)
 
+🌎 Raised in California, he has lived in Switzerland and now makes Australia his home
 
+🎓 In his free time, he is always learning - martial arts, guitar, piano, and surfing (which might be why he lives in the great surfing region of Newcastle 😏)
 
-
+🖥️ If you work in software and want a job in Newcastle, send him an email.

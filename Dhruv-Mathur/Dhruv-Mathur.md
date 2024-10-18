@@ -1,7 +1,7 @@
 ---
 id: "67e85027-f4dc-ed11-a7c7-00224818a8c8"
 
-qualifications: "B Tech. Electronics and Masters of IT Monash University (Ongoing)"
+qualifications: "B Tech. Electronics and Masters of IT Monash University"
 
 quote: "Your level of intelligence is the average of the people around you. Choose wisely."
 quoteAuthor: "Jim Rohn"
@@ -10,24 +10,41 @@ quoteAuthor: "Jim Rohn"
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 [[imgBadge]]
-| ![Image Alt Text](../badges/Developer-angular.png)
+| ![Angular](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![Image Alt Text](../badges/Developer-react.png)
+| ![ReactJS](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![Image Alt Text](../badges/Developer-node-js.png)
+| ![ngrx](../badges/Developer-ngrx.png)
 
 [[imgBadge]]
-| ![Image Alt Text](../badges/Developer-c-sharp.png)
+| ![NodeJS](../badges/Developer-node-js.png)
 
 [[imgBadge]]
-| ![Image Alt Text](../badges/Developer-docker.png)
+| ![CSharp](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
-| ![Image Alt Text](../badges/Developer-dotnet-core.png)
+| ![Docker](../badges/Developer-docker.png)
 
-Dhruv Mathur is a skilled software developer at SSW, specializing in creating outstanding software solutions using modern technologies such as .NET Core, ReactJS, Angular, NextJS, Docker containers, and microservices. He enjoys working in a learning-focused environment at SSW, where he has the opportunity to enhance both his technical expertise and professional communication skills.
+[[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
+
+[[imgBadge]]
+| ![.NET Core](../badges/Developer-dotnet-core.png)
+
+Dhruv Mathur is a full stack developer, especially when it comes to anything .NET MVC, .NET Web APIs, ASP.NET, and .NET Core. He's got a real talent for piecing together applications that are not just powerful, but also user-friendly. Thanks to his solid skills with Angular, React, and the essentials like CSS, Bootstrap, Tailwind, and HTML5, the apps he works on are easy on the eyes and a breeze to use.
+
+But there's more to Dhruv than just making things look good and work well. He knows the ins and outs of application security, especially with IdentityServer, making sure that the data and privacy in the apps he builds are locked down tight.
+
+Dhruv is continuously advancing his technical skills, playing an important role in guiding the team through complex challenges. He makes sure the technical stuff is spot on, while ensuring that everyone is on the same wavelength. When Dhruv's on your project, you're not just getting an ace developer; you're getting a team player who's committed to nailing the project and making sure everyone walks away happy.
   
-Dhruv recognizes the importance of collaboration and understanding client and user needs in delivering successful software solutions. He is dedicated to continuous improvement, staying up-to-date with the latest industry advancements, and bringing a comprehensive understanding of the entire software development lifecycle to every project.
-With expertise in both frontend and backend development, Dhruv's goal is to deliver high-quality software solutions that meet and exceed client expectations.
+## Projects
+
+### SugarLearning
+
+Dhruv has been crucial in advancing the technology behind SugarLearning, particularly in its shift to .NET 8. His work involved making the system more efficient, strengthening its security, and adding new features that make it simpler for users to navigate. He also transitioned the application's user identity checks to IdentityServer, which separated the authentication process from the main application, enhancing both security and functionality. Additionally, Dhruv upgraded the application's front-end, moving it from Angular version 8 to the latest version 17, significantly improving the user interface and experience.
+
+### SSW.Identity
+
+Dhruv has contributed significantly to the development of SSW.Identity, our dedicated identity server utilizing Duende IdentityServer and .NET 8. His efforts were focused on customizing the user interface for the SignUp/SignIn processes, tailoring them to each client application for a personalized experience. Additionally, he was responsible for configuring the authentication settings specifically for SugarLearning, ensuring seamless integration and functionality.

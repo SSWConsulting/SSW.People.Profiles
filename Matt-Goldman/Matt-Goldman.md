@@ -36,27 +36,43 @@ quoteAuthor: "Gregory Benford"
 [[imgBadge]]
 | ![ugs.png](../badges/Event-ug-sydney.png)
 
-Matt is a Solution Architect, Scrum Master, public speaker, author and trainer.
+## Matt Goldman: Solution Architect | Scrum Master | Innovator | Author
 
-Since joining SSW, Matt has worked on a number of projects for a range of clients, including government agencies and multinational organisations. Matt loves making things, and at SSW uses that passion to fuel his work with .NET, EF / EF Core, Xamarin and .NET MAUI, Azure and Blazor. Matt also works with security and authentication/authorisation. 
-    
+### About me
+
+With a rich background in systems engineering and management, complemented by a profound passion for software development, I thrive at the intersection of innovation, strategy, and creation. My professional path is distinguished by relentless innovation, a dedication to clear and impactful communication, and a zeal for problem-solving that transcends the workspace into my personal passions.
+
+### What I Do
+
+* **Innovate with Purpose:** From crafting secure authentication systems for educational clients to enhancing app engagement with AI, my aim is always to deliver solutions that marry innovation with user-centric design.
+* **Bridge Gaps:** Beyond technical development, I excel in translating complex concepts into digestible insights, creating a synergy between technical and non-technical teams towards shared objectives.
+* **Inspire and Educate:** Through my book, [.NET MAUI in Action](https://www.manning.com/books/dot-net-maui-in-action?utm_source=goforgoldman&utm_medium=affiliate&utm_campaign=book_goldman_dot_5_10_22&a_aid=goforgoldman&a_bid=38933097), I share my expertise and experiences, aiming to empower and guide the developer community in leveraging .NET to its full potential.
+
+### Projects & Achievements
+
+* **Secure Authentication System:** Lead the design and development of a novel authentication system, using the Device Code Flow and an original NFC based system, prioritising user privacy without sacrificing convenience.
+* **SSW Rewards App:** Lead the development of [SSW's showcase Rewards app](https://www.ssw.com.au/products/rewards), and recently introduced a groundbreaking AI-powered quiz engine, redefining user interaction and fairness within digital platforms.
+
+[[imgSm]]
+| ![Screenshot of the SSW Rewards app](./Images/CH06_F01_Goldman.png)
+
+* **.NET MAUI in Action:** Authored a [comprehensive guide to .NET MAUI](https://www.manning.com/books/dot-net-maui-in-action?utm_source=goforgoldman&utm_medium=affiliate&utm_campaign=book_goldman_dot_5_10_22&a_aid=goforgoldman&a_bid=38933097), contributing to the knowledge base of the .NET community and supporting developers in mastering this versatile framework.
+
 [[imgLg]]
-| ![.NET MAUI in Action](./Images/maui-ia-3d.png)    
-Matt [(author of .NET MAUI in Action)](https://www.manning.com/books/dot-net-maui-in-action?utm_source=goforgoldman&utm_medium=affiliate&utm_campaign=book_goldman_dot_5_10_22&a_aid=goforgoldman&a_bid=38933097) regularly presents at the [.NET User Group](https://www.ssw.com.au/ssw/Live/) in 3 states, has hosted SSW's [Xamarin Hack Day](https://xamarinhackday.com/Sydney/), has presented at [the .NET Superpowers Tour](https://www.ssw.com.au/ssw/Events/Training/NET-6-Superpowers-Tour.aspx), and regular co-hosts SSW's [Clean Architecture Superpowers and Clean Architecture Workshop](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx). Matt has also presented at [NDC Sydney](https://ndcsydney.com/agenda/cloudy-with-a-chance-of-mobile-05cf/0jj155ywh8t).
+| ![.NET MAUI in Action](./Images/maui-ia-3d.png)
 
-Drawing on a combination of hands-on experience and enterprise governance practices, Matt is able to make connections between business and technology to deliver user and business-focused outcomes.
+* **[TinaCMS](https://tina.io/):** Lead the ongoing development of Tina Cloud, the server that supports the world's best GitHub Markdown editor.
 
-Matt has worked in IT for 15 years, and in addition to his development work has a background in infrastructure and management, and has delivered security policies, IT strategies and disaster recovery plans to a number of high-profile national and multi-national clients.
+### Skills & Expertise
 
-## Internal Projects
+* **Technologies:** .NET, Xamarin/.NET MAUI, security/authentication, AI applications, and crafting secure, user-friendly systems.
+* **Communication:** Adept at demystifying technical challenges, promoting understanding and action across diverse groups.
+* **Leadership and Collaboration:** Demonstrated success in leading projects that require high levels of cooperation, creativity, and technical skill.
 
-### [SSW.Rewards](https://apps.apple.com/au/app/ssw-rewards/id1482994853)
+### Engagement & Community
 
-[[imgLg]]
-| ![SSW Rewards App](./Images/CH06_F01_Goldman.png)
+Co-founder and co-host of the Beer Driven Devs podcast, I explore the intersection of technology, innovation, and brewing, engaging with a wide audience on the latest in tech. An active participant in the tech community, I enjoy sharing insights at conferences, user groups, and through various online platforms.
 
-Matt built SSW's Rewards mobile app in Xamarin.Forms to help [gamify SSW's swag](https://adamcogan.com/2019/11/06/ssw-had-fun-at-ndc-gotta-catch-em-all/) for NDC Sydney in 2019.
+### Looking Forward
 
-The app enables the developer community to connect with SSW devs at conferences and user group events, as well as accumulate points by scanning QR codes and ultimately winning prizes. It also features a tech quiz that let's developer test themselves. Matt also worked with the team on the backend of the app, and the entire product was built and released in under two weeks.
-
-Relevant technologies: .NET Core, Azure Functions, Azure AD B2C, Xamarin
+I'm continually drawn to projects that push boundaries and foster new possibilities. If you're seeking a collaborator who blends innovative technical solutions with strategic insight and real-world applicability, let's connect and create something impactful together.

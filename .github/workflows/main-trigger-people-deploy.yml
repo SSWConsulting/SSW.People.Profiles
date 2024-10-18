@@ -1,0 +1,51 @@
+# This workflow is to start a new production build on SSW.People.
+# It is triggered by:
+# - A push to the main branch
+# - A manual trigger (workflow_dispatch)
+# - A call from another workflow like rolling_build.yml (workflow_call)
+name: Trigger-People-Build
+on:
+  push:
+    branches:
+    - main
+    paths-ignore:
+    # Ignore files that have no impact on the build
+    - '.github/assign-by-files.yml'
+    - '.github/pull_request_template.md'
+    - '.github/instructions/*'
+    - '_docs/*'
+    - 'README.md'
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  trigger-event:
+    runs-on: ubuntu-latest
+    if: github.repository_owner == 'SSWConsulting'
+    steps:
+
+      - uses: actions/checkout@v4
+        with:
+          repository: SSWConsulting/SSW.People
+
+      - name: Find latest branch
+        id: find_branch
+        run: echo "branch_name=$(git ls-remote --heads origin | grep -oe 'refs/heads/release/.*' | sort -V | tail -n 1 | sed 's|refs/heads/||')" >> $GITHUB_OUTPUT          
+
+        # SSW GitHub App - Trigger Workflows
+      - name: Generate a token
+        id: generate-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          owner: SSWConsulting
+          repositories: SSW.People
+
+      - name: Build and deploy People
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build-deploy-production.yml
+          repo: SSWConsulting/SSW.People
+          ref: ${{ steps.find_branch.outputs.branch_name }}
+          token: "${{ steps.generate-token.outputs.token }}"

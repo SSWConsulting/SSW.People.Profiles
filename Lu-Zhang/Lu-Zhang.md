@@ -15,7 +15,7 @@ Lu is a senior software developer at SSW, working in both the Beijing and Sydney
 
 - **SSW LinkAuditor**  
    Used for checking broken links and invalid html pages in a website.   
-   It has a Windows ([ssw.com.au/ssw/LinkAuditor](http://www.ssw.com.au/ssw/LinkAuditor)) and a Web version ([sswlinkauditor.com](https://sswlinkauditor.com)).  
+   It has a Windows ([ssw.com.au/ssw/LinkAuditor](https://www.ssw.com.au/ssw/LinkAuditor)) and a Web version ([sswlinkauditor.com](https://sswlinkauditor.com)).  
    Developed with Azure Web Job, AngularJS and Asp.Net MVC.
 
 - **SSW CRM Plugin**   

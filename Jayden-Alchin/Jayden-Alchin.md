@@ -28,12 +28,18 @@ quoteAuthor: "David Hume"
 [[imgBadge]]
 | ![](../badges/Designer-web-ux.png)
 
-Jayden is an energetic web designer. Fascinated by the intersection of art and technology, he has a deep passion for his work. He loves learning how people make sense of the world, and believes understanding the human experience is a fundamental part of user experience design. Jayden channels this energy and drive into the creation of clean user-oriented experiences that are simple and effective.
+Jayden is a skilled UI/UX Designer passionate about the entire design process, from ideation to execution. 
+He embraces design thinking methodology and is always eager to dive into the tools and technologies that enable him to craft comprehensive and engaging user experiences. 
+His expertise spans various aspects of design including:
 
-As a web designer at SSW, he has experience designing and developing across web and mobile platforms on a variety of projects making full use of his skills in storyboarding, wireframing, rapid prototyping, user research, usability testing, visual design, HTML, CSS and JavaScript. Jayden is a detail-oriented creative thinker who loves spending his time on digital art and creative writing between projects.
+* Graphic design
+* User research
+* Prototyping
+* Accessibility
+* Content design
+* HTML/CSS wizardry
 
-Key Skills:
-* User Experience / Interaction Design
-* Graphic Design
-* User Research / Testing
-* Front-End Development
+Jayden's championing of accessibility practices and content design principles leads to digital products that are understandable and intuitive to any user.
+Known for his collaborative and iterative approach, Jayden works closely with product owners and developers alike to create user-centric designs that align with project goals.
+
+Outside of the professional realm, Jayden is an enthusiastic creator and explorer. He dedicates his free time to personal graphic design projects, flexing his creative muscles. Beyond that, Jayden is the mastermind behind a long-standing Dungeons & Dragons campaign, where his storytelling skills are put to good use. Whether in his work or personal pursuits, Jayden's passion for design is evident in everything he does.

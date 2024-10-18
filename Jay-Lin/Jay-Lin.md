@@ -21,7 +21,7 @@ Some of his projects:
 
 Other responsibilities:
 
-*   SSW Web Site 
+*   SSW Website 
 
 **User Group Presentation**
 

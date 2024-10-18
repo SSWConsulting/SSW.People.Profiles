@@ -1,6 +1,7 @@
 ---
 id: "c97cabb3-95f8-eb11-94ef-002248181978"
-
+quote: "Technology is best when it brings people together."
+quoteAuthor: "Matt Mullenweg"
 qualifications: "Bachelor of Information Technology"
 
 ---
@@ -9,18 +10,43 @@ qualifications: "Bachelor of Information Technology"
 | ![Azure Security Engineer](../badges/Certification-microsoft-azure-security-engineer.png)
 [[imgBadge]]
 | ![Kusto Detective Agencey Season1](../badges/kusto-detective-agency-complete-season1.png)
+[[imgBadge]]
+| ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
 
 ---
-Warwick is a seasoned Systems Administrator and IT Solutions Architect with over two decades of experience. He possesses a strong background in both network management, focusing on routing and switching, and Windows Server Administration. His competence extends to Microsoft's suite of productivity tools, including Office 365, Microsoft Endpoint Configuration Manager, and Microsoft Intune, ensuring seamless communication and efficient system management across diverse IT environments.
 
-Diving deeper into cloud solutions, Warwick's depth of expertise encompasses the Azure ecosystem. He's adept at leveraging Azure Active Directory for identity and access management, Azure Virtual Network for advanced networking capabilities, and Azure SQL for robust database solutions, ensuring scalable and resilient cloud infrastructures.
+Warwick is a seasoned Systems Administrator with over 20 years of experience. His strong background spans network management, Windows Server Administration, and cloud solutions, making him adept at bridging the gap between technology and user needs. As a Certified Scrum Master, he leverages agile methodologies to drive innovation and efficiency.
 
-In the realm of DevOps and automation, Warwick stands out with his proficiency in tools like PowerShell, GitHub Actions, and Bicep. He embraces a holistic approach to IT by integrating solutions with Azure DevOps practices. This ensures efficient software compatibility, effortless system upgrades or installations, and a streamlined development lifecycle that responds quickly to changing business needs.
+**Industries**: Education, Technology Services, Business Solutions
 
-On the low-code front, Warwick is adept with Microsoft's suite of productivity tools, particularly SharePoint for collaborative workspaces, Power Automate for workflow automation, and Power Apps for rapid application development. His commitment to user experience is evident as he not only focuses on backend operations but also imparts training on Microsoft operating systems, servers, and specialized education software. His experience with customer support tools like Zendesk further showcases his dedication to ensuring a smooth user experience. Additionally, his passion for data-driven decisions shines through his skills in Power BI for analytics, enabling organizations to harness the power of their data.
+**Technologies**:
+- Microsoft Azure (Azure Active Directory, Azure Virtual Network, Azure SQL)
+- Office 365
+- Microsoft Endpoint Configuration Manager
+- Microsoft Intune
+- PowerShell
+- GitHub Actions
+- Bicep
+- Azure DevOps
+- SharePoint
+- Power Automate
+- Power Apps
+- Power BI
+- Zendesk
 
-In the rapidly evolving field of IT security, Warwick stands out with his robust knowledge of security best practices. He's committed to ensuring that systems are not just optimized but also safeguarded against potential threats, implementing layers of protection to defend against both internal and external vulnerabilities.
+**Key Skills and Achievements**:
+- **Network Management & Windows Server Administration**: Expert in routing, switching, and managing Windows Server environments to ensure optimal performance and security.
+- **Cloud Infrastructure**: Proficient in deploying and managing scalable, resilient cloud solutions using the Azure ecosystem.
+- **DevOps & Automation**: Skilled in automating workflows and streamlining development lifecycles using PowerShell, GitHub Actions, Bicep, and Azure DevOps.
+- **Low-Code Development**: Experienced in creating collaborative workspaces and rapid applications with SharePoint, Power Automate, and Power Apps.
+- **Training & User Support**: Provides comprehensive training on Microsoft operating systems and servers; adept with Zendesk for enhanced customer support.
+- **Data Analytics**: Utilizes Power BI to enable data-driven decision-making within organizations.
+- **IT Security**: Implements robust security practices to safeguard systems against internal and external threats.
 
-With his comprehensive IT skill set, Warwick is equipped to bridge the gap between technology and user needs, offering solutions that enhance productivity, security, and overall system performance, driving business growth and innovation.
+**Professional Development**:
+- **Certified Scrum Master**
+- **Azure Security Engineer (AZ 500)**
+- Committed to continuous learning and staying abreast of emerging technologies and best practices.
 
+Warwick's dedication to excellence enhances productivity, security, and overall system performance. His holistic approach to IT solutions drives business growth and fosters innovation.
 

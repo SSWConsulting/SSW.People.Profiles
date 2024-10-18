@@ -7,6 +7,9 @@ quote:  "Make a plan! Make it happen!"
 
 ---
 [[imgBadge]]
+| [![Microsoft MVP - .NET Developer Technologies](../badges/Certification-microsoft-mvp.png)](https://mvp.microsoft.com/en-US/MVP/profile/f0925581-7aab-4869-89d3-87452b5c0f0a)
+
+[[imgBadge]]
 | ![azure-logo.png](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
@@ -50,7 +53,7 @@ quote:  "Make a plan! Make it happen!"
 
 ---
 
-William is a **Solution Architect** with over 20 years of professional experience spanning multiple industries such as Heavy Engineering, Mining, 3D Graphics, Education and Finance.
+William is a Solution Architect and **Microsoft MVP for Developer Technologies (.NET)** with over 20 years of professional experience spanning multiple industries such as Heavy Engineering, Mining, 3D Graphics, Education and Finance.
 
 With his many years of experience, William has learnt how to adapt to new industries, and this gives him a unique talent for synchronizing with his clients' business languages and processes to successfully build their solutions.
 
@@ -81,7 +84,7 @@ His technology toolbelt includes:
   * ASP.NET Core
   * Blazor
   * Docker
-  * [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
+  * [Clean Architecture](https://www.ssw.com.au/rules/rules-to-better-clean-architecture)
 * Cloud
   * Azure Cosmos DB
   * Azure SQL
@@ -97,7 +100,7 @@ His technology toolbelt includes:
   * Pulumi
 * and more...
 
-Software Development and DevOps aren't his only strong points. He is a highly motivated [Scrum](https://www.ssw.com.au/ssw/Consulting/Scrum.aspx) practitioner, [Event Storming](https://www.ssw.com.au/rules/event-storming) [Facilitator](https://www.ssw.com.au/rules/event-storming-workshop) and strong team player that thinks outside of the box! William has had great success in both starting new Scrum teams, and also upskilling and mentoring existing development teams.
+Software Development and DevOps aren't his only strong points. He is a highly motivated [Scrum](https://www.ssw.com.au/consulting/scrum) practitioner, [Event Storming](https://www.ssw.com.au/rules/event-storming) [Facilitator](https://www.ssw.com.au/rules/event-storming-workshop) and strong team player that thinks outside of the box! William has had great success in both starting new Scrum teams, and also upskilling and mentoring existing development teams.
 
 ## Internal Projects
 
@@ -129,12 +132,11 @@ William has spoken at conferences such as:
 
 Being an active member of the local development community is very important to William. He attends as many meetups and workshops as he can.
 
-William is President of the [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/) hosted at [SSW Melbourne](https://www.ssw.com.au/ssw/NETUG/Melbourne.aspx) and co-organizer of the [Melb.NET Meetup](https://www.meetup.com/melb-net-meetup/) group.
+William is President of the [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/) hosted at [SSW Melbourne](https://www.ssw.com.au/netug/melbourne) and co-organizer of the [Melb.NET Meetup](https://www.meetup.com/melb-net-meetup/) group.
 
 In 2020 William launched the [AI Hack Day](https://aihackday.com) free community event. As an event Host, Mentor and Presenter he helps attendees to build applications that utilize Azure Cognitive Services and Machine Learning.
 
-He has also presented and mentored at the following Hack Day events:
+He has also presented and mentored at these other Hack Day events:
 
-* [AI Hack Day - Melbourne 2020](https://aihackday.com)
 * [Xamarin Hack Day - Melbourne 2019](https://xamarinhackday.com)
-* [Angular Hack Day - Melbourne 2019](https://angularhackday.com/)
+* [Angular Hack Day - Melbourne 2019](https://angularhackday.com)

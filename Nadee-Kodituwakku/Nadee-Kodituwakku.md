@@ -8,7 +8,13 @@ quoteAuthor: "Grace Hopper"
 ---
 
 [[imgBadge]]
-| ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
+| ![Microsoft Certified: Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
+| ![.NET Core](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![c-sharp.png](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
 | ![dotnet-core.png](../badges/Developer-dotnet-core.png)
@@ -17,19 +23,30 @@ quoteAuthor: "Grace Hopper"
 | ![blazor-logo.png](../badges/Developer-blazor.png)
 
 [[imgBadge]]
-| ![c-sharp.png](../badges/Developer-c-sharp.png)
-
-[[imgBadge]]
 | ![Developer-sharepoint-spfx.png](../badges/Developer-sharepoint-spfx.png)
 
 [[imgBadge]]
 | ![Business-microsoft-office365-sharepoint.png](../badges/Business-microsoft-office365-sharepoint.png)
 
+[[imgBadge]]
+| ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
+| [![InRule](../badges/Business-Inrule.png)](https://inrule.com/)
+
 ---
 
-Nadee has 10 years of experience in the full solution delivery lifecycle under roles such as Senior Software Developer, Team Lead and SDET Lead. She is highly skilled in the .NET stack, SharePoint (Administration and Development), and Databases like SQL Server, Oracle, My SQL. She is strong in her soft skills as well and is passionate about areas like Psychology and Emotional Intelligence.   
+Nadee is an Azure certified developer, with 12 years of comprehensive expertise encompassing the entire solution delivery lifecycle. Her proficiency extends across the .NET stack, Azure, and Blazor, with a strong command of SharePoint in both administration and development capacities, knowledge of Design Patterns, SOLID Principles, and Clean Architecture. Additionally, she possesses adeptness in managing databases such as SQL Server, Oracle and MySQL. 
 
-Her domain and industry knowledge span across E-Commerce, Aircraft Factory Floor Management Systems and Search Connector Development. She is keen on new technologies and strive to develop quality software utilizing her knowledge on Design Patterns, SOLID Principles and Clean Architecture.     
+During her time in Microsoft, Nadee contributed to the SharePoint team as a Software Engineer II and then as a SDET Lead. Some of her work include development of the SharePoint search component we use today, SharePoint cmdlets, the Active Directory User Connector, and building an inhouse test framework for Microsoft.
+As an SDET Lead her responsibilities include managing a team of SDETs and delivering hot fixes, patches and cumulative updates for SharePoint. 
+Her latest work includes building comprehensive SharePoint Online solutions for her clients with PnP Core SDK and Azure.
 
+Some of the notable achievements include:
 
-
+- Roles include Team Lead, and SDET Lead during her time in Microsoft
+- Contributed to the development of SharePoint as part of the Microsoft team
+- Experience in Azure, API/UI development and performance tests
+- Strong communicator with soft skills in Psychology and Emotional Intelligence
+- Domain expertise in Australian Government Projects, E-Commerce, Aircraft Factory Floor Management Systems, and Search Connector Development
+- Experience in InRule an AI Decisioning Software 

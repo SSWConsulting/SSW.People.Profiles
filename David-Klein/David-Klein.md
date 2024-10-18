@@ -30,11 +30,11 @@ David's clients include:
 *   **Laissez Faire Catering** (Event database using SQL 2000 Backend) 
 *   **The Eastern Heart Clinic** (Winforms .NET 2.0)
 *   **Microsoft Consulting Services** (SQL Server 2005)
-*   **[www.wovenimage.com](http://www.wovenimage.com/)** (Web- Classic ASP) 
+*   **[www.wovenimage.com](https://www.wovenimage.com/)** (Web- Classic ASP) 
 *   **WorldSmart** (.NET and Architecture Audit - SmartCard Applications company based in Adelaide)
 *   **AussiePay** (ASP.NET Application Audit)
 *   **Dolman Legal Recruitment** (see application screenshots here) (Access) 
-*   **[www.bigbuckstrivia.com](http://www.bigbuckstrivia.com/)** (Gaming Web Site in ASP.NET 2.0) 
+*   **Big Bucks Trivia** (Gaming Web Site in ASP.NET 2.0) 
 *   **System 77 (POS systems)** (Winforms .NET 1.1)
 *   **Pisces Communications** (Audits of VB6 and Java Swing Applications for Loan Brokers)
  
