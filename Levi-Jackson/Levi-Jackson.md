@@ -9,7 +9,8 @@ quoteAuthor: "Henry Ford"
 [[imgBadge]]
 | ![Image Alt Text](../badges/Certification-scrumalliance-master.png)
 
-![Badge 7224](https://github.com/user-attachments/assets/23fdb8d2-81d5-4457-a828-816b13c044d6)
+[[imgBadge]]
+| ![Image Alt Text](../badges/scrum-product-owner.png)
 
 ---
 
