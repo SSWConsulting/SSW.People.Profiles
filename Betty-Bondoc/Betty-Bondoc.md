@@ -20,7 +20,7 @@ quoteAuthor: "Karl Barth"
 | ![CSS3](../badges/Designer-web-css3.png)
 
 [[imgBadge]]
-| ![CSM](..badges/Certification-scrumalliance-master.png)
+| ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
 | ![Adobe Photoshop](../badges/Designer-adobe-photoshop.png)
