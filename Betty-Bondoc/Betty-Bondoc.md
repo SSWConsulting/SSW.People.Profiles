@@ -20,6 +20,9 @@ quoteAuthor: "Karl Barth"
 | ![CSS3](../badges/Designer-web-css3.png)
 
 [[imgBadge]]
+| ![CSM](..badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![Adobe Photoshop](../badges/Designer-adobe-photoshop.png)
 
 [[imgBadge]]
@@ -27,10 +30,17 @@ quoteAuthor: "Karl Barth"
 
 ---
 
-Betty, an enthusiastic UI/UX Designer at SSW, breathes life into experiences through empathetic design. Leveraging her strong communication skills, she immerses herself in users' perspectives to solve complex problems. Following a transformative 6-month web development Bootcamp in 2018, she has seamlessly transitioned from a multifaceted creative role in TV and Marketing to a tech enthusiast. Since then, she has excelled in diverse roles in UI/UX design, web development, and project management. Eager to solidify her tech foundations, Betty pursued a Master's in Information and Communications Technology in Sydney, deepening her love for the field and embracing Australia as her new found home.
+Betty Bondoc, a passionate UI/UX Designer at SSW, combines creativity with technology to deliver intuitive, user-centered designs. Her journey from TV and Marketing to tech began with a transformative web development Bootcamp, followed by a Master’s degree in ICT in Sydney. With expertise spanning product design, front-end development, and creative content production, Betty bridges the gap between aesthetics, functionality, and business goals.
 
-Known for her organisational skills, autonomy, and meticulous attention to detail, Betty excels both in independent work and collaborative environments. Her ability to maintain a holistic perspective allows her to contribute effectively to team efforts while upholding her individual work style. She specialises in creating designs that strike a harmonious balance between aesthetics and functionality, ensuring they not only look visually appealing but also seamlessly contribute to a positive user experience. A standout achievement includes her design of web applications that seamlessly integrate with internal business processes, providing user-friendly experiences for both customers and business owners. Betty's digital solutions have notably streamlined company processes, achieving an impressive 50% reduction.
+Her designs have consistently driven measurable outcomes, including a standout achievement of reducing process inefficiencies by 50% through thoughtfully crafted web applications. Known for her autonomy, organizational skills, and keen attention to detail, she thrives in both independent and collaborative environments.
 
-Beyond the tech world, Betty channels her skills into community service as a digital mentor under the Australian government’s “Be Connected” program and as the head of the digital media team at her local church. Her impact in these roles underscores her unwavering commitment to human connection.
+Talk to Betty if you want help with:
+- Product Design & Management – From concept to launch, balancing user needs with business goals
+- UI/UX Design – Research, testing, prototyping, and creating seamless user experiences
+- Front-End Development – HTML, CSS, and JavaScript for clean, responsive, and accessible code
+- Graphic Design – Visual identity, marketing materials, and social media assets
+- Videography & Photography – Production, editing, and optimization for digital platforms
 
-In her downtime, Betty loves diving into her creative side—whether she's practicing calligraphy 🖋️, strategizing through board games 🎲, or baking delicious treats 🍰. She also has a knack for capturing and editing life's fleeting moments into engaging stories. 📸 Lately, she’s added reformer pilates to her mix, and it’s been a refreshing new challenge that she’s really getting into. 🧘🏻‍♀️
+Betty is also actively involved in the community, mentoring under the Australian government’s "Be Connected" program and leading the digital media team at her local church.
+
+When she’s not designing, Betty enjoys calligraphy, baking, and board games. She also finds balance through reformer Pilates and capturing life’s moments through video and photography.
