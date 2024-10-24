@@ -3,7 +3,7 @@ id: "232ed61a-4117-ef11-840a-000d3ad1495c"
 
 qualifications: ""
 
-quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
+quote: "The important thing is not how long you live... It's what you accomplish with your life"
 quoteAuthor: "Anonymous"
 ---
 
