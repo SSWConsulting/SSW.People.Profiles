@@ -21,7 +21,7 @@ quoteAuthor: "Anonymous"
 
 ---
 
-Lewis is an SSW Software Developer based in the Sydney Office. He graduated University of New South Wales with a bachelor in Computer Science.
+Lewis is an SSW Software Developer based in the Sydney Office. He graduated University of New South Wales with a bachelor's in Computer Science.
 
 He has joined SSW through FireBootCamp, where he has honed and gained knowledge on Full Stack Development, building on Angular and .NET skills, as well as developed and built upon his communication and collaborative skills.
 
