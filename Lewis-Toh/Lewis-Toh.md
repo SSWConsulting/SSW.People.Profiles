@@ -1,7 +1,7 @@
 ---
 id: "232ed61a-4117-ef11-840a-000d3ad1495c"
 
-qualifications: ""
+qualifications: "Bachelor of Computer Science"
 
 quote: "The important thing is not how long you live... It's what you accomplish with your life"
 quoteAuthor: "Anonymous"
