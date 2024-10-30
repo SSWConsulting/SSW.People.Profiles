@@ -13,13 +13,16 @@ quoteAuthor: "Henry Ford"
 | ![Image Alt Text](../badges/scrum-product-owner.png)
 
 ---
+As SSW’s VP of Operations and an Account Manager, Levi plays a key role in Business Development, Sales, and Operations. He collaborates closely with the SSW sales and operations teams to drive growth and ensure seamless project delivery for our NSW and International clients. His passion for business development and technology fuels his “out of the box” approach to problem-solving.
 
-Levi is an SSW Account Manager located in Sydney, Australia.
+**Project Involvement**
 
-Specializing in Business Development and Account Management, Levi works with the SSW sales team to help promote and advance the growth of our NSW clientele. He is driven by his passion for business development and technology, and thrives on problem-solving with his "out of the box" mindset.
+Levi is actively involved from the beginning of each project. He leads the kickoff meeting to understand your company’s requirements and identify the best developers for your project. From there, Levi’s team creates a comprehensive project plan, known as the Specification Review. This document serves as a roadmap, guiding our Solution Architects and production team through each stage of the project, with Levi ensuring smooth execution and open communication along the way.
 
-Levi will be actively involved in the initial stages of your new project and will conduct an initial meeting to discuss your company's requirements while assessing which of our brilliant developers are best suited to your project. At this stage, a Team of talented developers work together to build a plan for the project ahead, which we call the Specification Review. Finally, using the Specification Review outcome as a roadmap, our top-tier Solution Architects will guide the production team through the new solution, every step of the way, while Levi will continue to ensure the project is running smoothly and the communication is flowing freely.
+**Product Developement: TinaCMS**
 
-He also contributes to the development of the world's best Markdown website editor - [TinaCMS](https://tina.io/).
+In addition to his operational responsibilities, Levi contributes to the ongoing development of TinaCMS, the world’s best Markdown website editor - [TinaCMS](https://tina.io/).
 
-In his free time, Levi loves to travel and explore new places around the world, immersing himself in different cultures and cuisines. He's also fascinated by the potential of AI and enjoys utilizing the power of ChatGPT. Levi is also a passionate car enthusiast and finds the process of assembling and testing engines to be both challenging and rewarding. 
+**Personal Interests**
+
+Outside of work, Levi is an avid traveler, exploring different cultures and cuisines around the world. He’s also fascinated by AI and frequently utilizes tools like ChatGPT. A passionate car enthusiast, Levi enjoys the challenge and reward of assembling and testing engines.
