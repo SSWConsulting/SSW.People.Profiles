@@ -29,4 +29,4 @@ Joining SSW marked a pivotal moment in Baba's career. He quickly immersed himsel
 - **Monitoring and Insights:** Utilizes Application Insights for tracking application performance and identifying bottlenecks, enabling proactive improvements in both backend services and user-facing components.
 - **Project Collaboration:** Known for a collaborative approach and he works closely with developers to troubleshoot issues and implement best practices, continuously enhancing project outcomes.
 
-Outside of work, Baba enjoys playing football and is passionate gamer, especially drawn to [FromSoftware](https://www.fromsoftware.jp/ww/) titles like Elden Ring and Dark Souls 3. He is also committed to continuous learning, regularly following conferences to keep up with the latest trends and technologies.
+Outside of work, Baba enjoys playing football and is a passionate gamer, especially drawn to [FromSoftware](https://www.fromsoftware.jp/ww/) titles like _Elden Ring_ and _Dark Souls 3_. He is also committed to continuous learning, regularly following conferences to keep up with the latest trends and technologies.
