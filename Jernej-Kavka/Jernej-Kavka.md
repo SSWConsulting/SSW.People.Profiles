@@ -60,28 +60,6 @@ quoteAuthor: "Anonymous"
 
 ---
 
-Jernej Kavka (JK) is a a **Microsoft MVP** and a **Solution Architect**  at SSW with over 15 years of experience in full-stack .NET development, solution architecture, and AI integration in various industries from insurance, banking and mining to auctions and entertainment. Passionate about modern application development using .NET Core, EF Core, and AI, with a strong focus on mentoring and knowledge sharing.
-
-With expertise in ASP.NET Core, Angular, and Azure DevOps, Jernej is also proficient in Windows platform development, transforming legacy applications (using C#, WinForms, WPF) into modern applications (using Windows Store, Windows Universal applications, and Xamarin). Recently, he’s been expanding his expertise in Cognitive Services and machine learning. JK’s work philosophy is centered around delivering solutions that empower teams and streamline processes, ensuring clients achieve sustainable success.
-
-## Performance and stability of applications
-
-With deep technical knowledge of various technologies and platforms like .NET, EF Core, SQL Server and Azure, JK has specialized in finding and improving performance and stability issues with applications. Whether it's a slow SQL query or inefficient usage of Azure resources, JK not only fixes the issues but teaches teams why it happened and how to make sure it doesn't happen again.
-
-## Solution Architect
-
-JK loves looking at problems from various perspective, allowing to identify unique solutions for novel problems. He is experience with App Service, Function Apps, Azure SignalR, Storage, Logic Apps, Static Web Apps, Azure SQL and Application Insights.
-
-## Comunity contributions and mentoring
-
-* **Organizer:** Organized various events like Brisbane AI User Group and AI Hack Day
-* **Podcaster:** Co-host of Global AI the Podcast exploring impact of AI across industries
-* **Presenter:** An international speaker at conferences like **[NDC](https://ndcsydney.com)**, **[Global Azure Bootcamp](https://global.azurebootcamp.net)**, **[Brisbane Data Analytics & AI Bootcamp](https://brisbanebootcamp.com)** and **[DDD](https://dddbrisbane.com)**, [Level Up Your Data](https://levelupyourdata.com/) and more. Frequent contributor to **[SSW TV](https://tv.ssw.com/tag/jernej-kavka)**.
-* **Mentor:** Teaching developers of all skills how to use AI for their scenarios and how to fix code architecture and performance issues in their codebases
-* **Most active speaker:** Awarded by [Sessionize](https://sessionize.com/jernej-kavka) as top 3% most active presenter in 2023.
-
-You can follow him on [GitHub](https://github.com/jernejk), **[Twitter](https://twitter.com/jernej_kavka)**, **[his personal blog](https://jkdev.me)** or check out when is his next talk on **[Sessionize](https://sessionize.com/jernej-kavka)**.
-
 Jernej Kavka (JK) is a **Microsoft MVP** and **Solution Architect** at SSW, bringing over 15 years of experience in full-stack .NET development, solution architecture, and AI integration across industries including insurance, banking, mining, auctions, and entertainment. JK is passionate about modern application development with .NET Core, EF Core, and AI, and is dedicated to mentoring and knowledge sharing.
 
 With expertise in ASP.NET Core, Angular, and Azure DevOps, JK is also skilled in Windows platform development, transforming legacy applications (using C#, WinForms, and WPF) into modern solutions with Windows Store, UWP, and Xamarin. As a Microsoft AI MVP, he frequently develops AI-driven solutions using tools like Azure OpenAI, small language models (SLMs) for offline AI, and retrieval-augmented generation (RAG) systems. JK’s work philosophy emphasizes delivering solutions that empower teams, streamline processes, and ensure sustainable client success.
