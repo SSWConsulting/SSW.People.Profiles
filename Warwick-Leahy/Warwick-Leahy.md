@@ -11,6 +11,8 @@ qualifications: "Bachelor of Information Technology"
 [[imgBadge]]
 | [![Azure Security Operations Analyst](../badges/Certification-microsoft-azure-security-operations-analyst.png)](https://learn.microsoft.com/api/credentials/share/en-au/WarwickLeahy-1053/CF217F8D7CE2C910?sharingId=C37F7F583081F56A)
 [[imgBadge]]
+| ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
+[[imgBadge]]
 | ![Kusto Detective Agencey Season1](../badges/kusto-detective-agency-complete-season1.png)
 
 ---
