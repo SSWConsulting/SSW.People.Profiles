@@ -20,8 +20,8 @@ quoteAuthor: "Albert Einstein"
 [[imgBadge]]
 | ![Azure Developer Associate](../badges/Certification-microsoft-azure-developer-associate.png)
 
-Jake is a Software Engineer originally from New Zealand, now working out of Sydney. He now has more than 5 years experience helping companies build great software. He has a wide skillset, including .NET, React, SQL, the Power Platform and Azure.
+Jake is a Software Engineer with over six years of experience delivering innovative software solutions. His technical expertise spans .NET, React, SQL, the Power Platform, and Azure, enabling him to craft applications that drive business success.
 
-Jake primarily specialises as a .NET engineer, and his expertise extends to the Power Platform and Power BI, where he excels in creating powerful business solutions and insightful data visualizations. This demonstrates his versatility and dedication to staying at the forefront of emerging technologies.
+While Jake specializes in .NET development, he also brings over three years of experience in the Power Platform, during which he has built full-scale applications used by large companies. His work includes creating dynamic business solutions, automating complex workflows, and developing insightful data visualizations with Power BI. This combination of technical depth and practical application showcases his ability to deliver impactful results across a range of industries.
 
-When Jake isn't working you'll find him doing 1 of 5 things: playing football, chess, surfing, in the gym or doing a home project/learning a new tech.
+Outside of work, Jake maintains an active lifestyle, focusing on running and participating in as many events as possible. When he's not running, he turns to chess as his backup hobby, balancing physical activity with mental growth and continuous learning.
