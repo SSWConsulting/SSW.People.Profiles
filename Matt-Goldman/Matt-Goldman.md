@@ -3,8 +3,8 @@ id: "ea73c1dd-b7dd-e911-9673-00155d012c95"
 
 qualifications:  ""
 
-quote:  "Any technology distinguishable from magic is insufficiently advanced."
-quoteAuthor: "Gregory Benford"
+quote:  "Take a punt."
+quoteAuthor: "Luke Cook"
 ---
 [[imgBadge]]
 | ![](../badges/Certification-scrumalliance-master.png)
