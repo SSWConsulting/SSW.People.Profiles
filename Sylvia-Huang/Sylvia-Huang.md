@@ -10,6 +10,8 @@ quoteAuthor: "George Eliot"
 [[imgBadge]]
 | ![microsoft-certified-azure-administrator-associate.2](../badges/Certification-microsoft-azure-developer-associate.png)
 
-Sylvia is a Software Developer based in SSW Hangzhou Office. She has worked in both Canada and China and is experienced in collaborating with global teams remotely. With over four years of experience in full stack development, Sylvia has been practicing Scrum methodology and was involved in many projects that built applications from scratch. Through these projects, she has gained extensive knowledge in e-commerce, banking, business intelligence, government affairs and many more.
+Sylvia is a Software Engineer at SSW's Hangzhou office, recognized for her expertise in delivering impactful solutions across global teams. With over six years of full-stack development experience, she has successfully designed and implemented applications from the ground up in industries such as e-commerce, banking, business intelligence, and government affairs.
 
-Within her broad technology stack, Sylvia is strongest on React and Vue for web development. She is meticulous in her code quality. Sylvia is always keen on understanding and fulfilling clients' deepest needs, so she constantly seeks the best solution for her clients.
+Sylvia specializes in modern web technologies, particularly React and Vue, and is celebrated for her meticulous attention to code quality. A strong advocate for agile practices, she leverages Scrum methodology to drive efficient and collaborative project delivery. Sylvia thrives on understanding clients' unique challenges, consistently proposing innovative, tailored solutions that exceed expectations.
+
+Her cross-cultural experience in Canada and China has equipped her with exceptional communication and adaptability skills, enabling her to work seamlessly with diverse teams. Sylvia is passionate about continuous learning and is dedicated to refining her craft to provide long-term value to her clients and stakeholders.
