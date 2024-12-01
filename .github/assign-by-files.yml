@@ -3,10 +3,6 @@
 # Configuration file for https://github.com/shufo/auto-assign-reviewer-by-files
 'Adam-Cogan/**':
   - adamcogan
-'Alex-Lee/**':
-  - alexleessw
-'Alex-Rothwell/**':
-  - AlexRothwell
 'Alvin-Shen/**':
   - AlvinShenSSW
 'Aman-Kumar/**':
@@ -21,8 +17,6 @@
   - AnkyChe
 'Anton-Polkanov/**':
   - AntPolkanov
-'Ari-Grynberg/**':
-  - arig2024
 'Baba-Kamyljanov/**':
   - babakamyljanovssw
 'Bahjat-Alaadel/**':
@@ -43,22 +37,14 @@
   - Calinator444
 'Calum-Simpson/**':
   - calumjs
-'Camilla-Rosa Silva/**':
-  - camillars
-'Charles-Vionnet/**':
-  - cvionnet
 'Chloe-Lin/**':
   - Aibono1225
-'Chris-Clement/**':
-  - christoment
 'Chris-Schultz/**':
   - chrisschultzssw
 'Christian-Morford-Waite/**':
   - christianmorfordwaitessw
 'Daniel-Mackay/**':
   - danielmackay
-'Dhruv-Mathur/**':
-  - Dhruv-0987
 'Eddie-Kranz/**':
   - smewsh
 'Eve-Cogan/**':
@@ -75,8 +61,6 @@
   - Freego1783
 'Isaac-Lombard/**':
   - isaaclombardssw
-'Jack-Duan/**':
-  - duanxinhuan
 'Jack-Pettit/**':
   - JackDevAU
 'Jake-Bayliss/**':
@@ -107,28 +91,26 @@
   - hveraus
 'Kosta-Madorsky/**':
   - KostaMadorsky
-'Kristen-Hu/**':
-  - KristenHu
 'Landon-Maxwell/**':
   - landonmaxwell
 'Lee-Hawkins/**':
   - leehawkinsssw
 'Levi-Jackson/**':
   - Levijj22
+'Lewis-Toh/**':
+  - Lewkans
+'Lorraine-Zhang/**':
+  - ZhangRan8
 'Lu-Zhang/**':
   - zl24622
 'Luke-Cook/**':
   - lukecookssw
 'Luke-Mao/**':
   - AttackOnMorty
-'Luke-Parker/**':
-  - Hona
-'Manu-Gulati/**':
-  - divgul
 'Marcus-Irmscher/**':
   - MarcusIrmscherSSW
 'Matt-Goldman/**':
-  - matt-goldman
+  - matt-goldman-ssw
 'Matt-Parker/**':
   - MattParkerDev
 'Matt-Wicks/**':
@@ -143,18 +125,22 @@
   - ozairashfaqueSSW
 'Penny-Walker/**':
   - PennyWalker
-'Piers-Sinclair/**':
-  - piers-sinclair
+'Pravin-Kumar/**':
+  - Pravino24
 'Rick-Su/**':
   - ricksu978
-'Sam-Smith/**':
-  - samsmithssw
+'Rob-Thomlinson/**':
+  - RobJT-wq
+'Sam-Maher/**':
+  - sam-s-maher
 'Sam-Wagner/**':
   - SamBWagner
 'Seth-Daily/**':
   - sethdaily
 'Sofie-Hong/**':
   - SofieHong
+'Stef-Starcevic/**':
+  - StefStar
 'Stephan-Fako/**':
   - stephanfakossw
 'Steven-Qiang/**':
@@ -163,14 +149,14 @@
   - sylhuang
 'Tanya-Leahy/**':
   - Tanya-Leahy
+'Thom-Wang/**':
+  - thom-wang
 'Tiago-Araujo/**':
   - tiagov8
 'Tino-Liu/**':
   - tino-liu
 'Toby-Churches/**':
   - TobyChurches
-'Tom-Bui/**':
-  - tombui99
 'Tom-Iwainski/**':
   - tomek-i
 'Tylah-Kapa/**':
@@ -181,10 +167,6 @@
   - vladislav-kir
 'Warwick-Leahy/**':
   - leahy268
-'William-Liebenberg/**':
-  - william-liebenberg
-'Yalal-Cakir/**':
-  - YalalCakirSSW
 'Yang-Shen/**':
   - Berber-Mama
 'Zach-Keeping/**':
