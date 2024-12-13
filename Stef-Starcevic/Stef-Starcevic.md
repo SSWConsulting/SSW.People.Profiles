@@ -6,6 +6,8 @@ qualifications: "Bachelor of Commerce Majoring in Marketing Management"
 quote: "The reward for good work is more work"
 quoteAuthor: "Tom Sachs"
 ---
+[[imgBadge]]
+| ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
 
 Stefan is one of the Marketing Assistants at SSW, working closely with various teams to support strategic goals. He is passionate about incoporating what he's learnt from his Hospitality and Marketing roles into his new world of software development and artificial intelligence. 
 
