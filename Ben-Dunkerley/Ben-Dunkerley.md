@@ -7,8 +7,8 @@ quote: "It is better to be unborn than untaught; for ignorance is the root of mi
 quoteAuthor: "Plato"
 ---
 
-Ben is a member of the strategy team at SSW, working alongside Cameron Shaw. While working part-time at SSW, he is pursuing a double degree of Laws and Business (Finance) 
+Ben is a valued member of the strategy team at SSW, working closely with Cameron Shaw to tackle a diverse range of challenges. While pursuing a double degree in Laws and Business (Finance) at the University of Technology Sydney, Ben brings fresh perspectives and critical thinking to his role.
 
-He deals with an array of complex issues facing SSW, inlcuding management practices, business methods, and project management. With his keen focus on strategic problem-solving, Ben collaborates closely with SSW leadership to ensure that the company not only meets but exceeds the challenges of the evolving tech landscape. 
+Specializing in strategic problem-solving, Ben addresses complex issues in management practices, business operations, and project management. He works collaboratively with SSW's leadership team to refine processes, enhance efficiency, and position the company as a leader in the ever-changing tech landscape. His ability to navigate intricate business problems ensures that SSW consistently delivers innovative solutions to its clients.
 
-In his free time, you will often find Ben studying, reading, or exercising.  
+Outside of work, Ben is passionate about personal growth and enjoys balancing his studies with reading, exercising, and exploring new ideas.
