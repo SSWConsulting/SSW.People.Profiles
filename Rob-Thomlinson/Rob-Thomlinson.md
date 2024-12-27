@@ -25,3 +25,15 @@ Robert is a skilled Systems Administrator with over five years experience workin
 Robert's past experiences working for MSPs has given him a broad understanding to a wide variety of industries and the unique IT challenges they face. These roles have allowed him to develop his versatile skill set with a wide range of technologies and best practices he is able to provide the highest standard of service to SSW Clients. 
 
 Robert excels in supporting small businesses or large enterprises. Known for his problem-solving abilities and commitment to continuous improvement, Robert is dedicated to delivering reliable and scalable IT solutions that drive business success.
+
+**Industries**: Automotive, Mining, Agriculture, Retail, Manufacturing, Education, Healthcare, Finance, Legal
+
+**Technologies**:
+- 
+- Packer
+- Terraform
+- Ansible
+
+**Key Skills and Achievements**:
+
+**Professional Development**:
