@@ -40,6 +40,10 @@ quoteAuthor: "Isaac Newton"
 [[imgBadge]]
 | ![Scrum](../badges/Business-scrum.png)
 
+[[imgBadge]]
+| ![Unity](../badges/Developer-unity3d.png)
+
+[[imgBadge]]
 ---
 
 Eddie is an SSW Software Developer with a keen eye for detail, and a passion for creating high-quality, efficient solutions. He is currently in his penultimate year of a Bachelor of Advanced Computing (Software Development) degree at The University of Sydney, writing his thesis on the topic of "Portal Redirection in Virtual Reality using Impossible Spaces". 
