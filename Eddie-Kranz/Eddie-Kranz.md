@@ -41,7 +41,7 @@ quoteAuthor: "Isaac Newton"
 | ![Scrum](../badges/Business-scrum.png)
 
 [[imgBadge]]
-| ![Unity](../badges/Developer-unity3d.png)
+| ![Unity](../badges/Developer-Unity3d.png)
 
 [[imgBadge]]
 ---
