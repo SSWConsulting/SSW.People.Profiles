@@ -170,6 +170,22 @@ _italic_ or _italic_
 
 ### Output:
 
+:::img-large  
+![Large image](./Images/Bio/cat_computer.jpg)  
+:::
+
+:::img-medium  
+![Medium image](./Images/Bio/cat_computer.jpg)  
+:::
+
+:::img-small  
+![Small image](./Images/Bio/cat_computer.jpg)  
+:::
+
+:::img-badge  
+![Microsoft certification](../badges/Certification-microsoft-professional.jpg)  
+:::
+
 ::: img-large  
 ![Large image](./Images/Bio/cat_computer.jpg)  
 :::
