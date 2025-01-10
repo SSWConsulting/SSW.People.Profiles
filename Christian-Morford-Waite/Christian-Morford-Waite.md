@@ -7,10 +7,15 @@ quote:  "There's a way to do it better - find it."
 quoteAuthor: "Thomas A. Edison"
 ---
 ::img-badge{src="../badges/Business-microsoft-azure.png" alt="Microsoft Azure Badge"}
+
 ::img-badge{src="../badges/Developer-azure-function.png" alt="Azure Function Badge"}
+
 ::img-badge{src="../badges/Developer-c-sharp.png" alt="C# Badge"}
+
 ::img-badge{src="../badges/Developer-dotnet-core.png" alt=".NET Core Badge"}
+
 ::img-badge{src="../badges/Developer-powershell.png" alt="PowerShell Badge"}
+
 ::img-badge{src="../badges/Business-itil.png" alt="ITIL Badge"}
 
 Christian is a Senior Software Engineer with over 8 years of experience working with a wide range of technologies and Azure resources.
