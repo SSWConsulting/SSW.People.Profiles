@@ -149,34 +149,42 @@ _italic_ or _italic_
 ### Input:
 
 ```
-[[imgLg]]
-| ![Large image](./Images/Bio/cat_computer.jpg)
+::: img-large
+![Large image](./Images/Bio/cat_computer.jpg)
+:::
 
-[[imgMd]]
-| ![Medium image](./Images/Bio/cat_computer.jpg)
+::: img-medium
+![Medium image](./Images/Bio/cat_computer.jpg)
+:::
 
-[[imgSm]]
-| ![Small image](./Images/Bio/cat_computer.jpg)
+::: img-small
+![Small image](./Images/Bio/cat_computer.jpg)
+:::
 
-[[imgBadge]]
-| ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
+::: img-badge
+![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
+:::
 ```
 
 &nbsp;
 
 ### Output:
 
-[[imgLg]]
-| ![Large image](./Images/Bio/cat_computer.jpg)
+::: img-large
+![Large image](./Images/Bio/cat_computer.jpg)
+:::
 
-[[imgMd]]
-| ![Medium image](./Images/Bio/cat_computer.jpg)
+::: img-medium
+![Medium image](./Images/Bio/cat_computer.jpg)
+:::
 
-[[imgSm]]
-| ![Small image](./Images/Bio/cat_computer.jpg)
+::: img-small
+![Small image](./Images/Bio/cat_computer.jpg)
+:::
 
-[[imgBadge]]
-| ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
+::: img-badge
+![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
+:::
 
 &nbsp;
 
