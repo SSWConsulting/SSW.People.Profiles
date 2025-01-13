@@ -21,7 +21,9 @@ quoteAuthor: "Anonymous"
 
 ---
 
-Hugo isn't your typical SSW Solution Architect and Local Manager; he's a seasoned professional with over a decade of hands-on experience in Angular and .NET Core.
+Hugo isn't your typical SSW Solution Architect; he's a seasoned professional with over a decade of hands-on experience in Angular and .NET Core.
+
+He also showcases his mastery of TinaCMS and Next.js at developer conferences accross Europe, blending tech insight with enthusiasm to inspire the community.
 
 Beyond the coding screen, Hugo has another passion: music. You might catch him strumming his guitar during downtime, adding a touch of rhythm to his tech-savvy life.
 
