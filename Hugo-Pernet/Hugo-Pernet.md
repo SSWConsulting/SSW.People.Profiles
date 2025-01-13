@@ -16,6 +16,9 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![dotnet-core.png](../badges/Developer-dotnet-core.png)
 
+[[imgBadge]]
+| ![dotnet-core.png](../badges/Developer-TinaCMS.png)
+
 ---
 
 Hugo isn't your typical SSW Solution Architect and Local Manager; he's a seasoned professional with over a decade of hands-on experience in Angular and .NET Core.
