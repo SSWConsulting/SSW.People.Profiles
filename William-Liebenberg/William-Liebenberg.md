@@ -124,7 +124,7 @@ William is a trainer on the [SSW Azure Superpowers Tour](https://www.ssw.com.au
 William has spoken at conferences such as:
 
 * [NDC Sydney](https://ndcsydney.com/speakers/william-liebenberg/)
-* [NDC Melbourne](https://ndcmelbourne.com/speakers/william-liebenberg/)
+* [NDC Melbourne](https://ndcmelbourne.com/)
 * [DDD Brisbane](https://dddbrisbane.com/agenda/2019)
 * [Global AI on Tour - Melbourne](https://globalai.community/events/global-ai-on-tour-june-2021)
 

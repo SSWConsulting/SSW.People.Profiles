@@ -23,7 +23,7 @@ Some of Martin’s highlights have been:
 
 Martin’s open source projects:
 
-* **TFS Event Handler** - If you assign someone a work item, they should always receive an email. The TFS Event Handler makes it easier to notify users of changes to Work Items in Team Foundation Server. You will no longer need to add individual alerts to users.   
+* **TFS Event Handler** - If you assign someone a Work Item, they should always receive an email. The TFS Event Handler makes it easier to notify users of changes to Work Items in Team Foundation Server. You will no longer need to add individual alerts to users.   
     Related Technology: Team Foundation Server, VB.NET, WCF, Windows Services 
-* **TFS Sticky Buddy** - TFS Sticky Buddy makes it easier for all members of the development team to visualise the current state of their project by utilising a graphical view of Work Items. (Only for TFS 2005 & 2008. This is not relevant in VS2010 since Telerik’s work item manager has taken this idea to next step.)   
+* **TFS Sticky Buddy** - TFS Sticky Buddy makes it easier for all members of the development team to visualise the current state of their project by utilising a graphical view of Work Items. (Only for TFS 2005 & 2008. This is not relevant in VS2010 since Telerik’s Work Item manager has taken this idea to next step.)   
     Related Technology: Team Foundation Server, VB.NET, WPF 
