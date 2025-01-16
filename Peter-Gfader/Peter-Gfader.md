@@ -75,7 +75,7 @@ Training in C#, .NET and best practices for a new line of business application
 
 Peter can also be found teaching [UTS Short Courses](https://it.uts.edu.au/course/shortcourse/programming/) in .NET, SQL Server 2008
 
-More information about Peter, can be found on his [personal homepage](https://www.gfader.com/ "Peter Gfader Homepage"). Check out [Peters blog for solutions, tips + tricks to common .net troubles](https://peitor.blogspot.com/ ".net problems and solutions") 
+More information about Peter, can be found on his [personal homepage](https://www.gfader.com/ "Peter Gfader Homepage"). Check out [Peters blog for solutions, tips + tricks to common .net troubles](https://blog.gfader.com/) 
 
 ##### "If it ain't broke, take it apart and fix it."   
 
