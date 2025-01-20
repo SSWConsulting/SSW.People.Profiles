@@ -26,9 +26,9 @@ quoteAuthor: "Marcus Aurelius"
 [[imgBadge]]
 | ![Zig](../badges/Developer-zig.png)
 
-Brook Jeynes is a Software Developer currently working in the Brisbane SSW office. 
-At SSW, he predominantly works in Javascript/Typescript, React, and .NET. 
-In his personal time, Brook enjoys learning about how operating systems and memory-bound systems (such as IoT or MCU devices) work and builds tools using Typescript, Rust, Zig, and C.
+Brook Jeynes is a Software Engineer currently working in the Brisbane office.  
+At SSW, he is predominantly working on [Tina - the world's best headless CMS powered by Markdown and GitHub](https://tina.io).  
+He focuses on the backend side of Tina, TinaCloud, where he writes Golang, React and NodeJS code that interacts with AWS services.
 
-Brook is always trying to learn new things, whether that be about music, technology or general information in relation to science and engineering. 
-He enjoys playing games with friends, hiking, bouldering, writing music, and content creation.
+In his personal time, Brook works on system tooling and websites to aid in his venture to learn and practice new things.  
+He also enjoys hiking, bouldering, and playing music.
