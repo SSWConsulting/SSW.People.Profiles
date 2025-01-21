@@ -10,7 +10,7 @@ quoteAuthor: "Dwight D. Eisenhower"
 [[imgBadge]]
 | ![CPA](../badges/CPA-Australia.png)
 
-As a Senior Accountant at SSW with over seven years of experience, I thrive at the intersection of financial expertise and technology, tackling complex challenges with innovative solutions. Collaborating closely with our Financial Controller, I ensure the seamless operation of our financial systems through accurate reporting, efficient process management, and strategic planning. 
+As a Senior Accountant at SSW with over 7 years of experience, I thrive at the intersection of financial expertise and technology, tackling complex challenges with innovative solutions. Collaborating closely with our Financial Controller, I ensure the seamless operation of our financial systems through accurate reporting, efficient process management, and strategic planning. 
 
 My career has been defined by driving efficiency and delivering results. By implementing advanced automation tools like Xero, I have streamlined workflows, improved reporting accuracy, and empowered data-driven decision-making. My approach to management accounting focuses on actionable insights that support growth and long-term success. 
 
