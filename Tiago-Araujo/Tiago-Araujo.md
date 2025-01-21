@@ -1,8 +1,6 @@
 ---
 id: "fe0b5b92-f8aa-dd11-a7e0-00155d01221b"
-
 qualifications: "Barchelor of Advertising, Applied Web Development Certificate, Certified Scrum Master"
-
 quote:  "It's not what you look at that matters, it's what you see."
 quoteAuthor: "Henry David Thoreau"
 ---  
@@ -42,10 +40,10 @@ Here are some of his skills:
 * **User Experience** - Research, testing, and prototyping
 * **Graphic Design** - Visual identity, and marketing materials
 * **Semantic HTML, CSS, Markdown, and JavaScript/JS frameworks** - Accessible, reusable, and clean code
-* **CMS** - WordPress, SharePoint, and more
+* **CMS** - WordPress, TinaCMS, SharePoint, and more
 * **Photography** - Production, editing, manipulation, and optimization
 * **Copy writing** - Focused on SEO, formatting, and accuracy
 
 Besides SSW's design enhancement projects, Tiago's past clients include FastAs, WorleyParsons, The Home Loan Company, Carmody Group, Vulcan Steel, AirRoad, Tapp, Nutripath, Berkley, Karras, and more.
 
-Apart from work, Tiago is an amateur runner, a Volkswagen Beetle enthusiast, a passionate traveler, and a declared hater of olives 🙃
+Apart from work, Tiago is an amateur runner, a VW Beetle enthusiast, a passionate traveler, and a declared hater of olives 🙃

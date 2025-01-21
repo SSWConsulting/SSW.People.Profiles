@@ -1,20 +1,26 @@
 ---
-id: "755281b3-f655-ee11-be6f-6045bd3df7b2"
+id: '755281b3-f655-ee11-be6f-6045bd3df7b2'
 
 qualifications: "Bachelor's of Information Technology"
 
-quote: "Every action you take is a vote for the type of person you wish to become"
-quoteAuthor: "James Clear"
+quote: 'Every action you take is a vote for the type of person you wish to become'
+quoteAuthor: 'James Clear'
 ---
 
 [[imgBadge]]
-| ![.NET Core](../badges/Developer-react.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
 | ![C-Sharp.png](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
+| ![Certification Scrum Master](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![angular-logo.png](../badges/Developer-c-plusplus.png)
+
+[[imgBadge]]
+| ![Python](../badges/Developer-python.png)
 
 [[imgBadge]]
 | ![React](../badges/Developer-react.png)
@@ -31,12 +37,28 @@ quoteAuthor: "James Clear"
 [[imgBadge]]
 | ![Github](../badges/Developer-github.png)
 
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-fundamentals.png)
+
 ---
 
-<!-- 🤖 I had some assistance with this one, but I think it paints me in a favorable light without being misleading about my competencies -->
-
-Caleb concluded an illustrious academic tenure by achieving a Bachelor's degree in Information Technology with Distinction, a journey that spanned five years of part-time study. Throughout this period, he meticulously honed a diverse set of valuable skills, encompassing networking, communication, project management, and system design. He also engaged in subsidiary coursework where he developed competencies in creating, simple mobile applications, game prototyping and ludology, and business analysis. However, his primary area of interest was full-stack web development.
-
-Embarking on his professional career, Caleb undertook a full-time, 5-month internship with SSW, a pivotal experience that not only refined his technical abilities but also enriched his understanding of the software development industry. This period was instrumental in honing his practical skills as well as soft skills and gaining a real-world understanding of the importance of transparency and frequent, clear, well-documented communication with primary stakeholders in a project. Caleb is committed to creating secure web apps with clean, maintainable code and crafting excellent user experiences.
-
+**Professional Career** - 
 Caleb has proficiencies with .NET, SQL Server, MySQL and EF Core, but he primarily stands out as a front end developer. He has skills integrating websites with both React and Angular, including a proven ability to develop performant websites with server components using Next.js. This combination of skills means that Caleb excels at configuring performat React projects with external dependencies, including React projects leveraging, [TinaCMS](https://tina.io/about).
+
+Toward the end of his degree, Caleb undertook a full-time 5-month [coding bootcamp](https://firebootcamp.com/). This pivotal experience not only improved his coding abilities, but also refined his communication skills and gave him a respect for the core tenets of Scrum in a practical environment which he later demonstrated by becoming a certified Scrum Master. He learned the value of being transparent with stakeholders, communicative with his team, and respectful of the product owner's vision throughout the software development process. He is a qualified developer with skills in Azure who is committed to building secure web apps with clean, maintainable code and excellent user experiences. Caleb strives to broaden his horizons and stay up to date with the latest web development technologies.
+
+**Education** - Caleb graduated with a Bachelor of Information Technology with Distinction in 2024, a journey that spanned five years of part-time study. Throughout this period, he meticulously honed a diverse set of valuable skills, including:
+
+- Computer networking
+- Communication
+- Project management
+- System design
+- Business analysis
+
+Although Caleb's primary area of interest was full-stack web development, he also pursued alternative interests in his elective courses, including:
+
+- Mobile application development
+- Game prototyping
+- Ludology
+- Multimedia creation
+- Photo editing
