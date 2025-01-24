@@ -3,7 +3,7 @@ id: "a14b4448-e9c9-ed11-b596-00224818a84c"
 
 qualifications: ""
 
-quote: "There were many ways down Mount Fuji, according to my guidebook, but only one way up. Life lesson in that, I thought."
+quote: "Play by the rules, but be ferocious."
 quoteAuthor: "Phil Knight"
 ---
 
@@ -14,13 +14,10 @@ quoteAuthor: "Phil Knight"
 | ![Developer Vue](../badges/Developer-Vue.png)
 
 [[imgBadge]]
-| ![Developer JS](../badges/Developer-js.png)
+| ![dotnet-core.png](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![Developer Html5](../badges/Designer-web-html5.png)
-
-[[imgBadge]]
-| ![Developer CSS3](../badges/Designer-web-css3.png)
+| ![](../badges/Developer-OpenAI.png)
 
 [[imgBadge]]
 | ![Developer github](../badges/Developer-github.png)
@@ -29,8 +26,12 @@ quoteAuthor: "Phil Knight"
 | ![Business Microsoft Azure](../badges/Business-microsoft-azure.png)
 
 
-Chloe is a highly skilled Software Developer based in the SSW Hangzhou office, specializing in React and Vue. She has successfully delivered projects ranging from responsive website designs to complex ERP systems for single-page applications.
 
-With a strong passion for front-end technology, Chloe is dedicated to creating outstanding user experiences. Her attention to detail and commitment to excellence have earned her a reputation for consistently delivering high-quality results. As a driven developer, Chloe goes above and beyond to exceed client expectations and make a lasting impact with her work.
 
-In her free time, she likes jogging, climbing, playing video games, and reading books.
+👩‍💻 Based in the SSW Strasbourg office, Chloe is a highly skilled Software Developer specializing in React and Vue, with additional expertise in .NET development. She has successfully delivered projects ranging from responsive website designs to complex ERP systems, showcasing her versatility and technical depth.
+
+✨ With a strong passion for front-end technology, Chloe is dedicated to creating outstanding user experiences. She has expertise in implementing TinaCMS, a leading headless CMS powered by Markdown and GitHub, enabling seamless content management. Chloe also has hands-on experience with .NET Core, allowing her to deliver robust and scalable back-end solutions that perfectly complement her front-end expertise.
+
+💻 Known for her precision and dedication, Chloe consistently delivers high-quality results. With experience in Scrum and Agile workflows, she ensures efficient teamwork and collaboration, exceeding client expectations and creating lasting value.
+
+🏃‍♀️ In her free time, Chloe enjoys jogging, climbing, playing video games, and reading books.
