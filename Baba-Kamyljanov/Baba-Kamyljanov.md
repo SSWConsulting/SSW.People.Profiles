@@ -8,6 +8,9 @@ quoteAuthor: "Joe Rogan"
 ---
 
 [[imgBadge]]
+| ![Business Microsoft Azure](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
 | ![Image Alt Text](../badges/Developer-angular.png)
 
 [[imgBadge]]
@@ -15,6 +18,9 @@ quoteAuthor: "Joe Rogan"
 
 [[imgBadge]]
 | ![Image Alt Text](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![Developer Github](../badges/Developer-github.png)
 
 Baba is a software developer with a profound understanding of .NET, gained through a one-year internship focused on building real-world software solutions. His hands-on experience has solidified his software engineering skills, preparing him for complex challenges in the tech industry.
 
