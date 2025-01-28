@@ -49,7 +49,9 @@ Toward the end of his degree, Caleb undertook a full-time 5-month [coding bootca
 
 Caleb is a qualified developer with skills in Azure who is committed to building secure web apps with clean, maintainable code and excellent user experiences. He strives to broaden his horizons and stay up to date with the latest web development technologies.
 
-**Education** - Caleb graduated with a Bachelor of Information Technology with Distinction in 2024, a journey that spanned five years of part-time study. Throughout this period, he meticulously honed a diverse set of valuable skills, including:
+## Education
+
+Caleb graduated with a Bachelor of Information Technology with Distinction in 2024, a journey that spanned five years of part-time study. Throughout this period, he meticulously honed a diverse set of valuable skills, including:
 
 - Computer networking
 - Communication
