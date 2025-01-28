@@ -43,7 +43,7 @@ quoteAuthor: 'James Clear'
 ---
 
 **Professional Career** - 
-Caleb has proficiencies with .NET, SQL Server, MySQL and EF Core, but he primarily stands out as a front end developer. He has skills integrating websites with both React and Angular, including a proven ability to develop performant websites with server components using Next.js. This combination of skills means that Caleb excels at configuring performat React projects with external dependencies, including React projects leveraging [TinaCMS](https://tina.io/about).
+Caleb has proficiencies with .NET, SQL Server, MySQL and EF Core, but he primarily stands out as a **front end developer**. He has skills integrating websites with both React and Angular, including a proven ability to develop performant websites with server components using Next.js. This combination of skills means that Caleb excels at configuring performat React projects with external dependencies, including React projects leveraging [TinaCMS](https://tina.io/about).
 
 Toward the end of his degree, Caleb undertook a full-time 5-month [coding bootcamp](https://firebootcamp.com/). This pivotal experience not only improved his coding abilities, but also refined his communication skills and gave him a respect for the core tenets of Scrum in a practical environment which he later demonstrated by becoming a **certified Scrum Master**. He learned the value of being transparent with stakeholders, communicative with his team, and respectful of the product owner's vision throughout the software development process. 
 
