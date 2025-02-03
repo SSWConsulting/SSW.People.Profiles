@@ -1,7 +1,7 @@
 ---
 id: "487f6b90-432b-ed11-9db1-00224818a84c"
 
-qualifications: "MProfAcct, CPA"
+qualifications: "MProfAcct, CPA, CSM"
 
 quote: "Not everything that counts can be counted, and not everything that can be counted counts"
 quoteAuthor: "Albert Einstein"
@@ -10,6 +10,10 @@ quoteAuthor: "Albert Einstein"
 [[imgBadge]]
 | ![CPA](../badges/CPA-Australia.png)
 
+[[imgBadge]]
+| ![Image Alt Text](../badges/Certification-scrumalliance-master.png)
+
+---
 Introducing the financial wizard of SSW's Sydney headquarters! 🧙‍♂️ 
 
 Meet our tech-savvy accountant extraordinaire, with a Bachelor of Law and a Master of Professional Accounting from UNSW. With years of specialized experience in e-commerce and the IT industry, he's far from your average number-cruncher.
