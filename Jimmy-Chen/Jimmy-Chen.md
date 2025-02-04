@@ -11,7 +11,7 @@ quoteAuthor: "Albert Einstein"
 | ![CPA](../badges/CPA-Australia.png)
 
 [[imgBadge]]
-| ![Image Alt Text](../badges/Certification-scrumalliance-master.png)
+| ![CSM](../badges/Certification-scrumalliance-master.png)
 
 ---
 Introducing the financial wizard of SSW's Sydney headquarters! 🧙‍♂️ 
