@@ -42,7 +42,7 @@ quoteAuthor: "Elon Musk"
 
 ---
 
-Aman Kumar is a seasoned Software Developer at SSW Melbourne, boasting over 3 years of experience in crafting responsive and scalable web applications. He has a rich skill set encompassing platforms like Angular, AngularJs, React, Node, PHP, .NET Framework, and Power Automate. A significant facet of his expertise lies in DevOps practices, where he has excelled in deploying Azure DevOps Pipelines and GitHub Actions to optimize deployment workflows and enhance application performance.
+Aman Kumar is a seasoned Software Developer at SSW Melbourne, boasting over 3 years of experience in crafting responsive and scalable web applications. He has a rich skill set encompassing platforms like Angular, AngularJs, React, Node, PHP, .NET Framework, and Power Automate. A significant facet of his expertise lies in DevOps practices, where he has excelled in deploying Azure DevOps Pipelines and GitHub Actions to optimize deployment workflows and enhance application performance.  The combination of these skills has enabled him to integrate [TinaCMS](https://tina.io/) into the [SSW Website](https://www.ssw.com.au/) and configure high-performance React projects with external dependencies.
 
 Aman holds a Master's in Information Technology, specializing in Cloud and Mobile Computing, from Swinburne University of Technology. His final university project entailed developing an e-commerce portal for a jewelry store, showcasing his ability to create practical and user-centric solutions.
 
