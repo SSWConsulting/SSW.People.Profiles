@@ -33,8 +33,24 @@ quoteAuthor: "Musashi"
 
 ---
 
-Isaac is a Full-Stack SSW Software Developer based in the Sydney office. He is in his honours year of a Bachelor of Engineering degree at The University of Sydney. Having chosen to specialise in Software Engineering, he has built up theoretical knowledge of quality system design, object-oriented methodologies, and engineering practices. To complement his studies, Isaac completed the SSW FireBootCamp as an intern, where he gained deep insights into industry software development and acclimated to using the .NET and Angular tech stack. 
+Isaac is a dedicated SSW Full-Stack Software Developer based in Sydney, crafting innovative software solutions. Currently completing his honours year in a Bachelor of Engineering (Software Engineering) at The University of Sydney, Isaac bridges academic insights with practical industry experience.
 
-Isaac is known for his dedication to practical learning and collaboration, fostering creativity in teams he is part of to create high-quality, sustainable software. He also has a keen interest in frontend development and is enthusiastic about tools in that field, including React, Angular, CSS3, and Tailwind.
+He honed his skills through SSW's intensive FireBootCamp, where he worked with senior developers to deliver an end-to-end software solution using .NET and Angular. This experience shaped his commitment to clean architecture, agile practices, and test-driven development.
 
-Outside of the software world, Isaac engages with creative endeavours including classical composition 🎻 and songwriting 🎼. He is always keen to flex his mind with puzzles and board games ♟️, and finds consistency through physical activity such as in hiking and fitness training.
+Lately, he has been focused on using AI to work on frontend stacks across various SSW projects, including work on TinaCMS. As a member of the TinaCMS team at SSW, he has attended conferences to teach technical people how they can make use of the tool. 
+
+Ready to tackle any software problem with enthusiasm, Isaac’s skill set includes React, Angular, TailwindCSS, .NET Core, Entity Framework, and SQL databases. He's is known for his collaborative spirit and problem-solving mindset, bringing teams together. With a strong drive for velocity in his work, and a user-centric approach, he aims to create intuitive, pragmatic software solutions that truly meet user needs.
+
+**Technologies:**
+
+- **TinaCMS**
+- Vercel
+- React
+- Angular
+- CSS3
+- TailwindCSS
+- .NET Core
+- Entity Framework
+- SQL Databases
+
+Outside of work, Isaac channels his creativity into classical composition and songwriting. He enjoys puzzles, board games, and staying active through hiking and fitness training.

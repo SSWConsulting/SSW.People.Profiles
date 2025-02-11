@@ -160,6 +160,9 @@ _italic_ or _italic_
 
 [[imgBadge]]
 | ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
+
+[[imgBadge]]
+| ![](../badges/Certification-poty-finalist-education.svg)
 ```
 
 &nbsp;
@@ -177,6 +180,9 @@ _italic_ or _italic_
 
 [[imgBadge]]
 | ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
+
+[[imgBadge]]
+| ![](../badges/Certification-poty-finalist-education.svg)
 
 &nbsp;
 

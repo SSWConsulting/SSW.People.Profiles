@@ -49,6 +49,7 @@ Andrew specializes in Frontend development, with deep expertise in frameworks su
 - CSS
 - Redux
 - RxJS
+- TinaCMS
 
 ### Backend Development
 

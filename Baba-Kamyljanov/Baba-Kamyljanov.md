@@ -8,6 +8,9 @@ quoteAuthor: "Joe Rogan"
 ---
 
 [[imgBadge]]
+| ![Business Microsoft Azure](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
 | ![Image Alt Text](../badges/Developer-angular.png)
 
 [[imgBadge]]
@@ -16,7 +19,10 @@ quoteAuthor: "Joe Rogan"
 [[imgBadge]]
 | ![Image Alt Text](../badges/Developer-c-sharp.png)
 
-Baba is a software developer with a profound understanding of .NET, gained through a one-year internship focused on building real-world software solutions. His hands-on experience has solidified his software engineering skills, preparing him for complex challenges in the tech industry.
+[[imgBadge]]
+| ![Developer Github](../badges/Developer-github.png)
+
+Baba is a Software Engineer with a profound understanding of .NET, gained through a one-year internship focused on building real-world software solutions. His hands-on experience has solidified his software engineering skills, preparing him for complex challenges in the tech industry.
 
 Joining SSW marked a pivotal moment in Baba's career. He quickly immersed himself in the [SSW FireBootCamp](https://firebootcamp.com/), diligently mastering a range of full-stack technologies including .NET, Angular, Entity Framework Core, and SQL Server. His dedication and expertise during this program confirmed his role as a full-stack .NET developer. Baba now actively contributes to various projects, applying his skills to solve complex problems and deliver impactful solutions.
 

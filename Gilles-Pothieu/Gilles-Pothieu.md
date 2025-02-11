@@ -32,3 +32,5 @@ quoteAuthor: "Aristotle"
 💡 Patient and passionate, Gilles enjoys creating responsive applications with user-friendly and optimized UX as much as he enjoys architecting a back-end. Being curious, he enjoys using his free time to explore new technologies by both creating small applications to learn new programming languages and experimenting with emerging frameworks.
 
 🤖 Gilles recently embarked on an ambitious project where he developed an AI chatbot powered by Azure OpenAI. This chatbot is unique because it leverages a vector database filled with custom data to understand and process user queries more effectively.
+
+🔥 Expertise in implementing TinaCMS, the best headless CMS that is powered by Markdown and GitHub, for seamless content editing and publishing workflows.
