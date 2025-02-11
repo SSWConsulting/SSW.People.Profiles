@@ -3,7 +3,7 @@ id: "d7a47cc3-9348-ef11-a316-000d3acbb9ac"
 
 qualifications: "Bachelor of Information Technology"
 
-quote: "Perception is reality"
+quote: "Reality is frequently inaccurate"
 quoteAuthor: "Douglas Adams"
 ---
 
