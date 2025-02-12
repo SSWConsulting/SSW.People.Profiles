@@ -23,6 +23,9 @@ quoteAuthor: "Aristotle"
 [[imgBadge]]
 | ![business-microsoft-dynamics-powerapps.png.png](../badges/Business-microsoft-dynamics-powerapps.png)
 
+[[imgBadge]]
+| ![developer-tinacms.png](../badges/Developer-TinaCMS.png)
+
 ---
 
 🖥️ Gilles is a SSW Software Engineer at SSW Europe (France), who has been working with the Angular/.NET Core environment for nearly 4 years. He began his career as a web developer and later joined an engineering team that worked on a large application for an insurance company using a .NET Core/Angular-AngularJS/MongoDB environment.  
