@@ -24,7 +24,7 @@ quoteAuthor: "Aristotle"
 | ![business-microsoft-dynamics-powerapps.png.png](../badges/Business-microsoft-dynamics-powerapps.png)
 
 [[imgBadge]]
-| ![dotnet-core.png](../badges/Developer-TinaCMS.png)
+| ![developer-tinacms.png](../badges/Developer-TinaCMS.png)
 
 ---
 
