@@ -20,6 +20,8 @@ Michael brings over 30 years of diverse experience in sales, management, and tec
 
 Mike specialises in:
 
+- AI project planning and execution
+
 - Managing big, complex projects
 
 - Digital marketing and sales strategies
