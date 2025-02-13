@@ -30,6 +30,8 @@ quoteAuthor: "Carl Sagan"
 
 ---
 
+[Book a meeting with me !](https://outlook.office365.com/book/SSWInitialMeetings@sswcom.onmicrosoft.com/s/DX2tn8T_g0yJR68ofa411g2)
+
 Jean Thirion is SSW France CEO and the manager of SSW Europe, running the SSW Strasbourg Office. He has been working in software development for more than 10 years. Being multilingual, he worked in France, Luxembourg, and Australia. His experience with large scale domestic and international projects has given him the ability to act as a bridge between the development world and that of business. 
 
 Jean is dedicated to building awesome teams, always making sure nobody is left behind. Honesty and trust are values he embodies, and he works hard to ensure this is always conveyed with not just his team, but his clients.
