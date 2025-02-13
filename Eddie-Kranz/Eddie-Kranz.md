@@ -50,4 +50,6 @@ Eddie is an SSW Software Developer with a keen eye for detail, and a passion for
 
 Eddie has a strong foundation in software development. In addition to his university degree, he completed SSW's FireBootCamp, gaining experience developing with Scrum in .NET and Angular, in addition to the Azure platform and OpenAI API. 
 
+In his time at SSW, he has worked on projects utilising [AI to supercharge existing applications](https://www.ssw.com.au/consulting/artificial-intelligence), and [TinaCMS to streamline content management!](https://tina.io/)
+
 In his free time, Eddie loves hands-on projects, such as fixing, building and maintaining motorcycles and bicycles 🏍️🚲, in addition to 3D printing, and woodworking 🪚. To keep his mind sharp, he enjoys reading and solving crossword puzzles 📖, and to keep his body active, he practices cycling and bouldering 🧗‍♂️.
