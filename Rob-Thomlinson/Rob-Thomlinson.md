@@ -45,4 +45,4 @@ Rob excels in supporting small businesses or large enterprises. Known for his pr
 - CW Automate Profesional & Expert Certifications
 - ITIL 4 Foundations Certificate
 
-Rob is regularly updating his skills in cloud infrastructure, cybersecurity, IT operations and DevOps through certifications and hands-on experience testing the lastest .
+Rob is regularly updating his skills in cloud infrastructure, cybersecurity, IT operations and DevOps through certifications and hands-on experience testing the lastest tools.
