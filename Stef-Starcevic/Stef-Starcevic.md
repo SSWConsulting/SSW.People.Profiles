@@ -9,6 +9,9 @@ quoteAuthor: "Tom Sachs"
 [[imgBadge]]
 | ![Certified Scrum Master](../badges/Certification-scrumalliance-master.png)
 
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-ai-fundamentals.png)
+
 Stefan is a Marketing Assistant at SSW, where he collaborates with diverse teams to support and execute strategic objectives. With a foundation in hospitality and marketing, he brings a unique perspective to the world of software development and artificial intelligence.
 
 At SSW, Stefan specializes in leveraging digital marketing tools like Google Ads, Meta Advertising, and Google Analytics to optimize campaign performance and deliver measurable results. He enjoys diving into marketing analytics to uncover insights that drive smarter strategies and continuous improvement. Additionally, his understanding of Azure DevOps and Scrum principles enhances his ability to contribute to efficient, agile workflows across projects.
