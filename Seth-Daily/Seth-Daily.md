@@ -19,7 +19,7 @@ quoteAuthor: "Mark Twain"
 [[imgBadge]]
 | ![Image Alt Text](../badges/Business-zendesk.png)
 
-Seth is an SSW Marketing Specialst and Account Manager who loves artificial intelligence and applying it for productivity.
+Seth is an SSW Marketing Specialist and Account Manager who loves artificial intelligence and applying it for productivity.
 
 ⌛ He makes time-saving tools using ChatGPT and other AI, and follows the AI world closely
 
@@ -34,3 +34,5 @@ Seth is an SSW Marketing Specialst and Account Manager who loves artificial inte
 🎓 In his free time, he is always learning - martial arts, guitar, piano, and surfing (which might be why he lives in the great surfing region of Newcastle 😏)
 
 🖥️ If you work in software and want a job in Newcastle, send him an email.
+
+🆘 If you are wondering if SSW can help fix your problem, book a [quick consultation with him](https://outlook.office.com/bookwithme/user/384dc8b54b1b4cd9961ce65c277e1e2c@ssw.com.au/meetingtype/8HKFXai4jEmu8xhG-VZIGQ2?anonymous&ep=mlink).

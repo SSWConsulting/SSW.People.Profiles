@@ -33,6 +33,8 @@ quoteAuthor: "Andrew Hunt"
 
 ---
 
+[Click here to book a meeting with me](https://outlook.office.com/bookwithme/user/97ff5e7f050943fdbe0f25db77480c83%40ssw.com.au?anonymous=&isanonymous=true)
+
 Gert is a visionary SSW Solution Architect with over 20 years of experience, bringing a wealth of knowledge across multiple industries including healthcare, telecommunications, finance, and government. His expertise in developing robust software solutions using Oracle, SQL, and .NET technologies has consistently addressed and resolved complex business challenges.
 
 Known for his excellent communication and problem-solving skills, Gert effectively bridges the gap between technical teams and business stakeholders. His collaborative approach fosters a productive and positive work environment, driving teams to achieve their best outcomes.

@@ -35,6 +35,7 @@ Beyond his technical achievements, Jeoffrey is a Certified Scrum Master who cham
 
 Jeoffrey’s favourite pursuits are:
 
+- Guiding the [SSW website](https://www.ssw.com.au/) team in enhancing content management workflows using [TinaCMS](https://tina.io/)
 - Crafting scalable and maintainable backend systems with .NET and EF Core
 - Delivering seamless user experiences with Angular, React, and Next.js
 - Building and deploying cloud solutions on Microsoft Azure

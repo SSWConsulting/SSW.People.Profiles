@@ -36,7 +36,7 @@ quoteAuthor: "Patrick McKenzie"
 [[imgBadge]]
 | ![React image badge](../badges/Developer-react.png)
 
-Tylah is an SSW Software Engineer specialising in developing web applications using .NET Core, ASP.NET Core and EF Core. Tylah has experience with a range of modern front-end technologies including NextJs, Angular and Blazor, and has a background in games development with the Unity Engine.
+Tylah is an SSW Software Engineer specialising in developing web applications using .NET Core, ASP.NET Core and EF Core. Tylah has experience with a range of modern front-end technologies including NextJs, Angular and Blazor, and has a background in games development.
 
 Tylah is invested in keeping applications up to date with the latest tech, and applying [Clean Architecture](https://www.ssw.com.au/rules/rules-to-better-clean-architecture) best practices to his work. 
 
@@ -51,6 +51,12 @@ Check out Tylah's talk on how easy it is to get started with Vercel:
 # Internal Projects
 
 ## SSW.TimePro
-Tylah leads a team to modernize an invoicing application from .NET Framework and AngularJS to .NET 8 and Angular 14.
+Tylah lead a team to modernize an invoicing application from .NET Framework and AngularJS to .NET 8 and Angular 14.
 
 **SSW.TimePro** is the primary application used by SSW employees every single day to track timesheets, create invoices for clients, and generate reports. This application actively communicates with Dynamics CRM, Azure DevOps and Xero to deliver a quick and easy user experience.
+
+## SSW.Rules
+Tylah lead a team to investigate the possibility of using TinaCMS with the Gatsby framework. This team was comprised of SSWers from around the world, and proved to be an effective method of providing around the clock support and development for a project.
+
+**SSW.Rules** is SSW's Rules for creating great enterprise software based on their wealth of knowledge gained over decades of development. 
+
