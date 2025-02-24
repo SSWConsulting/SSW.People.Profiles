@@ -8,6 +8,9 @@ quoteAuthor: "Isaac Newton"
 ---
 
 [[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-ai-fundamentals.png)
+
+[[imgBadge]]
 | ![React](../badges/Developer-react.png)
 
 [[imgBadge]]
