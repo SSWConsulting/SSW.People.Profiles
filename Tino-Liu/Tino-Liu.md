@@ -28,4 +28,6 @@ Holding a degree from an US institution and having extensive experience in the f
 
 At SSW, Tino looks after Chinafy projects which help international companies bring their websites and products to the China market of 1.4 billion people.
 
+🦙 Tino has expertise in implementing TinaCMS, the best CMS powered by GitHub and Markdown. He is also currently working on Chinafying Tina.io, bringing this amazing CMS to the Chinese demographic.
+
 In addition to his technological prowess, Tino possesses a genuine passion for people. He enthusiastically embraces cultural diversity and serves as a true team player, demonstrating exceptional adaptability and precision in his work. Tino also enjoys cruising through the city on his electric skateboard, cooking his own meals, and playing guitar.
