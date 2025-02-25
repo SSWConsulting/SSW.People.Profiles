@@ -7,6 +7,27 @@ quote: "Even in a virtual world, the emotions we experience are real"
 quoteAuthor: "Yuuki Asuna"
 ---
 
+[[imgBadge]]
+| ![DDDspeaker](../badges/Event-DDD-Brisbane.png)
+
+[[imgBadge]]
+| ![photoshop](../badges/Designer-adobe-photoshop.png)
+
+[[imgBadge]]
+| ![premier](../badges/Designer-adobe-premiere.png)
+
+[[imgBadge]]
+| ![figma](../badges/Designer-figma.png)
+
+[[imgBadge]]
+| ![m365](../badges/Business-microsoft-office365.png)
+
+[[imgBadge]]
+| ![ignite](../badges/Event-Microsoft-Ignite.png)
+
+[[imgBadge]]
+| ![techmaker](../badges/Google-Techmaker.png)
+
 
 Mish is the Senior Developer Advocate at SSW, coming to you from the Melbourne office. I love creating content and connecting with the developer community. I've worked in the technology space for the last decade and I have a tonne of experience in developer advocacy, community management, marketing, and content creation. I'm excited to work on the SSW products, incluidng TinaCMS and YakShaver.
 
