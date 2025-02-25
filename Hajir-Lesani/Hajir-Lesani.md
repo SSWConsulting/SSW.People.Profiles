@@ -4,7 +4,6 @@ id: "3bb6e9a7-8eea-ef11-9341-7c1e5289d3db"
 qualifications: "Master of IT"
 
 quote: "Everything is Possible!"
-quoteAuthor: "Myself!"
 ---
 
 Hajir is a seasoned Software Engineer with over 14 years of experience across diverse sectors, including the United Nations. His global journey has seen him living in Iran, Turkey, the UAE, and now Australia, enriching him with diverse cultural insights.
