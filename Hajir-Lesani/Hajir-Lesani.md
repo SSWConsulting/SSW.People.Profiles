@@ -12,3 +12,5 @@ Hajir is a seasoned Software Engineer with over 14 years of experience across di
 Hajir specializes in .NET development, React front-end applications, SQL database management, and Azure cloud solutions, bringing a comprehensive skill set to each project. He consistently delivers robust and scalable applications that effectively address business requirements and exceed client expectations.
 
 Beyond his core technical expertise, Hajir maintains a keen interest in Artificial Intelligence and home automation technologies. He enjoys exploring innovative ways to integrate these emerging technologies into practical solutions.
+
+You can visit [Hajir's website](https://hajir.pro) but beware! He's watching you 👁️👁️!
