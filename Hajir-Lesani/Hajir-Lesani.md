@@ -7,8 +7,8 @@ quote: "Everything is Possible!"
 quoteAuthor: "Myself!"
 ---
 
-Hajir is a seasoned Software Engineer with over 14 years of experience across diverse sectors, including the United Nations. His extensive background has equipped him with a unique perspective on solving complex technical challenges.
+Hajir is a seasoned Software Engineer with over 14 years of experience across diverse sectors, including the United Nations. His global journey has seen him living in Iran, Turkey, the UAE, and now Australia, enriching him with diverse cultural insights.
 
-Hajir specializes in .NET development, React front-end applications, SQL database management, and Azure cloud solutions, bringing a comprehensive skill set to each project. He consistently delivers robust and scalable applications that effectively address business requirements and exceed client expectations.
+Specializing in .NET development, React front-end applications, SQL database management, and Azure cloud solutions, Hajir builds robust and scalable applications to meet complex business needs. His ability to deliver effective solutions is matched by his commitment to exceeding client expectations.
 
-Beyond his core technical expertise, Hajir maintains a keen interest in Artificial Intelligence and home automation technologies. He enjoys exploring innovative ways to integrate these emerging technologies into practical solutions.
+In addition to his technical expertise, Hajir is deeply interested in Artificial Intelligence and home automation. Speaking in 3 languages, he brings excellent communication skills that complement his innovative approach to solving problems.
