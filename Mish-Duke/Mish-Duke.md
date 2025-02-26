@@ -29,6 +29,6 @@ quoteAuthor: "Yuuki Asuna"
 | ![techmaker](../badges/Google-Techmaker.png)
 
 
-Mish is the Senior Developer Advocate at SSW, coming to you from the Melbourne office. I love creating content and connecting with the developer community. I've worked in the technology space for the last decade and I have a tonne of experience in developer advocacy, community management, marketing, and content creation. I'm excited to work on the SSW products, incluidng TinaCMS and YakShaver.
+Mish is the Senior Developer Advocate at SSW, coming to you from the Melbourne office. She loves creating content and connecting with the developer community, and has worked in the technology space for the last decade. She has a tonne of experience in developer advocacy, community management, marketing, and content creation. Mish is excited to work on the SSW products, incluidng TinaCMS and YakShaver.
 
 Mish is also a Women in Tech Ambassador, an Xbox Community Champion, and a mentor at the Melbourne Accelerator Program.
