@@ -9,8 +9,6 @@ quoteAuthor: "Paulo Coelho"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Suzanne is the Marketing & Video Assistant at SSW, where she brings a diverse skill set from both the arts and tech industries.
+Suzanne is the Marketing & Video Assistant at SSW, bringing a dynamic background in marketing, event coordination, video production, and project management. With a Bachelor of Professional Arts in Communication Studies and a background in Broadcast Media Studies, she thrives at the intersection of creativity and strategy, with a passion for community, team collaboration, and the relationship between technology and engagement.
 
-With a passion for community and its relationship to technology, Suzanne has spent the last decade working in film, radio, event management, and marketing. Her degrees in broadcasting and communications have been pivotal in shaping her approach to team collaboration and organizing projects. 
-
-Outside of work, Suzanne is always immersed in a hobby project — like crafting or learning to play a new instrument 🎸. She enjoys exploring different creative pursuits and is always up for trying something new. She also has a few quirky skills, including juggling 🤹 and riding a unicycle 🚲 (though not at the same time!).
+Outside of work, Suzanne is often immersed in a new hobby project—whether it's learning a new instrument or honing her skills in juggling 🤹 and riding a unicycle 🚲 (though not yet at the same time!).
