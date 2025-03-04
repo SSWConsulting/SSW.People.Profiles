@@ -14,6 +14,9 @@ quoteAuthor: "Richard P. Feynman"
 | ![Blazor](../badges/Developer-blazor.png)
 
 [[imgBadge]]
+| ![Vue](../badges/Developer-Vue.png)
+
+[[imgBadge]]
 | ![Angular](../badges/Developer-angular.png)
 
 [[imgBadge]]
