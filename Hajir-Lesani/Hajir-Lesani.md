@@ -27,7 +27,7 @@ quote: "Everything is Possible!"
 [[imgBadge]]
 | ![OpenAI](../badges/Developer-OpenAI.png)
 
-[[imgBanner]]
+[[imgBadge]]
 | ![](../badges/Business-microsoft-azure-devops.png)
 
 Hajir is an SSW Solution Architect and Team Lead with over 14 years of experience across diverse sectors including government organizations, United Nations, logistics and supply chain technology, and financial technology. His expertise spans from large-scale enterprise systems to innovative startup solutions, with a strong focus on infrastructure design and team leadership. He has successfully led multiple teams in modernizing legacy applications to address technical debt, ensuring systems remain scalable and maintainable while adopting current best practices and technologies.
