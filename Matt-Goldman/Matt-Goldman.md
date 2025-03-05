@@ -54,7 +54,7 @@ With a rich background in systems engineering and management, complemented by a 
 * **SSW Rewards App:** Lead the development of [SSW's showcase Rewards app](https://www.ssw.com.au/products/rewards), and recently introduced a groundbreaking AI-powered quiz engine, redefining user interaction and fairness within digital platforms.
 
 [[imgSm]]
-| ![Screenshot of the SSW Rewards app](./Images/CH06_F01_Goldman.png)
+| ![Screenshot of the SSW Rewards app](./Images/rewards_screenshot.jpeg)
 
 * **.NET MAUI in Action:** Authored a [comprehensive guide to .NET MAUI](https://www.manning.com/books/dot-net-maui-in-action?utm_source=goforgoldman&utm_medium=affiliate&utm_campaign=book_goldman_dot_5_10_22&a_aid=goforgoldman&a_bid=38933097), contributing to the knowledge base of the .NET community and supporting developers in mastering this versatile framework.
 

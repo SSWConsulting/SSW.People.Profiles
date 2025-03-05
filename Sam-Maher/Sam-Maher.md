@@ -11,6 +11,9 @@ quoteAuthor: "Richard P. Feynman"
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
+
+[[imgBadge]]
 | ![Vue](../badges/Developer-Vue.png)
 
 [[imgBadge]]
@@ -25,9 +28,6 @@ quoteAuthor: "Richard P. Feynman"
 [[imgBadge]]
 | ![Azure](../badges/Business-microsoft-azure.png)
 
-[[imgBadge]]
-| ![Dev Ops](../badges/Developer-devops.png)
-
 ---
 
 ✨ A true Full-stack developer, working across a broad range of technologies from your nuts-and-bolts Web Development with Angular & React, to Infrastructure as Code (IaC) DevOps via Terraform, to Embedded Devices with Raspberry Pi and Docker. Sam loves tackling new technologies and finding the right tool for the job.
@@ -38,3 +38,8 @@ quoteAuthor: "Richard P. Feynman"
 
 ---
 
+**Full-Stack Development:** Extensive experience with .NET Core, Vue, Angular, and React, delivering high-performance, scalable web applications with a strong focus on user experience and maintainability.
+
+**DevOps & Infrastructure as Code:** Proficient in Terraform, Azure, and Docker, streamlining deployments and automating infrastructure to enhance reliability and scalability.
+
+**Embedded Systems & IoT:** Experience deploying and managing applications on embedded devices using Raspberry Pi and Docker, integrating software solutions into real-world hardware applications.

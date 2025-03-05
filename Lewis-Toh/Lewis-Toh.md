@@ -6,6 +6,8 @@ qualifications: "Bachelor of Computer Science"
 quote: "The important thing is not how long you live... It's what you accomplish with your life"
 quoteAuthor: "Anonymous"
 ---
+[[imgBadge]]
+| ![Azure AI Fundamentals](../badges/Certification-microsoft-azure-ai-fundamentals.png)
 
 [[imgBadge]]
 | ![Angular.png](../badges/Developer-angular.png)
