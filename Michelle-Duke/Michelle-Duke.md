@@ -11,6 +11,9 @@ quoteAuthor: "Yuuki Asuna"
 | ![DDDspeaker](../badges/Event-DDD-Brisbane.png)
 
 [[imgBadge]]
+| ![Developer Github](../badges/Developer-github.png)
+
+[[imgBadge]]
 | ![photoshop](../badges/Designer-adobe-photoshop.png)
 
 [[imgBadge]]
