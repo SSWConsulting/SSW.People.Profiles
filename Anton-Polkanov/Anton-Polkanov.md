@@ -6,35 +6,7 @@ qualifications: "Masters of IT, MCP"
 quote: "If you're afraid to change something it is clearly poorly designed."
 quoteAuthor: "Martin Fowler"
 ---
-[[imgBadge]]
-| ![azure-logo.png](../badges/Business-microsoft-azure.png)
 
-[[imgBadge]]
-| ![xamarin-logo.png](../badges/Developer-xamarin.png)
-
-[[imgBadge]]
-| ![Flutter](../badges/Developer-flutter.png)
-
-[[imgBadge]]
-| ![Android](../badges/Designer-mobile-android.png)
-
-[[imgBadge]]
-| ![dotnetcore.png](../badges/Developer-dotnet-core.png)
-
-[[imgBadge]]
-| ![dotnetcore.png](../badges/Developer-c-sharp.png)
-
-[[imgBadge]]
-| ![React](../badges/Developer-react.png)
-
-[[imgBadge]]
-| ![Vue](../badges/Developer-vuejs.png)
-
-[[imgBadge]]
-| ![Angular](../badges/Developer-angular.png)
-
-[[imgBadge]]
-| ![Angular](../badges/Developer-python.png)
 
 [[imgBadge]]
 | ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
@@ -47,6 +19,40 @@ quoteAuthor: "Martin Fowler"
 
 [[imgBadge]]
 | ![Microsoft](../badges/Certification-microsoft-professional.jpg)
+
+[[imgBadge]]
+| ![Scrum](../badges/Certification-scrumalliance-owner-1.png)
+
+[[imgBadge]]
+| ![Scrum](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
+| ![azure-logo.png](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![dotnetcore.png](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![xamarin-logo.png](../badges/Developer-xamarin.png)
+
+[[imgBadge]]
+| ![Flutter](../badges/Developer-flutter.png)
+
+[[imgBadge]]
+| ![Android](../badges/Designer-mobile-android.png)
+
+[[imgBadge]]
+| ![React](../badges/Developer-react.png)
+
+[[imgBadge]]
+| ![Angular](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![Angular](../badges/Developer-python.png)
+
 
 
 Anton is a results-driven Senior Software Engineer at SSW with over 7 years of experience in professional software development. He has a proven track record of delivering high-quality solutions that meet the needs of both end-users and the business. Anton's expertise lies in designing and building robust software applications using cutting-edge approaches and techniques.
