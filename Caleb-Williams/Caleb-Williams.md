@@ -43,26 +43,37 @@ quoteAuthor: 'James Clear'
 ---
 
 ## Professional Career
-Caleb has proficiencies with .NET, SQL Server, MySQL and EF Core, but he primarily stands out as a **front end developer**. He has skills integrating websites with both React and Angular, including a proven ability to develop performant websites with server components using Next.js. This combination of skills means that Caleb excels at configuring performat React projects with external dependencies, including React projects leveraging [TinaCMS](https://tina.io/about).
 
-Toward the end of his degree, Caleb undertook a full-time 5-month [coding bootcamp](https://firebootcamp.com/). This pivotal experience not only improved his coding abilities, but also refined his communication skills and gave him a respect for the core tenets of Scrum in a practical environment which he later demonstrated by becoming a **certified Scrum Master**. He learned the value of being transparent with stakeholders, communicative with his team, and respectful of the product owner's vision throughout the software development process. 
+Caleb is a skilled software developer with expertise in .NET, SQL Server, MySQL, and EF Core. However, his true strengths lie in front-end development. He specializes in integrating React and Next.js applications and has a proven ability to build high-performance server-component-based websites using Next.js. His deep understanding of the React ecosystem and server side rendering are indespensible assets Caleb leverages when integrating TinaCMS into performat SEO friendly React applications.
 
-Caleb is a qualified developer with skills in Azure who is committed to building secure web apps with clean, maintainable code and excellent user experiences. He strives to broaden his horizons and stay up to date with the latest web development technologies.
+Toward the end of his degree, Caleb undertook a full-time, five-month coding bootcamp, which significantly enhanced both his technical and communication skills. This experience deepened his appreciation for Scrum principles, which he later formalized by earning his Scrum Master certification. Caleb prioritizes transparency with stakeholders, effective team communication, and alignment with the product owner’s vision to drive successful project outcomes.
+
+As a qualified developer with Azure expertise, he is committed to building secure, scalable web applications with clean, maintainable code and exceptional user experiences. He continuously expands his knowledge to stay ahead of the latest web development technologies.
 
 ## Education
 
-Caleb graduated with a Bachelor of Information Technology with Distinction in 2024, a journey that spanned five years of part-time study. Throughout this period, he meticulously honed a diverse set of valuable skills, including:
+Caleb graduated with a Bachelor of Information Technology with Distinction in 2024, completing five years of part-time study. Throughout this journey, he developed a well-rounded skill set, including:
 
-- Computer networking
+**Core Studies**:
+
+- Computer Networking
+
 - Communication
-- Project management
-- System design
-- Business analysis
 
-Although Caleb's primary area of interest was full-stack web development, he also pursued alternative interests in his elective courses, including:
+- Project Management
 
-- Mobile application development
-- Game prototyping
-- Ludology
-- Multimedia creation
-- Photo editing
+- System Design
+
+- Business Analysis
+
+**Electives & Additional Interests**:
+
+- Full-Stack Web Development
+
+- Mobile Application Development
+
+- Game Prototyping & Ludology
+
+- Multimedia Creation
+
+- Photo Editing
