@@ -77,3 +77,7 @@ Caleb graduated with a Bachelor of Information Technology with Distinction in 20
 - Multimedia Creation
 
 - Photo Editing
+
+## Personal Interests
+
+Outside of work Caleb likes to got to cook, hit the gym, take a dip at the beach and visit the occaisional music festival.
