@@ -54,5 +54,5 @@ Lei is also a TechEd speaker and a frequent speaker at Microsoft (Beijing) .NET 
 Right now, Lei's goals are:
 
 *   Improving the project management processes by utilizing Visual Studio Team System and Team Foundation Server even more. 
-*   Delivering more business solutions while using [SSW Agile Development Processes](https://ssw.com.au/rules/rules-to-successful-projects) 
+*   Delivering more business solutions while using [SSW Agile Development Processes](https://www.ssw.com.au/rules/rules-to-successful-projects) 
 

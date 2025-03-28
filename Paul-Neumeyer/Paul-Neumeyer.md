@@ -14,7 +14,7 @@ Key Technologies: **[SharePoint 2010](https://www.ssw.com.au/ssw/Consulting/Shar
 
 Customer Benefits: **Improved project management and optimised developement processes**  
 
-Favourite SSW Rules: **[Rules to Better Scrum with Azure DevOps](https://ssw.com.au/rules/rules-to-better-scrum-using-azure-devops/)**
+Favourite SSW Rules: **[Rules to Better Scrum with Azure DevOps](https://www.ssw.com.au/rules/rules-to-better-scrum-using-azure-devops/)**
 
 Dr. Paul Neumeyer is the go to man when your project is in trouble. He experience with the Scrum methodology and deep software experience allows him to pinpoint imporovements and help your team get back on track.  
 
