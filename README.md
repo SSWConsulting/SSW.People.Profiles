@@ -9,7 +9,7 @@ Welcome to People.SSW.Profiles (The Data in markdown)
 
 
 # The Code (Developer Information) 
-  These markdown files are used by our Gatsby static site generator to generate https://ssw.com.au/people
+  These markdown files are used by our Gatsby static site generator to generate https://www.ssw.com.au/people
   Gatsby generator project: https://github.com/SSWConsulting/SSW.People/
 
 

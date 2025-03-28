@@ -44,7 +44,7 @@ A long-running project, Damian came on board to help bring the software to compl
 
 **Damian's other work includes:**  
 
-* [SQL Deploy MVC](https://nuget.org/packages/SSW.SQLDeploy.MVC): Conceived and Implemented with [Adam Stephensen](https://ssw.com.au/people/alumni/adam-stephensen)
+* [SQL Deploy MVC](https://nuget.org/packages/SSW.SQLDeploy.MVC): Conceived and Implemented with [Adam Stephensen](https://www.ssw.com.au/people/alumni/adam-stephensen)
 
  **Damian's Presentations:**
 
@@ -56,7 +56,7 @@ A long-running project, Damian came on board to help bring the software to compl
 
 * **What’s new for ALM in Visual Studio 2013 and Team Foundation Server 2013** - Presented with Adam Cogan at Tech Ed Australia and Tech Ed NZ
 * **Climbing the Agile Testing Ladder** - Presented with Adam Cogan at Tech Ed Australia and Tech Ed NZ
-* **SSW Enterprise MVC Courses** - Written and presented with [Adam Stephensen](https://ssw.com.au/people/alumni/adam-stephensen)
+* **SSW Enterprise MVC Courses** - Written and presented with [Adam Stephensen](https://www.ssw.com.au/people/alumni/adam-stephensen)
 * [Zero to Everywhere with ASP.NET MVC](https://tv.ssw.com/1785/ddd-brisbane-damian-brady-zero-to-everywhere "Zero to Everywhere with ASP.NET MVC")
 * [Building Mobile Websites with ASP.NET MVC 3 and 4](https://www.slideshare.net/damovisa/building-mobile-websites-with-aspnet-mvc-3-4-11395594 "Building Mobile Websites with ASP.NET MVC 3 and 4")
 * [How to be a good TFS Master](https://www.slideshare.net/damovisa/how-to-be-a-good-tfs-master "How to be a good TFS Master")

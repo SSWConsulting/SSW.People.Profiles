@@ -32,7 +32,7 @@ Tiago is our favourite creative genius. When he told us he was moving from Austr
 
 With 15+ years experience working as a designer for both print and web projects, he loves spending time designing in Figma or writing clean HTML/CSS for websites and apps... while listening to old songs. Tiago has developed responsive websites and apps ranging from concept, layout, mark-up, implementation, testing, and maintenance.
 
-He is also a Scrum Master and the driving force behind keeping [SSW Rules](https://ssw.com.au/rules) up-to-date. 
+He is also a Scrum Master and the driving force behind keeping [SSW Rules](https://www.ssw.com.au/rules) up-to-date. 
 
 Here are some of his skills:
 

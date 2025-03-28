@@ -25,7 +25,7 @@ Danijel is a DevOps mastermind who can make your DevOps cycle run like a well-oi
 As Solution Architect, he has been involved in numerous projects built on Microsoft Stack that range from the manufacturing sector to medical services to taxes.
 
 At SSW, Danijel runs some internal projects including being the Product Owner for [SSW CodeAuditor](https://codeauditor.com/).   
-With an eye on bleeding edge technologies, he is always one step ahead and loves sharing his experience at user groups, conferences, SSW Rules (e.g. [Do you share code using packages?](https://ssw.com.au/rules/share-code-using-packages)) and [SSW TV videos](https://tv.ssw.com/tag/danijel-malik).  
+With an eye on bleeding edge technologies, he is always one step ahead and loves sharing his experience at user groups, conferences, SSW Rules (e.g. [Do you share code using packages?](https://www.ssw.com.au/rules/share-code-using-packages)) and [SSW TV videos](https://tv.ssw.com/tag/danijel-malik).  
 
 Danijel is also a Microsoft MVP for Visual Studio ALM. 
 
