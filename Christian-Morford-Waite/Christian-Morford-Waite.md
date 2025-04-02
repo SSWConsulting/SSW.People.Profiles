@@ -7,22 +7,26 @@ quote:  "There's a way to do it better - find it."
 quoteAuthor: "Thomas A. Edison"
 ---
 [[imgBadge]]
-| ![ITIL.png](../badges/Business-microsoft-azure.png) 
+| ![Azure](../badges/Business-microsoft-azure.png) 
 [[imgBadge]]
-| ![ITIL.png](../badges/Developer-azure-function.png) 
+| ![Azure DevOps](../badges/Business-microsoft-azure-devops.png) 
 [[imgBadge]]
-| ![ITIL.png](../badges/Developer-c-sharp.png) 
+| ![Angular](../badges/Developer-angular.png) 
 [[imgBadge]]
-| ![ITIL.png](../badges/Developer-dotnet-core.png) 
+| ![Azure Functions](../badges/Developer-azure-function.png) 
 [[imgBadge]]
-| ![ITIL.png](../badges/Developer-powershell.png) 
+| ![C Sharp](../badges/Developer-c-sharp.png) 
 [[imgBadge]]
-| ![ITIL.png](../badges/Business-itil.png) 
+| ![.NET Core](../badges/Developer-dotnet-core.png) 
+[[imgBadge]]
+| ![PowerShell](../badges/Developer-powershell.png) 
+[[imgBadge]]
+| ![Python](../badges/Developer-python.png) 
+[[imgBadge]]
+| ![ITIL](../badges/Business-itil.png) 
 
-Christian is a Senior Software Engineer with over 8 years of experience working with a wide range of technologies and Azure resources.
+Christian is a Senior Software Engineer with over a decade of consulting experience, specializing in modernizing legacy systems and delivering scalable .NET solutions. He’s passionate about automation and continuously improves development workflows using PowerShell, Azure Pipelines, and GitHub Actions.
 
-Specialising in backend .NET development and API integration. He enjoys working on process improvement and automation through PowerShell scripting, Azure Build Pipelines and GitHub Actions.
+With an ITIL Foundations certification and experience spanning across all levels of support, he combines precision with pragmatism. Currently completing a Bachelor of Engineering in Robotics and Mechatronics, Christian is committed to learning and applying emerging technologies to drive better outcomes for clients and teams.
 
-He is familiar with many of Azure Services offered by Microsoft including working with ARM templates, App Services, Databases, Storage, Messaging and Authentication.
-
-In addition, Christian is Certified in ITIL Foundations Service Management and has experience working across all levels of support.
+Beyond the keyboard, he tinkers with his AI-powered HomeLab, experiments with embedded systems, and keeps his RAID server in top shape. Whether he's calibrating a 3D printer, baking cakes, or driving his 1979 BMW at Sandown Raceway, Christian brings the same curiosity and problem-solving mindset to everything he does.
