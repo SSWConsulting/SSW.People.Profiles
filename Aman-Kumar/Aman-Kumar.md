@@ -42,17 +42,28 @@ quoteAuthor: "Elon Musk"
 
 ---
 
-Aman Kumar is a seasoned Software Developer at SSW Melbourne, boasting over 3 years of experience in crafting responsive and scalable web applications. He has a rich skill set encompassing platforms like Angular, AngularJs, React, Node, PHP, .NET Framework, and Power Automate. A significant facet of his expertise lies in DevOps practices, where he has excelled in deploying Azure DevOps Pipelines and GitHub Actions to optimize deployment workflows and enhance application performance.  The combination of these skills has enabled him to integrate [TinaCMS](https://tina.io/) into the [SSW Website](https://www.ssw.com.au/) and configure high-performance React projects with external dependencies.
+Aman Kumar is a skilled Software Developer at SSW Melbourne, specializing in building responsive and scalable web applications. With over 4 years of experience, he has honed his expertise in modern frameworks, DevOps automation, and cloud technologies to drive efficiency and performance improvements.
 
-Aman holds a Master's in Information Technology, specializing in Cloud and Mobile Computing, from Swinburne University of Technology. His final university project entailed developing an e-commerce portal for a jewelry store, showcasing his ability to create practical and user-centric solutions.
+## 🚀 Technical Expertise  
+- **Frontend & Backend Development:** Angular, React, Next.js, AngularJS, Node.js, PHP, .NET Framework  
+- **DevOps & Cloud Technologies:** Azure DevOps Pipelines, GitHub Actions, Cloudflare Workers, Azure Front Door, Bicep  
+- **Database Optimization:** SQL Stored Procedures, Performance Tuning  
+- **Automation & Workflow Optimization:** Power Automate, Infrastructure as Code (IaC)  
 
-Some of his notable contributions include:
+## 🏆 Key Achievements & Contributions  
+- **Optimized Next.js applications**, reducing build times and improving overall performance.  
+- Developed an **Azure DevOps Pipeline** to automate deployments, minimizing downtime and improving efficiency.  
+- Implemented **GitHub Actions** to clean up unused Azure App Service slots, optimizing resource usage and cost.  
+- Automated **cloud resource deployment using Bicep**, integrating it seamlessly into CI/CD workflows.  
+- Utilized **Cloudflare Workers** for **efficient URL redirects and domain setup**, ensuring seamless traffic flow.  
+- Leveraged **Azure Front Door** to improve website navigation and user experience.  
+- Optimized **SQL stored procedures**, reducing retrieval times from several minutes to seconds.  
+- Created a **Power Automate flow** for customer callback requests, integrating with Dynamics 365 for better lead tracking.  
 
-- Developing an Azure DevOps Pipeline to automate the deployment process, which reduced time to production and minimized the risk of deployment failure.
-- Utilizing GitHub Actions to clean up unused Azure App Service slots, optimizing resource usage and cost efficiency.
-- Automating cloud resource deployment using Bicep and integrating that into the deployment process via GitHub Actions.
-- Working with Azure Front Door to direct website traffic to different URLs, improving site navigation and user experience.
-- Optimizing SQL Stored Procedures, reducing retrieval times from several minutes to several seconds, significantly enhancing system performance.
-- Crafting a Power Automate flow triggered by customer callback requests on a website, which creates a record in Dynamics 365 to track the lead and emails relevant stakeholders for timely follow-up.
+## 🎓 Education & Projects  
+- **Master’s in Information Technology** (Cloud & Mobile Computing) – Swinburne University of Technology  
+- **Final Project:** Developed a full-fledged **e-commerce portal for a jewelry store**, showcasing strong full-stack development skills.  
 
-Aman is also a cricket enthusiast with a deep admiration for legendary cricketers like AB de Villiers and Shane Warne. His leadership stints with local cricket teams have enriched his leadership and team management skills. His keen observation of team management dynamics in cricket has also refined his strategic approach to handling collaborative projects in the professional sphere.
+## 🏏 Beyond Tech  
+Aman is a passionate cricket enthusiast with deep admiration for **AB de Villiers and Shane Warne**. His love for the game extends beyond the field, influencing his strategic thinking and problem-solving approach in software development.  
+
