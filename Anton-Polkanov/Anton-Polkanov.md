@@ -12,6 +12,9 @@ quoteAuthor: "Martin Fowler"
 | ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
 
 [[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-developer-associate.png)
+
+[[imgBadge]]
 | ![Azure](../badges/Certification-microsoft-azure-ai-fundamentals.png)
 
 [[imgBadge]]
