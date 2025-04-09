@@ -15,6 +15,8 @@ Ulysses Maclaren is the General Manager of SSW, a role he has excelled in since 
 
 An expert in the business applications of AI, Ulysses has enriched SSW's offerings through innovative AI solutions. His expertise has led to significant improvements in workflow automation, data analysis, and customer engagement, contributing to notable enhancements in operational efficiency and customer satisfaction.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BlqJ7bnivLE?si=_j0-XvVSJA47-PG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 In addition to his managerial prowess, Ulysses is a certified Scrum Master, guiding both internal and client-facing projects with a steady hand and a clear vision. His integrity, transparency, and commitment to excellence are the cornerstones of his leadership style, fostering an environment where teamwork and innovation flourish.
 
 A Power BI and ChatGPT aficionado, Ulysses leverages these tools to drive data-driven decision-making and enhance communication strategies across the board. His work with the SSW website, utilizing TinaCMS, showcases his knack for blending technical acumen with user-centric design principles.
