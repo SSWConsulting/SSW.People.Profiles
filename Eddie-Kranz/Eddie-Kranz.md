@@ -49,8 +49,6 @@ quoteAuthor: "Isaac Newton"
 [[imgBadge]]
 ---
 
-[Click here to book a meeting with me](https://outlook.office.com/bookwithme/user/YOUR_BOOKING_LINK)
-
 Eddie is an SSW Software Developer with a keen eye for detail, and a passion for creating high-quality, efficient solutions. He is currently in his penultimate year of a Bachelor of Advanced Computing (Software Development) degree at The University of Sydney, writing his thesis on the topic of "Portal Redirection in Virtual Reality using Impossible Spaces". 
 
 **Technologies**:
