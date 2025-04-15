@@ -31,7 +31,7 @@ quoteAuthor: "Aristotle"
 
 ---
 
-🖥️ Gilles is a Software Engineer at SSW Europe (France) with five years of experience in the Angular and .NET ecosystems. He began his career as a web developer, then worked for an insurance company where he contributed to a large-scale application built with a .NET, Angular, and MongoDB stack, before becoming a consultant at SSW.  
+🖥️ Gilles is a Software Engineer at SSW Europe (France) with five years of experience in the Angular and .NET Core ecosystems. He began his career as a web developer, continued as a consultant developer in an insurance company where he contributed to a large-scale application built with a .NET Core, Angular/AngularJS, and MongoDB stack, before becoming a software engineer at SSW.
 
 💡 Patient and driven by curiosity, he enjoys crafting responsive applications with seamless, optimized user experiences just as much as designing scalable, well-structured back-end architectures. He regularly explores new technologies by building small apps, testing emerging frameworks, and deepening his knowledge of modern development practices.
 
