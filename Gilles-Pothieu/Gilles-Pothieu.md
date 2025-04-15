@@ -28,12 +28,12 @@ quoteAuthor: "Aristotle"
 
 ---
 
-🖥️ Gilles is a SSW Software Engineer at SSW Europe (France), who has been working with the Angular/.NET Core environment for nearly 4 years. He began his career as a web developer and later joined an engineering team that worked on a large application for an insurance company using a .NET Core/Angular-AngularJS/MongoDB environment.  
+🖥️ Gilles is a Software Engineer at SSW Europe (France) with five years of experience in the Angular and .NET Core ecosystems. He began his career as a web developer and later contributed to a large-scale insurance application built with a .NET Core, Angular/AngularJS, and MongoDB stack.  
   
-🚀 Always attuned to the latest advancements in the field of development, he is enthusiastic about the emergence of AI that promise to revolutionize not only this domain but also the world at large.
+🚀 Deeply engaged with the latest trends in software development, Gilles is particularly passionate about artificial intelligence and its transformative impact on both technology and society.
   
-💡 Patient and passionate, Gilles enjoys creating responsive applications with user-friendly and optimized UX as much as he enjoys architecting a back-end. Being curious, he enjoys using his free time to explore new technologies by both creating small applications to learn new programming languages and experimenting with emerging frameworks.
+💡 Patient and driven by curiosity, he enjoys crafting responsive applications with seamless, optimized user experiences just as much as designing scalable, well-structured back-end architectures. He regularly explores new technologies by building small apps, testing emerging frameworks, and deepening his knowledge of modern development practices.
 
-🤖 Gilles recently embarked on an ambitious project where he developed an AI chatbot powered by Azure OpenAI. This chatbot is unique because it leverages a vector database filled with custom data to understand and process user queries more effectively.
+🤖 With growing experience in AI-powered solutions, Gilles has worked on multiple intelligent tools tailored to specific business needs—such as custom-trained chatbots leveraging vector databases, or complex automation scripts, including systems that automatically translate blog content during static site builds. His hands-on approach allows him to bridge innovation with practical results.
 
-🔥 Expertise in implementing TinaCMS, the best headless CMS that is powered by Markdown and GitHub, for seamless content editing and publishing workflows.
+🔥 He is also well-versed in implementing TinaCMS—an excellent headless CMS powered by Markdown and GitHub—for smooth, developer-friendly content management and publishing workflows.
