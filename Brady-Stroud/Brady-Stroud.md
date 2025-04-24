@@ -1,8 +1,7 @@
 ---
 id: "6b374d1c-a924-eb11-bbf3-000d3a799676"
 qualifications: ""
-quote: "A good programmer is someone who always looks both ways before crossing a one-way street."
-quoteAuthor: "Doug Linder"
+quote: "A good programmer looks both ways before crossing a one-way street"
 ---
 
 [[imgBadge]]
@@ -15,20 +14,14 @@ quoteAuthor: "Doug Linder"
 | ![Blazor](../badges/Developer-blazor.png)
 
 [[imgBadge]]
-| ![C#](../badges/Developer-c-sharp.png)
-
-[[imgBadge]]
 | ![Dev Ops](../badges/Developer-devops.png)
 
 [[imgBadge]]
 | ![React](../badges/Developer-react.png)
 
 
+Brady is a skilled software engineer, proficient in .NET, Blazor, MAUI (formerly Xamarin), and React. With a strong focus on process improvement and high standards, he has previously worked on projects and delivers solutions for financial and mining clients. He values open source technology for its flexibility, cost-efficiency, and broad ecosystem. Internally, Brady mananges some of SSW's products and helps with turning junior developers into awesome consultants for the next client project.
 
-📍 Proficient in .NET, Blazor, MAUI (Previously Xamarin), and React, he not only excels in software engineering but also takes on the responsibility of managing projects with a focus on process improvement and having a standards-first mindset. He appreciates the advantages of open source technology, emphasizing its flexibility, cost-efficiency, and access to a comprehensive range of tools and technologies.
+Always seeking innovation, Brady explores AI tools like Semantic Kernel, LangChain, and OpenAI in personal projects, bringing fresh ideas to client work. As a certified Scrum Master, he leads Agile teams with an emphasis on results and continuous improvement.
 
-💻 Always on the cutting edge, he’s been exploring AI technologies such as Semantic Kernel, LangChain, and OpenAI in personal projects. He’s continuously looking for opportunities to integrate these advancements into client projects for enhanced innovation. As a certified Scrum Master, he effectively manages Agile development teams.
-
-🌟 Brady's diverse skills in both tech and management make him invaluable for client projects. His expertise ensures he can handle complex challenges, while his knack for innovation brings fresh solutions. Certified in Scrum, he also keeps the team on point. All this makes him a go-to asset for delivering results.
-
-🌊 In his free time, he loves to travel and enjoys many outdoor activities such as mountain biking, climbing, surfing, wakeboarding and many more.
+Brady’s blend of technical and management expertise makes him a valuable asset for complex client projects. Outside work, he enjoys travel and outdoor pursuits such as mountain biking, climbing, surfing, and wakeboarding.
