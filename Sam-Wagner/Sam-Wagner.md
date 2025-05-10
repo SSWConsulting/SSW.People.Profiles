@@ -3,8 +3,8 @@ id: "1dfad0e3-7a05-ed11-82e4-00224814f19b"
 
 qualifications: ""
 
-quote: "Perfomance is the culmination of preparation and courage. That is all."
-quoteAuthor: "Sam Wagner"
+quote: "Its not hot enough that you notice it. But, its hot enough that its a vibe"
+quoteAuthor: "The ZARA official playlist"
 ---
 
 [[imgBadge]]
