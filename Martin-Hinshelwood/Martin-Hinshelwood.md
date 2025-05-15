@@ -14,8 +14,8 @@ He aims to continue improve the engineering practices of development teams in th
 
 Some of Martin’s highlights have been:
 
-* **TFS2010 Beta 2 Migration** - Martin was on the team that gave SSW the distinction of being the [first](https://nkdagility.com/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done) company in the world to be in production with Visual Studio 2010 Team Foundation Server. 
-* **TFS2010 RC Migration** - Again SSW was the [first](https://nkdagility.com/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done) company in the world, outside of Microsoft, to deploy the Visual Studio 2010 Team Foundation Server to production. Martin used his expertise of migrating process templates and updating the SharePoint portal. 
+* **TFS2010 Beta 2 Migration** - Martin was on the team that gave SSW the distinction of being the first company in the world to be in production with Visual Studio 2010 Team Foundation Server. 
+* **TFS2010 RC Migration** - Again SSW was the first company in the world, outside of Microsoft, to deploy the Visual Studio 2010 Team Foundation Server to production. Martin used his expertise of migrating process templates and updating the SharePoint portal. 
 * **First Scrum project at SSW** - Martin was involved in finally removing the 'Scrum buts' so SSW could use the good engineering practices of Scrum at 100%.   
     Related Technology: Team Foundation Server, Scrum, Team Build, Team Test 
 * **SSW SQL Deploy** - Updating SSW’s SQL Deploy so that it supported Silverlight 4.   
