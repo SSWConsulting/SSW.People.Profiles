@@ -9,6 +9,14 @@ quoteAuthor: "Paulo Coelho"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Suzanne is the Marketing and Events Coordinator at SSW, bringing a dynamic background in event coordination, marketing, video production, and project management. With a Bachelor of Professional Arts in Communication Studies and a background in Broadcast Media Studies, she thrives at the intersection of creativity and strategy, with a passion for community, team collaboration, and the relationship between technology and engagement.
+Suzanne is the Marketing and Events Coordinator at SSW, bringing a dynamic background in event coordination, marketing, video production, and project management. She thrives at the intersection of creativity and strategy, with a passion for community, team collaboration, and the relationship between technology and engagement. Suzanne plays a key role in elevating the SSW brand across conferences, livestreams, and community engagement.
 
-Outside of work, Suzanne is often immersed in a new hobby that spans a range of creative endeavors, from learning instruments and experimenting with different recipes, to juggling and practicing riding a unicycle (though not yet at the same time!).
+**Industries**: Technology, Government, Events & Conferences, Arts & Culture
+
+**Key Skills and Achievements**:
+- **Tech Event Production**: Skilled in delivering large-scale developer conferences, livestreams, and hybrid events. 
+- **Marketing & Communication Strategy**: Crafts content and campaigns that resonate with developers, product teams, and business stakeholders—across social media, GitHub, websites, and internal platforms.
+- **Project & Vendor Management**: Leads logistics for event operations and branded initiatives, from merchandise and budgets to venue relationships and production schedules.
+- **Technical Collaboration**: Works directly with developers, sales, and leadership to align marketing and event strategies with technical goals and business outcomes.
+
+Outside of work, Suzanne is often immersed in a new hobby that spans a range of creative endeavors, from learning instruments and experimenting with different recipes, to juggling and practicing riding a unicycle (though not yet at the same time!). 
