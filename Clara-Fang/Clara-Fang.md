@@ -7,8 +7,7 @@ quote: "After all, tomorrow is another day."
 quoteAuthor: "Scarlett O’Hara"
 ---
 
-![](https://github.com/user-attachments/assets/399b3794-c622-4a7b-9fbc-aa1be6da97cc)
-![](https://github.com/user-attachments/assets/37129760-ef82-40f7-aa7d-5ac5cbcbc9af)
+![](https://github.com/user-attachments/assets/399b3794-c622-4a7b-9fbc-aa1be6da97cc)![](https://github.com/user-attachments/assets/37129760-ef82-40f7-aa7d-5ac5cbcbc9af)
 <hr />
 
 📖 Clara Fang is a seasoned accounting professional with a Master's degree in Accounting from the prestigious London School of Economics and Political Science (LSE). As an Accountant at the SSW Hangzhou Office, Clara leverages her extensive expertise in financial reporting and data-driven analysis to deliver exceptional results and enhance operational efficiency.
