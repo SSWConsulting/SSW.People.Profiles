@@ -7,10 +7,17 @@ quote: "After all, tomorrow is another day."
 quoteAuthor: "Scarlett O’Hara"
 ---
 
+[[imgBadge]]
+| ![Office365](../badges/Business-microsoft-office365.png)
+
+[[imgBadge]]
+| ![ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
+<hr />
 
 📖 Clara Fang is a seasoned accounting professional with a Master's degree in Accounting from the prestigious London School of Economics and Political Science (LSE). As an Accountant at the SSW Hangzhou Office, Clara leverages her extensive expertise in financial reporting and data-driven analysis to deliver exceptional results and enhance operational efficiency.
 
 📊Key Professional Skills and Achievements:
+
 **Financial Reporting:**
 Clara is proficient in preparing accurate and timely financial statements. Her deep understanding of financial reporting standards ensures compliance with regulatory requirements. Her meticulous attention to detail and analytical skills enable her to identify trends and provide insights that drive strategic business decisions.
 
