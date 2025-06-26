@@ -57,10 +57,10 @@ quoteAuthor: "Martin Fowler"
 | ![Python](../badges/Developer-python.png)
 
 [[imgBadge]]
-| ![Supabase](../badges/supabase.png)
+| ![Supabase](../badges/Developer-supabase.png)
 
 [[imgBadge]]
-| ![MongoDbAtlas](../badges/mongodb-atlas.png)
+| ![MongoDbAtlas](../badges/Developer-mongodb-atlas.png)
 
 
 Anton is a Senior Software Engineer at SSW with over 10 years of experience delivering high-quality software across a range of industries. He combines technical expertise with a pragmatic mindset, consistently building solutions that are robust, scalable, and aligned with business objectives.
