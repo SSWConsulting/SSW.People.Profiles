@@ -13,6 +13,9 @@ quote: "Everything is Possible!"
 | ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
+
+[[imgBadge]]
 | ![azure-logo](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
@@ -25,10 +28,16 @@ quote: "Everything is Possible!"
 | ![OpenAI-ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 
 [[imgBadge]]
-| ![OpenAI](../badges/Developer-OpenAI.png)
+| ![](../badges/Business-microsoft-azure-devops.png)
 
 [[imgBadge]]
-| ![](../badges/Business-microsoft-azure-devops.png)
+| ![GitHub](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![NodeJS](../badges/Developer-node-js.png)
+
+[[imgBadge]]
+| ![SQL Server](../badges/Developer-sql-server.png)
 
 Hajir is an SSW Solution Architect and Team Lead with over 14 years of experience across diverse sectors including government organizations, United Nations, logistics and supply chain technology, and financial technology. His expertise spans from large-scale enterprise systems to innovative startup solutions, with a strong focus on infrastructure design and team leadership. He has successfully led multiple teams in modernizing legacy applications to address technical debt, ensuring systems remain scalable and maintainable while adopting current best practices and technologies.
 
@@ -38,7 +47,7 @@ In addition to his technical expertise, Hajir is deeply interested in Artificial
 
 **Technologies**:
 - SQL
-- .NET (including Core, ASP.NET, MVC, Web API)
+- .NET (including Core, ASP.NET, MVC, Web API, Blazor)
 - React
 - Artificial Intelligence (AI)
 
