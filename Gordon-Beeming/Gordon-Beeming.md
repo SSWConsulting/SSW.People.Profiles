@@ -27,7 +27,7 @@ quoteAuthor: "David Goggins"
 | ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
-| ![Sql Server](../badges/Developer-sql-server.png)
+| ![SQL Server](../badges/Developer-sql-server.png)
 
 [[imgBadge]]
 | ![Terraform](../badges/Developer-terraform.png)
