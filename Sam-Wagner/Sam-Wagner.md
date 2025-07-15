@@ -4,7 +4,7 @@ id: "1dfad0e3-7a05-ed11-82e4-00224814f19b"
 qualifications: ""
 
 quote: "complexity bad"
-quoteAuthor: "Carson Gross"
+quoteAuthor: "The Grug Brained Developer (Carson Gross)"
 ---
 
 [[imgBadge]]
