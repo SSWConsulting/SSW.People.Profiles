@@ -11,6 +11,9 @@ quoteAuthor: "Anonymous"
 | ![](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
+| ![Certification Scrum Alliance Master](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
