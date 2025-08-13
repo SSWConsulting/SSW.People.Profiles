@@ -18,6 +18,9 @@ quoteAuthor: "Albert Einstein"
 | ![Microsoft Certified: Azure Data Scientist Associate](../badges/Certification-microsoft-azure-data-scientist-associate.png)
 
 [[imgBadge]]
+| ![Microsoft Certified: Fabric Data Engineer Associate](../badges/Certification-microsoft-fabric-data-engineer-associate.png)
+
+[[imgBadge]]
 | ![Microsoft Certified: Azure Fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
@@ -38,11 +41,17 @@ quoteAuthor: "Albert Einstein"
 [[imgBadge]]
 | ![Blazor](../badges/Developer-blazor.png)
 
+[[imgBadge]]
+| ![Fabric](../badges/Developer-microsoft-fabric.png)
+
+[[imgBadge]]
+| ![PowerBI](../badges/Business-microsoft-dynamics-powerbi.png)
+
 ---
 
 Vlad is a Full Stack Software Engineer working in the SSW Brisbane office, who is passionate about working with international clients on complex projects.
 
-Vlad has experience with variety of programming languages, but predominately works with C# with .Net and JavaScript with React. He also has experience with DevOps and Big Data Analytics.
+Vlad has experience with variety of programming languages, but predominately works with C# with .Net and JavaScript with React. He also has experience with Data Analytics and Engineering, as well as DevOps.
 
 Vlad loves learning and is always looking for the new skills to become a better developer. 
 
