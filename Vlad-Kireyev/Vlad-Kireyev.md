@@ -49,10 +49,10 @@ quoteAuthor: "Albert Einstein"
 
 ---
 
-Vlad is a Full Stack Software Engineer working in the SSW Brisbane office, who is passionate about working with international clients on complex projects.
+Vlad is a Full Stack Software Engineer at SSW Brisbane, passionate about partnering with international clients to deliver innovative, complex solutions.
 
-Vlad has experience with variety of programming languages, but predominately works with C# with .Net and JavaScript with React. He also has experience with Data Analytics and Engineering, as well as DevOps.
+Skilled in C# with .NET, JavaScript with React, SQL, Python, and cloud platforms, Vlad also brings expertise in Data Analytics, Data Engineering, and DevOps. He has contributed to high-impact projects ranging from enterprise web applications to data-driven platforms that streamline operations and improve efficiency.
 
-Vlad loves learning and is always looking for the new skills to become a better developer. 
+A lifelong learner, Vlad is constantly exploring new technologies to sharpen his skills and tackle complex problems.
 
-In his free time, Vlad enjoys reading and exploring nature.
+Outside of work, Vlad can often be found with a book in hand or discovering new hiking trails, blending a love for stories with a passion for the outdoors.
