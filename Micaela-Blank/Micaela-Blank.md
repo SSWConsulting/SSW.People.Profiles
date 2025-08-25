@@ -32,18 +32,24 @@ quoteAuthor: "Seymour Chwast"
 | ![Adobe Premiere Pro](../badges/Designer-adobe-premiere.png)
 
 ---
-Micaela Blank is a creative UI/UX Designer at SSW with a background in Computer Science and Media Arts. Her work blends technical precision with artistic exploration, creating digital experiences that are both functional and emotionally resonant.
+# Micaela Blank – UI/UX Designer
 
-Micaela focuses on crafting user interfaces that prioritize clarity, usability, and delight. Her design process is rooted in research and empathy, whether she’s wireframing a new product, refining user flows, or bringing brand stories to life with elegant interactions.
+Micaela Blank is a UI/UX designer at SSW with a background in Computer Science and Media Arts. She brings a mix of technical thinking and creative curiosity to her work, with a focus on building digital experiences that are clear, usable, and a little bit delightful.
 
-With experience across both startup and agency environments, Micaela thrives in collaborative, fast-moving teams where design can make a meaningful impact. She’s passionate about designing for accessibility, questioning defaults, and finding the unexpected in the everyday.
+With experience in both startup and agency environments, Micaela thrives in collaborative, cross-functional teams. She’s especially interested in how thoughtful design—rooted in research and real user insight—can reduce friction, improve accessibility, and tell a meaningful story.
 
-Talk to Micaela if you want help with:
+She is currently focused on deepening her user research practice, leading interviews and audits to better understand how people interact with complex systems. Her process is grounded in empathy, collaboration, and a healthy dose of questioning the default.
 
--UI/UX Design – Wireframing, prototyping, user testing, and interaction design
--Creative Development – Interactive visuals, animations, and creative coding
--Front-End Collaboration – Figma, dev handoff, and design systems
--Art Direction – Visual storytelling and conceptual design rooted in narrative
--Research & Strategy – User interviews, journey mapping, and interface audits
+---
 
-Outside of work, Micaela can be found painting, at the beach, or testing a new audio-reactive shader. She finds inspiration in maths, real life interactions, and colour theory.
+## Areas she works across
+
+- **User Research & Strategy** – Interviews, journey mapping, interface audits, and usability testing  
+- **UI/UX Design** – Wireframes, flows, prototypes, and interaction design  
+- **Creative Development** – Interactive visuals, animations, and creative coding  
+- **Front-End Collaboration** – Figma, developer handoff, and responsive design  
+- **Art Direction** – Visual storytelling and narrative-led concept work  
+
+---
+
+Outside of work, you’ll usually find her painting, swimming, or testing a new audio-reactive shader. She’s inspired by colour theory, real-life quirks, and the occasional weird maths problem.
