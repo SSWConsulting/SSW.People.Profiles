@@ -32,3 +32,5 @@ He focuses on the backend side of Tina, TinaCloud, where he writes Golang, React
 
 In his personal time, Brook works on system tooling and websites to aid in his venture to learn and practice new things.  
 He also enjoys hiking, bouldering, and playing music.
+
+Brook Jeynes is a Software Engineer at SSW in Brisbane. He specializes in the backend development of [TinaCloud, a headless CMS built on Markdown and GitHub](https://tina.io). His work primarily involves writing Golang and Node.js code that interacts with AWS services. In his personal time, he focuses on tooling and website development to explore new technologies. His hobbies include hiking, bouldering, language learning, and playing music.
