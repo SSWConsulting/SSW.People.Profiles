@@ -1,7 +1,7 @@
 ---
 id: "487f6b90-432b-ed11-9db1-00224818a84c"
 
-qualifications: "MProfAcct, CPA, CSM"
+qualifications: "Certified Practising Accountant (CPA) | Master of Professional Accounting | Certified ScrumMaster® (CSM®) |"
 
 quote: "Not everything that counts can be counted, and not everything that can be counted counts"
 quoteAuthor: "Albert Einstein"
