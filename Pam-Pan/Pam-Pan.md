@@ -11,16 +11,10 @@ quoteAuthor: "Jean-Paul Sartre"
 | ![](../badges/Designer-adobe-premiere.png)
 
 [[imgBadge]]
-| ![](../badges/Designer-adobe-aftereffects.png)
-
-[[imgBadge]]
 | ![](../badges/Designer-adobe-photoshop.png)
 
 [[imgBadge]]
 | ![](../badges/Designer-camera.png)
-
-[[imgBadge]]
-| ![](../badges/Designer-mobile-ios.png)
 
 [[imgBadge]]
 | ![](../badges/Designer-youtube.png)
