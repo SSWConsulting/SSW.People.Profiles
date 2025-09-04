@@ -36,7 +36,7 @@ quoteAuthor: "Seymour Chwast"
 
 Micaela Blank is a UI/UX designer at SSW with a background in Computer Science and Media Arts. She brings a mix of technical thinking and creative curiosity to her work, with a focus on building digital experiences that are clear, usable, and a little bit delightful.
 
-With experience in both startup and agency environments, Micaela thrives in collaborative, cross-functional teams. She’s especially interested in how thoughtful design—rooted in research and real user insight—can reduce friction, improve accessibility, and tell a meaningful story.
+With experience in both startup and agency environments, Micaela thrives in collaborative, cross-functional teams. She’s especially interested in how thoughtful design rooted in research and real user insight can reduce friction, improve accessibility, and tell a meaningful story.
 
 She is currently focused on deepening her user research practice, leading interviews and audits to better understand how people interact with complex systems. Her process is grounded in empathy, collaboration, and a healthy dose of questioning the default.
 
