@@ -49,12 +49,13 @@ quoteAuthor: "Isaac Newton"
 [[imgBadge]]
 ---
 
-Eddie is an SSW Software Developer with a keen eye for detail, and a passion for creating high-quality, efficient solutions. He is currently in his penultimate year of a Bachelor of Advanced Computing (Software Development) degree at The University of Sydney, writing his thesis on the topic of "Portal Redirection in Virtual Reality using Impossible Spaces". 
+Eddie is an SSW Software Developer with a keen eye for detail, and a passion for creating high-quality, efficient solutions. He holds a Bachelor of Advanced Computing (Software Development) degree from The University of Sydney, and wrote his thesis on the topic of "Portal Redirection in Virtual Reality using Impossible Spaces". 
 
 **Technologies**:
 - .NET and .NET Web APIs
 - JavaScript, TypeScript
 - Angular, Next.js
+- Python (FastAPI + AI/ML/DS libraries)
 - Azure and Azure OpenAI Service
 - SQL, EF Core
 - Docker
