@@ -18,6 +18,9 @@ quoteAuthor: "Aristotle"
 | ![dotnet-core.png](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
+| ![Certification Scrum Alliance Master](../badges/Certification-scrumalliance-master.png)
+
+[[imgBadge]]
 | ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]

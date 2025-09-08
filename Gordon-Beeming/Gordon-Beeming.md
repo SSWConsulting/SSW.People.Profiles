@@ -26,18 +26,25 @@ quoteAuthor: "David Goggins"
 [[imgBadge]]
 | ![C#](../badges/Developer-c-sharp.png)
 
+[[imgBadge]]
+| ![SQL Server](../badges/Developer-sql-server.png)
+
+[[imgBadge]]
+| ![Terraform](../badges/Developer-terraform.png)
+
+[[imgBadge]]
+| ![Microsoft Certified Professional](../badges/Certification-microsoft-professional.jpg)
+
 ---
 
-Gordon Beeming is a passionate SSW Solution Architect and Microsoft MVP (Developer Technologies) who lives and breathes DevOps.  He's dedicated to helping teams transform their development processes and achieve greater agility, collaboration, and success.
+Gordon Beeming is a Solution Architect at SSW and a long-standing Microsoft MVP in Developer Technologies, an award he has held since 2014. With a deep-rooted passion for DevOps, he excels at guiding organizations through the cultural and technical shifts required for modern software development.
 
-With deep roots in the Microsoft ecosystem since .NET 2.0, Gordon has been leveraging Azure DevOps (and its predecessors) from the early days. He's not just a user; he's actively contributed to the community, co-authoring numerous ALM Rangers guidance documents and even penning books on TFS customization and agile project management.
+Gordon's expertise is built on years of experience with the Microsoft stack, beginning with .NET 2.0 in 2008. He is a prominent authority on Azure DevOps, having used the platform since its earliest on-premises days as TFS. As a published author, he has co-authored multiple books on TFS and agile project management and has contributed extensively to community guidance as a former ALM Ranger.
 
-Gordon also enjoys sharing his knowledge and experiences through talks and workshops, hoping to make DevOps a bit less daunting and a lot more accessible for everyone.
-
-When he's not pushing technology limits, you'll find him training for his next triathlon or enjoying quality time with his family.
+Based in Brisbane, Australia, Gordon actively shares his knowledge and current projects on his [YouTube channel](https://www.youtube.com/@gordonbeeming). When he isn't architecting cutting-edge solutions, he enjoys training for triathlons and spending time with his family.
 
 **Connect with Gordon:**
 
-Subscribe to his YouTube channel: [@gordonbeeming](https://www.youtube.com/@gordonbeeming).   
-Follow him on his [social platforms](https://gordonbeeming.com/).   
+Subscribe to his YouTube channel: [@gordonbeeming](https://www.youtube.com/@gordonbeeming).
+Follow him on his [social platforms](https://gordonbeeming.com/about).
 Let's talk DevOps!

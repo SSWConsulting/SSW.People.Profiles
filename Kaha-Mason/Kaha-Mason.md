@@ -35,19 +35,10 @@ quote:  "Coding is like artwork and as developers we should always strive to be 
 
 ---
 
-Kaha is a **Software Engineer** with years of experience in Software Engineering and Enterprise Software Development. He is also a certified **Scrum Master** and is well versed in the latest Scrum practices. He has been involved in a wide range of Angular, .NET and React based development projects and is experienced in developing robust full stack solutions. He has enganged with a variety of organisations and development teams over his career and worked close in hand to provide the best flexible software solutions. Kaha constantly strives to improve and expand his repertoire of skills and learn about the newest leading technology and perfecting his craft. 
+As a Software Engineer and consultant at SSW, I help businesses turn complex challenges into elegant, reliable software solutions. With over 6 years of experience in software development, I’ve helped to deliver enterprise systems and custom applications that improve efficiency, reduce costs, and tackle many of the new challenges facing businesses today.
 
-### Key Technologies
+I specialize in the .NET development stack, creating secure, scalable, and high-performance solutions. I work closely with clients to understand their goals and needs to design and implement software that not only meets requirements but also adapts to future challenges.
 
-* Azure DevOps
-* Azure Cognitive Search
-* GitHub
-* Octopus Deploy
-* .NET Core
-* Angular
-* React
-* RXJS & NGRX
-* SQL Server
-* Cosmos DB
-* NodeJS  
-* Entity Framework  & EF Core
+My approach blends technical expertise with clear communication and a commitment to delivering software solutions on time and to a high standard. Whether modernizing legacy systems or building new solutions from scratch, my focus is always on creating technology that works for the business.
+
+Outside of work, I enjoy immersing myself in video games, socializing with friends through board games and getting lost in a great audiobook.

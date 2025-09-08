@@ -7,6 +7,9 @@ quote: "Before software can be reusable it first has to be usable."
 quoteAuthor: "Ralph Johnson"
 ---
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-power-platform-developer-associate.png)
+
+[[imgBadge]]
 | ![](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
 
 [[imgBadge]]
@@ -16,13 +19,22 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
+| ![azure-logo.png](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![Azure DevOps](../badges/Business-microsoft-azure-devops.png)
+
+[[imgBadge]]
+| ![Github_logo](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![](../badges/Developer-azure-function.png)
+
+[[imgBadge]]
 | ![](../badges/Developer-docker.png)
 
 [[imgBadge]]
 | ![](../badges/Developer-devops.png)
-
-[[imgBadge]]
-| ![](../badges/Developer-github.png)
 
 [[imgBadge]]
 | ![](../badges/Developer-angular.png)
@@ -34,14 +46,7 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Developer-rxjs.png)
 
 [[imgBadge]]
-| ![](../badges/Developer-react.png)
-
-[[imgBadge]]
 | ![](../badges/Developer-dotnet-core.png)
-
-[[imgBadge]]
-| ![](../badges/Developer-node-js.png)
-
 
 
 ---
