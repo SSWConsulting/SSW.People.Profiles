@@ -40,6 +40,9 @@ quoteAuthor: 'James Clear'
 [[imgBadge]]
 | ![Azure](../badges/Certification-microsoft-azure-fundamentals.png)
 
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
+
 ---
 
 ## Professional Career
