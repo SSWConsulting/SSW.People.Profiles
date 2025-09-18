@@ -1,13 +1,11 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "8fefbfa8-347e-f011-b4cc-002248105138"
 
 qualifications: ""
 
 quote: "Treat people the way you want to be treated"
 quoteAuthor: "Anonymous"
 ---
-
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 Jawwaad Najeeb (Jay) is an Account Manager at SSW, He works closely with organisations to align their business objectives with effective software solutions. By deeply understanding each client’s unique needs, he ensures the optimal technology stack, skill set, and measurable outcomes are in place to deliver meaningful and lasting value.
 
