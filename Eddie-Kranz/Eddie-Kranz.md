@@ -70,7 +70,7 @@ Eddie is an SSW Software Developer with a keen eye for detail, and a passion for
 - **Project Management**: Practiced in Agile/Scrum methodologies to ensure efficient project delivery and team collaboration.
 
 **Professional Development**:
-- Bachelor of Advanced Computing (Software Development) - The University of Sydney (in progress)
+- Bachelor of Advanced Computing (Software Development) - The University of Sydney
 - SSW's FireBootCamp graduate
 - Continuous learner, passionate about emerging technologies
 
