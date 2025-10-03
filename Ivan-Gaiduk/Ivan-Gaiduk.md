@@ -7,6 +7,27 @@ quote: "True experience comes from having encountered failure more frequently th
 quoteAuthor: "Anonymous"
 ---
 
+[[imgBadge]]
+| ![.NET Core](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![C#](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![Scrum](../badges/Business-scrum.png)
+
+[[imgBadge]]
+| ![Azure](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![DevOps](../badges/Developer-devops.png)
+
+[[imgBadge]]
+| ![GitHub](../badges/Developer-github.png)
+
+[[imgBadge]]
+| ![SQL Server](../badges/Developer-sql-server.png)
+
 # Ivan Gaiduk: Senior Software Engineer with Full-Stack Expertise
 
 Ivan brings over eight years of comprehensive software engineering experience, spanning backend microservices, mobile applications, and enterprise-scale systems. With a proven track record of architecting scalable solutions and leading complex technical initiatives, he excels at transforming business requirements into robust, maintainable software.
