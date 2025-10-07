@@ -7,6 +7,9 @@ quote: "Before software can be reusable it first has to be usable."
 quoteAuthor: "Ralph Johnson"
 ---
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-power-platform-functional-consultant-associate.png)
+
+[[imgBadge]]
 | ![](../badges/Certification-microsoft-power-platform-developer-associate.png)
 
 [[imgBadge]]
@@ -14,9 +17,6 @@ quoteAuthor: "Ralph Johnson"
 
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-azure-database-administrator-associate.png)
-
-[[imgBadge]]
-| ![](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
 | ![azure-logo.png](../badges/Business-microsoft-azure.png)
