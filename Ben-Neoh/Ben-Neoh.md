@@ -71,5 +71,3 @@ As Tech Lead for SSW FireBootCamp, Ben mentors developers and consultants in sof
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vPa1bX-ZQ38?si=OM3Ad3UsL0GuFpiu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cChyJFvVo4A?si=ItW2i4F-_gSAK3Qx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
