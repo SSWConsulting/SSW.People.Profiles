@@ -43,6 +43,9 @@ quoteAuthor: 'James Clear'
 [[imgBadge]]
 | ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
 
+[[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
+
 ---
 
 ## Professional Career
