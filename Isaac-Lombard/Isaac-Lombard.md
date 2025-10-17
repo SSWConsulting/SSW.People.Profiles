@@ -35,9 +35,9 @@ quoteAuthor: "Musashi"
 
 Isaac is a creative problem solver who loves turning ideas into practical software using React, Angular, and .NET. After graduating from SSW’s FireBootCamp, he joined the team full-time, developing full-stack solutions that combine clean architecture with a great user experience.
 
-He’s currently focused on using AI to enhance frontend workflows with TinaCMS and has represented SSW at international conferences, helping teams adopt modern content management practices. Isaac enjoys collaborating closely with clients and fellow developers to build solutions that are fast, maintainable, and a pleasure to use.
+As a consultant, Isaac helps clients design and build scalable applications across the Microsoft and JavaScript ecosystems. He’s particularly interested in using AI to improve developer workflows and user experiences. As part of SSW’s TinaCMS team, he has represented the company at international conferences, showing developers how to integrate and extend the tool effectively.
 
-Key Technologies:
-**React, Angular, Fabric, TinaCMS, .NET, Entity Framework Core, TailwindCSS, SQL Databases, Vercel**
+Technologies:
+React, Angular, TinaCMS, .NET Core, Entity Framework, TailwindCSS, SQL Databases, Vercel
 
-Outside of work, Isaac creates through composing contemporary classical music, and through his own design projects.
+Outside of work, Isaac composes classical music, writes songs, and stays active through hiking and fitness training.
