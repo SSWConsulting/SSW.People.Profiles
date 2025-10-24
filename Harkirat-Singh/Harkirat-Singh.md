@@ -27,7 +27,7 @@ He began his journey at SSW as a **FireBootCamp intern**, where he learned and p
 * **Musical Hark** - Plays **tabla** at the Sikh temple.  
 * **Talkative** - Loves to talk and can chat on random topics for hours (a good listener too!).  
 
-## Some Recommendations
+<!-- ## Some Recommendations
 #### 🎬 Movies
 * All Studio Ghibli films  
 * The Dark Knight Trilogy  
@@ -66,6 +66,6 @@ He began his journey at SSW as a **FireBootCamp intern**, where he learned and p
 * [**Steve Jobs' 2005 Stanford Commencement Address**](https://www.youtube.com/watch?v=UF8uR6Z6KLc)  
 * [**Randy Pausch - Last Lecture: Achieving Your Childhood Dreams**](https://www.youtube.com/watch?v=ji5_MqicxSo)  
 * [**Naval Ravikant on The Joe Rogan Podcast**](https://www.youtube.com/watch?v=3qHkcs3kG44)  
-* [**DHH on the Lex Fridman Podcast**](https://www.youtube.com/watch?v=vagyIcmIGOQ)  
+* [**DHH on the Lex Fridman Podcast**](https://www.youtube.com/watch?v=vagyIcmIGOQ)   -->
 
 > Hark is always eager to learn, collaborate, and improve — and he welcomes open feedback to help him grow.
