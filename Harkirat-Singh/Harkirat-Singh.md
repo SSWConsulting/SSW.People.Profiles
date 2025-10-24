@@ -18,7 +18,7 @@ He began his journey at SSW as a **FireBootCamp intern**, where he learned and p
 * **Backend-as-a-Service (BaaS) Platforms** – Proficient in **Firebase** and **Supabase**, leveraging them for authentication, storage, and real-time data handling.
 * **Web Development** 
     * **Angular** for front-end development
-    * .**NET (C#)** for backend APIs using **Clean Architecture** principles
+    * **.NET (C#)** for backend APIs using **Clean Architecture** principles
 * **DevOps & CI/CD** – Experienced with **GitHub Actions**, **Azure DevOps**, and continuous integration & deployment workflows.
 * **Web3 & Blockchain** – Explored **Solidity**, **Ethereum**, and **Polygon** chains, and successfully deployed his own **NFT collection**.
 * **App Store Experience** – Experience in publishing apps on both **Apple App Store** and **Google Play Store**.
