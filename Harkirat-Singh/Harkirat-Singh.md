@@ -7,13 +7,12 @@ quote: "We are what we repeatedly do. Excellence, then, is not an act, but a hab
 quoteAuthor: "Aristotle"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 **Hark** is a Software Engineer I at **SSW**.
 
 He began his journey at SSW as a **FireBootCamp intern**, where he learned and practiced **Angular**, **.NET**, **Clean Architecture**, **Azure DevOps**, and **full-stack development**. After successfully completing the program, he joined SSW full-time, applying the skills and discipline gained during the bootcamp to real-world projects.
 
-## Techy Hark
+## Technical Expertise
 * **Flutter** - Primary focus; passionate about crafting beautiful, performant mobile apps.  
 * **Backend-as-a-Service (BaaS) Platforms** - Proficient in **Firebase** and **Supabase**, leveraging them for authentication, storage, and real-time data handling.  
 * **Web Development**  
