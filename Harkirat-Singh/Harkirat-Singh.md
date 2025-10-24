@@ -27,45 +27,5 @@ He began his journey at SSW as a **FireBootCamp intern**, where he learned and p
 * **Musical Hark** - Plays **tabla** at the Sikh temple.  
 * **Talkative** - Loves to talk and can chat on random topics for hours (a good listener too!).  
 
-<!-- ## Some Recommendations
-#### 🎬 Movies
-* All Studio Ghibli films  
-* The Dark Knight Trilogy  
-* The Godfather I & II  
-* The Irishman  
-* Forrest Gump  
-* 3 Idiots  
-* Bhaag Milkha Bhaag  
-* Schindler’s List  
-* Gangs of Wasseypur  
-* Border  
-
-#### 📺 Shows
-* Avatar: The Last Airbender (Original version)  
-* Friends  
-* The Family Man  
-* Sacred Games  
-
-#### 🎥 Documentaries
-* The Last Dance  
-
-#### 📚 Books
-* *Man’s Search for Meaning* - Viktor E. Frankl  
-* *Sapiens* - Yuval Noah Harari  
-* *How to Not Die Alone* - Logan Ury  
-* *Three Women* - Lisa Taddeo  
-
-#### 🎵 Music
-* *Merry-Go-Round of Life* - Joe Hisaishi (*Howl’s Moving Castle*)  
-* *The Dark Knight Trilogy* background score - Hans Zimmer  
-* *Last Train to Mars* - Dan Lebowitz  
-
-#### 🌟 Inspiring Videos
-* [**How Great I Am**](https://www.youtube.com/watch?v=V6xLYt265ZM)  
-* [**Marlen Tjøsvoll - “Bang Bang (My Baby Shot Me Down)” | The Voice Norway 2025**](https://www.youtube.com/watch?v=kBjCp5LISuU)  
-* [**Steve Jobs' 2005 Stanford Commencement Address**](https://www.youtube.com/watch?v=UF8uR6Z6KLc)  
-* [**Randy Pausch - Last Lecture: Achieving Your Childhood Dreams**](https://www.youtube.com/watch?v=ji5_MqicxSo)  
-* [**Naval Ravikant on The Joe Rogan Podcast**](https://www.youtube.com/watch?v=3qHkcs3kG44)  
-* [**DHH on the Lex Fridman Podcast**](https://www.youtube.com/watch?v=vagyIcmIGOQ)   -->
 
 > Hark is always eager to learn, collaborate, and improve — and he welcomes open feedback to help him grow.
