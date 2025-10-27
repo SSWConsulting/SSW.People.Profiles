@@ -7,6 +7,24 @@ quote: "Good design is actually a lot harder to notice than poor design, in part
 quoteAuthor: "Don Norman"
 ---
 
+[[imgBadge]]
+| ![UX](../badges/Designer-web-ux.png)
+
+[[imgBadge]]
+| ![Figma](../badges/Designer-figma.png)
+
+[[imgBadge]]
+| ![HTML](../badges/Designer-web-html5.png)
+
+[[imgBadge]]
+| ![CSS](../badges/Designer-web-css3.png)
+
+[[imgBadge]]
+| ![Adobe Photoshop](../badges/Designer-adobe-photoshop.png)
+
+[[imgBadge]]
+| ![Adobe Illustrator](../badges/Designer-adobe-illustrator.png)
+
 Griffen is a thoughtful and creative UI/UX Designer who thrives on solving complex design challenges with elegant, user-centered solutions. He brings a strong foundation in design thinking and accessibility, and is passionate about crafting experiences that are inclusive, intuitive, and visually engaging.
 
 At SSW, Griffen works closely with developers, consultants, and clients to deliver high-quality interfaces that balance form and function. His approach is collaborative and iterative, always grounded in user research and guided by empathy.
