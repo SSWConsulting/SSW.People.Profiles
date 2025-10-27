@@ -27,21 +27,21 @@ quoteAuthor: "Aaron Schwartz"
 | ![](../badges/Developer-Vue.png)
 
 ## Professional Experience
-Pat Stuart is a Software Engineer at SSW, passionate about building reliable, well-structured software that delivers real business value. With experience across .NET, JavaScript frameworks, and cloud technologies, Pat enjoys working across the full stack. He is also especially interested in aspects of software that relate to security such as authentication, authorisation, and data protection.
+Pat Stuart is a Software Engineer at SSW, passionate about building reliable, well-structured software that delivers real business value. With experience across .NET, JavaScript frameworks, and cloud technologies, Pat enjoys working across the full stack. He is particularly interested in software security, including authentication, authorization, and data protection.
 
-Pat is a graduate of SSW's FireBootCamp program where he gained a appreciation for Agile practices and collobrative development. He worked with Angular and .Net to create a full stack software solution. He also did extension work, creating an Identity Server instance and implementing OAuth/OIDC and RBAC throughout his project.
+Pat is a graduate of SSW's [FireBootCamp](https://firebootcamp.com/) program where he gained a appreciation for Agile practices and collobrative development. He worked with Angular and .NET to create a full-stack software solution. He also did extension work, creating an Identity Server instance and implementing OAuth/OIDC and RBAC throughout his project.
 
-## Technologies:
+## Technologies
 
 - Angular
 - Vue
-- CSS3
-- TailwindCSS
+- CSS
+- Tailwind CSS
 - Bootstrap
 - .NET Core
 - Entity Framework
 - SQL Databases
 
 
-## Personal Interests
-In his spare time, Pat enjoys cooking, reading, and gaming. His background in hospitality gave him an appreciation for creativity, organisation, and focus that he carries into his current work.
+## Personal interests
+In his spare time, Pat enjoys cooking, reading, and gaming. His background in hospitality gave him an appreciation for creativity, organization, and focus. He brings these qualities to his work as a software engineer.
