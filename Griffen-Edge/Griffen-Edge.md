@@ -18,8 +18,8 @@ Griffen’s expertise includes:
 - Accessibility & inclusive design
 - Design systems
 - HTML/CSS
-- Figma, Adobe XD, Sketch
+- Figma, Sketch, Penpot
 
-Prior to joining SSW, Griffen has worked in the consulting and education sectors, where he led design initiatives across government, health, and community-focused projects. His work included digital product development, major website redesigns, and customer engagement strategies.
+Prior to joining SSW, Griffen has worked in the consulting and education sectors, where he led design initiatives across government, health, and community-focused projects. His work has included digital product development, major website redesigns, and customer engagement strategies.
 
-Outside of work, Griffen is active in the performing arts and community theatre, serving on the committee of a local theatre company and performing in musicals. In his spare time, Griffen enjoys playing guitar, diving into Dungeons & Dragons campaigns with friends, working on his personal fitness, and relaxing with video games.
+Outside of work, Griffen is active in the performing arts and community theatre, serving on the committee of a local theatre company and performing in musicals. In his spare time, Griffen enjoys playing guitar, diving into Dungeons & Dragons campaigns with friends, relaxing with video games, and working on his personal fitness.
