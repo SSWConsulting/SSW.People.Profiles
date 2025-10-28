@@ -20,7 +20,7 @@ quoteAuthor: "Hermann Hesse"
 [[imgBadge]]
 | ![Developer Github](../badges/Developer-github.png)
 
-Willow is a software engineer based in the SSW Hangzhou office. Before joining SSW, she worked as a product manager for 4 years and later as a full stack developer. Her experience in both roles has given her a strong foundation in understanding user needs, planning projects, and building software solutions from end to end. 
+Willow is a software engineer based in SSW’s Hangzhou office. Before joining SSW, she spent four years as a product manager before transitioning to full-stack development. Her combined experience gives her a strong foundation in understanding user needs, planning projects, and delivering end-to-end software solutions.
 
 Willow holds degrees from both China and Canada, which has given her a broad perspective and strong cross-cultural communication skills. She enjoys working in diverse teams and values collaboration and continuous learning. 
 
