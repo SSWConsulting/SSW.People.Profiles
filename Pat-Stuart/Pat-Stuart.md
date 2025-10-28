@@ -1,5 +1,5 @@
 ---
-id: "456ebf0e-fb42-ea11-967a-00155d012cc0"
+id: "136d7be4-b041-f011-877a-000d3acb2859"
 
 quote: "Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity."
 quoteAuthor: "Aaron Schwartz"
