@@ -7,10 +7,12 @@ quote: "We are what we repeatedly do. Excellence, then, is not an act, but a hab
 quoteAuthor: "Aristotle"
 ---
 
+**Hark** is a passionate **Full-Stack Developer**, who builds **clean**, **reliable software** with a focus on **user experience** and **delivery discipline**.
 
-**Hark** is a Software Engineer I at **SSW**.
+He joined **SSW Newcastle** through **FireBootCamp**, SSW’s intensive, real-world training program for elite graduates – where he worked in a **high-pressure, consultancy-style environment**, building **production-grade solutions** using **Angular**, **.NET**, **Clean Architecture**, and **Azure DevOps**. After impressing the mentors and senior architects, he was invited to join **SSW full-time**.
 
-He began his journey at SSW as a **FireBootCamp intern**, where he learned and practiced **Angular**, **.NET**, **Clean Architecture**, **Azure DevOps**, and **full-stack development**. After successfully completing the program, he joined SSW full-time, applying the skills and discipline gained during the bootcamp to real-world projects.
+Since then, Hark has been applying those same standards on all projects — **shipping features quickly**, **taking feedback well**, and **communicating clearly with stakeholders**. Everyone finds him easy to work with – he’s **calm**, **friendly**, and explains **technical decisions in plain English**.
+
 
 ## Technical Expertise
 * **Flutter** - Primary focus; passionate about crafting beautiful, performant mobile apps.  
