@@ -7,7 +7,6 @@ quote: "Every beginning has its magic."
 quoteAuthor: "Hermann Hesse"
 ---
 
-[Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
 [[imgBadge]]
 | ![Developer-react](../badges/Developer-react.png)
