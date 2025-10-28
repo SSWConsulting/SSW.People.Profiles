@@ -23,9 +23,11 @@ He began his journey at SSW as a **FireBootCamp intern**, where he learned and p
 * **App Store Experience** - Experienced in publishing apps on both the **Apple App Store** and **Google Play Store**.  
 
 ## Beyond Tech
-* **Tales of Hark - YouTube Channel** for sharing different aspects of Hark’s life, including technical tutorials and personal stories.  
+* **[Tales of Hark - YouTube Channel](https://www.youtube.com/@talesofhark)** for sharing different aspects of Hark’s life, including technical tutorials and personal stories.  
 * **Musical Hark** - Plays **tabla** at the Sikh temple.  
 * **Talkative** - Loves to talk and can chat on random topics for hours (a good listener too!).  
 
 
 > Hark is always eager to learn, collaborate, and improve — and he welcomes open feedback to help him grow.
+
+`youtube: https://www.youtube.com/embed/6l-lGpE-W4o`
