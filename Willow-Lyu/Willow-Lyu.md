@@ -24,7 +24,7 @@ Willow is a software engineer based in SSW’s Hangzhou office. Before joining S
 
 Willow holds degrees from both China and Canada, giving her a broad perspective and strong cross-cultural communication skills. She enjoys working in diverse teams and values collaboration and continuous learning.
 
-Willow mainly works with .NET, EF Core, and React, focusing on delivering clean, efficient, and user-friendly solutions. She is also exploring emerging technologies, including AI-related tools, to enhance productivity and improve project outcomes. 
+She primarily works with .NET, EF Core, and React, focusing on delivering clean, efficient, and user-friendly solutions. She is also exploring emerging technologies, including AI-powered tools, to enhance productivity and improve project outcomes.
 
 Outside of work, Willow enjoys reading, especially detective fiction, and exploring new experiences.
 
