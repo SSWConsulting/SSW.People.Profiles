@@ -22,7 +22,7 @@ quoteAuthor: "Hermann Hesse"
 
 Willow is a software engineer based in SSW’s Hangzhou office. Before joining SSW, she spent four years as a product manager before transitioning to full-stack development. Her combined experience gives her a strong foundation in understanding user needs, planning projects, and delivering end-to-end software solutions.
 
-Willow holds degrees from both China and Canada, which has given her a broad perspective and strong cross-cultural communication skills. She enjoys working in diverse teams and values collaboration and continuous learning. 
+Willow holds degrees from both China and Canada, giving her a broad perspective and strong cross-cultural communication skills. She enjoys working in diverse teams and values collaboration and continuous learning.
 
 Willow mainly works with .NET, EF Core, and React, focusing on delivering clean, efficient, and user-friendly solutions. She is also exploring emerging technologies, including AI-related tools, to enhance productivity and improve project outcomes. 
 
