@@ -9,7 +9,7 @@ quoteAuthor: "Socrates"
 
 [Editing your profile]: https://github.com/SSWConsulting/People/wiki/3.-Editing-your-profile
 
-Shane is an Account Manager at SSW, where he helps organisations bridge the gap between business goals and the software solutions that bring them to life. He partners closely with clients to understand their unique needs and ensures the right technology stack, the right skill set and the right expected outcomes are in place to deliver real value.
+Shane is an Account Manager at SSW, where he helps organisations bridge the gap between business goals and the software solutions that bring them to life. He partners closely with clients to understand their unique needs and ensures the right technology stack, the right skill set and the right expected outcomes are in place to deliver real value. 
 
 **Experience and Expertise**
 
@@ -17,7 +17,9 @@ With over a decade of experience in the IT sector, Shane has built his career ac
 
 **Engagement Approach**
 
-He believes every organisation is as unique as a fingerprint, with their own unique drivers, challenges and required outcomes. Shane takes pride in tailoring solutions that reflect that, ensuring each customer has a solution tailored to them. Above all else, Shane approaches each engagement with the mindset that a true win/win is achievable for both the customer and SSW.
+He believes every organisation is as unique as a fingerprint, with their own unique drivers, challenges and required outcomes. Shane takes pride in tailoring solutions that reflect that, ensuring each customer has a solution tailored to them. Above all else, Shane approaches each engagement with the mindset that a true win/win is achievable for both the customer and SSW. 
+
+Due to many large Enterpise solutions being sought via tenders, Shane is always on the lookout for Australian tenders in which he can help drive positive outcome for all involved.
 
 **Personal Interests**
 
