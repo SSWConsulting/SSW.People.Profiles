@@ -21,3 +21,6 @@ His primary areas of expertise cover Chinafy, Scrum and agile development and cl
 He also runs a famous technical user group (FireUG) in China for many years. He is very passionate about organizing it, investing resources to expand its influence, and working very hard to give back to the local technology community as well.
 
 In addition, Alvin is the producer of SSW China TV and FireUG TV. 
+SSW China TV (Chinese): https://space.bilibili.com/289083159
+FireUG Bilibili (Chinese): https://space.bilibili.com/545713776
+FireUG YouTube (Chinese): https://www.youtube.com/@fireusergroup
