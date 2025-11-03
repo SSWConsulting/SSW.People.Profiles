@@ -28,7 +28,7 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![SQL Server](../badges/Developer-sql-server.png)
 
-# Ivan Gaiduk: Senior Software Engineer with Full-Stack Expertise
+## Senior Software Engineer with Full-Stack Expertise
 
 Ivan brings over eight years of comprehensive software engineering experience, spanning backend microservices, mobile applications, and enterprise-scale systems. With a proven track record of architecting scalable solutions and leading complex technical initiatives, he excels at transforming business requirements into robust, maintainable software.
 
