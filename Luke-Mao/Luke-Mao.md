@@ -8,7 +8,7 @@ quoteAuthor: "Kent Beck"
 [[imgBadge]]
 | ![Microsoft Certified: Azure Solutions Architect Expert](../badges/Certification-microsoft-azure-solutions-architect-expert.png)
 
-Luke is a software engineer with over 6 years of experience, specializing in full-stack development with a strong focus on front-end technologies. He is highly skilled in React and experienced in .NET development.
+Luke is a software engineer specializing in full-stack development with a strong focus on front-end technologies. He is highly skilled in React, experienced in .NET development and has practical experience building AI-driven solutions.
 
 He is passionate about Agile methodologies and is a strong advocate for TDD and pair programming. He believes in the power of collaborative work and continuous improvement to produce high-quality software.
 
