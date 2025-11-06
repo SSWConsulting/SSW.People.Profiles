@@ -18,16 +18,16 @@ quoteAuthor: "Scarlett O’Hara"
 
 📊Key Professional Skills:
 
-**Financial Reporting:**
+- **Financial Reporting:**
 Prepares compliant financial statements and delivers actionable insights for strategic decisions
 
-**Data Analysis:**
+- **Data Analysis:**
 Interprets complex data to streamline processes, enhance automation, and drive operational improvements.
 
-**Excel Proficiency:**
+- **Excel Proficiency:**
 Leverages advanced Excel and AI tools like ChatGPT to automate tasks and significantly boost productivity.
 
-**Cross-Border Liaison**
+- **Cross-Border Liaison**
 Produces China board report videos and fosters cultural exchange to strengthen China-Australia collaboration.
 
 <br>
