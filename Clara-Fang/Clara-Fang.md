@@ -31,6 +31,7 @@ Leverages advanced Excel and AI tools like ChatGPT to automate tasks and signifi
 Produces China board report videos and fosters cultural exchange to strengthen China-Australia collaboration.
 
 <br>
+
 **Clara's internal achievement:**
 
 - **China Tax Compliance** - Successfully executed two major tax reforms for the China office, ensuring full regulatory compliance and creating a more transparent and streamlined financial workflow.
