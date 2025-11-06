@@ -1,7 +1,7 @@
 ---
 id: "26c49b59-df97-ef11-8a69-00224894e457"
 
-qualifications: ""
+qualifications: "Bachelor of Finance, Accounting and Management, Master of Accounting, Organization and Institutions"
 
 quote: "After all, tomorrow is another day."
 quoteAuthor: "Scarlett O’Hara"
