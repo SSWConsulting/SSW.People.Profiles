@@ -19,18 +19,17 @@ quoteAuthor: "Scarlett O’Hara"
 📊Key Professional Skills and Achievements:
 
 **Financial Reporting:**
-Clara is proficient in preparing accurate and timely financial statements. Her deep understanding of financial reporting standards ensures compliance with regulatory requirements. Her meticulous attention to detail and analytical skills enable her to identify trends and provide insights that drive strategic business decisions.
+Prepares compliant financial statements and delivers actionable insights for strategic decisions
 
 **Data Analysis:**
-Clara possesses robust analytical capabilities, allowing her to efficiently interpret financial data, identify key connections between financial statements, and uncover the underlying causes of variances. She uses these skills to streamline financial processes and enhance automation, leading to significant operational improvements.
+Interprets complex data to streamline processes, enhance automation, and drive operational improvements.
 
 **Excel Proficiency:**
-Clara is highly skilled in Excel, utilizing it to manage and analyze complex financial data. Her advanced skills in data modeling, pivot tables, and financial formulas enable her to streamline processes and enhance automation, significantly improving efficiency.
+Leverages advanced Excel and AI tools like ChatGPT to automate tasks and significantly boost productivity.
 
-**ChatGPT Prompt Engineering**
-Clara excels at leveraging AI tools to boost her productivity. She adeptly uses ChatGPT for generating Excel formulas and Cursor to convert work messages into structured Excel documents, significantly enhancing her efficiency in her daily work.
+**Cross-Border Liaison**
+Produces China board report videos and fosters cultural exchange to strengthen China-Australia collaboration.
 
-**Markdown:**
-While currently at a beginner level, Clara is eager to learn Markdown, a lightweight markup language with plain text formatting syntax. She is keen to incorporate this skill into her work to improve documentation and communication.
 
 ✈️ In her spare time, Clara is a passionate traveler and dedicated journal keeper. She loves planning trips and combines her love for travel and creativity by documenting her journeys in detailed journals.
+This passion extends to professionally coordinating experiences, from assisting with the Cogan family's 2025 itinerary for Yunnan, China, to fostering team connections through cultural exchanges across Australia's Brisbane, Melbourne, and Sydney offices.
