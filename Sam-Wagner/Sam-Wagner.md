@@ -3,7 +3,7 @@ id: "1dfad0e3-7a05-ed11-82e4-00224814f19b"
 
 qualifications: ""
 
-quote: "I'm not great at everything, but 1 am great at one thing: surrounding myself with excellent people. And that tends to take care of the rest."
+quote: "I'm not great at everything, but I am great at one thing: surrounding myself with excellent people. And that tends to take care of the rest."
 quoteAuthor: "Sheldon Menery"
 ---
 
