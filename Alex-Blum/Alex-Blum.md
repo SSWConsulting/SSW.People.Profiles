@@ -42,42 +42,39 @@ Outside of work, you’ll find him mastering his favourite video games, fixing h
 
 ---
 
-**My Tool Stack:**\
-Some tools in my workflow
+Some tools in Alex's workflow:
 
-* Figma — Design systems and rapid ideation
-* Cursor — AI-assisted prototyping and implementation
-* Midjourney — Generative visual exploration
-* Framer — React-based no-code builder
-* Webflow — HTML/CSS-based low-code builder
-* Airtable — CMS and AI-assisted asset management
-* Adobe CC — Graphic and motion design
-* Jitter — Interaction and motion design
-* Relume — AI-powered site mapping and wireframing
-* Spline – 3D-modelling and interactive web design
-
----
-
-**My Favourite Courses:**\
-Some courses foundational to my design approach
-
-* UX Design Immersive – General Assembly
-* Learn UI Design – Erik D. Kennedy
-* Smart Interface Design Patterns – Vitaly Friedman
-* Making UX Decision – Tommy Geoco
-* Flux Academy – Webflow Masterclass
-* Figma Academy – Michael Riddering (Ridd)
+* **Figma** — Design systems and rapid ideation
+* **Cursor** — AI-assisted prototyping and implementation
+* **Midjourney** — Generative visual exploration
+* **Framer** — React-based no-code builder
+* **Webflow** — HTML/CSS-based low-code builder
+* **Airtable** — CMS and AI-assisted asset management
+* **Adobe CC** — Graphic and motion design
+* **Jitter** — Interaction and motion design
+* **Relume** — AI-powered site mapping and wireframing
+* **Spline** – 3D-modelling and interactive web design
 
 ---
 
-**My Favourite Design Books:**\
-Some books that shaped my product thinking
+Some courses foundational to Alex's design approach:
 
-* Change by Design – Tim Brown
-* Don't Make Me Think – Steve Krug
-* Inspired: How To Create Tech Product People Love – Marty Cagan
-* The Design of Everyday Things – Don Norman
-* Rocket Surgery Made Easy – Steve Krug
-* The Lean Product Playbook – Dan Olsen
-* The UX Team of One – Leah Buley
-* Idea Selling – Sam Harrison
+* **UX Design Immersive** – General Assembly
+* **Learn UI Design** – Erik D. Kennedy
+* **Smart Interface Design Patterns** – Vitaly Friedman
+* **Making UX Decision** – Tommy Geoco
+* **Flux Academy** – Webflow Masterclass
+* **Figma Academy** – Michael Riddering (Ridd)
+
+---
+
+Some books that shaped Alex's product thinking:
+
+* **Change by Design** – Tim Brown
+* **Don't Make Me Think** – Steve Krug
+* **Inspired: How To Create Tech Product People Love** – Marty Cagan
+* **The Design of Everyday Things** – Don Norman
+* **Rocket Surgery Made Easy** – Steve Krug
+* **The Lean Product Playbook** – Dan Olsen
+* **The UX Team of One** – Leah Buley
+* **Idea Selling** – Sam Harrison
