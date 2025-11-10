@@ -35,6 +35,12 @@ quoteAuthor: 'James Clear'
 | ![rxjs](../badges/Developer-rxjs.png)
 
 [[imgBadge]]
+| ![Angular](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![Azure](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
 | ![Github](../badges/Developer-github.png)
 
 [[imgBadge]]
