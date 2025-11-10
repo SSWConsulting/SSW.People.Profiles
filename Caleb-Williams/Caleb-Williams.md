@@ -37,6 +37,9 @@ quoteAuthor: 'James Clear'
 [[imgBadge]]
 | ![Angular](../badges/Developer-angular.png)
 
+[[imgBadge]]
+| ![Azure](../badges/Business-microsoft-azure.png)
+
 
 [[imgBadge]]
 | ![Github](../badges/Developer-github.png)
