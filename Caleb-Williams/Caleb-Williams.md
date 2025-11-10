@@ -40,7 +40,6 @@ quoteAuthor: 'James Clear'
 [[imgBadge]]
 | ![Azure](../badges/Business-microsoft-azure.png)
 
-
 [[imgBadge]]
 | ![Github](../badges/Developer-github.png)
 
