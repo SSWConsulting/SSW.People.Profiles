@@ -16,20 +16,22 @@ quote: "Great spirits have always encountered violent opposition from mediocre m
 | ![Adobe Premiere](../badges/Designer-adobe-premiere.png)
 
 
-Michael brings over 30 years of diverse experience in sales, management, and technology to his role as Head of Sales at SSW. Starting in print and digital media, he has excelled in various domains, from direct sales and sales management to SEO, graphic design, and software development. Known for his high energy, friendly focus, and technical expertise, Michael is a decisive sales leader and strategic manager. His skills span across modern marketing techniques, video editing, photography, and audio production, underpinned by a deep understanding of software tools ranging from Adobe Suite to CRM systems. With a track record of empowering teams and driving successful projects, Michael combines his comprehensive skill set and emotional intelligence to lead with integrity, innovation, and excellence.
+**Head of Sales | AI Transformation & Strategy | Workflow Automation**
 
-Mike specialises in:
+Michael brings over 30 years of diverse experience in sales, management, and technology to his role as Head of Sales at SSW. Starting his career in print and digital media, he’s built a strong foundation across direct sales, marketing, SEO, and software development.
 
-- AI project planning and execution
+A passionate advocate for AI transformation, Michael designs and implements intelligent workflows that bridge business strategy and modern automation. He’s hands-on with tools like n8n, Replit, V0, Lovable, Cursor, Gemini, Claude, and Codex building production-ready workflows and integrating MCPs and CLI tools to drive real business outcomes.
 
-- Managing big, complex projects
+Known for his high energy, empathy, and technical depth, Michael combines strategic insight with a maker’s mindset. His expertise spans AI project planning and execution, digital strategy, Scrum implementation, and enterprise AI adoption—helping clients harness AI for measurable business value.
 
-- Digital marketing and sales strategies
+He leads with curiosity, clarity, and a focus on enabling teams to be more productive, data-driven, and AI-empowered.
 
-- Building business cases and cost-benefit analysis
-
-- Implementing Scrum processes
-
-- Building happy, motivated, and productive teams
-
-- Outsourcing first call teams and lead generation
+Specialisations:
+	•	AI Transformation & Business Strategy
+	•	Workflow Automation (n8n, MCP, custom AI pipelines)
+	•	Digital Marketing & Sales Optimisation
+	•	Managing Complex, Multi-Stakeholder Projects
+	•	Cost–Benefit Analysis & Business Case Development
+	•	Implementing Scrum & Agile Delivery
+	•	Building Happy, High-Performing Teams
+	•	Outsourcing & Lead Generation Strategy
