@@ -33,3 +33,6 @@ Since then, Hark has been applying those same standards on all projects — **sh
 > Hark is always eager to learn, collaborate, and improve — and he welcomes open feedback to help him grow.
 
 `youtube: https://www.youtube.com/embed/6l-lGpE-W4o`
+
+`youtube: https://www.youtube.com/embed/jlJCKotVdWg`
+Follow on [Instagram](https://www.instagram.com/reel/DQ1PUDAkwGR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) for more.
