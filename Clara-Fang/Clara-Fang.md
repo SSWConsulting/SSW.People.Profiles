@@ -29,7 +29,7 @@ Brings people together across cultures and helps strengthen collaboration across
 
 <br>
 
-**Clara's achievement:**
+## Clara's achievement
 
 - **China Tax Compliance** - Led two major tax updates for the China office, ensuring compliance and making financial processes clearer and more efficient.
 
@@ -37,4 +37,4 @@ Brings people together across cultures and helps strengthen collaboration across
 
 - **Billing Process Automation** - As the Brainstorming Idea Leader, bring an automated billing system to life for the China office, making payments easier and improving the client experience.
 
-✈️ In her spare time, Clara is a passionate traveler and dedicated journaler. She loves planning trips and combines her love for travel and creativity by documenting her journeys in detailed journals. 
+In her spare time, Clara is a passionate traveler and dedicated journaler. She loves planning trips and combines her love for travel and creativity by documenting her journeys in detailed physical journal vooks. Ask her anything for a travel plan!
