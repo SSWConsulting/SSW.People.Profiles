@@ -29,7 +29,9 @@ quoteAuthor: "Anonymous"
 
 ---
 
-Lewis is an SSW Software Developer based in the Sydney Office, and specialises in AI development. He graduated University of New South Wales with a bachelor's in Computer Science. He is one of key contributors to the [YakShaver](https://yakshaver.ai) and is constantly driving improvements and innovation.
+Lewis is a Software Developer at SSW based in the Sydney office, specialising in AI-powered application development. He holds a Bachelor of Computer Science from the University of New South Wales and is a key contributor to [YakShaver](https://yakshaver.ai), helping drive ongoing improvements and innovation in AI-assisted productivity tooling.
+
+Lewis works across the full stack and has experience integrating modern AI capabilities into real-world applications, including LLM-based workflows, prompt engineering, MCP-powered extensibility, and Azure OpenAI deployments.
 
 **Technologies**:
 - C#/.NET
@@ -45,12 +47,17 @@ Lewis is an SSW Software Developer based in the Sydney Office, and specialises i
 
 **Key Skills and Experience**
 
-- **Frontend Development**: Built responsive UIs using Angular, React, and Next.js. Gained experience working with TypeScript, HTML, and CSS to create clean, user-friendly components. Has experience with building desktop applications with Electron JS.
-- **Backend Development**: Worked on C#/.NET projects involving REST APIs and basic authentication. Used EF Core and SQL for CRUD operations and simple data access patterns. Python is used in personal projects to quickly turn idea into reality.
-- **Database Fundamentals**: Comfortable designing tables, writing SQL queries, and understanding relational data. Applied indexing and basic optimization in small to mid-sized apps.
-- **AI Integration**: Explored Azure OpenAI to add language-based features like content generation and chatbot functionality. Used Python to experiment with automation and basic ML workflows. Integrating apps with MCP features, allowing them to reach much wider scopes than ever before.
-- **DevOps Basics**: Set up CI/CD pipelines with GitHub Actions for building and deploying apps. Gained hands-on experience with Azure for hosting and managing projects.
-- **Team Collaboration**: Worked in Agile environments with daily standups, sprint planning, and regular code reviews. Focused on learning best practices and improving with each iteration.
+- **AI Development & Integration**: Implemented AI features such as language generation, semantic search, and intelligent assistants using Azure OpenAI. Experimenting with workflow automation, agent-based systems, and MCP integration to extend application capabilities beyond traditional boundaries.
+
+- **Frontend Engineering**: Built responsive and accessible UI experiences using Angular, React, and Next.js. Comfortable with TypeScript, Razor Components, HTML, CSS, and design patterns for scalable frontend architecture. Currently building desktop apps using Electron.
+
+- **Backend Engineering**: Developed REST APIs using C#/.NET. Experience implementing authentication, data models, and business logic. Uses Python for rapid prototyping, scripting automation, and AI experimentation.
+
+- **Database & Data Handling**: Designs and works with relational data models using SQL and EF Core. Familiar with query optimisation and schema design for production applications.
+
+- **DevOps & Delivery**: Created CI/CD pipelines with GitHub Actions and deployed applications to Azure environments.
+
+- **Collaboration & Process**: Experienced working in as well as running Agile teams with stand-ups, sprints, planning, and code reviews. Focused on clean architecture, maintainability, and continuous improvement.
 
 **Professional Development**:
 - Bachelor of Computer Science - UNSW
