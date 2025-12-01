@@ -1,7 +1,7 @@
 ---
 id: "26c49b59-df97-ef11-8a69-00224894e457"
 
-qualifications: "Bachelor of Finance, Accounting and Management, Master of Accounting, Organization and Institutions"
+qualifications: "Master of Accounting"
 
 quote: "After all, tomorrow is another day."
 quoteAuthor: "Scarlett O’Hara"
@@ -14,30 +14,27 @@ quoteAuthor: "Scarlett O’Hara"
 | ![ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 <hr />
 
-📖 Clara Fang is a seasoned accounting professional with a Master's degree in Accounting from the prestigious London School of Economics and Political Science (LSE). As an Accountant at the SSW Hangzhou Office, Clara leverages her extensive expertise in financial reporting and data-driven analysis to deliver exceptional results and enhance operational efficiency.
+Clara Fang is a seasoned accounting professional with a Master's degree in Accounting from the prestigious London School of Economics and Political Science (LSE). she loves finding simple ways to make work easier and uses financial data to uncover opportunities that help the team move forward.
 
-📊Key Professional Skills:
+## Key Professional Skills
 
 - **Financial Reporting:**
-Prepares compliant financial statements and delivers actionable insights for strategic decisions
+Prepares compliant financial statements and offers strategic insights from an accounting perspective.
 
-- **Data Analysis:**
-Interprets complex data to streamline processes, enhance automation, and drive operational improvements.
+- **Smart Tools User:**
+Leverages advanced Excel and AI tools like Cursor to automate tasks and make life a lot easier.
 
-- **Excel Proficiency:**
-Leverages advanced Excel and AI tools like ChatGPT to automate tasks and significantly boost productivity.
-
-- **Cross-Border Liaison**
-Produces China board report videos and fosters cultural exchange to strengthen China-Australia collaboration.
+- **Bridge Builder**
+Brings people together across cultures and helps strengthen collaboration across SSW offices.
 
 <br>
 
-**Clara's internal achievement:**
+## Clara's achievement
 
-- **China Tax Compliance** - Successfully executed two major tax reforms for the China office, ensuring full regulatory compliance and creating a more transparent and streamlined financial workflow.
+- **China Tax Compliance** - Led two major tax updates for the China office, ensuring compliance and making financial processes clearer and more efficient.
 
-- **[SugarLearning China Module](https://my.sugarlearning.com/SSW/admin/modules/7032)** - Launched the dedicated China module for SugarLearning and established the localized leave and reimbursement procedures, standardizing daily operations for the China team.
+- **Operational Standardisation** - Launched the dedicated China module for SugarLearning and established the localized leave and reimbursement procedures, standardizing daily operations for the China team.
 
-- **TimePro China Tenant & Billing Automation** - As the Brainstorming Idea Leader, conceived and drove the development of a dedicated China tenant with an automated billing system, enhancing payment efficiency and client experience.
+- **Billing Process Automation** - As the Brainstorming Idea Leader, bring an automated billing system to life for the China office, making payments easier and improving the client experience.
 
-✈️ In her spare time, Clara is a passionate traveler and dedicated journal keeper. She loves planning trips and combines her love for travel and creativity by documenting her journeys in detailed journals. This passion extends to professionally coordinating experiences, from assisting with the Cogan family's 2025 itinerary for Yunnan, China, to fostering team connections through cultural exchanges across Australia's Brisbane, Melbourne, and Sydney offices.
+In her spare time, Clara is a passionate traveler and dedicated journaler. She loves planning trips and combines her love for travel and creativity by documenting her journeys in detailed physical journal vooks. Ask her anything for a travel plan!
