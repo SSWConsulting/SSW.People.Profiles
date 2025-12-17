@@ -53,7 +53,7 @@ At SSW, Adam has been developing custom solutions for businesses across a range 
 
 Adam is a Certified Scrum Trainer with Scrum.org, trains developers in Australia, the US, UK and Europe, and contributes to Scrum.org thinking. He consults with development teams on improving their Scrum process through mentoring and being an SSW Solution Architect and Scrum Master. He has written many [SSW Rules around Scrum best practices](https://www.ssw.com.au/rules/rules-to-better-scrum).
 
-## China** 
+## China 
 
 Adam has also run multiple consulting firms in China for the last 12 years. Adam has seen the whole Chinese software ecosystem develop and understands the differences that the Chinese market requires in order to be successful. Adam helps western companies modernize their software, so they are not only servicing the USA and European markets, but also grabbing a slice of the Chinese market of 1.4 billion consumers.
 
@@ -125,7 +125,7 @@ In addition, Adam is a regular speaker at the SSW User Group and other conferenc
 
 ### Popular videos
 
-Adam does many videos for SSW tV and has recorded many interviews with technology experts around the world:
+Adam does many videos for SSW TV and has recorded many interviews with technology experts around the world:
 
 - [Azure Superpowers](https://www.youtube.com/playlist?list=PLpiOR7CBNvlp0L_t5Mq7kqeSgvlpl4mQh)
 - [9 Knights of Azure](https://youtu.be/-Ac7z3YEkNI)
