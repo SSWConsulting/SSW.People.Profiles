@@ -34,9 +34,9 @@ quoteAuthor: "Marty Cagan"
 
 **Leveraging AI-driven workflows, Alex designs beautiful digital products for fast-moving product teams.**
 
-As a UI/UX Designer at SSW Sydney, he works across the full product lifecycle — partnering with engineers and product teams to move quickly, ship often, and maintain clarity between vision and implementation.
+As a UI/UX Designer at SSW Sydney, he works across the full product lifecycle - partnering with engineers and product teams to move quickly, ship often, and maintain clarity between vision and implementation.
 
-Previously, Alex helped Australian startups shape their products toward product–market fit. Before transitioning into tech, he worked for 5 years as a carpenter — so he doesn’t shy away from a hard day’s work and knows what it means to build with care and intention.
+Previously, Alex helped Australian startups shape their products toward product–market fit. Before transitioning into tech, he worked for 5 years as a carpenter - so he doesn’t shy away from a hard day’s work and knows what it means to build with care and intention.
 
 Outside of work, you’ll find him mastering his favourite video games, fixing his car (again), or talking design over a beer or coffee.
 
