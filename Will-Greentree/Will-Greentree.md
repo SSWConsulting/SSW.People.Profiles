@@ -18,5 +18,5 @@ quoteAuthor: "William"
 
 
 
-William knows that if a picture is worth a thousand words, the right video is worth a million. He has dedicated himself to mastering the creative process in order to deliver the best media projects. Observant and adaptive, the cogs are always turning in William’s mind — building out ideas at 24 frames a second. William knows how to excite, but more importantly to educate, which turns engagement into the opportunity. 
+William knows that if a picture is worth a thousand words, the right video is worth a million. He has dedicated himself to mastering the creative process in order to deliver the best media projects. Observant and adaptive, the cogs are always turning in William’s mind - building out ideas at 24 frames a second. William knows how to excite, but more importantly to educate, which turns engagement into the opportunity.
 

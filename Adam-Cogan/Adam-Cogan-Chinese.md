@@ -35,14 +35,14 @@ Adam是scrum.org官方认证的敏捷培训师，培训过来自澳洲、美国�
 
 Adam也是在澳大利亚仅有的三位微软区域总监（Mircrosoft Regional Director) 之一，作为RD定期出席诸如微软TechEd大会 (包括美国、澳大利亚、新西兰、欧洲和马来西亚会场) 的各种会议。他每年不定期地造访位于西雅图的微软总部，了解有关微软的最新战略，并接受最新开发技术方面的培训。在微软，他最喜欢跟Brian Harry的TFS团队和Jeff Teper的SharePoint团队一起工作。
 
-Adam常常造访世界各地的技术专家，并记录专家们的技术分享内容——其中最热门的视频当属他与微软Scrum基金会团队的敏捷会议。你可以点击链接观看此视频 [https://tv.ssw.com/daily-scrum-at-microsoft](https://tv.ssw.com/daily-scrum-at-microsoft)
+Adam常常造访世界各地的技术专家，并记录专家们的技术分享内容 - 其中最热门的视频当属他与微软Scrum基金会团队的敏捷会议。你可以点击链接观看此视频 [https://tv.ssw.com/daily-scrum-at-microsoft](https://tv.ssw.com/daily-scrum-at-microsoft)
 
 在SSW, Adam喜欢跟团队一起工作，优化Scrum和TFS的使用，评审大型 .NET项目的架构，他同时对整体用户体验(UX)也很感兴趣。 此外，Adam也是SSW一个为期9周的 .NET技术训练营[FireBootCamp](https://firebootcamp.com)的创始人及导师。
 
 Adam的精彩工作经历包括:
 
 - Adam使用敏捷开发主导了SSW-Telerik Event影院主页的重新设计工作
-- Adam是澳洲第一个live ASP.Net 站点的主力开发——使用的是测试版pre-Beta 1
+- Adam是澳洲第一个live ASP.Net 站点的主力开发 - 使用的是测试版pre-Beta 1
 - Adam为微软开发的SSRS和Exchange Server样本，后来成为了非常流行的Exchange 报告工具。他还给出了第一个关于Exchange服务器数据的BI解决方案
 - 担任Worley Parsons SharePoint网站的首席架构师，该网站是当时最大的面向公众的网站 (它使用了内置的网页内容管理功能，证明SharePoint平台适用于所有公司)
 - 担任SSW SharePoint实施项目的产品负责人
@@ -69,7 +69,7 @@ Adam同时也是悉尼、堪培拉的微软.Net技术用户组主席，亚太地
 
 ### 立足澳洲，发展中国，放眼世界
 
-2005年，Adam把SSW带出了澳洲，在中国设立了分公司。现在，SSW在澳洲有3个分公司——布里斯本、墨尔本和悉尼（总部），同时在欧洲也有分支机构。今天，全球的SSW开发人员紧密合作，高效地为美国、澳大利亚及其他国际市场开发高质量的软件。
+2005年，Adam把SSW带出了澳洲，在中国设立了分公司。现在，SSW在澳洲有3个分公司 - 布里斯本、墨尔本和悉尼（总部），同时在欧洲也有分支机构。今天，全球的SSW开发人员紧密合作，高效地为美国、澳大利亚及其他国际市场开发高质量的软件。
 Adam热衷于他的Rules页面，他最喜欢的名言是 “捕鼠器里总有免费的奶酪” 。
 
 [[imgMd]]
@@ -91,6 +91,6 @@ Adam热衷于他的Rules页面，他最喜欢的名言是 “捕鼠器里总有�
 
 > “Adam关于创建Windows Apps的讲座是最棒的…非常精彩的VB演示。”
 
-> “看Adam Cogan演讲让人备受鼓舞，很幽默也很愉快。我初到这里时，就对他关于微软和.NET孰优孰劣的客观观点印象深刻——我很庆幸那不是一个无聊的宣传活动”
+> “看Adam Cogan演讲让人备受鼓舞，很幽默也很愉快。我初到这里时，就对他关于微软和.NET孰优孰劣的客观观点印象深刻 - 我很庆幸那不是一个无聊的宣传活动”
 
-> “这些年来，我参加过很多路演大会——Adam Cogan应该是我听过的最好、最实际的演讲者。”
+> “这些年来，我参加过很多路演大会 - Adam Cogan应该是我听过的最好、最实际的演讲者。”}}]}ږ
