@@ -33,6 +33,10 @@ Since then, Hark has been applying those same standards on all projects — **sh
 > Hark is always eager to learn, collaborate, and improve — and he welcomes open feedback to help him grow.
 
 `youtube: https://www.youtube.com/embed/6l-lGpE-W4o`
+**Video: Tale of my first week at SSW as a Software Engineer (9 min)**
 
 `youtube: https://www.youtube.com/embed/jlJCKotVdWg`
+**Video: Tale of my turban ft. Mumsy ❤️ (2 min)**
+
+
 Follow on [Instagram](https://www.instagram.com/reel/DQ1PUDAkwGR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) for more.
