@@ -81,15 +81,18 @@ Some of Adam's career highlights have been:
   - Paul Stovell – CEO of [octopus.com](https://octopus.com/)
   - Damian Brady – Mr. Devops at [GitHub](https://github.com/) - was Microsoft Worldwide
   - Adam Stephensen – Mr. Azure at Microsoft Australia
+  - ...and many more
+- Acquiring and taking the lead of [TinaCMS – the leading CMS on GitHub](https://tina.io)
+- Being the principal stakeholder of [YakShaver – an AI tool to make perfect backlogs](https://yakshaver.ai/)
 - Being the Product Owner of many SSW products, such as [SugarLearning](https://sugarlearning.com/) and [TimePro](https://sswtimepro.com/)
-- Being the Azure DevOps (was TFS) MVP of the year, proving his leadership in demonstrating the value of the ALM tools
-- Leading the SSW-Telerik Event Cinema website redesign using Scrum
-- Being lead developer on Australia's first live ASP.NET site - using a version that was pre-Beta
+- Being awarded from Microsoft the Azure DevOps MVP of the year, proving his leadership in demonstrating the value of the ALM tools
+- Leading the Event Cinemas website redesign and system using Scrum
+- Being lead developer on Australia's first live ASP.NET site - using a pre-Beta version
 - Developing the Office integration for Quicken Australia
 - Developing the Reporting samples for Microsoft that turned into a hugely popular Email Reporting Tool
 - Developing the SharePoint site for Worley Parsons which was the largest public-facing site at the time (it used the built-in Web Content Management features, proving the SharePoint Platform for all companies)
 - His dual role as mentor and "Bob the Product Owner" at the first-ever FireBootCamp
-- Writing thousands of best practices on rules.ssw.com.au
+- Writing thousands of best practices on [SSW Rules](https://www.ssw.com.au/rules)
 
 [[imgMd]]
 | ![There’s always free cheese in a mousetrap, and all rules are meant to be broken :-)](./Images/Bio/figureMouse.jpg)
