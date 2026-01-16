@@ -88,9 +88,6 @@ Some of Adam's career highlights have been:
 - Being awarded from Microsoft the Azure DevOps MVP of the year, proving his leadership in demonstrating the value of the ALM tools
 - Leading the Event Cinemas website redesign and system using Scrum
 - Writing thousands of best practices on [SSW Rules](https://www.ssw.com.au/rules)
-
-History:
-
 - Being lead developer on Australia's first live ASP.NET site - using a pre-Beta version
 - Developing the Office integration for Quicken Australia
 - Developing the Reporting samples for Microsoft that turned into a hugely popular Email Reporting Tool
