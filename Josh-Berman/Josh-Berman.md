@@ -35,7 +35,7 @@ Josh is a Software Developer at SSW, based in the Sydney office. He is currently
 
 ## Professional Background
 
-Josh joined SSW through the (FireBootCamp)[https://firebootcamp.com/] work experience program, where he built solid experience across both front-end and back-end development. He worked with technologies such as Angular, C#, .NET Framework, and SQL on internal SSW projects, developing a strong understanding of enterprise software development practices.
+Josh joined SSW through the [FireBootCamp](https://firebootcamp.com/) work experience program, where he built solid experience across both front-end and back-end development. He worked with technologies such as Angular, C#, .NET Framework, and SQL on internal SSW projects, developing a strong understanding of enterprise software development practices.
 
 He is known for his clear communication, structured thinking, and ability to quickly understand complex systems. Josh consistently looks for ways to streamline workflows, reduce duplication, and improve overall development efficiency.
 
