@@ -14,7 +14,7 @@ quoteAuthor: Steve Ballmer
 | ![](../badges/Certification-poty-finalist-education-shrunk.png)
 
 [[imgBadge]]
-| ![](../badges/comptia-spotlight-future-leader-2024.png)
+| ![](../badges/comptia-spotlight-future-leader-2024-shrunk.png)
 
 Calum is a distinguished enterprise software consultant specialising in Microsoft technologies, including Azure, SharePoint, Dynamics 365/Power Platform, and C# .NET. He also brings a strong proficiency in both Angular and React to his diverse skill set.
 
