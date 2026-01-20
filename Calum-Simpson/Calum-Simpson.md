@@ -13,6 +13,9 @@ quoteAuthor: Steve Ballmer
 [[imgBadge]]
 | ![](../badges/Certification-poty-finalist-education-shrunk.png)
 
+[[imgBadge]]
+| ![](../badges/comptia-spotlight-future-leader-2024-shrunk.png)
+
 Calum is a distinguished enterprise software consultant specialising in Microsoft technologies, including Azure, SharePoint, Dynamics 365/Power Platform, and C# .NET. He also brings a strong proficiency in both Angular and React to his diverse skill set.
 
 Boasting over a decade of experience, Calum has successfully spearheaded web projects across a spectrum of environments, from agile two-person startups to some of the most prominent corporations in Australia. His versatility in handling projects of various scales speaks to his adaptability and prowess in the field.
