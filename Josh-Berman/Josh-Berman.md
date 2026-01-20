@@ -31,7 +31,9 @@ quoteAuthor: "Lewis Carroll"
 
 ---
 
-Josh is a Software Developer at SSW, based in the Sydney office. He is currently completing a double Bachelor degree in Advanced Computing and Commerce at the University of Sydney, majoring in Computer Science and Finance. This blend of technical and business study gives him a strong foundation for building software that is both technically sound and commercially valuable.
+Josh Berman is a Software Engineer at SSW in Sydney and a double-degree student in Advanced Computing and Commerce (Computer Science & Finance) at the University of Sydney. With a strong blend of engineering depth and commercial thinking, Josh focuses on building software that is not only technically robust but also delivers real business value.
+
+Known for clear communication, structured problem-solving, and a strong eye for UI/UX, Josh enjoys working at the intersection of design, developer experience, and scalable architecture. Outside of work, he brings the same discipline to training, surfing, and football; always driven by continuous improvement and taking on new challenges.
 
 ## Professional Background
 
@@ -58,19 +60,4 @@ Beyond the React and Next.js ecosystem, Josh has contributed to a range of enter
 - Proactive learner who enjoys mastering new tools and frameworks  
 - Focused on quality, maintainability, and developer experience
 - Strong eye for UI and UX, with a focus on usability, accessibility, and clean, intuitive interfaces
-
-## Beyond the Desk
-
-Outside of work, Josh places a strong emphasis on staying active and maintaining balance. Whether he is training in the gym, surfing, or playing football, he enjoys pushing himself both physically and mentally, bringing the same discipline and energy to his professional growth.
-
-## Videos 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sTVd8CYtXrA?si=11x2bCWxlYCvBlib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Video: 🦙 Installing to Deploying with TinaCloud | Josh Berman | TinaCMS (8 min)**
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E0nehGoMwWM?si=JPdzo6-Uzro1m6zD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Video: Getting Started in TinaCMS with NPX | Josh Berman (2 min)**
 
