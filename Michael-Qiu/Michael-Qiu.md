@@ -30,8 +30,8 @@ quoteAuthor: "William Ramsey"
 
 ---
 
-**Michael** is a **Software Engineer** at **SSW Sydney**, focused on building **practical**, **well-structured software** with an emphasis on **quality** and **delivering value**.
+Michael is a Software Engineer at SSW Sydney, focused on building practical, well-structured software with an emphasis on quality and delivering value.
 
-He joined SSW through [FireBootCamp](https://firebootcamp.com/), where he worked in a **fast-paced, consultancy-style environment**, developing **production-ready applications** using **Angular**, **.NET**, and modern development workflows. Throughout the program, he built a strong foundation in **full-stack development** and learned the importance of **writing maintainable code** that stands up to real-world demands.
+He joined SSW through [FireBootCamp](https://firebootcamp.com/), where he worked in a fast-paced, consultancy-style environment, developing production-ready applications using Angular, .NET, and modern development workflows. Throughout the program, he built a strong foundation in full-stack development and learned the importance of writing maintainable code that stands up to real-world demands.
 
-Michael is known for being **friendly**, **receptive to feedback**, and committed to **continuously improving**. He strives to communicate effectively with both technical and non-technical team members, ensuring everyone stays aligned on project goals.
+Michael is known for being friendly, receptive to feedback, and committed to continuously improving. He strives to communicate effectively with both technical and non-technical team members, ensuring everyone stays aligned on project goals.
