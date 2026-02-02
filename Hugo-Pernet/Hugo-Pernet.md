@@ -17,10 +17,16 @@ quoteAuthor: "Anonymous"
 | ![angular.png](../badges/Developer-angular.png)
 
 [[imgBadge]]
+| ![React](../badges/Developer-react.png)
+
+[[imgBadge]]
 | ![dotnet-core.png](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
 | ![dotnet-core.png](../badges/Developer-TinaCMS.png)
+
+[[imgBadge]]
+| ![GitHub.png](../badges/Developer-github.png)
 
 ---
 
