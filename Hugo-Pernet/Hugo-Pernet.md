@@ -28,16 +28,21 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![GitHub.png](../badges/Developer-github.png)
 
+[[imgBadge]]
+| ![Claude.png](../badges/Claude.png)
+
 ---
 
 Hugo isn't your typical SSW Solution Architect; he's a seasoned professional with over a decade of hands-on experience in Angular and .NET Core.
 
-He also showcases his mastery of TinaCMS and Next.js at developer conferences accross Europe, blending tech insight with enthusiasm to inspire the community.
+He also showcases his mastery of TinaCMS and Next.js at developer conferences across Europe, blending tech insight with enthusiasm to inspire the community.
 
 Beyond the coding screen, Hugo has another passion: music. You might catch him strumming his guitar during downtime, adding a touch of rhythm to his tech-savvy life.
 
-One of Hugo's standout achievements involves spearheading the development of a game-changing tool for brokers in the funeral insurance sector. Over an impressive 4-5 year span, he played a pivotal role in every phase of the project, from the initial lines of code to the final implementation, showcasing not only technical expertise but unwavering dedication and leadership.
+One of Hugo's standout achievements involves spearheading the development of a game-changing tool for brokers in the funeral insurance sector. Over an impressive 4–5 year span, he played a pivotal role in every phase of the project, from the initial lines of code to the final implementation, showcasing not only technical expertise but unwavering dedication and leadership.
 
-In his daily work, Hugo excels in front-end development. Beyond coding, he crafts user experiences blending aesthetics with functionality. Engaging clients in UX/UI challenges, Hugo ensures the end result exceeds expectations. His passion for intuitive interfaces is a commitment to solutions resonating with both clients and end-users. In a dynamic tech landscape, Hugo remains a steady hand, consistently producing work that not only functions flawlessly but also elevates the user experience.
+In his daily work, Hugo excels in front-end development. Beyond coding, he crafts user experiences, blending aesthetics with functionality. Engaging clients in UX/UI challenges, Hugo ensures the end result exceeds expectations. His passion for intuitive interfaces is a commitment to solutions that resonate with both clients and end-users. In a dynamic tech landscape, Hugo remains a steady hand, consistently producing work that not only functions flawlessly but also elevates the user experience.
+
+Always keeping an eye on what’s next, Hugo has a strong enthusiasm for AI-powered development — from coding assistants to autonomous agents and the new wave of “vibe coding”. He enjoys exploring tools like Claude Code to accelerate iteration, sharpen ideas, and prototype faster. But make no mistake: the AI is the sidekick, not the architect.
 
 When it comes to the ever-evolving world of tech, Hugo isn't here to be the hero – he's here to make things work, make them look good, and make sure everyone understands it. Because, at the end of the day, it's not just about the code; it's about creating solutions that people can actually use and enjoy.
