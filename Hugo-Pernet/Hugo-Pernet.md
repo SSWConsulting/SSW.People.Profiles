@@ -28,6 +28,9 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![GitHub.png](../badges/Developer-github.png)
 
+[[imgBadge]]
+| ![Claude.png](../badges/Claude.png)
+
 ---
 
 Hugo isn't your typical SSW Solution Architect; he's a seasoned professional with over a decade of hands-on experience in Angular and .NET Core.
