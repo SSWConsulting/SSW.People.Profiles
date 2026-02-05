@@ -1,7 +1,7 @@
 ---
 id: "26c49b59-df97-ef11-8a69-00224894e457"
 
-qualifications: ""
+qualifications: "Master of Accounting"
 
 quote: "After all, tomorrow is another day."
 quoteAuthor: "Scarlett O’Hara"
@@ -14,23 +14,27 @@ quoteAuthor: "Scarlett O’Hara"
 | ![ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 <hr />
 
-📖 Clara Fang is a seasoned accounting professional with a Master's degree in Accounting from the prestigious London School of Economics and Political Science (LSE). As an Accountant at the SSW Hangzhou Office, Clara leverages her extensive expertise in financial reporting and data-driven analysis to deliver exceptional results and enhance operational efficiency.
+Clara Fang is a seasoned accounting professional with a Master's degree in Accounting from the prestigious London School of Economics and Political Science (LSE). she loves finding simple ways to make work easier and uses financial data to uncover opportunities that help the team move forward.
 
-📊Key Professional Skills and Achievements:
+## Key Professional Skills
 
-**Financial Reporting:**
-Clara is proficient in preparing accurate and timely financial statements. Her deep understanding of financial reporting standards ensures compliance with regulatory requirements. Her meticulous attention to detail and analytical skills enable her to identify trends and provide insights that drive strategic business decisions.
+- **Financial Reporting:**
+Prepares compliant financial statements and offers strategic insights from an accounting perspective.
 
-**Data Analysis:**
-Clara possesses robust analytical capabilities, allowing her to efficiently interpret financial data, identify key connections between financial statements, and uncover the underlying causes of variances. She uses these skills to streamline financial processes and enhance automation, leading to significant operational improvements.
+- **Smart Tools User:**
+Leverages advanced Excel and AI tools like Cursor to automate tasks and make life a lot easier.
 
-**Excel Proficiency:**
-Clara is highly skilled in Excel, utilizing it to manage and analyze complex financial data. Her advanced skills in data modeling, pivot tables, and financial formulas enable her to streamline processes and enhance automation, significantly improving efficiency.
+- **Bridge Builder**
+Brings people together across cultures and helps strengthen collaboration across SSW offices.
 
-**ChatGPT Prompt Engineering**
-Clara excels at leveraging AI tools to boost her productivity. She adeptly uses ChatGPT for generating Excel formulas and Cursor to convert work messages into structured Excel documents, significantly enhancing her efficiency in her daily work.
+<br>
 
-**Markdown:**
-While currently at a beginner level, Clara is eager to learn Markdown, a lightweight markup language with plain text formatting syntax. She is keen to incorporate this skill into her work to improve documentation and communication.
+## Clara's achievement
 
-✈️ In her spare time, Clara is a passionate traveler and dedicated journal keeper. She loves planning trips and combines her love for travel and creativity by documenting her journeys in detailed journals.
+- **China Tax Compliance** - Led two major tax updates for the China office, ensuring compliance and making financial processes clearer and more efficient.
+
+- **Operational Standardisation** - Launched the dedicated China module for SugarLearning and established the localized leave and reimbursement procedures, standardizing daily operations for the China team.
+
+- **Billing Process Automation** - As the Brainstorming Idea Leader, bring an automated billing system to life for the China office, making payments easier and improving the client experience.
+
+In her spare time, Clara is a passionate traveler and dedicated journaler. She loves planning trips and combines her love for travel and creativity by documenting her journeys in detailed physical journal vooks. Ask her anything for a travel plan!

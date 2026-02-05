@@ -1,23 +1,25 @@
 ---
 id: "b86a67e8-f459-dd11-b3a3-00155d012206"
-
 qualifications: "B.IT(Software Engineering)@QUT, M. Commerce(Information System)@UNSW, M.Management@University of Melbourne, CSPO, MCPD, MCTS"
-
 quote:  "Storms make trees take deeper roots"
 ---
 
 [[imgBadge]]
 | ![](../badges/Certification-scrumalliance-owner-1.png) 
   
-  
-Alvin Shen is the CEO of SSW China managing SSW Beijing and SSW Hangzhou Office.  
 
-Alvin has been working in the development realm for more than 15 years, both in China as well as in Australia. In that time, he has established himself as a passionate expert and industry leader. He started as a .NET and SharePoint developer, but through his passion for Scrum and his entrepreneurial spirit, he was able to leverage his skills to become a great Product Owner, as well as a business development manager, and even a CEO of a startup with 70 people before joining SSW.  
+Alvin Shen is the CEO of SSW China and leads the SSW Hangzhou office. With over 18 years of experience across China and Australia, he is a seasoned technology leader who bridges cultures and drives strategic innovation.
 
-Because of his business experience both in China and in Australia, he understands the differences between the way the East and the West do business and can bridge the two to ensure symbiotic communication and satisfactory outcomes for all sides. Alvin could provide valuable insights into the trends, desires, and realities of the Chinese market, and the challenges faced by companies both in and outside of China who wish to do business together.   
+Beginning his career as a .NET and SharePoint developer, Alvin embraced Scrum and agile methodologies early on. He later built and led a 70‑person startup before joining SSW, where he continues to merge technical expertise with business vision to help organizations scale effectively.
 
-His primary areas of expertise cover Chinafy, Scrum and agile development and cloud technologies, especially Microsoft Azure, and the leading Chinese cloud, Alibaba cloud, and he continues to remain abreast of the latest developments in .NET.  
+Alvin has extensive experience in applying Large Language Models (LLMs) across Eastern and Western markets, supporting clients in integrating localized AI solutions into their workflows. As a certified Scrum and Agile coach, he has trained more than 500 professionals, helping teams adopt agile frameworks and deliver sustainable results.
 
-He also runs a famous technical user group (FireUG) in China for many years. He is very passionate about organizing it, investing resources to expand its influence, and working very hard to give back to the local technology community as well.
+His key areas of focus include AI, China social media operations and promotion, Chinafy strategies, agile transformation, and cloud technologies such as Microsoft Azure and Alibaba Cloud.
 
-In addition, Alvin is the producer of SSW China TV and FireUG TV. 
+Beyond his executive responsibilities, Alvin leads FireUG — one of China’s most influential technical user groups with over 60,000 followers—and produces SSW China TV and FireUG TV to promote knowledge sharing and continuous innovation within the technology community.
+
+In addition, Alvin is the producer of:
+
+* [SSW China TV (Chinese)](https://space.bilibili.com/289083159)
+* [FireUG Bilibili (Chinese)](https://space.bilibili.com/545713776)
+* [FireUG YouTube (Chinese)](https://www.youtube.com/@fireusergroup)

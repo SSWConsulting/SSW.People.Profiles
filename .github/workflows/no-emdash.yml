@@ -1,0 +1,22 @@
+name: No Em Dash
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Block em dashes in Markdown
+        shell: bash
+        run: |
+          set -euo pipefail
+          if rg -n "—" --glob "**/*.md"; then
+            echo "::error::Found em dashes (—). Replace with hyphen '-' or '&mdash;' if intentional."
+            exit 1
+          fi

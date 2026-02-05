@@ -7,6 +7,9 @@ quote: "Before software can be reusable it first has to be usable."
 quoteAuthor: "Ralph Johnson"
 ---
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-power-platform-functional-consultant-associate.png)
+
+[[imgBadge]]
 | ![](../badges/Certification-microsoft-power-platform-developer-associate.png)
 
 [[imgBadge]]
@@ -14,9 +17,6 @@ quoteAuthor: "Ralph Johnson"
 
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-azure-database-administrator-associate.png)
-
-[[imgBadge]]
-| ![](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
 | ![azure-logo.png](../badges/Business-microsoft-azure.png)
@@ -50,23 +50,22 @@ quoteAuthor: "Ralph Johnson"
 
 
 ---
-Ben is a full-stack developer at SSW in Sydney, bringing expertise across full-stack development with **Angular, Next.js, .NET, and DevOps**. With a strong focus on clean code and best practices, Ben has built applications with complex state management requirements, streamlined backend architectures, and automated deployment pipelines. Constantly expanding his skill set, he is deepening his proficiency in cloud technologies and enterprise-level solutions on **Azure**.
+Ben is a Sydney-based consultant at SSW who specialises in **Azure** cloud architecture, **DevOps** automation, and full-stack application development. He has experience helping enterprises modernise legacy systems, migrate workloads to the cloud, and deliver secure, automated platforms that scale with business growth. Known for his pragmatic and outcome-driven approach, Ben bridges the gap between architecture, development, and operations to help organisations achieve faster, safer, and more reliable cloud solutions.
 
-Ben is also an **active open-source maintainer** for TinaCMS, a world-leading CMS with over **10,000 GitHub stars**, where he continuously delivers new features and improves the platform to enhance user experience and reliability.
+A dedicated open-source maintainer, Ben contributes to **TinaCMS**, a world-leading headless CMS with over **10,000 GitHub stars**. His work focuses on improving extensibility, performance, and developer experience for thousands of users worldwide.
 
-His favourite tools include: 
-- **Frontend**: Angular, NgRx, RXJS, Next.js
-- **Backend**: .NET, EF Core, RESTful API
-- **DevOps**: CI/CD, GitHub Actions, Docker/Containerization, Azure, Infrastructure as Code (IaC) with Bicep
+## Azure / Cloud & DevOps
+Ben designs secure, scalable, and fully automated cloud environments on **Microsoft Azure**. With deep expertise in cloud security, networking, and infrastructure governance, he has successfully migrated complex **on-premises** microservice systems into Azure, implementing **private network architectures** that meet strict enterprise compliance standards. His work focuses on network isolation, private endpoints, and role-based access control (RBAC) to ensure all resources communicate securely within controlled boundaries.
 
-## Frontend  
-Ben has a great deal of experience handling complex state management, and he loves working with Angular and NgRx to build rich client-side apps with a focus on high-performance and seamless UX.
+He automates Azure resource provisioning using **Infrastructure as Code (Bicep)** to deliver consistent, auditable deployments across environments. Ben also builds resilient CI/CD pipelines with **GitHub Actions** and **Azure DevOps**, integrating containerisation, automated testing, and infrastructure validation to create reliable, secure, and maintainable cloud solutions.
 
-## Backend (Third party integration + .NET Migration)
-With proficiency in .NET 8 and EF Core, Ben has a track record of successful Web API implementations and integrating complex third-party services, including **Xero, Power BI, and SSRS**. Recently, Ben led a project to migrate an outdated .NET Framework application to .NET 8, where he has removed **1 million lines** of technical debt, significantly improving performance and maintainability and unblocking the migration progress
+## Full-Stack Development
+Ben delivers end-to-end enterprise applications that combine refined frontend experiences with robust backend systems. Using Angular, NgRx, and Next.js, he builds high-performance, state-driven interfaces supported by clean, maintainable APIs built with .NET 8 and EF Core. On the backend, Ben focuses on designing modular monolith architectures and clean enterprise solutions, enabling scalability, maintainability, and clear domain boundaries across large systems.
+
+He has led several enterprise integration projects involving Xero, Power BI, and SSRS, ensuring seamless interoperability and insight generation. Most notably, Ben spearheaded a large-scale migration from .NET Framework to .NET 8, eliminating over one million lines of technical debt and achieving major improvements in performance, maintainability, and developer velocity
 
 ## Mentoring
-Ben is always happy to mentor other developers, and is currently a Tech Lead for SSW's internship program - SSW FireBootCamp. He helps educate interns (and other SSW developers!) on development best practices, code quality standards, and Scrum Process.
+As Tech Lead for SSW FireBootCamp, Ben mentors developers and consultants in software engineering best practices, DevOps, and agile delivery. Known for his collaborative and approachable style, he helps teams adopt modern cloud and DevOps workflows while improving their code quality, solution design, and architectural thinking
 
 ## Videos
 

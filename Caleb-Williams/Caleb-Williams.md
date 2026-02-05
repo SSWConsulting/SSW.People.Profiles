@@ -35,10 +35,22 @@ quoteAuthor: 'James Clear'
 | ![rxjs](../badges/Developer-rxjs.png)
 
 [[imgBadge]]
+| ![Angular](../badges/Developer-angular.png)
+
+[[imgBadge]]
+| ![Azure](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
 | ![Github](../badges/Developer-github.png)
 
 [[imgBadge]]
 | ![Azure](../badges/Certification-microsoft-azure-fundamentals.png)
+
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
+
+[[imgBadge]]
+| ![Blazor](../badges/Developer-blazor.png)
 
 ---
 
