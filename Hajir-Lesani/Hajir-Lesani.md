@@ -34,7 +34,19 @@ quote: "Everything is Possible!"
 | ![Azure B2C](../badges/Business-microsoft-azure-b2c.png)
 
 [[imgBadge]]
+| ![Azure Functions](../badges/Developer-azure-function.png)
+
+[[imgBadge]]
+| ![Azure IoT](../badges/Business-microsoft-azure-iot.png)
+
+[[imgBadge]]
+| ![Cognitive Services](../badges/Developer-cognitive-services.png)
+
+[[imgBadge]]
 | ![OpenAI-ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
+
+[[imgBadge]]
+| ![Claude](../badges/Claude.png)
 
 [[imgBadge]]
 | ![GitHub](../badges/Developer-github.png)
@@ -43,27 +55,33 @@ quote: "Everything is Possible!"
 | ![NodeJS](../badges/Developer-node-js.png)
 
 
-Hajir is an SSW Solution Architect and Team Lead with over 14 years of experience across diverse sectors including government organizations, United Nations, logistics and supply chain technology, and financial technology. His expertise spans from large-scale enterprise systems to innovative startup solutions, with a strong focus on infrastructure design and team leadership. He has successfully led multiple teams in modernizing legacy applications to address technical debt, ensuring systems remain scalable and maintainable while adopting current best practices and technologies.
+Hajir is an SSW Solution Architect and Team Lead with over 14 years of experience across government, United Nations, logistics, supply chain, and fintech. He's worked across everything from large enterprise systems to early-stage startups, with a consistent focus on infrastructure design, event-driven architecture, and technical leadership. He has led teams through legacy modernization projects, helping organizations reduce technical debt while keeping systems maintainable and up to date.
 
-Specializing in .NET development, Next.js/React front-end applications, SQL database management, Azure cloud solutions, Hajir builds robust and scalable applications to meet complex business needs. His expertise extends to implementing secure authentication solutions with Azure B2C and ensuring enterprise-grade security across all applications. His ability to deliver effective solutions is matched by his commitment to exceeding client expectations.
+His core stack is .NET, React/Next.js, SQL Server, and Azure. Day to day this includes building authentication flows with Azure B2C, designing messaging systems with Azure Service Bus and Function Apps, managing APIs through Azure API Management, and writing infrastructure as code with Bicep. He takes pride in delivering solutions that actually work in production, not just on paper.
 
-In addition to his technical expertise, Hajir is deeply interested in Artificial Intelligence and home automation. He actively explores AI applications in software development, particularly focusing on integrating Large Language Models and AI assistants into development workflows to enhance productivity and code quality. In his spare time, he enjoys working on home automation projects, creating smart home solutions that combine IoT devices with AI capabilities to improve daily living. His passion for both AI and automation allows him to bring innovative perspectives to client projects, especially when implementing intelligent features or automated processes.
+Hajir has a genuine interest in AI and spends time exploring how LLMs can be put to practical use in enterprise software development. He regularly experiments with AI assistants and automation tooling to improve development workflows and code quality.
 
 **Technologies**:
 - SQL
 - .NET (including Core, ASP.NET, MVC, Web API, Blazor)
-- React / Next.js
+- React / Next.js / React Native
 - Dynamics 365 / Dataverse
-- Azure (including Azure B2C, Security, DevOps)
-- Artificial Intelligence (AI)
+- Azure (including B2C, Service Bus, Function Apps, API Management, DevOps)
+- Infrastructure as Code (Bicep)
+- Playwright (Test Automation)
+- Artificial Intelligence (AI / LLMs)
 
 **Key Skills and Achievements**:
-- **Database Design and Architecture**: Proficient in SQL Server and database-driven applications, specializing in data modeling, performance optimization, and designing scalable systems that handle complex data relationships and large datasets.
-- **Cloud Solutions & DevOps**: Extensive experience with Azure cloud services and DevOps practices, implementing robust CI/CD pipelines and cloud-native architectures to deliver highly available and scalable solutions.
-- **Dynamics 365 & Dataverse API Integration**: Experienced in integrating with Dynamics 365 and Dataverse APIs using C#, developing custom integrations and workflows to connect business applications with enterprise data sources and extend platform capabilities.
-- **Security & Identity Management**: Proficient in implementing secure authentication and authorization solutions using Azure B2C, Azure Active Directory, and modern security practices to protect enterprise applications and ensure compliance with security standards.
-- **Full-Stack Development**: Proven track record in developing enterprise applications using .NET ecosystem and React, with a focus on clean architecture, performance optimization, and modern development practices.
-- **AI Integration & Innovation**: Strong capabilities in incorporating AI and LLM technologies into development workflows and applications, enhancing productivity and creating intelligent solutions that solve complex business challenges.
-- **Technical Leadership**: Successfully led multiple teams in modernizing legacy systems and delivering large-scale enterprise solutions, while mentoring team members and ensuring adoption of best practices and emerging technologies.
+- **Database Design and Architecture**: Solid background in SQL Server and data-driven applications, covering data modeling, performance tuning, and schema design for systems with complex relationships and large datasets. Has migrated high-volume pipelines from parquet files to SQL Server to improve query speed and long-term maintainability.
+- **Cloud Solutions & DevOps**: Hands-on experience with Azure cloud services and DevOps, including CI/CD pipelines, GitHub Actions workflows, and cloud-native application design.
+- **Infrastructure as Code**: Builds and maintains Azure infrastructure using Bicep templates, keeping deployments repeatable and version-controlled across government and enterprise projects.
+- **Microservices & Event-Driven Architecture**: Experienced in designing event-driven systems using Azure Service Bus, covering messaging patterns, dead letter queue handling, and Function App-based microservices for high-throughput workflows including invoice processing pipelines.
+- **API Design & Integration**: Experienced with Azure API Management, RESTful API development, and integrating with third-party enterprise systems including Dynamics 365 / Dataverse.
+- **Dynamics 365 & Dataverse API Integration**: Builds custom integrations and workflows in C# connecting business applications to Dynamics 365 and Dataverse, extending platform capabilities to meet specific business needs.
+- **Security & Identity Management**: Implements authentication and authorization using Azure B2C custom policies, Azure Active Directory, Azure AD B2B, and external identity providers, with a focus on security compliance in enterprise and government contexts.
+- **Full-Stack Development**: Builds end-to-end applications across .NET and React, with attention to clean architecture and performance. Also has experience in mobile development using React Native and Expo.
+- **Test Automation**: Sets up automated testing for enterprise applications including xUnit for unit testing, bUnit for Blazor component testing, and Playwright for end-to-end tests covering complex forms and multi-step workflows.
+- **AI Integration**: Integrates AI and LLM tooling into development workflows to improve productivity and code quality. Explores practical applications of AI within enterprise .NET and Azure environments.
+- **Technical Leadership**: Has led teams on legacy modernization and large-scale delivery projects, with a focus on mentoring, code quality, and keeping teams aligned on best practices.
 
-Outside of work, Hajir enjoys spending time with his family and exploring new technologies. He's passionate about continuous learning and often experiments with emerging tech in his home lab. When he's not coding or tinkering with AI, you might find him enjoying outdoor activities around Victoria.
+Outside of work, Hajir enjoys salsa dancing and swimming. He spends a good chunk of his spare time on home automation projects, wiring up IoT devices and experimenting with AI capabilities to build smarter living spaces. When he's not tinkering, you'll find him out enjoying everything Melbourne has to offer.
