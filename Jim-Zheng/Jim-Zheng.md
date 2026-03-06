@@ -25,6 +25,14 @@ Jim Zheng is a **Senior Software Engineer** based in the SSW Hangzhou office. Wi
 
 He has been continuously striving to understand the best practices for designing robust, applicable and maintainable projects by leveraging outstanding methodologies such as domain-driven design, with the ultimate aim of minimum cost and maximum product lifetime. He is also passionate about digging into systems to understanding how things work.
 
+## Client Projects
+
+### [Gao Hua Investment](https://www.gaohuasec.com)
+
+Jim serves as the Technical Lead for the architecture and implementation of the client’s enterprise Identity and Access Management (IAM) system and employee portal. Joining at the inception of the greenfield initiative, he spearheaded the system’s evolution into a robust, centralized identity platform.
+
+Leveraging the high level of trust established through these deliveries, Jim is now leading a second strategic initiative: the development of a specialized Project and Timesheet Management system for the Investment Banking division.
+
 ## Internal Projects
 
 ### [SSW SophieBot](https://sswsophie.com/sophiebot)
@@ -48,4 +56,14 @@ Relevant technologies: NextJS, TinaCMS, React, Docker, Azure Front Door
 Jim joined as one of the core members to mordernize the architecture of [SSW SugarLearning China](https://sugarlearning.cn/) which leverages the latest cloud-native web development techniques, and helped the team to conduct a DevOps upgrade which better supports the deployment of an internationalized application.
 
 Relevant technologies: .NET 8, Azure App Service, Azure AI Search, Octopus Deploy
+
+## Videos
+
+Watch some of the internal sprint meetings that Jim has run!
+
+[SSW TimePro - Sprint 342 Review + Retro and Sprint 343 Planning (28 min)](https://www.youtube.com/watch?v=h3ti_jcoHXI)
+
+[SSW TimePro - Sprint 343 Review + Retro and Sprint 344 Planning (28 min)](https://www.youtube.com/watch?v=Hocg-I4GfHI)
+
+
 
