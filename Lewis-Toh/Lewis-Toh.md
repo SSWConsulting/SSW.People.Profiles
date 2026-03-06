@@ -58,8 +58,10 @@ Lewis is currently part of the SSW.AI team, contributing to a range of internal 
 
 ## Videos
 
-`youtube: https://www.youtube.com/watch?v=b3nL3o1V8u4`
+Watch some of the YakShaver Sprint Summaries that Lewis has run!
 
-`youtube: https://www.youtube.com/watch?v=YJSEgbK4xqw`
+[Sprint 92 - YakShaver (29 min)](https://www.youtube.com/watch?v=b3nL3o1V8u4)
+
+[Sprint 93 - YakShaver (36 min)](https://www.youtube.com/watch?v=YJSEgbK4xqw)
 
 Outside of Software Development, Lewis enjoys playing Table Tennis and Badminton with friends, and likes playing Rhythm Games in his own time.
