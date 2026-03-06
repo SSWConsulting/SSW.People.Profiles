@@ -29,7 +29,7 @@ He has been continuously striving to understand the best practices for designing
 
 ### [Gao Hua Investment](https://www.gaohuasec.com)
 
-Jim serves as the Technical Lead for the architecture and implementation of the client’s enterprise Identity and Access Management (IAM) system and employee portal. Joining at "Day Zero," he spearheaded the system’s evolution into a robust, centralized identity platform.
+Jim serves as the Technical Lead for the architecture and implementation of the client’s enterprise Identity and Access Management (IAM) system and employee portal. Joining at the inception of the greenfield initiative, he spearheaded the system’s evolution into a robust, centralized identity platform.
 
 Leveraging the high level of trust established through these deliveries, Jim is now leading a second strategic initiative: the development of a specialized Project and Timesheet Management system for the Investment Banking division.
 
@@ -64,5 +64,6 @@ Watch some of the internal sprint meetings that Jim has run!
 [SSW TimePro - Sprint 342 Review + Retro and Sprint 343 Planning (28 min)](https://www.youtube.com/watch?v=h3ti_jcoHXI)
 
 [SSW TimePro - Sprint 343 Review + Retro and Sprint 344 Planning (28 min)](https://www.youtube.com/watch?v=Hocg-I4GfHI)
+
 
 
