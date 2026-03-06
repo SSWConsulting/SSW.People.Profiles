@@ -46,7 +46,7 @@ Lewis is a FireBootCamp graduate who now runs the program — training the next 
 
 Lewis was the Scrum Master and a core developer on **[YakShaver](https://yakshaver.ai)**, an AI-powered tool that transforms screen recordings into fully formatted backlog items across GitHub and Azure DevOps.
 
-One of the large contributions he's made was integrating Dynamics 365 as a data source, enabling companies to pull their people and project data directly from Dynamics into YakShaver for smarter work item assignment and team management.
+One of his major contributions was integrating Dynamics 365 as a data source, enabling companies to pull their people and project data directly from Dynamics into YakShaver for smarter work item assignment and team management.
 
 Relevant technologies: Next.js, .NET, Electron, SQL, Azure
 
