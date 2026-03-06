@@ -27,43 +27,41 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![Web HTML](../badges/Designer-web-html5.png)
 
+[[imgBadge]]
+| ![Next.js](../badges/Developer-nextjs.png)
+
 ---
 
-Lewis is a Software Developer at SSW based in the Sydney office, specialising in AI-powered application development. He holds a Bachelor of Computer Science from the University of New South Wales and is a key contributor to [YakShaver](https://yakshaver.ai), helping drive ongoing improvements and innovation in AI-assisted productivity tooling.
+Lewis is a **Software Developer** based in the SSW Sydney office, specialising in AI-powered application development. He holds a Bachelor of Computer Science from the University of New South Wales and is a graduate of SSW's [FireBootCamp](https://www.ssw.com.au/events/firebootcamp).
 
-Lewis works across the full stack and has experience integrating modern AI capabilities into real-world applications, including LLM-based workflows, prompt engineering, MCP-powered extensibility, and Azure OpenAI deployments.
+Lewis works across the full stack and has experience integrating modern AI capabilities into real-world applications, including LLM-based workflows, prompt engineering, MCP-powered extensibility, and Azure OpenAI deployments. He served as the Scrum Master for [YakShaver](https://yakshaver.ai), leading the team through sprints, planning, and delivery. He is now part of the SSW.AI team, working on various internal AI projects within the company.
 
-**Technologies**:
-- C#/.NET
-- Python
-- Angular
-- React
-- Next.js
-- Electron JS
-- Azure
-- Azure OpenAI
-- SQL, EF Core
-- GitHub Actions
+## Internal Projects
 
-**Key Skills and Experience**
+### [FireBootCamp](https://www.ssw.com.au/events/firebootcamp)
 
-- **AI Development & Integration**: Implemented AI features such as language generation, semantic search, and intelligent assistants using Azure OpenAI. Experimenting with workflow automation, agent-based systems, and MCP integration to extend application capabilities beyond traditional boundaries.
+Lewis is a FireBootCamp graduate who now runs the program — training the next generation of developers in .NET, SQL, and Angular.
 
-- **Frontend Engineering**: Built responsive and accessible UI experiences using Angular, React, and Next.js. Comfortable with TypeScript, Razor Components, HTML, CSS, and design patterns for scalable frontend architecture. Currently building desktop apps using Electron.
+### [YakShaver](https://yakshaver.ai)
 
-- **Backend Engineering**: Developed REST APIs using C#/.NET. Experience implementing authentication, data models, and business logic. Uses Python for rapid prototyping, scripting automation, and AI experimentation.
+Lewis was the Scrum Master and a core developer on **[YakShaver](https://yakshaver.ai)**, an AI-powered tool that transforms screen recordings into fully formatted backlog items across GitHub and Azure DevOps.
 
-- **Database & Data Handling**: Designs and works with relational data models using SQL and EF Core. Familiar with query optimisation and schema design for production applications.
+One of his major contributions was integrating Dynamics 365 as a data source, enabling companies to pull their people and project data directly from Dynamics into YakShaver for smarter work item assignment and team management.
 
-- **DevOps & Delivery**: Created CI/CD pipelines with GitHub Actions and deployed applications to Azure environments.
+Relevant technologies: Next.js, .NET, Electron, SQL, Azure
 
-- **Collaboration & Process**: Experienced working in as well as running Agile teams with stand-ups, sprints, planning, and code reviews. Focused on clean architecture, maintainability, and continuous improvement.
+### SSW.AI
 
-**Professional Development**:
-- Bachelor of Computer Science - UNSW
-- SSW's FireBootCamp graduate
-- Currently working on [YakShaver](https://yakshaver.ai), a tool to help you make the perfect PBI in seconds.
+Lewis is currently part of the SSW.AI team, contributing to a range of internal AI projects that drive innovation and productivity across the company. The team focuses on building and improving AI-powered tools and workflows used by SSW staff and clients.
 
-He has joined SSW through FireBootCamp, where he has honed and gained knowledge on Full Stack Development, building on Angular and .NET skills, as well as developed and built upon his communication and collaborative skills.
+
+
+## Videos
+
+Watch some of the YakShaver Sprint Summaries that Lewis has run!
+
+[Sprint 92 - YakShaver (29 min)](https://www.youtube.com/watch?v=b3nL3o1V8u4)
+
+[Sprint 93 - YakShaver (36 min)](https://www.youtube.com/watch?v=YJSEgbK4xqw)
 
 Outside of Software Development, Lewis enjoys playing Table Tennis and Badminton with friends, and likes playing Rhythm Games in his own time.
