@@ -27,6 +27,9 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![Web HTML](../badges/Designer-web-html5.png)
 
+[[imgBadge]]
+| ![Next.js](../badges/Developer-nextjs.png)
+
 ---
 
 Lewis is a **Software Developer** based in the SSW Sydney office, specialising in AI-powered application development. He holds a Bachelor of Computer Science from the University of New South Wales and is a graduate of SSW's [FireBootCamp](https://www.ssw.com.au/events/firebootcamp).
@@ -41,9 +44,9 @@ Lewis is a FireBootCamp graduate who now runs the program — training the next 
 
 ### [YakShaver](https://yakshaver.ai)
 
-Lewis was the Scrum Master and a core developer on **[YakShaver](https://yakshaver.ai)**, an AI-powered tool that transforms screen recordings into fully formatted backlog items across GitHub, Azure DevOps, and Jira. Users simply record their screen and voice describing an issue or feature, and YakShaver handles the transcription, AI processing, and work item generation — reducing issue reporting time by approximately 90%.
+Lewis was the Scrum Master and a core developer on **[YakShaver](https://yakshaver.ai)**, an AI-powered tool that transforms screen recordings into fully formatted backlog items across GitHub and Azure DevOps.
 
-Lewis integrated Dynamics 365 as a data source, enabling companies to pull their people and project data directly from Dynamics into YakShaver for smarter work item assignment and team management.
+One of the large contributions he's made was integrating Dynamics 365 as a data source, enabling companies to pull their people and project data directly from Dynamics into YakShaver for smarter work item assignment and team management.
 
 Relevant technologies: Next.js, .NET, Electron, SQL, Azure
 
