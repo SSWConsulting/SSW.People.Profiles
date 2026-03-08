@@ -36,6 +36,14 @@ Lewis is a **Software Developer** based in the SSW Sydney office, specialising i
 
 Lewis works across the full stack and has experience integrating modern AI capabilities into real-world applications, including LLM-based workflows, prompt engineering, MCP-powered extensibility, and Azure OpenAI deployments. He served as the Scrum Master for [YakShaver](https://yakshaver.ai), leading the team through sprints, planning, and delivery. He is now part of the SSW.AI team, working on various internal AI projects within the company.
 
+## Client Projects
+
+### Harrier
+
+Lewis worked on upgrading Harrier's Data Portal, modernizing the application using .NET and Angular.
+
+Relevant technologies: .NET, Angular
+
 ## Internal Projects
 
 ### [FireBootCamp](https://firebootcamp.com/)
@@ -53,14 +61,6 @@ Relevant technologies: Next.js, .NET, Electron, SQL, Azure
 ### SSW.AI
 
 Lewis is currently part of the SSW.AI team, contributing to a range of internal AI projects that drive innovation and productivity across the company. The team focuses on building and improving AI-powered tools and workflows used by SSW staff and clients.
-
-## Client Projects
-
-### Harrier
-
-Lewis worked on upgrading Harrier's Data Portal, modernizing the application using .NET and Angular.
-
-Relevant technologies: .NET, Angular
 
 ## Videos
 
