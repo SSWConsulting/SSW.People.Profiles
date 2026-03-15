@@ -37,19 +37,14 @@ quoteAuthor: "Sheldon Menery"
 [[imgBadge]]
 | ![SQL Server](../badges/Developer-sql-server.png)
 
-*Sam Wagner: Full-stack Software Engineer with a Flair for Front-End Excellence*
+Sam Wagner is a Software Engineer who loves building software that makes life better for the people using it.
 
-Having honed his expertise in low-level programming, Sam seamlessly transitioned into the realm of web development, where he brings his acute understanding of system mechanics to the higher-level frameworks. With comprehensive hands-on experience in ASP.NET Core, EF Core, and Angular, he excels in crafting state-of-the-art web applications.
+He is especially passionate about front-end development, UI, and UX, with a strong focus on creating software that is clear, polished, and genuinely pleasant to use. He cares about the details because good user experiences are rarely accidental.
 
-## ASP.NET Core
-As a proficient .NET developer, Sam has an inherent passion for developing WebAPIs with ASP.NET Core. His commitment lies in constructing robust, secure, and efficient backends, ensuring they serve as a reliable foundation for the applications they power.
+Sam enjoys solving problems that matter. He likes to dig deep and understand what is really going on, whether that means looking at the code, the surrounding systems, or the people involved. He believes the best solutions come from seeing the full picture, not just the technical one.
 
-## Blazor
-Harnessing the power and reliability of Microsoft's .NET, Sam specializes in crafting transformative Blazor applications. His solutions not only enhance business operations but also provide intuitive interfaces that resonate with end-users.
+Although Sam loves code, he does not think code is the answer to every problem. In his experience, many of the hardest challenges are really people challenges: communication gaps, unclear processes, competing priorities, or misaligned expectations. Good software helps, but good thinking comes first.
 
-## Team Dynamics & Agile Methodologies
-In addition to his technical acumen, Sam is a seasoned team player. He believes in the power of collaborative synergy, especially within Agile environments. As an advocate of the Scrum framework, he ensures that projects are timely, adaptive, and aligned with stakeholder expectations.
+His approach is simple: move fast, learn fast, and improve fast. Sam believes progress comes from trying things, making mistakes early, and using that learning to move toward a better outcome, while keeping delivery safe and responsible.
 
----
-
-In a world of ever-evolving tech, Sam remains at the forefront, blending his love for coding with a commitment to excellence. Whether it's exterminating bugs or innovating solutions, he's the tech maestro every team needs.
+Clients value Sam for his thoughtful approach, strong eye for user experience, and genuine desire to leave a business in a better place than he found it.
