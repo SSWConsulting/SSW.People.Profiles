@@ -13,6 +13,9 @@ quoteAuthor: "Marty Cagan"
 | ![ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 
 [[imgBadge]]
+| ![Claude](../badges/Claude.png)
+
+[[imgBadge]]
 | ![Cursor](../badges/Designer-cursor.png)
 
 [[imgBadge]]
@@ -20,6 +23,9 @@ quoteAuthor: "Marty Cagan"
 
 [[imgBadge]]
 | ![Framer](../badges/Designer-framer.png)
+
+[[imgBadge]]
+| ![Webflow](../badges/Designer-webflow.png)
 
 [[imgBadge]]
 | ![Adobe CC](../badges/Designer-adobecc.png)
