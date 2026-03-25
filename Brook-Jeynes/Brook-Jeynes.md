@@ -6,21 +6,38 @@ quoteAuthor: "Marcus Aurelius"
 ---
 
 [[imgBadge]]
-| ![Linux](../badges/Developer-linux.png)
+| ![TinaCMS logo](../badges/Developer-TinaCMS.png)
 
 [[imgBadge]]
-| ![JS](../badges/Developer-js.png)
+| ![Linux logo](../badges/Developer-linux.png)
 
 [[imgBadge]]
-| ![React](../badges/Developer-react.png)
+| ![JS logo](../badges/Developer-js.png)
 
 [[imgBadge]]
-| ![C#](../badges/Developer-c-sharp.png)
+| ![HTML logo](../badges/Designer-web-html5.png)
 
 [[imgBadge]]
-| ![C](../badges/Developer-c.png)
+| ![React logo](../badges/Developer-react.png)
 
 [[imgBadge]]
-| ![Zig](../badges/Developer-zig.png)
+| ![Golang logo](../badges/Developer-golang.png)
 
-Brook Jeynes is a Software Engineer at SSW in Brisbane. He specializes in the backend development of [TinaCloud, a headless CMS built on Markdown and GitHub](https://tina.io). His work primarily involves writing Golang and Node.js code that interacts with AWS services. In his personal time, he focuses on tooling and website development to explore new technologies. His hobbies include hiking, bouldering, language learning, and playing music.
+[[imgBadge]]
+| ![Zig logo](../badges/Developer-zig.png)
+
+---
+
+Brook Jeynes is a Software Engineer and Consultant at SSW in Brisbane. He
+specialises in backend development for [TinaCloud](https://tina.io), a headless
+CMS built on Markdown and GitHub, working primarily with Golang and Node.js on
+AWS services.
+
+As a consultant, Brook has worked with various clients across different
+technologies, ranging from mobile development using React Native to email
+plugins (both Outlook and Gmail). He values simplicity and readability in his
+code, with a strong focus on building accessible solutions.
+
+In his spare time, Brook enjoys building system tooling and projects targeted
+towards language learners. He's passionate about hiking, bouldering, language
+learning, and playing music. 그는 한국어도 조금 할 줄 압니다.
