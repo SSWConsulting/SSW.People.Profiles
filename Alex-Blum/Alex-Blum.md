@@ -36,7 +36,11 @@ quoteAuthor: "Marty Cagan"
 [[imgBadge]]
 | ![CSS](../badges/Designer-web-css3.png)
 
-Alex is an SSW UI/UX Designer specialising in product design and strategy. He designs beautiful digital products for fast-moving product teams, leveraging AI-driven workflows across the full product lifecycle – from early concept to shipped code. A multidisciplinary designer who contributes directly to implementation, Alex uses tools like Cursor and Claude Code to keep design systems consistent, accelerate prototyping, and ensure WCAG accessibility is baked in from the start. He partners closely with engineers and product teams to keep vision and execution aligned.
+Alex is an SSW UI/UX Designer specialising in product design and strategy. He designs beautiful digital products for fast-moving product teams, leveraging AI workflows across the full product lifecycle – from early concept to shipped code. A multidisciplinary designer who contributes directly to implementation, Alex uses tools like Cursor and Claude Code to keep design systems consistent, accelerate prototyping, and ensure WCAG accessibility is baked in from the start. He partners closely with engineers and product teams to keep vision and execution aligned.
+
+### Professional Development
+
+Previously, Alex helped Australian startups shape their products toward product-market fit. Before that, he spent 5 years as a carpenter – so he doesn't shy away from a hard day's work and knows what it means to build with care and intention. Outside of work, you'll find him mastering his favourite video games, fixing his car (again), growing and propagating plants, firing up the barbecue with mates, or talking design over a beer or coffee.
 
 ### Selected Work
 
