@@ -40,7 +40,7 @@ She works closely with developers, product managers, and stakeholders to shape s
 
 Micaela has worked across a range of complex systems, including enterprise audit workflows, AI-powered tools, and end-to-end CRM platforms. This includes designing high-volume, role-based systems, as well as a consultation and quoting experience for a custom joinery business that streamlined selections, pricing, and approvals into a single, cohesive workflow.
 
-She is particularly interested in designing for real-world behaviour—where users are busy, systems are complex, and clarity matters most. Her approach combines structured thinking with curiosity, translating business logic into intuitive interfaces and helping teams turn complexity into something practical, efficient, and easy to use.
+She is particularly interested in designing for real-world behaviour - where users are busy, systems are complex, and clarity matters most. Her approach combines structured thinking with curiosity, translating business logic into intuitive interfaces and helping teams turn complexity into something practical, efficient, and easy to use.
 
 ---
 
