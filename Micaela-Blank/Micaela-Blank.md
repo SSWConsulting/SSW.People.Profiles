@@ -34,21 +34,24 @@ quoteAuthor: "Seymour Chwast"
 ---
 # Micaela Blank – UI/UX Designer
 
-Micaela Blank is a UI/UX designer at SSW with a background in Computer Science and Media Arts. She brings a mix of technical thinking and creative curiosity to her work, with a focus on building digital experiences that are clear, usable, and a little bit delightful.
+Micaela Blank is a UI/UX Designer at SSW with a background in Computer Science and Media Arts. She designs developer tools and enterprise products, with a focus on making complex systems feel simple—while keeping the depth and flexibility users need.
 
-With experience in both startup and agency environments, Micaela thrives in collaborative, cross-functional teams. She’s especially interested in how thoughtful design rooted in research and real user insight can reduce friction, improve accessibility, and tell a meaningful story.
+She works closely with developers, product managers, and stakeholders to shape solutions from early scoping through to delivery. Her recent work includes leading user research, UX audits, and design spec reviews, helping teams align early and make confident product decisions grounded in real user needs.
 
-She is currently focused on deepening her user research practice, leading interviews and audits to better understand how people interact with complex systems. Her process is grounded in empathy, collaboration, and a healthy dose of questioning the default.
+Micaela has worked across a range of complex systems, including enterprise audit workflows, AI-powered tools, and end-to-end CRM platforms. This includes designing high-volume, role-based systems, as well as a consultation and quoting experience for a custom joinery business that streamlined selections, pricing, and approvals into a single, cohesive workflow.
+
+She is particularly interested in designing for real-world behaviour—where users are busy, systems are complex, and clarity matters most. Her approach combines structured thinking with curiosity, translating business logic into intuitive interfaces and helping teams turn complexity into something practical, efficient, and easy to use.
 
 ---
 
 ## Areas she works across
 
-- **User Research & Strategy** – Interviews, journey mapping, interface audits, and usability testing  
-- **UI/UX Design** – Wireframes, flows, prototypes, and interaction design  
-- **Creative Development** – Interactive visuals, animations, and creative coding  
-- **Front-End Collaboration** – Figma, developer handoff, and responsive design  
-- **Art Direction** – Visual storytelling and narrative-led concept work  
+- **AI Product Design** – Designing AI-powered experiences, human-in-the-loop workflows, prompt interactions, and making intelligent systems usable and transparent  
+- **Product & System Thinking** – Product scoping, design spec reviews, and aligning design with engineering constraints  
+- **User Research & Discovery** – User interviews, usability testing, heuristic evaluations, and workshops  
+- **UI/UX Design** – Complex workflows, dashboards, role-based systems, wireframes, and prototyping  
+- **Design Systems & Developer Collaboration** – Figma, design tokens, and close collaboration with development teams  
+- **Creative Technology** – Interactive visuals, motion, and creative coding 
 
 ---
 
