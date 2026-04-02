@@ -31,6 +31,21 @@ quoteAuthor: "Seymour Chwast"
 [[imgBadge]]
 | ![Adobe Premiere Pro](../badges/Designer-adobe-premiere.png)
 
+[[imgBadge]]
+| ![Adobe Creative Cloud](../badges/Designer-adobecc.png)
+
+[[imgBadge]]
+| ![Webflow](../badges/Designer-webflow.png)
+
+[[imgBadge]]
+| ![Cursor](../badges/Designer-cursor.png)
+
+[[imgBadge]]
+| ![Claude AI](../badges/Claude.png)
+
+[[imgBadge]]
+| ![OpenAI ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
+
 ---
 # Micaela Blank – UI/UX Designer
 
@@ -38,7 +53,7 @@ Micaela Blank is a UI/UX Designer at SSW with a background in Computer Science a
 
 She works closely with developers, product managers, and stakeholders to shape solutions from early scoping through to delivery. Her recent work includes leading user research, UX audits, and design spec reviews, helping teams align early and make confident product decisions grounded in real user needs.
 
-Micaela has worked across a range of complex systems, including enterprise audit workflows, AI-powered tools, and end-to-end CRM platforms. This includes designing high-volume, role-based systems, as well as a consultation and quoting experience for a custom joinery business that streamlined selections, pricing, and approvals into a single, cohesive workflow.
+Micaela has worked across a range of complex systems, including enterprise audit workflows, AI-powered tools, and end-to-end CRM platforms. This includes designing high-volume, role-based systems, improving broker and underwriting workflows for insurance platforms, and shaping internal audit and reporting experiences. She has also designed a guided showroom consultation experience for a bespoke joinery business that streamlined selections, pricing, and approvals into a single, cohesive workflow.
 
 She is particularly interested in designing for real-world behaviour - where users are busy, systems are complex, and clarity matters most. Her approach combines structured thinking with curiosity, translating business logic into intuitive interfaces and helping teams turn complexity into something practical, efficient, and easy to use.
 
