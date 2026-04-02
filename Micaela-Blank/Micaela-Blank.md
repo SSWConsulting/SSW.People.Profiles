@@ -32,19 +32,19 @@ quoteAuthor: "Seymour Chwast"
 | ![Adobe Premiere Pro](../badges/Designer-adobe-premiere.png)
 
 [[imgBadge]]
-| ![](../badges/Designer-adobecc.png)
+| ![Adobe Creative Cloud](../badges/Designer-adobecc.png)
 
 [[imgBadge]]
-| ![](../badges/Designer-webflow.png)
+| ![Webflow](../badges/Designer-webflow.png)
 
 [[imgBadge]]
-| ![](../badges/Designer-cursor.png)
+| ![Cursor](../badges/Designer-cursor.png)
 
 [[imgBadge]]
-| ![](../badges/Claude.png)
+| ![Claude AI](../badges/Claude.png)
 
 [[imgBadge]]
-| ![](../badges/Developer-OpenAI-ChatGPT.png)
+| ![OpenAI ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 
 Designer-adobecc.png
 Designer-webflow.png
