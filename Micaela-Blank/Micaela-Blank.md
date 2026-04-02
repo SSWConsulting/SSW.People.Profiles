@@ -46,11 +46,6 @@ quoteAuthor: "Seymour Chwast"
 [[imgBadge]]
 | ![OpenAI ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 
-Designer-adobecc.png
-Designer-webflow.png
-Designer-cursor.png
-Claude.png
-Developer-OpenAI-ChatGPT.png
 ---
 # Micaela Blank – UI/UX Designer
 
