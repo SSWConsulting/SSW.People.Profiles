@@ -8,6 +8,12 @@ quoteAuthor: "The Primeagen"
 ---
 
 [[imgBadge]]
+| ![TinaCMS logo](../badges/Developer-TinaCMS.png)
+
+[[imgBadge]]
+| ![Golang logo](../badges/Developer-golang.png)
+
+[[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
