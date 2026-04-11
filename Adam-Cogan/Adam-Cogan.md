@@ -1,6 +1,6 @@
 ---
 id: "7e785899-f459-dd11-b3a3-00155d012206"
-qualifications: "Trainer, B Bus, JP, MCP, Microsoft MVP (ALM)"
+qualifications: "Speaker, Certified Scrum Trainer, B Bus, JP, Microsoft MVP (DevOps)"
 quote: "Talent can fix tricky bugs, but teamwork and brains build great software."
 ---
 
