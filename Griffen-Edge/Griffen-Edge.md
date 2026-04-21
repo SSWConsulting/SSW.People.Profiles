@@ -25,6 +25,8 @@ quoteAuthor: "Don Norman"
 [[imgBadge]]
 | ![Adobe Illustrator](../badges/Designer-adobe-illustrator.png)
 
+---
+
 Griffen is a thoughtful and creative UI/UX Designer who thrives on solving complex design challenges with elegant, user-centered solutions. He brings a strong foundation in design thinking and accessibility, and is passionate about crafting experiences that are inclusive, intuitive, and visually engaging.
 
 At SSW, Griffen works closely with developers, consultants, and clients to deliver high-quality interfaces that balance form and function. His approach is collaborative and iterative, always grounded in user research and guided by empathy.
