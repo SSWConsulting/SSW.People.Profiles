@@ -1,10 +1,7 @@
 ---
 id: "b42fce46-9919-f011-998a-002248987fee"
-
 qualifications: "B-Mil Degree Technology and Management"
-
-quote: ""Plans are nothing; planning is everything."
-"
+quote: "Plans are nothing; planning is everything."
 quoteAuthor: "Dwight D. Eisenhower"
 ---
 
