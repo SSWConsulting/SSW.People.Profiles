@@ -9,9 +9,9 @@ quoteAuthor: "Aristotle"
 
 **Hark** is a passionate **Full-Stack Developer**, who builds **clean**, **reliable software** with a focus on **user experience** and **delivery discipline**.
 
-He joined **SSW Newcastle** through **FireBootCamp**, SSW’s intensive, real-world training program for elite graduates – where he worked in a **high-pressure, consultancy-style environment**, building **production-grade solutions** using **Angular**, **.NET**, **Clean Architecture**, and **Azure DevOps**. After impressing the mentors and senior architects, he was invited to join **SSW full-time**.
+He joined **SSW Newcastle** through **FireBootCamp**, SSW's intensive, real-world training program for elite graduates, where he worked in a **high-pressure, consultancy-style environment**, building **production-grade solutions** using **Angular**, **.NET**, **Clean Architecture**, and **Azure DevOps**. After impressing the mentors and senior architects, he was invited to join **SSW full-time**.
 
-Since then, Hark has been applying those same standards on all projects — **shipping features quickly**, **taking feedback well**, and **communicating clearly with stakeholders**. Everyone finds him easy to work with – he’s **calm**, **friendly**, and explains **technical decisions in plain English**.
+Since then, Hark has been applying those same standards on all projects: **shipping features quickly**, **taking feedback well**, and **communicating clearly with stakeholders**. Everyone finds him easy to work with. He's **calm**, **friendly**, and explains **technical decisions in plain English**.
 
 
 ## Technical Expertise
@@ -20,20 +20,30 @@ Since then, Hark has been applying those same standards on all projects — **sh
 * **Web Development**  
   * **Angular** for front-end development  
   * **.NET (C#)** for backend APIs using **Clean Architecture** principles  
+* **Testing & Automation** - Experienced with **Playwright** for end-to-end testing and browser automation.  
 * **DevOps & CI/CD** - Experienced with **GitHub Actions**, **Azure DevOps**, and continuous integration and deployment workflows.  
 * **Web3 & Blockchain** - Explored **Solidity**, **Ethereum**, and **Polygon** chains, and successfully deployed his own **NFT collection**.  
 * **App Store Experience** - Experienced in publishing apps on both the **Apple App Store** and **Google Play Store**.  
 
 ## Beyond Tech
-* **[Tales of Hark - YouTube Channel](https://www.youtube.com/@talesofhark)** for sharing different aspects of Hark’s life, including technical tutorials and personal stories.  
+* **[Tales of Hark - YouTube Channel](https://www.youtube.com/@talesofhark)** for sharing different aspects of Hark's life, including technical tutorials and personal stories.  
 * **Musical Hark** - Plays **tabla** at the Sikh temple.  
-* **Talkative** - Loves to talk and can chat on random topics for hours (a good listener too!).  
-
+* **Talkative** - Loves to talk and can chat on random topics for hours (a good listener too!).
 
 > Hark is always eager to learn, collaborate, and improve — and he welcomes open feedback to help him grow.
 
+
+`youtube: https://www.youtube.com/embed/EUhQ1J-69KY`
+**Video: 3 Ways to Supercharge Playwright with AI Agents | Hark Singh | SSW Rules (18 min)**
+
+`youtube: https://www.youtube.com/embed/buaXi8Hh420`
+**Video: Vibe blogging with GitHub Copilot & TinaCMS | Hark Singh (9 min)**
+
 `youtube: https://www.youtube.com/embed/6l-lGpE-W4o`
 **Video: Tale of my first week at SSW as a Software Engineer (9 min)**
+
+`youtube: https://www.youtube.com/embed/IcP4B0kMmHg`
+**Video: Tale of my trip to Tangalooma Island, Brisbane (10 min)**
 
 `youtube: https://www.youtube.com/embed/jlJCKotVdWg`
 **Video: Tale of my turban ft. Mumsy ❤️ (2 min)**
