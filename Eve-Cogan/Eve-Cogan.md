@@ -1,7 +1,7 @@
 ---
 id: "2a56b025-6c8b-ea11-a811-000d3a79963e"
 
-qualifications: "UTS Bachelor of Communication (Media Arts and Production) Bachelor of Creative Intelligence and Innovation"
+qualifications: "Bachelor of Communication (Media Arts and Production) Bachelor of Creative Intelligence and Innovation"
 
 quote: "The most precious gift we can offer anyone or anything is our attention."
 quoteAuthor: "Thich Nhat Hanh"
