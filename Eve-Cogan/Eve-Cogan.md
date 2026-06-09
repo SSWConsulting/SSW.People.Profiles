@@ -16,4 +16,4 @@ quoteAuthor: "Thich Nhat Hanh"
 | ![Microsoft certification](../badges/Business-microsoft-office365-teams.png)
 
 
-Eve Cogan is a university student and part-time employee at SSW. She helps with all things media and writing-related, as well as making sure the marketing and social media is beautiful.
+Eve Cogan is a journalist and multimedia producer at SSW TV. She presents Tech News, creates video content on emerging technologies, and helps developers build their professional profile and voice. She is passionate about storytelling, innovation, and connecting with the tech community through events and media.
