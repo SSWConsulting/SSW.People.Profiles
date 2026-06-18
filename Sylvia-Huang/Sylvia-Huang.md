@@ -9,6 +9,8 @@ quoteAuthor: "George Eliot"
 
 [[imgBadge]]
 | ![microsoft-certified-azure-administrator-associate.2](../badges/Certification-microsoft-azure-developer-associate.png)
+[[imgBadge]]
+| ![Certification-microsoft-power-bi-data-analyst-associate](../badges/Certification-microsoft-power-bi-data-analyst-associate.png)
 
 Sylvia is a Software Engineer at SSW's Hangzhou office, recognized for her expertise in delivering impactful solutions across global teams. With over six years of full-stack development experience, she has successfully designed and implemented applications from the ground up in industries such as e-commerce, banking, business intelligence, and government affairs.
 
