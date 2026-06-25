@@ -11,7 +11,7 @@ quote:  "Nothing in life is impossible. The biggest hurdles to success in life a
    
 [Schedule a meeting with Ulysses](https://outlook.office.com/bookwithme/user/97ccb01d46744eed9ad7ff2c52c3ade6@ssw.com.au?anonymous&ep=plink)
 
-Ulysses Maclaren is the General Manager of SSW, expertly guiding the company's strategic direction and operational excellence since 2006. As 2IC to Adam Cogan, Ulysses blends visionary leadership with practical insight, ensuring SSW consistently delivers outstanding outcomes for its clients and maintains a thriving, collaborative culture.
+Ulysses Maclaren is the COO of SSW, expertly guiding the company's strategic direction and operational excellence since 2006. As 2IC to Adam Cogan, Ulysses blends visionary leadership with practical insight, ensuring SSW consistently delivers outstanding outcomes for its clients and maintains a thriving, collaborative culture.
 
 Key areas of expertise and responsibility include:
 
