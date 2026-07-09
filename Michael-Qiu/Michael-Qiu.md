@@ -8,30 +8,58 @@ quoteAuthor: "William Ramsey"
 ---
 
 [[imgBadge]]
-| ![GitHub](../badges/Developer-github.png)
+| ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
-| ![JavaScript](../badges/Developer-js.png)
-
-[[imgBadge]]
-| ![HTML5](../badges/Designer-web-html5.png)
+| ![C#](../badges/Developer-c-sharp.png)
 
 [[imgBadge]]
 | ![Angular](../badges/Developer-angular.png)
 
 [[imgBadge]]
-| ![.NET](../badges/Developer-dotnet-core.png)
+| ![React](../badges/Developer-react.png)
+
+[[imgBadge]]
+| ![JavaScript](../badges/Developer-js.png)
+
+[[imgBadge]]
+| ![SQL Server](../badges/Developer-sql-server.png)
+
+[[imgBadge]]
+| ![Azure](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![Claude](../badges/Claude.png)
 
 [[imgBadge]]
 | ![OpenAI](../badges/Developer-OpenAI.png)
 
 [[imgBadge]]
-| ![ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
+| ![OpenAI-ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 
 ---
 
-Michael is a Software Engineer at SSW Sydney, focused on building practical, well-structured software with an emphasis on quality and delivering value.
+Michael is a Software Engineer at SSW Sydney with a growing track record across a wide range of industries, including legal tech, healthcare, and import/logistics. He builds full-stack solutions spanning Angular, React, .NET, and SQL Server, and has become a go-to consultant for embedding AI into client products and internal delivery workflows alike.
 
-He joined SSW through [FireBootCamp](https://firebootcamp.com/), where he worked in a fast-paced, consultancy-style environment, developing production-ready applications using Angular, .NET, and modern development workflows. Throughout the program, he built a strong foundation in full-stack development and learned the importance of writing maintainable code that stands up to real-world demands.
+Known for being friendly, receptive to feedback, and relentlessly curious, Michael bridges the gap between technical execution and client needs. He communicates clearly with both technical and non-technical stakeholders, and takes ownership of features from initial scoping through to production support.
 
-Michael is known for being friendly, receptive to feedback, and committed to continuously improving. He strives to communicate effectively with both technical and non-technical team members, ensuring everyone stays aligned on project goals.
+**Industries**: Legal Technology, Healthcare, Import/Logistics, Professional Services
+
+**Technologies**:
+- .NET (including ASP.NET, Web API)
+- Angular, React, JavaScript/TypeScript
+- SQL Server
+- Microsoft Azure
+- Artificial Intelligence (Claude, OpenAI/ChatGPT)
+
+**Key Skills and Achievements**:
+- **Client Product Engineering**: Delivered production features for external client platforms, including deep Microsoft Office integrations and document collaboration workflows, working directly with client stakeholders to shape scope and requirements.
+- **AI-Enabled Development**: Champions the use of AI coding agents and custom tooling to accelerate delivery, from automating repetitive engineering work to building AI-assisted review and estimation processes used across multiple client engagements.
+- **AI Solution Scoping**: Contributed to AI-focused build plans and effort estimates for client-facing AI features, translating ambiguous requirements into scoped, deliverable work.
+- **Full-Stack Delivery**: Comfortable working across the stack, from Angular/React front ends to .NET back ends and SQL Server data layers, with an emphasis on maintainable, production-ready code.
+
+**Professional Development**:
+- FireBootCamp graduate, where he built his foundation in consultancy-style, fast-paced software delivery.
+- Continuously exploring emerging AI tooling and agentic development workflows, and sharing what he learns with the wider team.
+
+Michael's focus remains on writing software that stands up to real-world demands, communicating well along the way, and never being afraid to learn something new to get the job done.
