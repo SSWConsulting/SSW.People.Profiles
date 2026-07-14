@@ -8,6 +8,9 @@ quoteAuthor: "Joe Rogan"
 ---
 
 [[imgBadge]]
+| ![](../badges/Certification-microsoft-power-bi-data-analyst-associate.png)
+
+[[imgBadge]]
 | ![Business Microsoft Azure](../badges/Business-microsoft-azure.png)
 
 [[imgBadge]]
