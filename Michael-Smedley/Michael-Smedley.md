@@ -16,22 +16,23 @@ quote: "Great spirits have always encountered violent opposition from mediocre m
 | ![Adobe Premiere](../badges/Designer-adobe-premiere.png)
 
 
-**Head of Sales | AI Transformation & Strategy | Workflow Automation**
+**Head of Sales | AI Advisory, Training & Engineering**
 
-Michael brings over 30 years of diverse experience in sales, management, and technology to his role as Head of Sales at SSW. Starting his career in print and digital media, he’s built a strong foundation across direct sales, marketing, SEO, and software development.
+Michael is SSW’s Head of Sales in Melbourne, helping organisations identify the right technology investments, shape successful engagements and connect business objectives with strong technical delivery.
 
-A passionate advocate for AI transformation, Michael designs and implements intelligent workflows that bridge business strategy and modern automation. He’s hands-on with tools like n8n, Replit, V0, Lovable, Cursor, Gemini, Claude, and Codex building production-ready workflows and integrating MCPs and CLI tools to drive real business outcomes.
+A major focus of Michael’s work is AI advisory and adoption. He works with leaders and teams to identify valuable AI opportunities, develop practical implementation strategies and move from experimentation to measurable business outcomes.
 
-Known for his high energy, empathy, and technical depth, Michael combines strategic insight with a maker’s mindset. His expertise spans AI project planning and execution, digital strategy, Scrum implementation, and enterprise AI adoption—helping clients harness AI for measurable business value.
+Michael also delivers practical AI training for business and technical teams. His courses draw on real delivery experience: he is a hands-on AI engineer who has personally designed, built and deployed multiple applications, intelligent workflows and automation solutions.
 
-He leads with curiosity, clarity, and a focus on enabling teams to be more productive, data-driven, and AI-empowered.
+With more than 30 years of experience across sales, management, marketing and technology, Michael brings a valuable combination of commercial leadership and technical capability. He can help executives clarify where AI will create value, communicate effectively with delivery teams and remain involved as ideas progress from strategy through to implementation.
 
-Specialisations:
-	•	AI Transformation & Business Strategy
-	•	Workflow Automation (n8n, MCP, custom AI pipelines)
-	•	Digital Marketing & Sales Optimisation
-	•	Managing Complex, Multi-Stakeholder Projects
-	•	Cost–Benefit Analysis & Business Case Development
-	•	Implementing Scrum & Agile Delivery
-	•	Building Happy, High-Performing Teams
-	•	Outsourcing & Lead Generation Strategy
+How Michael helps clients
+
+- Technology and AI advisory
+- AI strategy and opportunity identification
+- Executive and team AI training
+- Solution scoping and engagement planning
+- AI-assisted software engineering
+- Custom AI applications and agentic workflows
+- Business-process and workflow automation
+- Business cases, cost–benefit analysis and implementation roadmaps
