@@ -8,6 +8,9 @@ quoteAuthor: "Richard P. Feynman"
 ---
 
 [[imgBadge]]
+| ![Data Analyst Associate](../badges/Certification-microsoft-power-bi-data-analyst-associate.png)
+
+[[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
