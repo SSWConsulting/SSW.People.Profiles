@@ -21,6 +21,9 @@ quoteAuthor: "Albert Einstein"
 | ![Microsoft Certified: Fabric Data Engineer Associate](../badges/Certification-microsoft-fabric-data-engineer-associate.png)
 
 [[imgBadge]]
+| ![Microsoft Certified: Fabric Analytics Engineer Associate](../badges/Certification-microsoft-fabric-analytics-engineer-associate.png)
+
+[[imgBadge]]
 | ![Microsoft Certified: Azure Fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
