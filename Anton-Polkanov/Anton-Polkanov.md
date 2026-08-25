@@ -44,9 +44,6 @@ quoteAuthor: "Martin Fowler"
 | ![xamarin-logo.png](../badges/Developer-xamarin.png)
 
 [[imgBadge]]
-| ![Flutter](../badges/Developer-flutter.png)
-
-[[imgBadge]]
 | ![Android](../badges/Designer-mobile-android.png)
 
 [[imgBadge]]
