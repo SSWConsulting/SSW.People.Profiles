@@ -7,6 +7,8 @@ quote: "If you're afraid to change something it is clearly poorly designed."
 quoteAuthor: "Martin Fowler"
 ---
 
+[[imgBadge]]
+| ![Azure](../badges/Certification-microsoft-azure-devops-engineer-expert.png)
 
 [[imgBadge]]
 | ![Azure](../badges/Certification-microsoft-azure-ai-engineer-associate.png)
@@ -40,9 +42,6 @@ quoteAuthor: "Martin Fowler"
 
 [[imgBadge]]
 | ![xamarin-logo.png](../badges/Developer-xamarin.png)
-
-[[imgBadge]]
-| ![Flutter](../badges/Developer-flutter.png)
 
 [[imgBadge]]
 | ![Android](../badges/Designer-mobile-android.png)
