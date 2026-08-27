@@ -1,5 +1,5 @@
 ---
-id: "b350f78c-c3e0-40cf-befb-4b77812ba8b0"
+id: "6fdc1bb4-4695-f111-8075-70a8a556abf8"
 
 qualifications: "Bachelor of Arts (Political Science, International Relations, Economic Development (minor), Culver-Stockton College)"
 
@@ -22,19 +22,6 @@ Ian Hoffman is SSW's Digital Marketing Coordinator, based in the Brisbane office
 - **Make the story true** — a brand is "the story people tell about you when you're not in the room". Ian works to get everyone on the same page about that story.
 - **Earn attention** — create something worth seeking out than something worth skipping.
 - **Lead with generosity** — invite people to merge their story with ours.
-
-
-## How to reach me
-
-| Channel | Details |
-|---|---|
-| **Email** | IanHoffman@ssw.com.au |
-| **Phone** | {{ +61 XXX XXX XXX }} |
-| **Teams** | Ian Hoffman |
-| **GitHub** | {{ github.com/ianhoffmanx }} |
-| **LinkedIn** | {{ linkedin.com/in/ianrhoffman }} |
-
-<!-- Optional: add a "Book a meeting with Ian" link, e.g. https://outlook.office.com/bookwithme/... -->
 
 ## Outside of work
 
