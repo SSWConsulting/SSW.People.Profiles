@@ -11,6 +11,9 @@ quoteAuthor: "Isaac Newton"
 | ![Azure AI Fundamentals](../badges/Certification-microsoft-azure-ai-fundamentals.png)
 
 [[imgBadge]]
+| ![GitHub Certified: Agentic AI Developer](../badges/Certification-github-agentic-ai-developer.png)
+
+[[imgBadge]]
 | ![OpenAI](../badges/Developer-OpenAI.png)
 
 [[imgBadge]]
