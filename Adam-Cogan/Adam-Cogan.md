@@ -66,6 +66,8 @@ His favourite Microsoft teams that he loves to work with are Nat Friedman’s Gi
 [[imgMd]]
 | ![Adam has spoken at user groups/conferences in these countries](./Images/Bio/figureMap.jpg)
 
+For a snapshot of Adam's signature topics, keynotes, and event history, see his [Speaker Profile (PDF)](https://www.ssw.com.au/downloads/Adam-Cogan-Speaker-Profile.pdf).
+
 ## Software Architecture
 
 Adam enjoys working with teams, improving their usage of Scrum and DevOps, reviewing the architecture of large .NET and Azure projects, while also taking an active interest in the overall User Experience (UX). He is also the founder and a mentor of SSW’s [FireBootCamp](https://firebootcamp.com/), an intensive 12-week .NET training course where developers are retrained, learning development and architecture best practices.
