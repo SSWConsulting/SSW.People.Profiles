@@ -7,6 +7,33 @@ quote: "We are what we repeatedly do. Excellence, then, is not an act, but a hab
 quoteAuthor: "Aristotle"
 ---
 
+[[imgBadge]]
+| ![GitHub Copilot](../badges/Certification-github-copilot.png)
+
+[[imgBadge]]
+| ![Flutter](../badges/Developer-flutter.png)
+
+[[imgBadge]]
+| ![Dart](../badges/Developer-dart.png)
+
+[[imgBadge]]
+| ![C#](../badges/Developer-c-sharp.png)
+
+[[imgBadge]]
+| ![.NET](../badges/Developer-dotnet-core.png)
+
+[[imgBadge]]
+| ![Microsoft Azure](../badges/Business-microsoft-azure.png)
+
+[[imgBadge]]
+| ![Firebase](../badges/Developer-firebase.png)
+
+[[imgBadge]]
+| ![Playwright](../badges/Developer-playwright.png)
+
+[[imgBadge]]
+| ![TinaCMS](../badges/Developer-TinaCMS.png)
+
 Hark is a passionate **Full-Stack Developer**, who builds clean, reliable software with a focus on user experience and delivery discipline.
 
 He joined SSW Newcastle through **FireBootCamp**, SSW's intensive, real-world training program for elite graduates, where he worked in a high-pressure, consultancy-style environment, building production-grade solutions using Angular, .NET, Clean Architecture, and Azure DevOps. After impressing the mentors and senior architects, he was invited to join SSW full-time.
