@@ -8,6 +8,9 @@ quoteAuthor: "Lewis Carroll"
 ---
 
 [[imgBadge]]
+| ![GitHub Copilot](../badges/Certification-github-copilot.png)
+
+[[imgBadge]]
 | ![](../badges/Developer-react.png)
 
 [[imgBadge]]
