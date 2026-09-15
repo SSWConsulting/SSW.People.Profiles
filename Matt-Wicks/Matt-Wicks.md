@@ -13,6 +13,9 @@ quote: "I didn't want to pay DynDNS - so I wrote an Azure function to replace th
 | ![GitHub.png](../badges/Developer-github.png)
 
 [[imgBadge]]
+| ![GitHub Certified: Administration](../badges/Certification-github-admin.png)
+
+[[imgBadge]]
 | ![azure-function-logo.png](../badges/Developer-azure-function.png)
 
 [[imgBadge]]
