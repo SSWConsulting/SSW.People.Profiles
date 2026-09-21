@@ -23,7 +23,7 @@ quoteAuthor: "Martin Fowler"
 | ![Azure](../badges/Certification-microsoft-azure-fundamentals.png)
 
 [[imgBadge]]
-| ![Microsoft](../badges/Certification-microsoft-professional.jpg)
+| ![GitHub Certified: Agentic AI Developer](../badges/Certification-github-agentic-ai-developer.png)
 
 [[imgBadge]]
 | ![Scrum](../badges/Certification-scrumalliance-owner-1.png)
