@@ -26,6 +26,9 @@ quoteAuthor: "Martin Fowler"
 | ![Microsoft](../badges/Certification-microsoft-professional.jpg)
 
 [[imgBadge]]
+| ![GitHub Certified: Agentic AI Developer](../badges/Certification-github-agentic-ai-developer.png)
+
+[[imgBadge]]
 | ![Scrum](../badges/Certification-scrumalliance-owner-1.png)
 
 [[imgBadge]]
