@@ -11,6 +11,10 @@ quoteAuthor: "Lewis Carroll"
 | ![GitHub Copilot](../badges/Certification-github-copilot.png)
 
 [[imgBadge]]
+| ![GitHub Certified: Agentic AI Developer](../badges/Certification-github-agentic-ai-developer.png)
+
+
+[[imgBadge]]
 | ![](../badges/Developer-react.png)
 
 [[imgBadge]]
