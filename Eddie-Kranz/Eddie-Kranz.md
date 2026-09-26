@@ -14,6 +14,9 @@ quoteAuthor: "Isaac Newton"
 | ![GitHub Certified: Agentic AI Developer](../badges/Certification-github-agentic-ai-developer.png)
 
 [[imgBadge]]
+| ![GitHub Copilot](../badges/Certification-github-copilot.png)
+
+[[imgBadge]]
 | ![OpenAI](../badges/Developer-OpenAI.png)
 
 [[imgBadge]]
