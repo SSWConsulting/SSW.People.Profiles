@@ -11,6 +11,9 @@ quoteAuthor: "Aristotle"
 | ![GitHub Copilot](../badges/Certification-github-copilot.png)
 
 [[imgBadge]]
+| ![Azure Virtual Desktop Specialty](../badges/Certification-microsoft-azure-virtual-desktop.png)
+
+[[imgBadge]]
 | ![Flutter](../badges/Developer-flutter.png)
 
 [[imgBadge]]
