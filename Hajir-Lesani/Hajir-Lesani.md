@@ -7,6 +7,9 @@ quote: "Everything is Possible!"
 ---
 
 [[imgBadge]]
+| ![GitHub Copilot](../badges/Certification-github-copilot.png)
+
+[[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
