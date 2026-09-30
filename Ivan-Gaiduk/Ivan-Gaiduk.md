@@ -8,6 +8,9 @@ quoteAuthor: "Anonymous"
 ---
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure Cosmos DB Developer Specialty](../badges/Certification-microsoft-cosmos.png)
+
+[[imgBadge]]
 | ![.NET Core](../badges/Developer-dotnet-core.png)
 
 [[imgBadge]]
