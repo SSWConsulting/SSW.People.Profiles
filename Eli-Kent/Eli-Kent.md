@@ -8,6 +8,9 @@ quoteAuthor: "The Primeagen"
 ---
 
 [[imgBadge]]
+| ![Microsoft Certified: Azure AI Apps and Agents Developer Associate](../badges/Certification-microsoft-azure-ai-apps-and-agents-developer-associate.png)
+
+[[imgBadge]]
 | ![TinaCMS logo](../badges/Developer-TinaCMS.png)
 
 [[imgBadge]]
