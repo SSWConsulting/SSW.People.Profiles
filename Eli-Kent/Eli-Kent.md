@@ -8,7 +8,7 @@ quoteAuthor: "The Primeagen"
 ---
 
 [[imgBadge]]
-| ![GitHub Certified: GitHub Copilot](../badges/Certification-github-copilot.png)
+| ![GitHub Copilot](../badges/Certification-github-copilot.png)
 
 [[imgBadge]]
 | ![Microsoft Certified: Azure AI Apps and Agents Developer Associate](../badges/Certification-microsoft-azure-ai-apps-and-agents-developer-associate.png)
