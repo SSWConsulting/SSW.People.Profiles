@@ -8,7 +8,9 @@ quoteAuthor: "Anonymous"
 ---
 
 [[imgBadge]]
-| ![Image Alt Text](../badges/Certification-scrumalliance-master.png)
+| ![Scrum Master](../badges/Certification-scrumalliance-master.png)
+| ![Azure Database Administrator Associate](../badges/Certification-microsoft-azure-database-administrator-associate.png)
+
 
 <br/>
 
