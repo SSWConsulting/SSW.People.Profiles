@@ -37,14 +37,10 @@ quoteAuthor: "David Goggins"
 
 ---
 
-Gordon Beeming is a Solution Architect at SSW and a long-standing Microsoft MVP in Developer Technologies, an award he has held since 2014. With a deep-rooted passion for DevOps, he excels at guiding organizations through the cultural and technical shifts required for modern software development.
+Gordon Beeming is a Solution Architect at SSW and a Microsoft MVP in Developer Technologies, an award he has held since 2014. He helps teams adopt DevOps practices, working through the changes to both their tools and the way they work.
 
-Gordon's expertise is built on years of experience with the Microsoft stack, beginning with .NET 2.0 in 2008. He is a prominent authority on Azure DevOps, having used the platform since its earliest on-premises days as TFS. As a published author, he has co-authored multiple books on TFS and agile project management and has contributed extensively to community guidance as a former ALM Ranger.
+He has worked with the Microsoft stack since .NET 2.0 in 2008 and with Azure DevOps since its early days as on-premises TFS. Gordon has co-authored books on TFS and agile project management. A former ALM Ranger, he also contributed to community guidance.
 
-Based in Brisbane, Australia, Gordon actively shares his knowledge and current projects on his [YouTube channel](https://www.youtube.com/@gordonbeeming). When he isn't architecting cutting-edge solutions, he enjoys training for triathlons and spending time with his family.
+Based in Brisbane, Australia, Gordon shares his knowledge and current projects on his [YouTube channel](https://www.youtube.com/@gordonbeeming). Outside work, he enjoys training for triathlons and spending time with his family.
 
-**Connect with Gordon:**
-
-Subscribe to his YouTube channel: [@gordonbeeming](https://www.youtube.com/@gordonbeeming).
-Follow him on his [social platforms](https://gordonbeeming.com/about).
-Let's talk DevOps!
+Connect with Gordon through his [social platforms](https://gordonbeeming.com/about).
