@@ -24,7 +24,7 @@ As a qualified Professional Scrum Developer, Gerard is capable of working as par
 
 **Vulcan Steel** - Migrate existing back end to Web Services including auto generating clients and documentation. Solution included .NET Async, Swagger, Web API 2, OWIN, Octopus Deploy.  
 
-**FireBootCamp** - Mentor of 9 week full immersion .NET and AngularJS course. Topics included enterprise architecture, SOLID principles, JavaScript, TypeScript, Entity Framework, MVC 5, Web API, Octopus Deploy, Scrum. See [https://firebootcamp.com ](https://firebootcamp.com/) 
+**[FireBootCamp](https://firebootcamp.com/) ** - Mentor of 9 week full immersion .NET and AngularJS course. Topics included enterprise architecture, SOLID principles, JavaScript, TypeScript, Entity Framework, MVC 5, Web API, Octopus Deploy, Scrum. 
 
 **Undisclosed Client** - Designed and implemented enterprise wide ADFS Single Sign On solution encompassing WinForms, Web API and MVC applications. Solution included custom OWIN modules to generate and process JWT bearer tokens.  
 **Vulcan Steel **- Anvil ERP System, Mobile App and IntranetUsing AngularJS, MVC 5, Octopus Deploy, TeamCity, Web API, Kendo mobile, Selenium page object pattern, Winforms, SQL Server 2012, Firebird, DDD, jQuery, SharePoint 2013, ADFS  
@@ -34,7 +34,7 @@ As a qualified Professional Scrum Developer, Gerard is capable of working as par
 
 **University of Technology Sydney** - TrainingLecturer for .NET MVC course [https://bit.ly/1kb6ma5](https://bit.ly/1kb6ma5) Lecturer for SharePoint course [https://bit.ly/1hEUAPS](https://bit.ly/1hEUAPS)   
 
-**FireBootcamp** - TrainingMentor jQuery and Twitter Bootstrap [https://firebootcamp.com/mentors/ ](https://firebootcamp.com/mentors/)  
+**FireBootcamp** - TrainingMentor jQuery and Twitter Bootstrap
 
 **Johnson and Johnson** - SharePoint consultant and SharePoint trainer  
 
