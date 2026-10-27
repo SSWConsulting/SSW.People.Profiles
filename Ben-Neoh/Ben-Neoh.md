@@ -70,8 +70,3 @@ He has led several enterprise integration projects involving Xero, Power BI, and
 
 ## Mentoring
 As Tech Lead for SSW FireBootCamp, Ben mentors developers and consultants in software engineering best practices, DevOps, and agile delivery. Known for his collaborative and approachable style, he helps teams adopt modern cloud and DevOps workflows while improving their code quality, solution design, and architectural thinking.
-
-## Videos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPa1bX-ZQ38?si=OM3Ad3UsL0GuFpiu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
