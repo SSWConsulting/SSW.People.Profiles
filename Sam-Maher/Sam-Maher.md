@@ -8,6 +8,9 @@ quoteAuthor: "Richard P. Feynman"
 ---
 
 [[imgBadge]]
+| ![Network Engineer Associate](../badges/Certification-microsoft-azure-network-engineer.png)
+
+[[imgBadge]]
 | ![Data Analyst Associate](../badges/Certification-microsoft-power-bi-data-analyst-associate.png)
 
 [[imgBadge]]
