@@ -14,9 +14,7 @@ quote:  "You can have good, fast, or cheap.  But you can only pick two."
 | ![](./Images/Bio/gerardpsdlogo.png) 
  
 
-Gerard is a Solution Architect at SSW in Sydney since 2011.
-
-Used to working under pressure, with fourteen years industry experience, he is from the new breed of software architects who are able to combine excellent technical skills with great communication and commercial awareness. Although specialising in Web E-commerce solutions, Gerard has extensive experience in Microsoft.NET and loves working with C#, MVC, SQL Server, JavaScript, Angular JS, Kendo UI and SharePoint.
+Gerard is from the breed of software architects who are able to combine excellent technical skills with great communication and commercial awareness. Although specialising in Web E-commerce solutions, Gerard has extensive experience in Microsoft.NET and loves working with C#, MVC, SQL Server, JavaScript, Angular JS, Kendo UI and SharePoint.
 
 He graduated from Leeds Metropolitan University with honours in Business Information Systems. His passion is making sure the products we build meet the business needs of the customer. 
 
@@ -24,11 +22,11 @@ As a qualified Professional Scrum Developer, Gerard is capable of working as par
 
 **Vulcan Steel** - Migrate existing back end to Web Services including auto generating clients and documentation. Solution included .NET Async, Swagger, Web API 2, OWIN, Octopus Deploy.  
 
-**[FireBootCamp](https://firebootcamp.com/) ** - Mentor of 9 week full immersion .NET and AngularJS course. Topics included enterprise architecture, SOLID principles, JavaScript, TypeScript, Entity Framework, MVC 5, Web API, Octopus Deploy, Scrum. 
+**[FireBootCamp](https://firebootcamp.com)** - Mentor of 9 week full immersion .NET and AngularJS course. Topics included enterprise architecture, SOLID principles, JavaScript, TypeScript, Entity Framework, MVC 5, Web API, Octopus Deploy, Scrum. 
 
 **Undisclosed Client** - Designed and implemented enterprise wide ADFS Single Sign On solution encompassing WinForms, Web API and MVC applications. Solution included custom OWIN modules to generate and process JWT bearer tokens.  
-**Vulcan Steel **- Anvil ERP System, Mobile App and IntranetUsing AngularJS, MVC 5, Octopus Deploy, TeamCity, Web API, Kendo mobile, Selenium page object pattern, Winforms, SQL Server 2012, Firebird, DDD, jQuery, SharePoint 2013, ADFS  
-**Toll Linehaul **- Vehicle Planning and Monitoring SystemUsing MVC 4, Knockout js, Entity framework, Typescript, Kendo UI, Google maps API, SQL Server 2008 R2, Twitter Bootstrap, jQuery, see [https://bit.ly/1hx7NjE](https://bit.ly/1hx7NjE) 
+**Vulcan Steel** - Anvil ERP System, Mobile App and IntranetUsing AngularJS, MVC 5, Octopus Deploy, TeamCity, Web API, Kendo mobile, Selenium page object pattern, Winforms, SQL Server 2012, Firebird, DDD, jQuery, SharePoint 2013, ADFS  
+**Toll Linehaul** - Vehicle Planning and Monitoring SystemUsing MVC 4, Knockout js, Entity framework, Typescript, Kendo UI, Google maps API, SQL Server 2008 R2, Twitter Bootstrap, jQuery, see [https://bit.ly/1hx7NjE](https://bit.ly/1hx7NjE) 
 
 **Pre-Paid Services Pty Ltd** - Barcode Scanning SystemUsing MVC 3, SQL Server 2008 R2. Twitter Bootstrap, jQuery 
 
