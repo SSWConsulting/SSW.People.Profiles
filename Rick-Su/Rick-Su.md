@@ -12,8 +12,6 @@ quoteAuthor: "Anonymous"
 | ![Azure Database Administrator Associate](../badges/Certification-microsoft-azure-database-administrator-associate.png)
 
 
-<br/>
-
 Rick Su is a Senior Software Engineer II at SSW, based in the Australian office. With a robust educational background and specialization in C#, ASP.NET Core, Entity Framework Core, Azure SQL Server, Identity Server, and Clean Architecture, Rick has made significant contributions to various projects and technical solutions.
 
 What sets Rick apart is his commitment to constantly learning new skills and staying up-to-date with the latest technologies. His ability to adapt and evolve within the ever-changing tech landscape demonstrates his dedication to excellence and professional growth.

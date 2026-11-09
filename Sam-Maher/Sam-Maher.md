@@ -43,8 +43,6 @@ quoteAuthor: "Richard P. Feynman"
 [[imgBadge]]
 | ![Angular](../badges/Developer-angular.png)
 
----
-
 ✨ A full-stack developer with experience spanning modern web applications, cloud platforms, data engineering, and DevOps. Sam works across the complete software lifecycle — from building user-focused applications with Angular, React, Vue, and .NET, through to designing cloud infrastructure with Terraform, deploying containerised workloads, and building modern data platforms with Microsoft Fabric.
 
 ♟️ A highly collaborative developer and enthusiastic problem solver, Sam enjoys working closely with clients and teams to understand complex problems and deliver practical solutions. Comfortable owning projects end-to-end, he combines hands-on development with architectural thinking to help teams design maintainable, scalable, and practical solutions.

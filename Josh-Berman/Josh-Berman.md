@@ -36,8 +36,6 @@ quoteAuthor: "Lewis Carroll"
 | ![](../badges/Business-scrum.png)
 
 
----
-
 Josh Berman is a Software Engineer at SSW in Sydney and a double-degree student in Advanced Computing and Commerce (Computer Science & Finance) at the University of Sydney. With a strong blend of engineering depth and commercial thinking, Josh focuses on building software that is not only technically robust but also delivers real business value.
 
 Known for clear communication, structured problem-solving, and a strong eye for UI/UX, Josh enjoys working at the intersection of design, developer experience, and scalable architecture. Outside of work, he brings the same discipline to training, surfing, and football; always driven by continuous improvement and taking on new challenges.

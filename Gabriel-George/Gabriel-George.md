@@ -34,8 +34,6 @@ quote: "Failing is how you learn best. To not to try would be your greatest fall
 [[imgBadge]]
 | ![Adobe Photoshop Icon](../badges/Designer-adobe-photoshop.png)
 
-<br/>
-
 ## Events
 
 [[imgBadge]]
@@ -43,10 +41,6 @@ quote: "Failing is how you learn best. To not to try would be your greatest fall
 
 [[imgBadge]]
 | ![dotNet UserGroup Melbourne Icon](../badges/Event-ug-melbourne.png)
-
-<br/>
-
----
 
 Gabe is a Senior Software Architect at the SSW Melbourne Office. He specialises in enterprise front-end development with various modern JavaScript framework such as Angular, React, and Vue. He also has experience with back-end technologies such as .Net Core and NodeJs.
 

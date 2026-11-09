@@ -15,8 +15,6 @@ qualifications: "Bachelor of Information Technology"
 [[imgBadge]]
 | ![Kusto Detective Agencey Season1](../badges/kusto-detective-agency-complete-season1.png)
 
----
-
 Warwick is a seasoned Systems Administrator with over 20 years of experience. His strong background spans network management, Windows Server Administration, and cloud solutions, making him adept at bridging the gap between technology and user needs. As a Certified Scrum Master, he leverages agile methodologies to drive innovation and efficiency.
 
 **Industries**: Education, Technology Services, Business Solutions

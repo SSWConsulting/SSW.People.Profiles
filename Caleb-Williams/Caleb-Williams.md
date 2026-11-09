@@ -52,8 +52,6 @@ quoteAuthor: 'James Clear'
 [[imgBadge]]
 | ![Blazor](../badges/Developer-blazor.png)
 
----
-
 ## Professional Career
 
 Caleb is a skilled software developer with expertise in .NET, SQL Server, MySQL, and EF Core. However, his true strengths lie in front-end development. He specializes in integrating React and Next.js applications and has a proven ability to build high-performance server-component-based websites using Next.js. His deep understanding of the React ecosystem and server side rendering are indespensible assets Caleb leverages when integrating TinaCMS into performat SEO friendly React applications.

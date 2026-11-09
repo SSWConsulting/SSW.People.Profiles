@@ -26,8 +26,6 @@ quoteAuthor: "Henry David Thoreau"
 [[imgBadge]]
 | ![](../badges/Designer-adobe-illustrator.png)
 
----
-
 Tiago is our favourite creative genius. When he told us he was moving from Australia, we said: _"OK, but you're still working remotely for us"_. We couldn't let him go. This was 10+ years before the pandemic, so we are proud to say Tiago is a trailblazer in the realm of remote work. After a few years in Brazil, he now lives and works in the west coast of Canada.  
 
 Tiago helps teams turn complex software into intuitive, high-performing user experiences. He has designed and delivered web applications used by enterprise clients across multiple industries, leading projects end-to-end from concept and design to implementation and ongoing improvement.

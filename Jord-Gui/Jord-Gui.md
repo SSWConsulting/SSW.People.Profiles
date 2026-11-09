@@ -36,8 +36,6 @@ quoteAuthor: "Kratos"
 [[imgBadge]]
 | ![Cognitive Services](../badges/Developer-cognitive-services.png)
 
-<br/>
-
 Jord is a proficient Software Engineer specializing in full-stack development with expertise in TypeScript, HTML, CSS, C#, NextJS, and Blazor. Based in the SSW Melbourne office, Jord graduated from Monash University with a Bachelor of Computer Science, majoring in Advanced Computer Science.
 
 Passionate about staying on the cutting edge, Jord actively follows emerging technologies and remains abreast of the latest developments in the tech industry. This commitment to continuous learning ensures that he stays at the forefront of advancements, bringing innovative solutions to his work.

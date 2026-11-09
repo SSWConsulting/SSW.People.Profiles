@@ -44,8 +44,6 @@ quoteAuthor: "Aristotle"
 [[imgBadge]]
 | ![NodeJS](../badges/Developer-node-js.png)
 
----
-
 🖥️ Gilles is a Software Engineer at SSW Europe (France) with five years of experience in the Angular and .NET ecosystems. He began his career as a web developer, then worked as a consultant developer in an insurance company, contributing to a large-scale application built with a .NET, Angular, and MongoDB stack, before joining SSW as a software engineer. He is also a certified Scrum Master.
 
 💡 Patient and driven by curiosity, he enjoys crafting responsive applications with seamless, optimized user experiences just as much as designing scalable, well-structured back-end architectures. He regularly explores new technologies by building small apps, testing emerging frameworks, and deepening his knowledge of modern development practices.

@@ -22,7 +22,6 @@ quoteAuthor: "Imran Khan"
 [[imgBadge]]
 | ![NgRx](../badges/Developer-c-sharp.png)
 
-<br/>
 Ozair is an innovative SSW Software Developer based in the Melbourne office, known for his unique blend of technical prowess and problem-solving skills. Holding a Master's in Network Systems with a specialization in Cyber Security from Swinburne University, he excels in both front-end and back-end development, with a particular focus on Angular, React, and .NET technologies.
 <br/><br/>
 In a recent challenge, Ozair and his team were tasked with migrating a large-scale project from .NET Framework to .NET 8. They wanted to avoid a feature freeze and reduce risk by ensuring old parts of the app were retired as soon as possible. To accomplish this feat, they utilized a reverse proxy (YARP) to run both versions in tandem, allowing for a seamless transition and immediate use of new features.

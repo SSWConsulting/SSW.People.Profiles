@@ -35,8 +35,6 @@ quoteAuthor: "David Goggins"
 [[imgBadge]]
 | ![Microsoft Certified Professional](../badges/Certification-microsoft-professional.jpg)
 
----
-
 Gordon Beeming is a Solution Architect at SSW and a Microsoft MVP in Developer Technologies, an award he has held since 2014. He helps teams adopt DevOps practices, working through the changes to both their tools and the way they work.
 
 He has worked with the Microsoft stack since .NET 2.0 in 2008 and with Azure DevOps since its early days as on-premises TFS. Gordon has co-authored books on TFS and agile project management. A former ALM Ranger, he also contributed to community guidance.

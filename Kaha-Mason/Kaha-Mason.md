@@ -33,8 +33,6 @@ quote:  "Coding is like artwork and as developers we should always strive to be 
 [[imgBadge]]
 | ![angular.png](../badges/Business-microsoft-azure-devops.png)
 
----
-
 As a Software Engineer and consultant at SSW, I help businesses turn complex challenges into elegant, reliable software solutions. With over 6 years of experience in software development, I’ve helped to deliver enterprise systems and custom applications that improve efficiency, reduce costs, and tackle many of the new challenges facing businesses today.
 
 I specialize in the .NET development stack, creating secure, scalable, and high-performance solutions. I work closely with clients to understand their goals and needs to design and implement software that not only meets requirements but also adapts to future challenges.

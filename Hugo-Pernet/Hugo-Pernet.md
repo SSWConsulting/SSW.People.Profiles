@@ -31,8 +31,6 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![Claude.png](../badges/Claude.png)
 
----
-
 Hugo isn't your typical SSW Solution Architect; he's a seasoned professional with over a decade of hands-on experience in Angular and .NET Core.
 
 He also showcases his mastery of TinaCMS and Next.js at developer conferences across Europe, blending tech insight with enthusiasm to inspire the community.

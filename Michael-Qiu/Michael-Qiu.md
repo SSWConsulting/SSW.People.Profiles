@@ -37,8 +37,6 @@ quoteAuthor: "William Ramsey"
 [[imgBadge]]
 | ![OpenAI-ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 
----
-
 Michael is a Software Engineer at SSW Sydney with a growing track record across a wide range of industries, including legal tech, healthcare, and import/logistics. He builds full-stack solutions spanning Angular, React, .NET, and SQL Server, and has become a go-to consultant for embedding AI into client products and internal delivery workflows alike.
 
 Known for being friendly, receptive to feedback, and relentlessly curious, Michael bridges the gap between technical execution and client needs. He communicates clearly with both technical and non-technical stakeholders, and takes ownership of features from initial scoping through to production support.

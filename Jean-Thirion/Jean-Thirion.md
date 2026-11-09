@@ -28,8 +28,6 @@ quoteAuthor: "Carl Sagan"
 [[imgBadge]]
 | ![MCSD App Builder Blk](../badges/Certification-microsoft-developer-app-builder.png)
 
----
-
 [Book a meeting with me !](https://outlook.office365.com/book/SSWInitialMeetings@sswcom.onmicrosoft.com/s/DX2tn8T_g0yJR68ofa411g2)
 
 Jean Thirion is SSW France CEO, running the European office in Strasbourg, France. As both a business leader and a technical expert, Jean focuses on delivering real value to clients through outcome-driven solutions. With a background in solution architecture and agile delivery, Jean ensures that every engagement stays focused on ROI, adaptability, and long-term business impact. He breaks down silos and fosters ongoing collaboration to keep everyone aligned and focused on delivering real value.

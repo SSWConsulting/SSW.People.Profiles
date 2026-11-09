@@ -34,8 +34,6 @@ quoteAuthor: "Grace Hopper"
 [[imgBadge]]
 | [![InRule](../badges/Business-Inrule.png)](https://inrule.com/)
 
----
-
 Nadee is an Azure certified developer, with 12 years of comprehensive expertise encompassing the entire solution delivery lifecycle. Her proficiency extends across the .NET stack, Azure, and Blazor, with a strong command of SharePoint in both administration and development capacities, knowledge of Design Patterns, SOLID Principles, and Clean Architecture. Additionally, she possesses adeptness in managing databases such as SQL Server, Oracle and MySQL. 
 
 During her time in Microsoft, Nadee contributed to the SharePoint team as a Software Engineer II and then as a SDET Lead. Some of her work include development of the SharePoint search component we use today, SharePoint cmdlets, the Active Directory User Connector, and building an inhouse test framework for Microsoft.

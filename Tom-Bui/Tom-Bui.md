@@ -39,8 +39,6 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![Azure DevOps](../badges/Designer-web-css3.png)
 
-<br/>
-
 Tom works as a Software Engineer at the SSW Melbourne Office, having recently graduated from Monash University with a Bachelor of Information Technology, specializing in Software Development and Business Information Systems. His expertise lies in front-end development, demonstrating proficiency in contemporary JavaScript frameworks including Angular, React, and Svelte. Furthermore, Tom possesses valuable experience in back-end technologies, encompassing .NET Core and NodeJs.
 
 His noteworthy contributions include:

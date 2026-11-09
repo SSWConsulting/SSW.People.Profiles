@@ -16,8 +16,6 @@ quoteAuthor: "Henry Ford"
 [[imgBadge]]
 | ![](../badges/Certification-microsoft-power-platform-developer-associate.png)
 
----
-
 Charles is an SSW Software Developer based in our Sydney office.
 
 With over 20 years of experience, Charles' journey started in France where he became a seasoned software developer and manager across various industries such as accounting, finance, and construction. 
