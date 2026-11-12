@@ -40,8 +40,6 @@ quoteAuthor: "Elon Musk"
 [[imgBadge]]
 | ![Azure DevOps](../badges/Designer-web-css3.png)
 
----
-
 Aman Kumar is a skilled Software Developer at SSW Melbourne, specializing in building responsive and scalable web applications. With over 4 years of experience, he has honed his expertise in modern frameworks, DevOps automation, and cloud technologies to drive efficiency and performance improvements.
 
 ## 🚀 Technical Expertise  

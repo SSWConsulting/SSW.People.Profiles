@@ -30,8 +30,6 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![Next.js](../badges/Developer-nextjs.png)
 
----
-
 Lewis is a **Software Developer** based in the SSW Sydney office, specialising in AI-powered application development. He holds a Bachelor of Computer Science from the University of New South Wales and is a graduate of SSW's [FireBootCamp](https://firebootcamp.com/).
 
 Lewis works across the full stack and has experience integrating modern AI capabilities into real-world applications, including LLM-based workflows, prompt engineering, MCP-powered extensibility, and Azure OpenAI deployments. He served as the Scrum Master for [YakShaver](https://yakshaver.ai), leading the team through sprints, planning, and delivery. He is now part of the SSW.AI team, working on various internal AI projects within the company.

@@ -36,8 +36,6 @@ quote: "A good programmer looks both ways before crossing a one-way street"
 [[imgBadge]]
 | ![zendesk.png](../badges/Business-zendesk.png)
 
----
-
 <br/>
 
 Kosta is a highly skilled and passionate Senior Software Engineer based in SSW’s Sydney office, with over 10 years of experience in software development, data engineering, and data analysis. He has successfully delivered projects across a wide range of industries, including advertising, logistics, education, radiology, internet services, insurance, retail, and news.

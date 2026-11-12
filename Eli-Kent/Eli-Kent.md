@@ -34,8 +34,6 @@ quoteAuthor: "The Primeagen"
 [[imgBadge]]
 | ![OpenAI](../badges/Developer-OpenAI.png)
 
----
-
 Eli is a Melbourne-based Software Engineer originally from Invercargill, New Zealand. He specialises in building scalable, maintainable software using modern Microsoft and JavaScript technologies. At SSW, he works with clients across industries to deliver clean, cloud-first solutions that balance performance, usability, and long-term maintainability.
 
 ### Technical Skills

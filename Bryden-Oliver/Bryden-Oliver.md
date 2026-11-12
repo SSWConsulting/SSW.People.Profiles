@@ -59,8 +59,6 @@ quoteAuthor: "Socrates"
 | [![Speaker at DDD Brisbane 2015](../badges/Event-DDD-Brisbane.png)](https://dddbrisbane.com)
 
 
----
-
 Bryden is a **Solution Architect** with over 30 years of professional experience, working with customers from small businesses to the world's largest companies. He has a wealth of knowledge from a diverse range of areas, particularly focused on databases, web services, Microsoft Azure, and SaaS solutions. Bryden has a strong understanding of how software will deliver business value. He has a laser focus on maximising value for his clients. He has become a critical part of the success of one of his large government clients, providing expertise, experience and mentoring across their organisation.
 
 ### Cloud Solutions

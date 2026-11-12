@@ -18,8 +18,6 @@ quoteAuthor: "Douglas Adams"
 [[imgBadge]]
 | [![](../badges/Certification-microsoft-certified-fundamentals.png)](https://learn.microsoft.com/api/credentials/share/en-us/RobertThomlinson-1985/4697EAE9A724D833?sharingId=146BE5D86BD5E11)
 
----
-
 Rob is a skilled Systems Administrator with over five years experience working for Managed Service Providers (MSPs). He specializes in managing complex IT infrastructures, including VM/Hypervisors, Remote monitoring and management tools, VoIP, endpoints, firewalls, database and network administration. Rob holds several certifications complementing his expertise.
 
 Rob's past experience working for MSPs has given him a broad understanding of a wide variety of industries and the unique IT challenges they face. These roles have allowed him to develop his versatile skill set with a wide range of technologies and best practices, enabling him to provide the highest standard of service to SSW Clients. 

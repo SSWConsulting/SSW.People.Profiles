@@ -26,8 +26,6 @@ quoteAuthor: "Marcus Aurelius"
 [[imgBadge]]
 | ![Zig logo](../badges/Developer-zig.png)
 
----
-
 Brook Jeynes is a Software Engineer and Consultant at SSW in Brisbane. He
 specialises in backend development for [TinaCloud](https://tina.io), a headless
 CMS built on Markdown and GitHub, working primarily with Golang and Node.js on

@@ -31,8 +31,6 @@ quoteAuthor: "Douglas Engelbart"
 | ![node js](../badges/Developer-dotnet-core.png)
 
 
-<br/>
-
 Jack is a Software Engineer based in the SSW Brisbane office, with a specialization in frontend development using React. He is also adept at backend development, adhering to the clean architecture pattern with .NET.
 
 Beyond this, Jack has expertise in NextJS and Gatsby, always aiming to develop swift and responsive websites to ensure the best user experience. He is also a [TinaCMS maintainer](https://tina.io), contributing to its development and helping improve the content editing experience. His skills extend to mobile development, having crafted mobile apps with Xamarin and now transitioning to .NET MAUI. A strong advocate of DevOps, Jack is well-versed with GitHub Actions and Azure services.

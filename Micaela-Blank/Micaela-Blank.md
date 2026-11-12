@@ -46,7 +46,6 @@ quoteAuthor: "Seymour Chwast"
 [[imgBadge]]
 | ![OpenAI ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 
----
 # Micaela Blank – UI/UX Designer
 
 Micaela Blank is a UI/UX Designer at SSW with a background in Computer Science and Media Arts. She designs developer tools and enterprise products, with a focus on making complex systems feel simple—while keeping the depth and flexibility users need.

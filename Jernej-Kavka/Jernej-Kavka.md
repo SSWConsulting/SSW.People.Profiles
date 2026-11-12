@@ -58,8 +58,6 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![OpenAI ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
 
----
-
 Jernej Kavka (JK) is a **Microsoft MVP** and **Solution Architect** at SSW, bringing over 15 years of experience in full-stack .NET development, solution architecture, and AI integration across industries including insurance, banking, mining, auctions, and entertainment. JK is passionate about modern application development with .NET Core, EF Core, and AI, and is dedicated to mentoring and knowledge sharing.
 
 With expertise in ASP.NET Core, Angular, and Azure DevOps, JK is also skilled in Windows platform development, transforming legacy applications (using C#, WinForms, and WPF) into modern solutions with Windows Store, UWP, and Xamarin. As a Microsoft AI MVP, he frequently develops AI-driven solutions using tools like Azure OpenAI, small language models (SLMs) for offline AI, and retrieval-augmented generation (RAG) systems. JK’s work philosophy emphasizes delivering solutions that empower teams, streamline processes, and ensure sustainable client success.

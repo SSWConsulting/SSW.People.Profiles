@@ -25,8 +25,6 @@ quoteAuthor: "William Shakespeare"
 [[imgBadge]]
 | ![OpenAI](../badges/Developer-OpenAI.png)
 
----
-
 <br/>
 
 Tom Iwainski is a Senior Software Engineer at SSW with a proven track record in modern full-stack development, software architecture, and team leadership. He brings a wealth of experience working with technologies such as .NET, EF Core, React, Node.js, TypeScript, and AI tools like ChatGPT and Azure OpenAI.

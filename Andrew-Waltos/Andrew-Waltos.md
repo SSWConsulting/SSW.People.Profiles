@@ -31,8 +31,6 @@ quoteAuthor: "Wayne Gretzky"
 [[imgBadge]]
 | ![](../badges/Developer-blazor.png)
 
----
-
 ## Professional Background
 
 After switching from a career in the automotive trade, Andrew has already accomplished a lot in Software Development. His journey into tech has been marked by rapid growth and impactful contributions to the field.

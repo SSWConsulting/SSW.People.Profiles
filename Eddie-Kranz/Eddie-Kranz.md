@@ -55,8 +55,6 @@ quoteAuthor: "Isaac Newton"
 [[imgBadge]]
 | ![Scrum](../badges/Business-scrum.png)
 
----
-
 Eddie is an SSW Software Developer specialising in AI and intelligent application development. He has delivered award-winning AI solutions used by hundreds of teams, combining expertise in Azure OpenAI, RAG architectures, and the .NET ecosystem to build systems that drive real business impact. Eddie holds a Bachelor of Advanced Computing (Software Development) from The University of Sydney, where he completed his thesis on "Portal Redirection in Virtual Reality using Impossible Spaces".
 
 ## Featured Projects

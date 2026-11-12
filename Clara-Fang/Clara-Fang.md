@@ -12,8 +12,6 @@ quoteAuthor: "Scarlett O’Hara"
 
 [[imgBadge]]
 | ![ChatGPT](../badges/Developer-OpenAI-ChatGPT.png)
-<hr />
-
 Clara Fang is a seasoned accounting professional with a Master's degree in Accounting from the prestigious London School of Economics and Political Science (LSE). she loves finding simple ways to make work easier and uses financial data to uncover opportunities that help the team move forward.
 
 ## Key Professional Skills

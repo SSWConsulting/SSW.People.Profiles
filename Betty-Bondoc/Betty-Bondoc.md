@@ -28,8 +28,6 @@ quoteAuthor: "Karl Barth"
 [[imgBadge]]
 | ![Adobe Premiere Pro](../badges/Designer-adobe-premiere.png)
 
----
-
 Betty Bondoc, a passionate UI/UX Designer at SSW, combines creativity with technology to deliver intuitive, user-centered designs. Her journey from TV and Marketing to tech began with a transformative web development Bootcamp, followed by a Master’s degree in ICT in Sydney. With expertise spanning product design, front-end development, and creative content production, Betty bridges the gap between aesthetics, functionality, and business goals.
 
 Her designs have consistently driven measurable outcomes, including a standout achievement of reducing process inefficiencies by 50% through thoughtfully crafted web applications. Known for her autonomy, organizational skills, and keen attention to detail, she thrives in both independent and collaborative environments.

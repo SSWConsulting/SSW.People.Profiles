@@ -50,8 +50,6 @@ quoteAuthor: "Albert Einstein"
 [[imgBadge]]
 | ![PowerBI](../badges/Business-microsoft-dynamics-powerbi.png)
 
----
-
 Vlad is a Full Stack Software Engineer at SSW Brisbane, passionate about partnering with international clients to deliver innovative, complex solutions.
 
 Skilled in C# with .NET, JavaScript with React, SQL, Python, and cloud platforms, Vlad also brings expertise in Data Analytics, Data Engineering, and DevOps. He has contributed to high-impact projects ranging from enterprise web applications to data-driven platforms that streamline operations and improve efficiency.

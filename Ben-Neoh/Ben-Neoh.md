@@ -49,7 +49,6 @@ quoteAuthor: "Ralph Johnson"
 | ![](../badges/Developer-dotnet-core.png)
 
 
----
 Ben is a Sydney-based consultant at SSW who specialises in **enterprise Azure infrastructure architecture**, **enterprise AI solutions**, and **DevOps**. He has experience helping enterprises modernise legacy systems, migrate workloads to the cloud, and deliver secure, automated platforms that scale with business growth. Known for his pragmatic and outcome-driven approach, Ben bridges the gap between architecture, development, and operations to help organisations achieve faster, safer, and more reliable cloud solutions.
 
 A dedicated open-source maintainer, Ben contributes to **TinaCMS**, a world-leading headless CMS with over **10,000 GitHub stars**. His work focuses on improving extensibility, performance, and developer experience for thousands of users worldwide.

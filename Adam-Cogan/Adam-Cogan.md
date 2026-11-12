@@ -31,8 +31,6 @@ quote: "Talent can fix tricky bugs, but teamwork and brains build great software
 [[imgBadge]]
 | ![](../badges/Certification-poty-finalist-education-shrunk.png)
 
----
-
 Adam Cogan is the Chief Architect and a Microsoft Regional Director at [SSW](https://ssw.com.au), where he leverages more than three decades of experience building custom enterprise solutions across .NET, Azure, AI, Office 365, SharePoint, Dynamics 365, and the Power Platform. 
 
 A respected thought leader in the tech community, Adam is a **Microsoft Regional Director**, **Microsoft MVP (ALM)**, **Certified Scrum Trainer**, and frequent presenter at major international conferences including TechEd, DDD, and NDC. He mentors teams around the world on software architecture, DevOps, and modern development practices, and has trained thousands of developers while helping guide careers that have grown into industry leadership roles.

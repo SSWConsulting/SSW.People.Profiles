@@ -25,8 +25,6 @@ quoteAuthor: "Abraham Lincoln"
 [[imgBadge]]
 | ![Certification Azure fundamentals](../badges/Certification-microsoft-azure-fundamentals.png)
 
----
-
 Jeoffrey is an accomplished Software Engineer at SSW Sydney, where he combines deep expertise in frontend and backend development with strong cloud architecture skills to deliver scalable, impactful solutions. Born in Strasbourg, France, Jeoffrey earned his PhD in AeroAcoustics and spent eight years at UNSW Sydney conducting cutting-edge research, including projects for the Australian Department of Defense. His move from academia to the tech industry reflects a passion for innovation, problem-solving, and delivering real-world impact. A graduate of [SSW FireBootCamp](https://firebootcamp.com/), Jeoffrey quickly made his mark by driving technical advancements across projects and helping teams modernize systems. He leverages his strong foundation in .NET, Angular, React, and Microsoft Azure to build full-stack solutions that balance performance, maintainability, and user experience.  
 
 Jeoffrey’s background in research and engineering continues to shape his approach to software — methodical, analytical, and focused on delivering elegant, long-term solutions to complex challenges.  

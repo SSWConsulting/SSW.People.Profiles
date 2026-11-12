@@ -13,7 +13,6 @@ quoteAuthor: "Albert Einstein"
 [[imgBadge]]
 | ![CSM](../badges/Certification-scrumalliance-master.png)
 
----
 Introducing the financial wizard of SSW's Sydney headquarters! 🧙‍♂️ 
 
 Meet our tech-savvy accountant extraordinaire, with a Bachelor of Law and a Master of Professional Accounting from UNSW. With years of specialized experience in e-commerce and the IT industry, he's far from your average number-cruncher.

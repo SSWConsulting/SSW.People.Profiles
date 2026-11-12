@@ -15,8 +15,6 @@ quote:  "Measuring programming progress by lines of code is like measuring aircr
 [[imgBadge]]
 | ![react.png](../badges/Developer-react.png)
 
----
-
 Patricia has more than 15 years of experience in IT services development, testing and implementation with both client/server and web applications in Multinational Enterprise.  
 
 Patricia's skills include Angular, .Net Core, C#, ASP.NET MVC, SQL Server, JavaScript, JQuery, HTML, CSS, React, WebService, Integration Services and a solid understanding of databases. 

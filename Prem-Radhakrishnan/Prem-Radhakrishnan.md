@@ -30,8 +30,6 @@ quoteAuthor: "Anonymous"
 [[imgBadge]]
 | ![CRISC.png](../badges/SysAdmin-CRISC.png)
 
----
-
 Prem is a Solution Architect at SSW and brings over 12 years of enterprise software development and management experience to the SSW Team. Having worked with clients across various domains including telcom (Vodafone, Telstra), automotive (Toyota, Audi, Mercedes Benz and more), pharma (Bayer, Schering Plough) and retail (Big W, Dick Smith, Navman), Prem specialises in building bespoke solutions and platforms for his clients. 
 
 Prem has extensive experience -
