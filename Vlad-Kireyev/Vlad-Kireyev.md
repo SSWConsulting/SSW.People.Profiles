@@ -2,11 +2,14 @@
 id: "5118ae3c-ea8a-ed11-81ac-00224818668d"
 
 category: "Developers"
-qualifications: ""
+qualifications: "Bachelor of Information Technology, Computer Science"
 
 quote: "Logic will get you from A to B. Imagination will take you everywhere."
 quoteAuthor: "Albert Einstein"
 ---
+
+[[imgBadge]]
+| ![CSM_Badge](../badges/Certification-scrumalliance-master.png)
 
 [[imgBadge]]
 | ![Microsoft Certified: DevOps Engineer Expert](../badges/Certification-microsoft-azure-devops-engineer-expert.png)
