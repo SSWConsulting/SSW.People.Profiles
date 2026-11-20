@@ -64,7 +64,11 @@ His favourite Microsoft teams that he loves to work with are Nat Friedman’s Gi
 [[imgMd]]
 | ![Adam has spoken at user groups/conferences in these countries](./Images/Bio/figureMap.jpg)
 
-For a snapshot of Adam's signature topics, keynotes, and event history, see his [Speaker Profile (PDF)](https://www.ssw.com.au/downloads/Adam-Cogan-Speaker-Profile.pdf).
+For a snapshot of Adam's signature topics, keynotes, and event history, see his <a href="https://www.ssw.com.au/downloads/Adam-Cogan-Speaker-Profile.pdf" target="_blank" rel="noopener noreferrer">Speaker Profile</a>.
+
+<a href="https://www.ssw.com.au/downloads/Adam-Cogan-Speaker-Profile.pdf" target="_blank" rel="noopener noreferrer"><img src="https://www.ssw.com.au/downloads/Adam-Cogan-Speaker-Profile.jpg" alt="Adam Cogan's Speaker Profile" width="200" style="border: 1px solid #cfcfcf; border-radius: 6px;"></a>
+
+<a class="btn-outline" href="https://www.ssw.com.au/downloads/Adam-Cogan-Speaker-Profile.pdf" download>Download PDF</a>
 
 ## Software Architecture
 
