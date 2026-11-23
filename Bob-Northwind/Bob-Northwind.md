@@ -162,7 +162,7 @@ _italic_ or _italic_
 | ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
 
 [[imgBadge]]
-| ![](../badges/Certification-poty-finalist-education.svg)
+| ![Microsoft Partner of the Year Finalist](../badges/Certification-poty-finalist-education-shrunk.png)
 ```
 
 &nbsp;
@@ -182,7 +182,7 @@ _italic_ or _italic_
 | ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
 
 [[imgBadge]]
-| ![](../badges/Certification-poty-finalist-education.svg)
+| ![Microsoft Partner of the Year Finalist](../badges/Certification-poty-finalist-education-shrunk.png)
 
 &nbsp;
 
